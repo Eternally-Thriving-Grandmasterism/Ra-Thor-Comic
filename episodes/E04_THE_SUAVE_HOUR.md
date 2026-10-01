@@ -1,6 +1,6 @@
 # Episode 04 — The Suave Hour
 
-Status: draft. Six panels scripted, not yet prompted. Bond beat. A negotiation in the Quiet Room. Armor does not come off. The line does the work.
+Status: draft. Six panels scripted, not yet prompted. Spy-thriller beat. A negotiation in the Quiet Room. Armor does not come off. The line does the work.
 
 Guest: the Counterpart. Invented. Midnight dinner jacket, black gloves never removed, face kept in shadow. No real name, no celebrity face.
 
@@ -53,4 +53,4 @@ Prompt: [stem] + quiet two-shot across the table, gloved hand turning a card tha
 
 ## Reject
 
-Armor removed or opened. Hammer raised or swung. Gun focus. A recognizable actor or spy-franchise character. Readable private documents on the feed. xAI wordmarks. Anything past an eyebrow-raise of spice.
+Armor removed or opened. Hammer raised or swung. Gun focus. A recognizable actor or franchise character. Readable private documents on the feed. xAI wordmarks. Anything past an eyebrow-raise of spice.
