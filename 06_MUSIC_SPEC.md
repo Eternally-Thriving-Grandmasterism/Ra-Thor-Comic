@@ -67,6 +67,7 @@ Equal-temperament reference at A4 = 432:
 
 - **108 Hz (A2, 432 ÷ 4)** is the sub drone. It is in tune with the 432 harmony.
 - **54 Hz (A1, 432 ÷ 8)** is for siege cues only. It is **always doubled** at 108 Hz or a higher harmonic (for example 216 Hz), so it still reads on phone and laptop speakers.
+- In E-major beds the sub drone is E2 80.91 Hz or B2 121.23 Hz instead (see Keys); siege stays on A.
 - Low-pass the drone around 150–200 Hz. Keep it mono below 120 Hz.
 - Make loop lengths whole numbers of cycles to avoid clicks. For example, 108 Hz × 8 s = 864 cycles and 54 Hz × 8 s = 432 cycles.
 
@@ -74,7 +75,7 @@ Equal-temperament reference at A4 = 432:
 
 | Layer | Pitch | Level (relative to pad) | When |
 |---|---|---|---|
-| Sub drone | 108 Hz (54 Hz siege, doubled at 108 Hz or higher) | −6 to −10 dB | Night Watch, Quiet Board, Suave Hour |
+| Sub drone | 108 Hz (54 Hz siege, doubled at 108 Hz or higher) (E2/B2 in E-major beds) | −6 to −10 dB | Night Watch, Quiet Board, Suave Hour |
 | Harmonic pad | Key of A (or D/E) at A4 = 432 | 0 dB reference | All modes |
 | Top pad | 543 Hz, held | Mix to taste, under the pad body | Only over chords containing C# (see §3.2) |
 | Chime | 528 Hz, short only | Mix to taste | Stingers only, never held under chords |
