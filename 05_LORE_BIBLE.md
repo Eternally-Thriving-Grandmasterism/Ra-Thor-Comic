@@ -151,11 +151,11 @@ In-story goal: make enough for everyone without magic and without pretending.
 
 ## Season arcs
 
-**Season 1 is LOCKED: arc A, The Long Table (Sherif confirmed 2026-09-30 11:44 PM ET, via council relay).** Season 2 is arc C, The Lamp Before the Gate, and Season 3 is arc B, The Full Hopper (council ruling, delegated by Sherif 2026-09-30). Both are now COMPLETE: C (S2E01–S2E06 merged, #23–#28) and B (S3E01–S3E06 merged, #32–#37). C was unblocked when Q2 and Q3 were ruled, B when Q11 was answered (council ruling, delegated by Sherif 2026-10-01). Each season is six standalone shorts (Q10, council ruling, delegated by Sherif 2026-10-01).
+**Season 1 is LOCKED · COMPLETE: arc A, The Long Table (Sherif confirmed 2026-09-30 11:44 PM ET, via council relay).** S1E01–S1E06 merged (#13, #14, #16–#19). Season 2 is arc C, The Lamp Before the Gate, and Season 3 is arc B, The Full Hopper (council ruling, delegated by Sherif 2026-09-30). Both are now COMPLETE: C (S2E01–S2E06 merged, #23–#28) and B (S3E01–S3E06 merged, #32–#37). C was unblocked when Q2 and Q3 were ruled, B when Q11 was answered (council ruling, delegated by Sherif 2026-10-01). Each season is six standalone shorts (Q10, council ruling, delegated by Sherif 2026-10-01).
 
 ### LOCKED A — The Long Table (Season 1)
 
-**Status: LOCKED for Season 1. Suave Hour leads. Sherif confirmed 2026-09-30 11:44 PM ET, via council relay.**
+**Status: LOCKED · COMPLETE for Season 1: S1E01–S1E06 merged (#13, #14, #16–#19). Suave Hour leads. Sherif confirmed 2026-09-30 11:44 PM ET, via council relay.**
 
 - **Premise.** Envoys from the Ninefold Houses of the Ostlen Marches each arrive at the Quiet Room with a deal that has strings. One by one, Ra-Thor blocks the strings and keeps the deal, until the last episode seats every house that came at one long table (the Ninefold name implies the number; it is never counted on the page), with one empty chair held open for a house that has not answered (a welcome, not an exile).
 - **House modes.** Lead: Suave Hour. Supporting: Quiet Board for the feed and the choice; Night Watch silhouette openers and closers.

@@ -11,7 +11,7 @@ Sources, and the only sources: the merged episode files in `episodes/`, `00_FIDE
 3. **Gaps are flagged, never filled.** If the episode file does not give a field, write `GAP: not in <file>` and list it under "Open gaps" at the end of the file. Do not infer a key, a BPM, a location, a sound or a count.
 4. **Prop counts in prompts only.** Counts may appear in art prompts (ruling, PR #36). Captions and bubbles never gain numbers beyond what the episode file already has.
 5. **Fixed bounds hold.** Canon armor (00, 01, 04); faces hidden; no outside IP, brands, real people or "like X" (05 rules 6–8; 06 §5); the Founder implied only (05 Q3); TOLC named only; series title on packaging only (PR #27); no health claims for any frequency (06 §4).
-6. **AGiRBE and Fresco.** The AGiRBE line and the Fresco credit appear only in docs and the end-credits crawl, never on a page, panel, card, prompt, cover, title card or promo art. Fresco is never depicted. Crawl text is copied only from `seasons/S3_SEASON_SHEET.md` §7, the one source of truth; no other season sheet defines a crawl (flag, don't invent one).
+6. **AGiRBE and Fresco.** The AGiRBE line and the Fresco credit appear only in docs and the end-credits crawl, never on a page, panel, card, prompt, cover, title card or promo art. Fresco is never depicted. Crawl text is copied only from `seasons/S3_SEASON_SHEET.md` §7, the one source of truth. S0–S2 scripts write `No crawl defined (only S3 sheet §7 defines one)` and list it under Open gaps; never invent a crawl. Any S0–S2 crawl is a later ruling.
 
 ## Files and location
 
@@ -69,14 +69,14 @@ Footer: tuning A4 = 432, wordless in-episode, mood words only (no artist, band, 
 
 ## Next script cards (in order)
 
-Airing order from the start, because Season 0 sets the Gate lines, stingers and armor checks every later card reuses, and its thin files surface the format's gaps first.
+Sherif picked The Long Table to open S1, and the rich S1 files test the full format first. S0 comes later, as a gap audit after S1–S3, and is never filled in.
 
-1. **Card 1 — S0 E01, The Gate:** full set (SCRIPT, ART_PROMPTS, MUSIC_CUES); file has five panels and no prompts or music cues, so those fields will be flagged gaps.
-2. **Card 2 — S0 E02, The Recycler:** full set; four panels, same expected gaps (no per-panel prompt lines, no music section).
-3. **Card 3 — S0 E03, White Hat:** full set; the shortest file (three panels, one episode-level prompt stem), so the gap list is the main output.
+1. **Card 1 — S1E01, The Ribbon Clause:** full set (SCRIPT, ART_PROMPTS, MUSIC_CUES), the Season 1 opener.
+2. **Card 2 — S1E02, The Tall Chair:** full set.
+3. **Card 3 — S1E03, The Ghost Clause:** full set.
 
 ## Known gaps (from the merged files)
 
-- Season 0 has no season sheet or lock, and E01–E06 have no music-cue sections; E01–E03 also have no per-panel prompt lines (E03 has one episode-level prompt stem). Their MUSIC_CUES files can apply only the 06 mode rules and must flag key, BPM and per-panel cues as gaps.
-- Only S3 defines an end-credits crawl (`seasons/S3_SEASON_SHEET.md` §7). S0, S1 and S2 crawls are undefined.
+- Season 0 has no season sheet or lock, and E01–E06 have no music-cue sections; E01–E03 also have no per-panel prompt lines (E03 has one episode-level prompt stem). S0 is handled later, after S1–S3, as a gap audit only: its gaps are listed, never filled in. The S0 choir flag reads `no` (no S0 file records a choir swell).
+- Only S3 defines an end-credits crawl (`seasons/S3_SEASON_SHEET.md` §7). S0–S2 scripts record `No crawl defined (only S3 sheet §7 defines one)` under Open gaps.
 - No episode file has a dedicated SFX field; SFX come only from sounds named in the stage directions and the fixed stingers.
