@@ -34,7 +34,7 @@ Episode-wide (S1E04 Music cues): all tonal material at A4 = 432; no darksynth an
 ## Notes (file differs from 06; the file wins)
 
 - "That one can live." and its 528 Hz chime sit on P2, the pass, not the closer; P6 has no stinger (S1E04 Panel 2, Panel 6; S1 sheet §4). 06 §1 fixes the stinger's sound, not its panel.
-- 06 §2 gives Suave Hour "a colder, minor-tinged synthwave color if the offer has strings". The file calls the offer fair and names no minor color, so none is listed.
+- 06 §2 gives Suave Hour "A colder, minor-tinged synthwave color if the offer has strings". The file calls the offer fair and names no minor color, so none is listed.
 
 ## Footer
 
