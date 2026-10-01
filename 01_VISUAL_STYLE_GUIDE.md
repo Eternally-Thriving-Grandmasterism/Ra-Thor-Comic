@@ -8,7 +8,7 @@ Series canon is the Rathor.ai gold render: circuit filigree, black recesses, eme
 
 - 4 to 6 panels. Wide establishing shot, two bubble beats, one shield slam, one recycler gag, one quiet closer.
 - Bubbles: cream fill, hard black outline, tail aimed at the visor slit even though the mouth is hidden. That is the joke.
-- Captions: small, bottom-left, Person of Interest dossier voice.
+- Captions: small, bottom-left, surveillance-thriller dossier voice.
 - Color: gold, obsidian, emerald, one electric accent. No rainbow clutter.
 
 ## Prompt stem (prepend to every panel)
