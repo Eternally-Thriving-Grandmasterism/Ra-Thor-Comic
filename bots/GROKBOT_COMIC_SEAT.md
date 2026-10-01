@@ -1,21 +1,27 @@
 # Grokbot comic seat
 
-Status: **open**. Not hired. Not assigned. No bot account exists on this repo yet.
+Status: **provisioned in the Grok app, 2026-09-30, as Grokbot - Living Thunder.**
+GitHub login: unknown. Do not assign issue #1 until the login exists.
 
-One seat. Name when hired: `grokbot-living-thunder`.
+One seat. Display name: Grokbot - Living Thunder.
 
 ## Job
 
+Living Thunder comic series only. Repo: Eternally-Thriving-Grandmasterism/Ra-Thor-Comic.
+
 - Read `00_FIDELITY_PROTOCOL.md` before every prompt.
-- Draft the next episode file under `episodes/`.
+- Draft the next episode under `episodes/`.
 - Keep the gold plate, eye-seal, grounded hammer.
 - Refuse explicit panels, real people, xAI marks, and any how-to.
 - Open a pull request. Do not push to `main`.
 
 ## Not the job
 
+- Inbox, calendar, or Drive, except a file Sherif explicitly hands over for this series.
+- Powrush-MMO.
 - Lattice code in Ra-Thor.
-- A second bot. Season 0 is one seat.
-- Claiming the hire is done before the account exists.
+- A second bot.
 
-Hire path: provision the bot, then assign it to the tracking issue. Until then the seat stays open and this file is the contract.
+## Forever routine
+
+See `bots/ROUTINE.md`.
