@@ -149,7 +149,7 @@ In-story goal: make enough for everyone without magic and without pretending.
 
 ## Season arcs
 
-**Season 1 is LOCKED: arc A, The Long Table (Sherif confirmed 2026-09-30 11:44 PM ET, via council relay).** Arc C is banked for Season 2 and arc B for Season 3, both pending Sherif's answers on the open questions. Banked arcs are not canon or scheduled yet.
+**Season 1 is LOCKED: arc A, The Long Table (Sherif confirmed 2026-09-30 11:44 PM ET, via council relay).** Arc C is banked as the councils' lean for Season 2 and arc B for Season 3 (council ranking 2026-09-30, not yet confirmed by Sherif). Banked arcs are not canon or scheduled yet.
 
 ### LOCKED A — The Long Table (Season 1)
 
@@ -166,7 +166,7 @@ In-story goal: make enough for everyone without magic and without pretending.
 
 ### Proposal B — The Full Hopper
 
-**Status: BANKED for Season 3, pending Sherif's answers on the open questions.**
+**Status: BANKED (council lean S3), pending Sherif.**
 
 - **Premise.** Vael Hollow, a dry commons, brings its last scraps to Recycler Bay, and the Tollkeepers bring their locked crates of spare parts. Each episode one CLEAN card becomes a small, real-in-story thing the Hollow builds for itself, until the Tollkeepers choose to open their crates.
 - **House modes.** Lead: Lab Night. Supporting: Snap for quick wins; Quiet Board for the episode where the hoard is found.
@@ -174,7 +174,7 @@ In-story goal: make enough for everyone without magic and without pretending.
 
 ### Proposal C — The Lamp Before the Gate
 
-**Status: BANKED for Season 2, pending Sherif's answers on the open questions.**
+**Status: BANKED (council lean S2), pending Sherif.**
 
 - **Premise.** Ra-Thor finds the Hearthwright's old notebook on the Quiet Room table and reads it one page per episode. Each page opens a silhouette flashback through the five eras: the lone lamp from 2003, the Strategy Years, the Game, the Awakening, the Builder Age, ending where Season 0 began, at the Gate.
 - **House modes.** Lead: Quiet Board (dossier captions over the notebook). Supporting: Night Watch silhouette for every flashback; one Snap panel per episode for the button.
@@ -194,7 +194,7 @@ Answers become canon only when the owner or a council ruling gives them. RESOLVE
 8. **Owner names in story. OPEN.** May Rathor.ai, AlphaProMega, Autonomicity Games, and Colossusoft appear in-story beyond this lore file, or only in credits and the README?
 9. **Factions and places. OPEN.** Approve, rename, or replace the invented names: Ostrel Marches, Copperwater League, Ninefold Houses, Saltwind Commons, Vael Hollow, the Tollkeepers.
 10. **Season numbering. OPEN.** If a proposal is picked, is it Season 1, and does it keep the six-short format of Season 0?
-    - Note: arc order is set: S1 = A (The Long Table), S2 = C (The Lamp Before the Gate), S3 = B (The Full Hopper) (Sherif confirmed 2026-09-30 11:44 PM ET, via council relay). The six-short format stays OPEN.
+    - S1 = A (Sherif confirmed 2026-09-30 11:44 PM ET, via council relay). Councils lean S2 = C, S3 = B; unconfirmed. The six-short format stays OPEN.
 11. **Realistic abundance. OPEN.** The sources give a tone hint ("Earn later by sharing abundance, not by extracting.", Powrush-MMO `README.md`, LORE_FACTS §2.2), but not your own answer: how slow, how small, how earned?
 12. **Council count. RESOLVED by 04 Q10 (council ruling 2026-09-30).** Twelve masks is a comic-only count; the sources' 13 or 16 councils (LORE_FACTS §3.4) are not used on the page.
 
