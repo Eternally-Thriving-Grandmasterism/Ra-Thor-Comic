@@ -30,6 +30,7 @@
 | episodes/S2E03_THE_SIMPLE_SIMULATOR.md | Season 2, The Lamp Before the Gate, Quiet Board mode |
 | episodes/S2E04_THE_AWAKENING_PAGE.md | Season 2, The Lamp Before the Gate, Quiet Board mode |
 | episodes/S2E05_THE_BENCH_LAMP.md | Season 2, The Lamp Before the Gate, Quiet Board mode, Era V wink |
+| episodes/S2E06_THE_FIRST_BLOCK.md | Season 2 finale, The Lamp Before the Gate, Quiet Board mode, arc C finale |
 | seasons/S1_SEASON_SHEET.md | Season 1 sheet: arc A episodes, tokens, music, open questions |
 | seasons/S2_ARC_LOCK.md | Season 2 arc doc: arc C, The Lamp Before the Gate, six-short outline (no episodes yet) |
 | bots/GROKBOT_COMIC_SEAT.md | One seat, app-provisioned |
