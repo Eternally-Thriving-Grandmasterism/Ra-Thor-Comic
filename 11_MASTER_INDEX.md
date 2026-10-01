@@ -25,6 +25,7 @@
 | episodes/S1E04_THE_SIDEWAYS_GLASS.md | Season 1, The Long Table, Suave Hour mode |
 | episodes/S1E05_THE_SIDE_LETTER.md | Season 1, The Long Table, Suave Hour mode |
 | episodes/S1E06_THE_KEPT_CHAIR.md | Season 1, The Long Table, Suave Hour mode, arc A finale |
+| seasons/S1_SEASON_SHEET.md | Season 1 sheet: arc A episodes, tokens, music, open questions |
 | bots/GROKBOT_COMIC_SEAT.md | One seat, app-provisioned |
 | bots/ROUTINE.md | Forever routine |
 | 11_MASTER_INDEX.md | This map |
