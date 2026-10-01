@@ -2,7 +2,7 @@
 
 Status: draft. Six panels scripted, not yet prompted. Season 1, arc A, The Long Table. Suave Hour mode (lead), with one borrowed Quiet Board panel for the feed. The second envoy rolls in a chair of their own and asks for the first seat. The precedence is blocked, the trade is kept, the envoy leaves with a CLEAN card, and the hammer never moves.
 
-Guest: the Stair Envoy, from [HOUSE-B] of the Ninefold Houses (placeholder; faction names await Q9). Invented. Hooded mantle, gloves never removed, face hidden behind a plain smooth gold mask the whole time. House sign is an abstract step glyph, not a flag. No real name, no celebrity face, no logo, no real place or culture.
+Guest: the Stair Envoy, from [HOUSE-B] of the Ninefold Houses (placeholder; Q9 resolved). Invented. Hooded mantle, gloves never removed, face hidden behind a plain smooth gold mask the whole time. House sign is an abstract step glyph, not a flag. No real name, no celebrity face, no logo, no real place or culture.
 
 Set: the Quiet Room with the season's long table. Chairs run down both sides, uncounted. The knot-glyph token from S1E01 still rests on one chair. One practical lamp. The Quiet Board glows on the far wall.
 

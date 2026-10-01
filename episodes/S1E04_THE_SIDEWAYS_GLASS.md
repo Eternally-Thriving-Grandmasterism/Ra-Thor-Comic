@@ -2,7 +2,7 @@
 
 Status: draft. Six panels scripted, not yet prompted. Season 1, arc A, The Long Table. Suave Hour mode (lead). The fourth envoy brings a fair offer and one bad rider: an hourglass, already running. The offer passes the Gate, the pressure is blocked, the envoy leaves with a CLEAN card, and the hammer never moves.
 
-Guest: the Glass Envoy, from [HOUSE-D] of the Ninefold Houses (placeholder; faction names await Q9). Invented. Speaks from behind a tall gilded folding screen that they carry and set up wherever they stand; only their gloved hands ever come around its edge. The face is never seen. House sign is an abstract hinge glyph, not a flag. No real name, no celebrity face, no logo, no real place or culture.
+Guest: the Glass Envoy, from [HOUSE-D] of the Ninefold Houses (placeholder; Q9 resolved). Invented. Speaks from behind a tall gilded folding screen that they carry and set up wherever they stand; only their gloved hands ever come around its edge. The face is never seen. House sign is an abstract hinge glyph, not a flag. No real name, no celebrity face, no logo, no real place or culture.
 
 Set: the Quiet Room with the season's long table. Chairs run down both sides, uncounted. The knot-glyph token (S1E01), the step-glyph token (S1E02) and the capped pen (S1E03) rest on three chairs. One practical lamp.
 
