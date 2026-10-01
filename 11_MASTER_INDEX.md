@@ -36,6 +36,7 @@
 | episodes/S3E03_LET_IT_COOL.md | Season 3, The Full Hopper, Lab Night mode |
 | episodes/S3E04_THE_LOCKED_CRATES.md | Season 3, The Full Hopper, Lab Night mode, Quiet Board visual borrow |
 | episodes/S3E05_THE_BETTER_DEAL.md | Season 3, The Full Hopper, Lab Night mode |
+| episodes/S3E06_THE_FULL_HOPPER.md | Season 3 finale, The Full Hopper, Lab Night mode, arc B finale |
 | seasons/S1_SEASON_SHEET.md | Season 1 sheet: arc A episodes, tokens, music, open questions |
 | seasons/S2_ARC_LOCK.md | Season 2 arc doc: arc C, The Lamp Before the Gate, six-short outline, complete (S2E01–S2E06 merged) |
 | seasons/S2_SEASON_SHEET.md | Season 2 sheet: arc C episodes, rulings ledger, detection devices, guests, music |
