@@ -168,7 +168,7 @@ In-story goal: make enough for everyone without magic and without pretending.
 
 ### B, The Full Hopper (Season 3)
 
-**Status: Season 3 (council ruling, delegated by Sherif 2026-09-30). UNBLOCKED: Sherif answered Q11 (realistic abundance) on 2026-10-01 at 12:14 AM ET; see Q11 for his answer, the AGiRBE lore source and the Fresco bound (council ruling, delegated by Sherif 2026-10-01).**
+**Status: Season 3 (council ruling, delegated by Sherif 2026-09-30). COMPLETE: S3E01–S3E06 merged (#32–#37). Unblocked when Sherif answered Q11 (realistic abundance) on 2026-10-01 at 12:14 AM ET; see Q11 for his answer, the AGiRBE lore source and the Fresco bound (council ruling, delegated by Sherif 2026-10-01).**
 
 - **Premise.** Vael Hollow, a dry commons, brings its last scraps to Recycler Bay, and the Tollkeepers bring their locked crates of spare parts. Each episode one CLEAN card becomes a small, real-in-story thing the Hollow builds for itself, until the Tollkeepers choose to open their crates.
 - **House modes.** Lead: Lab Night. Supporting: Snap for quick wins; Quiet Board for the episode where the hoard is found.
@@ -207,7 +207,7 @@ Answers become canon only when the owner or a council ruling gives them. RESOLVE
     - The S1/S2/S3 order is set: S1 = A (Sherif confirmed 2026-09-30 11:44 PM ET, via council relay); S2 = C, S3 = B (council ruling, delegated by Sherif 2026-09-30).
 11. **Realistic abundance. ANSWERED (Sherif, 2026-10-01 12:14 AM ET).** "Realistic abundance is likely AGIRBE as portrayed by combining my work with Jacque Fresco's work and evolving it to the ultimate form continuously, Mate!" Earlier tone hint, kept: "Earn later by sharing abundance, not by extracting." (Powrush-MMO `README.md`, LORE_FACTS §2.2).
     - **Lore source: AGiRBE (council ruling, delegated by Sherif 2026-10-01).** Expansion, verbatim: "...building toward **AGiRBE** (Artificial Godly intelligence Resource-Based Economy)." (Ra-Thor @ `16e2408cbb26122853cd205c3513a30dad7b41b3`, `docs/archive/powrush-notes/POWRUSH_MMO_INTEGRATED_DESIGN_v14.5.md`, line 37). Meaning, verbatim: "AGiRBE (AGI-augmented RBE) as aspirational, achievable victory condition measuring stability, reduced suffering, knowledge, ecology, and capability." (`docs/archive/powrush-notes/POWRUSH_ULTIMATE_MMO_PATSAGI_COUNCIL_CONVERGENCE_v1.0.md` line 23 (Ra-Thor @ 16e2408c)). The source spelling is "AGiRBE" (lowercase i). These are archived Powrush game-design docs (under `docs/archive/`, mirrored in AlphaProMega/Ra-Thor-backup-127), used as lore sources only, not as real-world claims. The Fresco link comes from Sherif's answer, not from those files.
-    - **Fresco bound.** Jacque Fresco is a real person. His work is cited only as Sherif's named inspiration in the docs. He is never a character, likeness, or name on any page, panel, or prompt. Abundance is shown through the world's systems.
+    - **Fresco bound.** Jacque Fresco is a real person. His work is cited only as Sherif's named inspiration; scope: docs + end-credits crawl (#31, #38). He is never a character, likeness, or name on any page, panel, or prompt. Abundance is shown through the world's systems.
     - **On the page.** No health, capability, or economic-guarantee claims, and no policy how-to.
 12. **Council count. RESOLVED by 04 Q10 (council ruling 2026-09-30).** Twelve masks is a comic-only count; the sources' 13 or 16 councils (LORE_FACTS §3.4) are not used on the page.
 
