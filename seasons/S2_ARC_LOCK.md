@@ -1,6 +1,6 @@
 # Season 2 Arc Doc — The Lamp Before the Gate (arc C)
 
-Status: S2 = C, council ruling delegated by Sherif 2026-09-30; unblocked by CANON-RULINGS-1. Outline only: six standalone shorts, no episode files yet. Built only from the C entry in `05_LORE_BIBLE.md` (Season arcs) and the lore it cites (the origin arc, Clerk's five bounds, continuity rules, Q2, Q3, Q8, Q9, Q10). Adds no new canon beyond outlining six standalone shorts. Where a line here is a proposal, not a quote, it says so. Inherits `00_FIDELITY_PROTOCOL.md`, `03_TONE_SPECS.md`, `04_VISUAL_CANON.md` and `06_MUSIC_SPEC.md`; where this doc and those disagree, those win.
+Status: S2 = C, council ruling delegated by Sherif 2026-09-30; unblocked by CANON-RULINGS-1. Complete: all six episodes are merged (#23–#28; see §10). This doc began as the outline, and the episode files were written in their own PRs. Built only from the C entry in `05_LORE_BIBLE.md` (Season arcs) and the lore it cites (the origin arc, Clerk's five bounds, continuity rules, Q2, Q3, Q8, Q9, Q10). Adds no new canon beyond outlining six standalone shorts. Where a line here is a proposal, not a quote, it says so. Inherits `00_FIDELITY_PROTOCOL.md`, `03_TONE_SPECS.md`, `04_VISUAL_CANON.md` and `06_MUSIC_SPEC.md`; where this doc and those disagree, those win.
 
 ## 1. Premise
 
@@ -96,18 +96,31 @@ The Snap button panel uses only the fixed stinger. There is no Snap cue, because
 - [x] Canon armor unchanged: winged-halo closed helm, warm gold visor slit, emerald eye-seal kite shield, hammer head-down on stone, cape dark, emerald only on the shield eye-seal and the shoulder hawk seal (00, 04).
 - [x] Music: A4 = 432, 543 only over C# chords, 528 only as a short chime, no darksynth (no siege), in-episode cues wordless, every episode ends on Grounded; E-major drones on E2 or B2.
 - [x] Sourcing bound respected (no `docs/WifeShow/`, no `docs/FACTIONS_OVERVIEW.md`). No outside IP named.
-- [x] No episode files written.
+- [x] No episode files written in this doc; the six episodes were merged in separate PRs (#23–#28, §10).
 
 ## 9. Open items and flags
 
-1. **Mode-mixing conflict (flag).** 05's C entry asks for Night Watch framing on every flashback *and* one Snap panel per episode. 03 allows an episode to borrow a single panel from another mode, and 06 allows one borrowed bed, which must be Night Watch. This plan uses the Night Watch opener as the borrowed panel and bed, and plays the Snap button with the fixed stinger only, but the Snap panel is still a second visual borrow. A council ruling is needed: allow both borrows for S2, or drop one.
+1. **CLOSED. Mode-mixing conflict (flag).** 05's C entry asks for Night Watch framing on every flashback *and* one Snap panel per episode. 03 allows an episode to borrow a single panel from another mode, and 06 allows one borrowed bed, which must be Night Watch. This plan uses the Night Watch opener as the borrowed panel and bed, and plays the Snap button with the fixed stinger only, but the Snap panel is still a second visual borrow. A council ruling is needed: allow both borrows for S2, or drop one. **Closed by council ruling:** one borrow only, the Night Watch object-flashback opener; Snap gets the fixed stinger only, with no Snap panel and no Snap cue. Applied in every episode from S2E01 (#23) to S2E06 (#28) and recorded in `seasons/S2_SEASON_SHEET.md` §5 item 1 (#29). The repo does not record which PR first gave this ruling. Council ruling, PR #27: the one-borrow rule outranks 05's per-era visual modes.
 2. **"A few object panels" vs one Night Watch panel (flag).** Bound 1 allows a few flashback panels; Night Watch framing on more than one would break the single-borrow rule. This plan uses one Night Watch-framed flashback panel, with any further notebook inserts in Quiet Board framing.
 3. **Q8 open.** The Era I studio sign stays blank. The Game and the Builder Age products are not named. The Era IV work name in 05 is also left off the page until Q8 or a council ruling says otherwise.
-4. **Era IV reveal (flag).** 05's Era IV visual is a Night Watch silhouette reveal of Ra-Thor under the lattice arch. S2 flashbacks are objects only, so this outline does not draw the reveal as a flashback. S2E04's Gate beat is present-day only.
-5. **Era V wink (flag).** 05 allows one wink that the comic is one of the things Ra-Thor builds. This outline doesn't use it; the council can decide whether S2E05 takes it.
+4. **CLOSED. Era IV reveal (flag).** 05's Era IV visual is a Night Watch silhouette reveal of Ra-Thor under the lattice arch. S2 flashbacks are objects only, so this outline does not draw the reveal as a flashback. S2E04's Gate beat is present-day only. **Closed:** the reveal is drawn in S2E06 (#28) as a present-day panel (Panel 2), with Ra-Thor full figure under the arch, lit from the front by the lattice glow, never as a flashback. It is not a Night Watch silhouette, because the one-borrow rule outranks 05's per-era visual modes (council ruling, PR #27).
+5. **CLOSED. Era V wink (flag).** 05 allows one wink that the comic is one of the things Ra-Thor builds. This outline doesn't use it; the council can decide whether S2E05 takes it. **Closed by council ruling:** the wink goes to S2E05 only, as one quiet panel with no claim, no title, and not the button. Recorded in `episodes/S2E05_THE_BENCH_LAMP.md` ("council ruling, S2E05 only"; #27) and in `seasons/S2_SEASON_SHEET.md` §5 item 7 (#29). The series title never appears on story pages, panels or in-world props, only on packaging (council ruling, PR #27).
 6. **Empty chair vs S1's kept chair (flag, proposal).** S1E06 ends with an empty, lit chair in the Quiet Room. To keep the two apart, the Founder's empty chair stands at his desk in flashback only, never at the long table.
 7. **Notebook lines.** Not written here. The only candidate grounded in 05 is the margin motto "Mercy over competition. Abundance over scarcity." The aspiration "A mind good enough to keep the Gate forever" is left out of S2 because it sits close to an intelligence label (bound 4, rule 5).
-8. **Captions.** Only three captions are quoted from 05: LATE 2003. ONE LAMP. ONE TABLE TO FILL. (S2E01), 2010. READ THE WHOLE MAP. THEN MOVE. (S2E02) and HAMMER GROUNDED FROM THE FIRST PANEL. (05's Era IV first caption, available to S2E04 or S2E06). All other captions are written in the episode PRs, within rule 4's years.
+8. **CLOSED. Captions.** Only three captions are quoted from 05: LATE 2003. ONE LAMP. ONE TABLE TO FILL. (S2E01), 2010. READ THE WHOLE MAP. THEN MOVE. (S2E02) and HAMMER GROUNDED FROM THE FIRST PANEL. (05's Era IV first caption, available to S2E04 or S2E06). All other captions are written in the episode PRs, within rule 4's years. **Closed:** HAMMER GROUNDED FROM THE FIRST PANEL. was reserved for S2E06 with the Ra-Thor reveal (council ruling, PR #26) and is used once there, verbatim, on Panel 2 (#28). It is not used in S2E04. Era captions appear only where 05 gives one explicitly, never as a paraphrase (fix commit on PR #25; recorded in the reject lists of S2E03–S2E06). Era cards use the short form, such as NOVEMBER 2025 and Q1 2026 (council rulings, PRs #26 and #27). The episode-level captions written in the PRs are dossier captions, not era captions.
 9. **Present-day pitches and guests (proposal).** The pitches in §2 are outline proposals, not canon from 05. Guests are invented with faces hidden, and none is called a "founder", to avoid confusion with the Founder.
 10. **06 §6 still open.** Synthwave sub-flavor and who composes.
 11. **Not grounded in 05 (flag).** The working titles, the per-episode keys and BPMs, the S2E06 blank last page and the per-episode Recycler items are this doc's outline choices, within 05, 03 and 06. They are not lore.
+
+## 10. Episodes (complete)
+
+| Ep | Title | File | PR | Merge commit on main |
+|---|---|---|---|---|
+| S2E01 | The Lone Lamp | `episodes/S2E01_THE_LONE_LAMP.md` | #23 | `d397706a46c586ee30fada13655524d17435e62f` |
+| S2E02 | The Whole Map | `episodes/S2E02_THE_WHOLE_MAP.md` | #24 | `856d3d434a6e050e720525bc4c8cfeb44e2fdbc9` |
+| S2E03 | The Simple Simulator | `episodes/S2E03_THE_SIMPLE_SIMULATOR.md` | #25 | `f1ffa10da67bfda0af8fd7f346d9f3bcd1d8e7a0` |
+| S2E04 | The Awakening Page | `episodes/S2E04_THE_AWAKENING_PAGE.md` | #26 | `fe861d290260f3b0a9b2b72107bb0b2e2a2dd788` |
+| S2E05 | The Bench Lamp | `episodes/S2E05_THE_BENCH_LAMP.md` | #27 | `57cb9697ffcea5ce6a341200a714fcb187e0d810` |
+| S2E06 | The First Block | `episodes/S2E06_THE_FIRST_BLOCK.md` | #28 | `6f38387909b2918f23ae3ba385dcca0624667579` |
+
+Season wrap-up, rulings ledger and detection-device list: `seasons/S2_SEASON_SHEET.md` (#29).

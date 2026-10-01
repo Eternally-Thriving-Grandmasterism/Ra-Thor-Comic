@@ -18,7 +18,7 @@ Set add-on for this episode: quiet dossier mood (Quiet Board mode), one practica
 
 ## Flashback stem (Panel 1 only, replaces the prompt stem)
 
-> Comic panel, bold ink, graphic-novel lighting, inked linework. Object-only flashback: no people, no figures, no hands, no silhouettes, no faces, no reflections of anyone. Speech bubble with the exact line given, tail running off the panel edge. No phone UI, no watermark, no readable text except the exact caption given.
+> Comic panel, bold ink, graphic-novel lighting, inked linework. Object-only flashback: no people, no figures, no hands, no silhouettes, no faces, no reflections of anyone. Speech bubble with the exact line given, tail running off the panel edge. No phone UI, no watermark, no readable text except the era card, which reads the year only, with no caption.
 
 ## Panel 1 — Night Watch opener (object flashback)
 
