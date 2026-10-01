@@ -33,6 +33,7 @@
 | episodes/S2E06_THE_FIRST_BLOCK.md | Season 2 finale, The Lamp Before the Gate, Quiet Board mode, arc C finale |
 | seasons/S1_SEASON_SHEET.md | Season 1 sheet: arc A episodes, tokens, music, open questions |
 | seasons/S2_ARC_LOCK.md | Season 2 arc doc: arc C, The Lamp Before the Gate, six-short outline (no episodes yet) |
+| seasons/S2_SEASON_SHEET.md | Season 2 sheet: arc C episodes, rulings ledger, detection devices, guests, music |
 | bots/GROKBOT_COMIC_SEAT.md | One seat, app-provisioned |
 | bots/ROUTINE.md | Forever routine |
 | 11_MASTER_INDEX.md | This map |
