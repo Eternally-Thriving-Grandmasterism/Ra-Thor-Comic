@@ -8,7 +8,7 @@
 
 Format: `production/README.md` §(a). Captions and bubbles are verbatim from the source file. "S1E03 P#" = source file, that panel.
 
-**Guest (S1E03 Guest line).** The Ink Envoy, from [HOUSE-C] of the Ninefold Houses (placeholder; Q9 resolved). Deep cowl, long gloves never removed, face kept in cowl shadow the whole time. Carries a slim writing case. House sign is an abstract drop glyph, not a flag.
+**Guest (S1E03 Guest line).** The Ink Envoy, from [HOUSE-C] of the Ninefold Houses (placeholder; Q9 resolved). Invented. Deep cowl, long gloves never removed, face kept in cowl shadow the whole time. Carries a slim writing case. House sign is an abstract drop glyph, not a flag. No real name, no celebrity face, no logo, no real place or culture.
 
 **Set (S1E03 Set line).** The Quiet Room with the season's long table. Chairs run down both sides, uncounted. The knot-glyph token (S1E01) and the step-glyph token (S1E02) rest on two chairs. One practical lamp.
 
