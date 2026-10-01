@@ -40,7 +40,8 @@
 | seasons/S1_SEASON_SHEET.md | Season 1 sheet: arc A episodes, tokens, music, open questions |
 | seasons/S2_ARC_LOCK.md | Season 2 arc doc: arc C, The Lamp Before the Gate, six-short outline, complete (S2E01–S2E06 merged) |
 | seasons/S2_SEASON_SHEET.md | Season 2 sheet: arc C episodes, rulings ledger, detection devices, guests, music |
-| seasons/S3_ARC_LOCK.md | Season 3 arc doc: arc B, The Full Hopper, six-short outline (no episodes yet) |
+| seasons/S3_ARC_LOCK.md | Season 3 arc doc: arc B, The Full Hopper, six-short outline, complete (S3E01–S3E06 merged) |
+| seasons/S3_SEASON_SHEET.md | Season 3 sheet: arc B episodes, the Watcher, rulings ledger, detection devices, end-credits crawl, music |
 | bots/GROKBOT_COMIC_SEAT.md | One seat, app-provisioned |
 | bots/ROUTINE.md | Forever routine |
 | 11_MASTER_INDEX.md | This map |
