@@ -1,6 +1,6 @@
 # Season 3 Arc Doc — The Full Hopper (arc B)
 
-Status: S3 = B, council ruling delegated by Sherif 2026-09-30; UNBLOCKED by Sherif's answer to Q11 (2026-10-01 12:14 AM ET). Outline only: six standalone shorts, no episode files yet. Built only from the B entry in `05_LORE_BIBLE.md` (Season arcs), 05's Quest two (The Full Hopper), Q9, Q10 and Q11, and the standing rules recorded in `seasons/S1_SEASON_SHEET.md`, `seasons/S2_SEASON_SHEET.md` and `seasons/S2_ARC_LOCK.md`. Adds no new canon beyond outlining six standalone shorts. Where a line here is a proposal, not a quote, it says so. Inherits `00_FIDELITY_PROTOCOL.md`, `03_TONE_SPECS.md`, `04_VISUAL_CANON.md` and `06_MUSIC_SPEC.md`; where this doc and those disagree, those win.
+Status: S3 = B, council ruling delegated by Sherif 2026-09-30; UNBLOCKED by Sherif's answer to Q11 (2026-10-01 12:14 AM ET). Outline only: six standalone shorts, no episode files yet. Approved in principle as the season plan; every beat stays a proposal, and each episode PR is voted on separately (ruled, council, #31 review). Built only from the B entry in `05_LORE_BIBLE.md` (Season arcs), 05's Quest two (The Full Hopper), Q9, Q10 and Q11, and the standing rules recorded in `seasons/S1_SEASON_SHEET.md`, `seasons/S2_SEASON_SHEET.md` and `seasons/S2_ARC_LOCK.md`. Adds no new canon beyond outlining six standalone shorts. Where a line here is a proposal, not a quote, it says so. Inherits `00_FIDELITY_PROTOCOL.md`, `03_TONE_SPECS.md`, `04_VISUAL_CANON.md` and `06_MUSIC_SPEC.md`; where this doc and those disagree, those win.
 
 ## 1. Premise
 
@@ -20,7 +20,7 @@ From 05's Quest two, verbatim:
 
 Season shape: six standalone shorts (Q10, council ruling, delegated by Sherif 2026-10-01). Arc B's entry in 05 is three bullets long; it gives the premise, the modes and the mercy rule, but no per-episode beats (see open item 1).
 
-## 2. Credit line and sources (docs and packaging only)
+## 2. Credit line and sources (docs and end-credits crawl only)
 
 **The AGiRBE credit line**, verbatim as recorded in 05 Q11 (applied in CANON-RULINGS-1, #21):
 
@@ -35,24 +35,25 @@ Season shape: six standalone shorts (Q10, council ruling, delegated by Sherif 20
 
 **Where these lines may appear.**
 
-- **Allowed:** this arc doc, `05_LORE_BIBLE.md` and other docs, as a credit or epigraph line.
-- **Packaging (cover, intro/outro title card, credits): proposal, pending ruling.** The credit line names Jacque Fresco. 05's Fresco bound cites him "only as Sherif's named inspiration in the docs", so the credit line is not placed on packaging until the councils rule (open item 2).
-- **Never:** panels, captions, bubbles, CLEAN cards, signs, props, or image or music prompts. 05 does not allow AGiRBE on the page, and its expansion carries an intelligence label (rule 5).
+The credit line stays verbatim everywhere it appears; it is never shortened or reworded (ruled, council, #31 review).
 
-**Jacque Fresco.** Cited only as Sherif's named inspiration, in docs. Never a character, likeness, name, or reference on any page, panel, or prompt, and never depicted (05, Q11, Fresco bound).
+- **Allowed:** docs (this arc doc, `05_LORE_BIBLE.md` and other docs), as a credit or epigraph line; and the end-credits text crawl (ruled, council, #31 review).
+- **Never:** the cover, the intro/outro title card, promo art, or anywhere in-world: panels, captions, bubbles, CLEAN cards, signs, props, or image or music prompts (ruled, council, #31 review). Its expansion also carries an intelligence label (rule 5).
+
+**Jacque Fresco.** Cited as Sherif's named inspiration in docs, and credited in the end-credits text crawl as cited inspiration (ruled, council, #31 review). Never a character, likeness, name, or reference on any page, panel, or prompt, and never depicted (05, Q11, Fresco bound).
 
 ## 3. Loglines
 
-Every episode stands alone, with a present-day block (continuity rule 9) and one CLEAN card that becomes a small thing the Hollow builds (05, B). Titles are working titles. Present-day guests are invented, with faces hidden. The pitches, builds and Recycler items below are outline proposals, to be scripted one episode per draft PR. Each episode picks a fresh detection device in its own PR (§8).
+Every episode stands alone, with a present-day block (continuity rule 9) and one CLEAN card that becomes a small thing the Hollow builds (05, B). Blocks happen at the Threshold; Recycler Bay is where blocked items go afterward (ruled, council, #31 review). One recurring Tollkeeper, face hidden, appears in S3E04, S3E05 and S3E06 to carry the "by choice" turn; every other guest is fresh in each episode (ruled, council, #31 review). The keys and drones are confirmed (ruled, council, #31 review). Titles are working titles. Present-day guests are invented, with faces hidden. The pitches, builds and Recycler items below are outline proposals, to be scripted one episode per draft PR. Each episode picks a fresh detection device in its own PR (§8).
 
 | Ep | Working title | Recycler item (proposal) | Logline (proposal) |
 |---|---|---|---|
-| S3E01 | The Last Scraps | the Hollow's last scraps (bent tin, frayed cloth, short cord) and a gilded jar | Vael Hollow brings its last scraps to Recycler Bay. A guest offers a gilded jar that promises water from nowhere. Ra-Thor blocks the jar, because nothing appears from nowhere. The scraps go into the hopper, and the CLEAN card becomes a cloth rain-catcher the Hollow sews for itself. |
+| S3E01 | The Last Scraps | the Hollow's last scraps (bent tin, frayed cloth, short cord) and a gilded jar | Vael Hollow brings its last scraps to Recycler Bay. At the Threshold, a guest offers a gilded jar that promises water from nowhere. Ra-Thor blocks the jar, because nothing appears from nowhere. The scraps go into the hopper, and the CLEAN card becomes a cloth rain-catcher the Hollow sews for itself. |
 | S3E02 | One Tool, Many Hands | a padlock that opens only for a token | The Hollow has one good tool and too many hands waiting. A guest offers a lock that lets the tool open only for a token. Ra-Thor blocks the lock and keeps the tool. The lock goes to the Recycler, and the CLEAN card becomes a shared tool wall with a hook for every hand. |
 | S3E03 | Let It Cool | a part cast in a rush and cracked | A guest offers to skip the cooling beat and have the Hollow's new part done at once. Ra-Thor blocks the rush. The cracked rushed part goes to the Recycler, and the CLEAN card reads LET IT COOL (05). The Hollow waits a beat and builds a sound cistern lid. |
-| S3E04 | The Locked Crates | a crowbar offered for a raid | On the Quiet Board, Ra-Thor finds the Tollkeepers' crates stacked full of spare parts. A guest offers a crowbar to raid them. Ra-Thor blocks the raid, because hoarders are invited, not raided (05). The crowbar goes to the Recycler. The Tollkeepers keep their crates, and the CLEAN card is an invitation. |
-| S3E05 | The Better Deal | the Tollkeepers' toll tags (blank, no numbers, no currency) | A Tollkeeper offers one spare part for a toll tag. Ra-Thor blocks the toll, not the Tollkeeper. The tags go to the Recycler, and the CLEAN card shows them a better deal (05): one part in the shared hopper becomes a water wheel the Hollow and the Tollkeepers both use. |
-| S3E06 | The Full Hopper | the crate locks, handed over by choice | Finale. A last guest offers a painted hopper that only looks full. Ra-Thor blocks it. Then the Tollkeepers choose to open their crates (05), and they hand their locks to the Recycler themselves. The real hopper fills, part by part, and the season ends in Recycler Bay with the hammer grounded. |
+| S3E04 | The Locked Crates | a crowbar offered for a raid | On the Quiet Board, Ra-Thor finds the Tollkeepers' crates stacked full of spare parts, watched by the recurring Tollkeeper (face hidden). At the Threshold, a fresh guest offers a crowbar to raid them. Ra-Thor blocks the raid, because hoarders are invited, not raided (05). The crowbar goes to the Recycler. The Tollkeepers keep their crates, and the CLEAN card is an invitation. |
+| S3E05 | The Better Deal | the Tollkeepers' toll tags (blank: no currency, numbers or symbols) | The recurring Tollkeeper offers one spare part for a toll tag at the Threshold. Ra-Thor blocks the toll, not the Tollkeeper. The tags go to the Recycler, and the CLEAN card shows them a better deal (05): one part in the shared hopper becomes a water wheel the Hollow and the Tollkeepers both use. |
+| S3E06 | The Full Hopper | the crate locks, handed over by choice | Finale. At the Threshold, a fresh guest offers a painted hopper that only looks full. Ra-Thor blocks it. Then the recurring Tollkeeper leads the Tollkeepers in choosing to open their crates (05), and they hand their locks to the Recycler themselves. The real hopper fills, part by part. The Founder's notebook, shown as an object, carries the season's only notebook line, verbatim: "Enough for everyone, with nobody left out." The season ends in Recycler Bay with the hammer grounded. |
 
 ## 4. The Founder on the page
 
@@ -61,17 +62,19 @@ Per 05 (Q2, Q3; The Founder; continuity rule 3), carried from S2:
 - Plain "the Founder", with no status title.
 - **Implied only.** His lamp, his notebook, his desk and an empty chair. No silhouette, no hands, no back, no face, no portrait, no likeness.
 - **How he speaks.** Never on panel and never in a bubble. At most one implied-Founder reading line per episode. No new Founder line.
-- **Proposal: none needed in S3.** Arc B's entry in 05 does not involve the Founder or the notebook. If an episode uses him, the S2 rules apply: object-only, one reading line at most, notebook kept whole.
-- **Notebook lines.** The only line used so far is the motto "Mercy over competition. Abundance over scarcity." (S2E01). 05 also lists the margin aspiration "Enough for everyone, with nobody left out." as "Told through the Full Hopper quest, never promised as real." Whether it may appear once in S3 as a labeled margin line is open (open item 6).
+- **Implied only in S3.** Arc B's entry in 05 does not involve the Founder. Where his notebook appears (S3E06), the S2 rules apply: object-only, one reading line at most, notebook kept whole.
+- **Notebook lines.** The only line used so far is the motto "Mercy over competition. Abundance over scarcity." (S2E01). 05 also lists the margin aspiration "Enough for everyone, with nobody left out." as "Told through the Full Hopper quest, never promised as real." It appears once in S3, verbatim, in S3E06's notebook, shown as an object, and it is the ONLY notebook line in S3 (ruled, council, #31 review). The motto does not appear in S3, and no new Founder line is written.
 
 ## 5. Bounds carried from 05 and S1/S2
 
-- **Abundance through world systems only.** The Recycler, its hoppers and cards, shared tools, shared works and design. Never claims about real-world economics, capability, health or pricing. No currency, no numbers on tolls, no policy how-to (05 Q11, On the page; Quest two, Never).
+- **Abundance through world systems only.** The Recycler, its hoppers and cards, shared tools, shared works and design. Never claims about real-world economics, capability, health or pricing. Tolls are blank tags only, with no currency, numbers or symbols (ruled, council, #31 review). No policy how-to (05 Q11, On the page; Quest two, Never).
 - **No status claims (rule 5).** No intelligence labels, scores, capability words, certifications or stamps on any card, sign or caption. AGiRBE and its expansion never appear on the page.
 - **Q8 open.** No owner, studio, game, product or work names on the page.
-- **Q9.** Approved faction names only: Vael Hollow and the Tollkeepers for this arc. Individual Ninefold houses stay unnamed and glyph-only, with [HOUSE-X] placeholders, if any appear. No new glyphs or emblems are invented in this doc.
+- **Q9.** Approved faction names only: Vael Hollow and the Tollkeepers for this arc. Individual Ninefold houses stay unnamed and glyph-only, with [HOUSE-X] placeholders, if any appear. Vael Hollow and the Tollkeepers have no emblems: they stay glyph-only and unnamed on props, like the Houses (ruled, council, #31 review). No new glyphs or emblems are invented in this doc.
 - **Rule 4 and era cards.** Era cards and era captions appear only as 05 gives them, in short form (LATE 2003, 2010, 2016, NOVEMBER 2025, Q1 2026). Captions appear only where 05 gives one explicitly, never as a paraphrase. No years in present-day panels. Proposal: S3 has no era flashbacks, so no era cards.
-- **No real people, brands or IP (rules 6, 7, 8).** Jacque Fresco appears only as Sherif's named inspiration in the docs. No third parties.
+- **No real people, brands or IP (rules 6, 7, 8).** Jacque Fresco appears only as Sherif's named inspiration in the docs and as cited inspiration in the end-credits text crawl (§2). No third parties.
+- **Powrush-MMO line.** "Earn later by sharing abundance, not by extracting." stays out of every panel (ruled, council, #31 review).
+- **Where blocks happen.** At the Threshold, with the canon Gate lines. Recycler Bay is where blocked items go afterward (ruled, council, #31 review).
 - **The series title** never appears on story pages, panels or in-world props, only on packaging (council ruling, PR #27).
 - **Rule 12.** Never source lore from Ra-Thor `docs/WifeShow/` or Powrush `docs/FACTIONS_OVERVIEW.md`.
 - **Mercy-first (rule 9).** Every block hits an offer, never a person. The guest is unharmed and leaves with a CLEAN card or a pass. The Tollkeepers are never raided, shamed or punished. The hammer stays grounded.
@@ -85,7 +88,7 @@ TOLC is named only, never defined. Captions and bubbles say **TOLC** and nothing
 
 - **Lead: Lab Night** (05, B). 4 to 6 panels: hold, hiccup, hold, payoff. The machine gets a beat of its own before anyone reacts (03).
 - **Supporting (05): Snap for quick wins; Quiet Board for the episode where the hoard is found.** 03 and 06 allow one borrowed panel and one borrowed bed per episode, and the bed must be Night Watch.
-- **Proposal: one borrow per episode.** S3E01–S3E03, S3E05 and S3E06 borrow one Snap panel for the button, with the fixed stinger only and no Snap cue. S3E04 borrows one Quiet Board panel for the hoard, with no Quiet Board bed: the Lab Night loop drops out instead. No episode borrows a Night Watch panel, so there are no flashback openers in S3. See open item 3.
+- **One borrow per episode (ruled, council, #31 review).** S3E01–S3E03, S3E05 and S3E06 borrow one Snap panel for the button, with the fixed stinger only and no Snap cue; that counts as the one borrow. S3E04's Quiet Board panel is a VISUAL borrow only: the Lab Night bed continues under it, with no Quiet Board bed and no Snap stinger in S3E04. No episode borrows a Night Watch panel, so there are no flashback openers in S3.
 - Every episode names its lead mode in its status line (rule 11).
 
 ## 8. Detection devices S3 must not reuse
@@ -112,29 +115,29 @@ Applies to all six episodes:
 - **No darksynth.** There is no siege in this arc, so no 54 Hz drone either.
 - **Wordless.** Every in-episode cue is wordless, including any choir swell (06 §5, Sung words). Sung words belong only to the series intro and outro themes.
 - **Grounded.** Every episode ends on the Grounded motif: four notes rise and land back on the tonic, and hold.
-- **Choir (proposal).** One wordless choir swell in the season, in S3E06, as the crates open. 06 allows one at most per episode. S1 and S2 each used one, in their finales. Needs a council grant (open item 4).
-- **Drones.** 108 Hz (A2) for A-major and D-major beds. E2 80.91 Hz or B2 121.23 Hz for E-major beds, never A. 06 §3.4 does not list a sub drone for Lab Night, so the drone below is the correct one for the key, used under the pad. Whether Lab Night carries it throughout is open (open item 5).
+- **Choir (ruled, council, #31 review).** One wordless open-vowel choir swell, in S3E06 only, as the crates open, mirroring S2E06: no lyric, no word-forming syllables, fading out before the 528 chime. No other S3 episode has a choir.
+- **Drones (ruled, council, #31 review).** The Lab Night drone sits only under the 543-pad sections; the swung sections have no drone. Under those sections: 108 Hz (A2) for A-major and D-major beds, E2 80.91 Hz or B2 121.23 Hz for E-major beds, never A. The keys and drones are confirmed.
 - **Names.** Mood words only, no artist, band, label or track names. The tuning is an aesthetic choice only, with no health claims (06 §4).
 
-| Ep | Lead mode | Lead instrument (proposal) | Key | BPM (Lab Night 100–112, swung) | Drone | 543 held over | Borrow | Notes |
+| Ep | Lead mode | Lead instrument (proposal) | Key | BPM (Lab Night 100–112, swung) | Drone (543-pad sections only; none in swung sections) | 543 held over | Borrow | Notes |
 |---|---|---|---|---|---|---|---|---|
-| S3E01 | Lab Night | bubbly analog bass | A major | 104 | 108 Hz (A2, tonic) | A, F#m, C#m, Dmaj7, E6 | Snap panel (stinger only) | Sparse; the loop hiccups once on the gilded jar |
+| S3E01 | Lab Night | bubbly analog bass | A major | 104 | 108 Hz (A2, tonic) | A, F#m, C#m, Dmaj7, E6 | Snap panel (stinger only) | Sparse; the loop hiccups once on the gilded jar; drone only under the pad sections |
 | S3E02 | Lab Night | square-wave blip lead | D major | 108 | 108 Hz (A as fifth) | A, F#m, Dmaj7 | Snap panel (stinger only) | Blips pass from voice to voice like hands sharing a tool |
 | S3E03 | Lab Night | bubbly analog bass with steam-noise sweeps | E major | 100 | E2 80.91 Hz (never A) | A, F#m, C#m, E6 | Snap panel (stinger only) | Slowest cue; one held bar of silence for LET IT COOL |
-| S3E04 | Lab Night | square-wave blip lead | D major | 102 | 108 Hz (A as fifth) | A, F#m, Dmaj7 | Quiet Board panel (no bed) | The loop drops out for the Quiet Board panel |
+| S3E04 | Lab Night | square-wave blip lead | D major | 102 | 108 Hz (A as fifth) | A, F#m, Dmaj7 | Quiet Board panel (visual only) | The Lab Night bed continues under the Quiet Board panel; no Quiet Board bed, no Snap stinger |
 | S3E05 | Lab Night | bubbly analog bass | E major | 110 | B2 121.23 Hz (never A) | A, F#m, C#m, E6 | Snap panel (stinger only) | Two bass lines, one for the Hollow and one for the Tollkeepers, that end in unison |
-| S3E06 | Lab Night | Ra-Thor's lead synth timbre over bubbly analog bass | A major | 106 | 108 Hz (A2, tonic) | A, F#m, C#m, Dmaj7, E6 | Snap panel (stinger only) | The season's one wordless choir swell (if granted) as the crates open, then the fixed bloom and Grounded on A |
+| S3E06 | Lab Night | Ra-Thor's lead synth timbre over bubbly analog bass | A major | 106 | 108 Hz (A2, tonic) | A, F#m, C#m, Dmaj7, E6 | Snap panel (stinger only) | The season's one wordless open-vowel choir swell as the crates open, fading before the 528 chime, then the fixed bloom and Grounded on A |
 
-The Snap button panel uses only the fixed stinger. There is no Snap cue, because 06 allows only one borrowed bed per episode, and it must be a Night Watch bed.
+The Snap button panel uses only the fixed stinger. There is no Snap cue, because 06 allows only one borrowed bed per episode, and it must be a Night Watch bed. S3E04 has no Snap panel and no Snap stinger.
 
 ## 10. Fidelity checklist
 
 - [x] Premise and Quest two quoted from 05; status line as given.
 - [x] Six standalone shorts (Q10), each with a present-day block (rule 9).
 - [x] Abundance shown through world systems only; no real-world economic, capability, health or pricing claims (05 Q11, Quest two).
-- [x] AGiRBE credit line quoted verbatim from 05 Q11 with its source line; docs only, never on the page; packaging pending ruling.
-- [x] Jacque Fresco cited only as Sherif's named inspiration in docs; never named on a page, panel or prompt, and never depicted.
-- [x] The Founder implied only; at most one reading line; notebook kept whole.
+- [x] AGiRBE credit line quoted verbatim from 05 Q11 with its source line; docs and the end-credits text crawl only; never on the cover, title card, promo art or in-world.
+- [x] Jacque Fresco cited as Sherif's named inspiration in docs and credited in the end-credits crawl as cited inspiration; never named on a page, panel or prompt, and never depicted.
+- [x] The Founder implied only; at most one reading line; notebook kept whole; one notebook line in S3 (S3E06, "Enough for everyone, with nobody left out.").
 - [x] Era cards and captions only as 05 gives them, in short form; none proposed for S3.
 - [x] Q8 open; Q9 approved names only; houses glyph-only with [HOUSE-X].
 - [x] Series title on packaging only.
@@ -146,17 +149,17 @@ The Snap button panel uses only the fixed stinger. There is no Snap cue, because
 - [x] Sourcing bound respected (no `docs/WifeShow/`, no `docs/FACTIONS_OVERVIEW.md`).
 - [x] No episode files written.
 
-## 11. Open items for council ruling
+## 11. Open items (all ruled, council, #31 review)
 
-1. **Arc B is thin in 05 (flag).** 05's B entry gives the premise, the modes and the mercy rule, and Quest two adds the goal, the setting and the "earned" rule. Neither gives per-episode beats, guests, the role of the Gate, or what the Hollow builds. Every pitch, build and Recycler item in §3 is an outline proposal, not lore.
-2. **AGiRBE credit line on packaging.** The verbatim credit line names Jacque Fresco, and 05 cites him "only as Sherif's named inspiration in the docs". May the line appear on packaging (cover, intro/outro title card, credits) as written, or stay in docs only? It cannot be shortened, because it is quoted verbatim. Until a ruling, it stays in docs.
-3. **Borrows vs 05's supporting modes.** 05 names two supporting modes for B (Snap and Quiet Board). Under the one-borrow rule, this plan gives each episode one: a Snap panel (stinger only) in five episodes and a Quiet Board panel in S3E04. Confirm that a Snap panel may be the one borrow (in S2 Snap got the stinger only, because the Night Watch opener was the borrow), and that S3E04's Quiet Board panel carries no bed.
-4. **Choir.** Grant or deny one wordless choir swell in S3E06.
-5. **Drone under Lab Night.** 06 §3.4 lists the sub drone for Night Watch, Quiet Board and Suave Hour, not Lab Night. Rule whether Lab Night beds carry the key-correct drone throughout, only under the pad, or not at all.
-6. **The margin aspiration.** May "Enough for everyone, with nobody left out." (05, labeled aspiration, "Told through the Full Hopper quest") appear once in S3 as a labeled notebook-margin line, or stay off the page? No episode currently uses it.
-7. **The Gate in arc B.** 05's B setting is Recycler Bay. Rule whether each S3 block happens at the Threshold (as in S1/S2) or at Recycler Bay's intake, with the canon Gate lines either way.
-8. **Tollkeepers and tolls.** The name implies tolls. This plan shows tolls only as blank tags, with no currency and no numbers, to stay clear of real pricing. Confirm.
-9. **Vael Hollow and Tollkeeper look.** Approved names only (Q9). No emblems, glyphs or costume are defined in 05; each episode PR proposes faces-hidden looks without new glyphs. Confirm, or rule on shared looks.
-10. **Recurring guests.** 05's premise implies the Hollow and the Tollkeepers recur across the season. Episodes stay standalone (Q10). Rule whether named recurring guests are allowed, or each episode's guests stay fresh.
-11. **Earlier tone line.** 05 cites Powrush-MMO's "Earn later by sharing abundance, not by extracting." as spirit. It is not proposed for any panel (Q7 keeps Powrush-MMO to captions only, and no caption is given).
-12. **06 §6 still open.** Synthwave sub-flavor and who composes.
+1. **Arc B is thin in 05 (flag).** 05's B entry gives the premise, the modes and the mercy rule, and Quest two adds the goal, the setting and the "earned" rule. Neither gives per-episode beats, guests, the role of the Gate, or what the Hollow builds. Every pitch, build and Recycler item in §3 is an outline proposal, not lore. **Ruled (council, #31 review):** approved as the season plan. Every beat stays a proposal, and each episode PR is voted on separately. The keys and drones are confirmed.
+2. **AGiRBE credit line on packaging.** The verbatim credit line names Jacque Fresco, and 05 cites him "only as Sherif's named inspiration in the docs". May the line appear on packaging (cover, intro/outro title card, credits) as written, or stay in docs only? It cannot be shortened, because it is quoted verbatim. Until a ruling, it stays in docs. **Ruled (council, #31 review):** the line stays verbatim and may appear ONLY in docs and in the end-credits text crawl, NEVER on the cover, title card, promo art, or in-world. Fresco is credited in that crawl as cited inspiration and is never depicted (§2).
+3. **Borrows vs 05's supporting modes.** 05 names two supporting modes for B (Snap and Quiet Board). Under the one-borrow rule, this plan gives each episode one: a Snap panel (stinger only) in five episodes and a Quiet Board panel in S3E04. Confirm that a Snap panel may be the one borrow (in S2 Snap got the stinger only, because the Night Watch opener was the borrow), and that S3E04's Quiet Board panel carries no bed. **Ruled (council, #31 review):** a Snap panel with the stinger only counts as the one borrow. S3E04's Quiet Board panel is a visual borrow only: the Lab Night bed continues, with no Quiet Board bed and no Snap stinger in S3E04 (§7, §9).
+4. **Choir.** Grant or deny one wordless choir swell in S3E06. **Ruled (council, #31 review):** one wordless open-vowel choir swell, in S3E06 only, mirroring S2E06, fading before the chime (§9).
+5. **Drone under Lab Night.** 06 §3.4 lists the sub drone for Night Watch, Quiet Board and Suave Hour, not Lab Night. Rule whether Lab Night beds carry the key-correct drone throughout, only under the pad, or not at all. **Ruled (council, #31 review):** the Lab Night drone sits only under the 543-pad sections; the swung sections have no drone (§9 table).
+6. **The margin aspiration.** May "Enough for everyone, with nobody left out." (05, labeled aspiration, "Told through the Full Hopper quest") appear once in S3 as a labeled notebook-margin line, or stay off the page? No episode currently uses it. **Ruled (council, #31 review):** it appears once, verbatim, in S3E06's notebook, and it is the ONLY notebook line in S3 (§3, §4).
+7. **The Gate in arc B.** 05's B setting is Recycler Bay. Rule whether each S3 block happens at the Threshold (as in S1/S2) or at Recycler Bay's intake, with the canon Gate lines either way. **Ruled (council, #31 review):** blocks happen at the Threshold. Recycler Bay is where blocked items go afterward (§3, §5).
+8. **Tollkeepers and tolls.** The name implies tolls. This plan shows tolls only as blank tags, with no currency and no numbers, to stay clear of real pricing. Confirm. **Ruled (council, #31 review):** tolls are blank tags only, with no currency, numbers, or symbols (§3, §5).
+9. **Vael Hollow and Tollkeeper look.** Approved names only (Q9). No emblems, glyphs or costume are defined in 05; each episode PR proposes faces-hidden looks without new glyphs. Confirm, or rule on shared looks. **Ruled (council, #31 review):** Vael Hollow and the Tollkeepers have no emblems. They stay glyph-only and unnamed on props, like the Houses (§5).
+10. **Recurring guests.** 05's premise implies the Hollow and the Tollkeepers recur across the season. Episodes stay standalone (Q10). Rule whether named recurring guests are allowed, or each episode's guests stay fresh. **Ruled (council, #31 review):** one recurring Tollkeeper, face hidden, appears in S3E04, S3E05 and S3E06 to carry the "by choice" turn. All other guests are fresh in each episode (§3).
+11. **Earlier tone line.** 05 cites Powrush-MMO's "Earn later by sharing abundance, not by extracting." as spirit. It is not proposed for any panel (Q7 keeps Powrush-MMO to captions only, and no caption is given). **Ruled (council, #31 review):** the Powrush-MMO line stays out of every panel (§5).
+12. **06 §6 still open.** Synthwave sub-flavor and who composes. **Ruled (council, #31 review):** carries forward as open and does not block S3.
