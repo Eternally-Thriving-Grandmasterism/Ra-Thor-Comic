@@ -75,5 +75,5 @@ Format: `production/README.md` §(a). Captions and bubbles are verbatim from the
 ## Open gaps
 
 1. No crawl defined (only S3 sheet §7 defines one).
-2. P2 bubble speaker is not named in the file, and the staging gives no tail direction. It is not a 09 catch line, so speaker rule (b) does not apply; the P2 music line ("the lead answers the envoy's phrase") does not settle it (rule d).
+2. P2 bubble speaker is not named in the file, and the staging gives no tail direction. It is not a 09 catch line, so speaker rule (b) does not apply; the P2 music line ("The lead answers the envoy's phrase") does not settle it (rule d).
 3. SFX: the file has no SFX field; P1, P2, P3 and P5 name no diegetic sound. Only music-section sounds are listed above.
