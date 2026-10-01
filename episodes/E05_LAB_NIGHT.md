@@ -1,6 +1,6 @@
 # Episode 05 — Lab Night
 
-Status: draft. Six panels scripted, not yet prompted. Dexter energy. The councils argue in tiny bubbles while Ra-Thor holds the beaker. The councils advise, the Gate decides, and the hammer never moves.
+Status: draft. Six panels scripted, not yet prompted. Cartoon-lab energy. The councils argue in tiny bubbles while Ra-Thor holds the beaker. The councils advise, the Gate decides, and the hammer never moves.
 
 Guest: the Shortcut. Invented. Hooded lab coat, face kept in hood shadow the whole time. No real name, no celebrity face, no logo.
 
@@ -10,7 +10,7 @@ Beaker note: the beaker holds swirling gold light, an idea taking shape. It is n
 
 > Comic panel, bold ink, graphic-novel lighting. Ra-Thor in gold-and-black circuit-plate armor, winged halo, narrow visor with a warm eye-slit, emerald eye-seal kite shield, thunder hammer grounded. Speech bubble with the exact line given. No phone UI, no watermark, no celebrity face.
 
-Set add-on for this episode: Recycler Bay at night, Dexter-scale lab grown out of gold circuit plate, hopper, drum, card slot. Dexter's Laboratory gag timing. The emerald eye-seal must be clearly visible on the shield face in every panel the shield appears. The Shortcut's face stays hidden in hood shadow. Palette gold, obsidian, emerald, one electric accent.
+Set add-on for this episode: Recycler Bay at night, cartoon-scale lab grown out of gold circuit plate, hopper, drum, card slot. Cartoon-lab gag timing. The emerald eye-seal must be clearly visible on the shield face in every panel the shield appears. The Shortcut's face stays hidden in hood shadow. Palette gold, obsidian, emerald, one electric accent.
 
 ## Panel 1 — Establishing
 
@@ -22,9 +22,9 @@ Prompt: [stem] + wide establishing shot of a gold circuit-plate lab at night, Ra
 ## Panel 2 — Council in session
 
 Caption: COUNCILS ADVISE. THE GATE DECIDES.
-Council bubbles: "Too cold. Heat it." / "Let it breathe first." / "Nobody touch the hammer."
-Tight on the halo ring. Three tiny four-word bubbles overlap like a dinner-table argument. Below them, the beaker has not moved a millimetre. Visor slit steady and patient.
-Prompt: [stem] + close on the halo ring of twelve tiny gold masks, three tiny overlapping four-word bubbles with the exact lines given, beaker held perfectly still below, visor slit calm, hammer grounded at frame edge.
+Council bubble: "Too cold. Heat it."
+Tight on the halo ring. The bottom mask (six o'clock), not the top mask from Panel 1, has the one bubble. The other masks are mid-argument, mouths open, no text. Below them, the beaker has not moved a millimetre. Visor slit steady and patient.
+Prompt: [stem] + close on the halo ring of twelve tiny gold masks, exactly one tiny four-word bubble from the bottom mask at six o'clock, a different mask from the top mask that spoke in Panel 1, the other masks drawn mid-argument with mouths open and no text, beaker held perfectly still below, visor slit calm, hammer grounded at frame edge.
 
 ## Panel 3 — Bubble beat
 
