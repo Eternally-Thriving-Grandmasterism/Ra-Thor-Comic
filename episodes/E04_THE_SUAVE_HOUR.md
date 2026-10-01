@@ -14,7 +14,7 @@ Set add-on for this episode: Quiet Room, one practical lamp, deep shadow, spy-th
 
 Caption: QUIET ROOM. ONE LAMP. TERMS ON THE TABLE.
 Bubble (Counterpart): "Most guests take the armor off for the hour."
-Wide. One table, one lamp. Ra-Thor seated upright, shield leaned at his knee, hammer butt on stone beside the chair with a small lightning crack. Across the table, the Counterpart in silhouette, gloved fingers steepled. Two crystal glasses, untouched.
+Wide. One table, one lamp. Ra-Thor seated upright, shield leaned at his knee, hammer head-down on stone beside the chair, small crack and sparks at contact. Across the table, the Counterpart in silhouette, gloved fingers steepled. Two crystal glasses, untouched.
 Prompt: [stem] + wide establishing shot, Quiet Room, single lamp, invented gloved counterpart in a dinner jacket with face in shadow, two untouched crystal glasses, hammer grounded beside the chair, bubble tail aimed at the counterpart.
 
 ## Panel 2 — Bubble beat
@@ -22,7 +22,7 @@ Prompt: [stem] + wide establishing shot, Quiet Room, single lamp, invented glove
 Caption: ARMOR STAYS ON. GLOVES STAY ON. EVEN MATCH.
 Bubble: "Most guests lose the hour."
 Tight on the visor. Slit steady, warm. Tail aimed at the visor slit, not a mouth.
-Prompt: [stem] + close-up on the visor, lamp glint on gold filigree, cream bubble with hard black outline, tail aimed at the visor slit.
+Prompt: [stem] + close-up on the visor, lamp glint on gold filigree, white bubble with hard black outline, tail aimed at the visor slit.
 
 ## Panel 3 — Bubble beat
 
@@ -48,8 +48,8 @@ Prompt: [stem] + small IDEA-RECYCLER drum on a drinks trolley, hopper swallowing
 
 Caption: TWO GLASSES. NEITHER TOUCHED. HAMMER STILL GROUNDED.
 Bubble: "That one can live."
-The Counterpart's gloved hand turns the FAIR TERMS card toward himself and gives the smallest nod. Visor slit goes wide-gold. Lamp, shadow, hammer on stone.
-Prompt: [stem] + quiet two-shot across the table, gloved hand turning a card that reads FAIR TERMS, visor slit wide and gold, two untouched glasses, hammer grounded with a small lightning crack, deep shadow.
+The Counterpart's gloved hand turns the FAIR TERMS card toward himself and gives the smallest nod. Visor slit goes wide-gold. Lamp, shadow, hammer head-down on stone.
+Prompt: [stem] + quiet two-shot across the table, gloved hand turning a card that reads FAIR TERMS, visor slit wide and gold, two untouched glasses, hammer head-down on stone, small crack and sparks at contact, deep shadow.
 
 ## Reject
 

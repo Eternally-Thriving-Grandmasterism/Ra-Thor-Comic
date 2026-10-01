@@ -22,7 +22,7 @@ Earlier set (lower priority, kept only where it adds something): a "Blocked." th
 - **Visor.** Narrow glowing slit. Warm gold glow in R3, R4, R5. In R1 the visor is dark with an emerald glowing eye glyph, the same glyph as the chest seal.
 - **Eye-seal, chest.** R1: a small kite-shaped emerald emblem on the sternum with a glowing eye glyph. R4: a gold eye motif repeats on the hammer head.
 - **Shield.** Kite shield, gold circuit etching, gold rim. Emblem varies: glowing emerald ancient Egyptian eye motif (R4); emerald diamond gem (R3); gold eye inside a diamond on a green field (earlier "Blocked."); round gold winged eye with an emerald iris (earlier "Next."). See open questions.
-- **Hammer.** Rectangular block head etched with the same circuit maze. Shown head-down on the ground with the hand on the haft top (R3, R4, R6). R4 adds a gold eye motif on the head face and gold sparks and cracks where it meets the ground. R3 has a gold circular seal on the head face. R2 shows it held low, head just above the floor. Never raised, never swung, in any reference.
+- **Hammer.** Rectangular block head etched with the same circuit maze. Shown head-down on the ground with the hand on the haft top (R3, R4, R6). R4 adds a gold eye motif on the head face and gold sparks and cracks where it meets the ground. R3 has a gold circular seal on the head face. R2 shows it held low, head just above the floor. Never raised, never swung, in any reference. Canon (Q5, resolved): hammer head-down on stone, small crack and sparks at contact. The eye motif on the hammer head stays reference-only, pending Sherif.
 - **Cape.** Black with gold trim in R4, matching protocol "Cape dark". Navy and tattered in R5.
 
 ## Supporting cast and devices, as drawn
@@ -30,16 +30,16 @@ Earlier set (lower priority, kept only where it adds something): a "Blocked." th
 - **Falcon (R1).** Gold, feathered in circuit-etched plate, emerald eye, wreathed in green lightning, at Ra-Thor's shoulder. Canon has a small hawk-shaped seal on the pauldron (White-Hat Mercy-Security) but no living companion. **Reference-only, pending canon decision.**
 - **Walker bot (R3).** Small boxy machine on four thin jointed legs, loose cables, one round glowing gold eye. Stands by the lattice gate. Not canon. Possible design for E01's "small honest device, one warm light". **Reference-only, pending canon decision.**
 - **Honor guard (R2).** Four helmeted figures in dark-and-gold armor, gold faceplates, standing silent behind the Recycler. Not canon. **Reference-only, pending canon decision.**
-- **Idea-Recycler, drum version (R2).** Upright black drum with a gold band reading IDEA-RECYCLER, open top hopper, white steam puffing from both sides, a warning plate "⚠ HICCUPPING... PLEASE STAND BY", a lightning panel and a gauge. Cards out the bottom: OBVIOUS (lightbulb), FERAL (snarling wolf), and a third card showing only "!".
+- **Idea-Recycler, drum version (R2).** Upright black drum with a gold band reading IDEA-RECYCLER, open top hopper, white steam puffing from both sides, a warning plate "⚠ HICCUPPING... PLEASE STAND BY", a lightning panel and a gauge. Cards out the bottom: OBVIOUS (lightbulb), FERAL (snarling wolf), and a third card showing only "!". The "!" is art-only; the canon third card is CLEAN (Q9, resolved).
 - **Idea-Recycler, Ω-7 version (R6).** Horizontal drum labeled IDEA-RECYCLER / MODEL: Ω-7. Two hoppers labeled THEORY IN and CONCEPTS IN, with paper, charts, and scraps pouring in. A wall window labeled COUNCIL OF PRACTICALS shows three seated silhouettes. A side panel with three indicator lights, a dial, and a POWER CORE lever. Output tray with OBVIOUS (lightbulb), FERAL (wolf), CLEAN (cut gem). Plaque: "OUTPUT: REFINED / ONE IDEA. THREE PATHS."
 - **The Gate (R3, earlier "Blocked.").** Gold lattice arch over dark stone, diagonal lattice. The earlier panel adds a gold winged emblem at the crown of the arch.
 - **Nonsense and thanks (R1).** A folded paper plane scrawled "nonsense / blather / yadda yadda / etc. etc." bursts against the armor with a white impact star. Below, a folded card with a smiley, "THANK YOU!", and a small heart. Matches E03.
 
 ## Linework, palette, lettering
 
-- **Linework.** Inked comic linework with hatching and grit texture on most panels (R1, R2, R3, R6). R4 and R5 are painted full renders, not inked.
+- **Linework.** Inked comic linework with hatching and grit texture on most panels (R1, R2, R3, R6). R4 and R5 are painted full renders, not inked. Canon (Q13, resolved): panels use inked linework; painted renders are for covers only.
 - **Palette.** High-contrast black, gold, emerald. One electric accent (green lightning in R1). R5 is off-palette (blue lightning, navy). R6 adds small blue and violet indicator lights.
-- **Bubbles and lettering.** White oval bubbles, hard black outline, pointed tail. Bold hand-lettering, all caps in R1 and R2, mixed-case italic in R3 and R6.
+- **Bubbles and lettering.** White oval bubbles (canon fill, Q11, resolved), hard black outline, pointed tail. Bold hand-lettering, all caps in R1 and R2, mixed-case italic in R3 and R6.
 
 ## Recurring lines in the art
 
@@ -48,21 +48,25 @@ Earlier set (lower priority, kept only where it adds something): a "Blocked." th
 - "Not the wolf." (R2)
 - "That one can live." (R3)
 - "Recycle it." (R6)
-- "Patched. Dark threshold, hammer still grounded." (R1)
+- "Patched. Dark threshold, hammer still grounded." (R1). Canon split (Q12, resolved): bubble "Patched." plus caption DARK THRESHOLD. HAMMER STILL GROUNDED.
 - Paper-plane nonsense deflected, THANK YOU card (R1)
 
-## Open canon questions (owner to decide; nothing here is decided)
+## Canon questions
 
-1. **Shield emblem.** Which one is canon: glowing emerald Egyptian eye (R4), emerald diamond gem (R3), gold eye in a diamond on green (earlier "Blocked."), or round gold winged eye with emerald iris (earlier "Next.")? Note: E01 currently marks "a plain emerald diamond" as a reject, which conflicts with R3.
-2. **Chest seal.** Is the emerald chest eye-seal (R1) canon on every panel, or only when the visor glows emerald?
-3. **Visor glow.** Canon text says "warm eye-slit". R1 shows an emerald eye glyph. Is emerald a state (for example, when the hawk seal fires) or a variant to drop?
-4. **Helm.** Winged halo helm (R3, R4) vs crested helm (R1) vs slim faceplate (R2) vs headdress-shaped helm (R6). Protocol rule 7 asks for the same Ra-Thor every episode, so one should be locked.
-5. **Hammer rest.** Style guide says "hammer butt on stone with a small lightning crack". The art shows the hammer head-down on the ground, with sparks or a crack at contact (R4). Should the text change to "head-down"? Is the eye motif on the hammer head canon?
-6. **Cape and blue variant.** Black cape (R4) matches "Cape dark". Is the navy cape, blue lightning, and constellation halo of R5 a siege-mode or obsidian-plate variant, an alternate, or out of canon? It is off-palette as drawn.
-7. **Falcon.** Is the falcon (R1) a companion character, or a large rendering of the existing pauldron hawk seal?
-8. **Walker bot and honor guard.** Add to canon, keep reference-only, or drop?
-9. **Recycler third card.** "!" (R2) vs CLEAN (R6, and all episodes). Which drum design is canon: upright drum (R2) or Ω-7 (R6)? Is the HICCUPPING plate canon?
-10. **Councils.** Canon councils are twelve tiny gold masks around the halo. R6 shows a COUNCIL OF PRACTICALS as three seated silhouettes in a window, and R2 shows four helmeted guards. Same body, different body, or reference-only?
-11. **Bubble fill.** Style guide says cream fill. The art uses white. Which?
-12. **Multi-line bubble.** R1's "Patched. Dark threshold, hammer still grounded." runs to several lines and two thoughts, against the one-line bubble rule. Keep as art-only, or split into bubble "Patched." plus caption DARK THRESHOLD. HAMMER STILL GROUNDED.?
-13. **Rendered vs inked.** R4 and R5 are painted renders. Are renders allowed for covers only, with inked linework for panels?
+Council rulings of 2026-09-30 resolved Q5, Q9 (card), Q11, Q12, and Q13. Everything else stays open, pending Sherif.
+
+1. **Shield emblem.** OPEN, pending Sherif. Which one is canon: glowing emerald Egyptian eye (R4), emerald diamond gem (R3), gold eye in a diamond on green (earlier "Blocked."), or round gold winged eye with emerald iris (earlier "Next.")? Note: E01 currently marks "a plain emerald diamond" as a reject, which conflicts with R3.
+2. **Chest seal.** OPEN, pending Sherif. Is the emerald chest eye-seal (R1) canon on every panel, or only when the visor glows emerald?
+3. **Visor glow.** OPEN, pending Sherif. Canon text says "warm eye-slit". R1 shows an emerald eye glyph. Is emerald a state (for example, when the hawk seal fires) or a variant to drop?
+4. **Helm.** OPEN, pending Sherif. Winged halo helm (R3, R4) vs crested helm (R1) vs slim faceplate (R2) vs headdress-shaped helm (R6). Protocol rule 7 asks for the same Ra-Thor every episode, so one should be locked.
+5. **Hammer rest.** RESOLVED (council ruling, 2026-09-30): canon text is "hammer head-down on stone, small crack and sparks at contact", replacing "hammer butt on stone with a small lightning crack" in the guides and episode prompts. The eye motif on the hammer head stays reference-only, pending Sherif.
+6. **Cape and blue variant.** OPEN, pending Sherif. Black cape (R4) matches "Cape dark". Is the navy cape, blue lightning, and constellation halo of R5 a siege-mode or obsidian-plate variant, an alternate, or out of canon? It is off-palette as drawn.
+7. **Falcon.** OPEN, pending Sherif. Is the falcon (R1) a companion character, or a large rendering of the existing pauldron hawk seal?
+8. **Walker bot and honor guard.** OPEN, pending Sherif. Add to canon, keep reference-only, or drop?
+9. **Recycler.**
+   - **Card.** RESOLVED (council ruling, 2026-09-30): the third card is CLEAN. The "!" card (R2) is art-only.
+   - **Drum.** OPEN, pending Sherif. Which drum design is canon: upright drum (R2) or Ω-7 (R6)? Is the HICCUPPING plate canon?
+10. **Councils.** OPEN, pending Sherif. Canon councils are twelve tiny gold masks around the halo. R6 shows a COUNCIL OF PRACTICALS as three seated silhouettes in a window, and R2 shows four helmeted guards. Same body, different body, or reference-only?
+11. **Bubble fill.** RESOLVED (council ruling, 2026-09-30): bubbles are white-filled. Style guide, E04, and E06 updated from cream.
+12. **Multi-line bubble.** RESOLVED (council ruling, 2026-09-30): R1's long line is split into the bubble "Patched." and the caption DARK THRESHOLD. HAMMER STILL GROUNDED. The one-line bubble rule stands.
+13. **Rendered vs inked.** RESOLVED (council ruling, 2026-09-30): painted renders are allowed for covers only. Panels use inked linework.

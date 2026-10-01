@@ -2,14 +2,15 @@
 
 ## Plate
 
-Series canon is the Rathor.ai gold render: circuit filigree, black recesses, emerald eye-seal, winged halo, hammer butt on stone with a small lightning crack. Obsidian fortress plate appears only when the Gate is under siege.
+Series canon is the Rathor.ai gold render: circuit filigree, black recesses, emerald eye-seal, winged halo, hammer head-down on stone, small crack and sparks at contact. Obsidian fortress plate appears only when the Gate is under siege.
 
 ## Page grammar
 
 - 4 to 6 panels. Wide establishing shot, two bubble beats, one shield slam, one recycler gag, one quiet closer.
-- Bubbles: cream fill, hard black outline, tail aimed at the visor slit even though the mouth is hidden. That is the joke.
+- Bubbles: white fill, hard black outline, tail aimed at the visor slit even though the mouth is hidden. That is the joke.
 - Captions: small, bottom-left, Quiet Board dossier voice (see `03_TONE_SPECS.md`).
 - Color: gold, obsidian, emerald, one electric accent. No rainbow clutter.
+- Linework: panels use inked comic linework. Painted renders are allowed for covers only.
 
 ## Prompt stem (prepend to every panel)
 

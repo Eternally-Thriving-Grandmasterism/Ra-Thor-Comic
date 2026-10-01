@@ -10,14 +10,14 @@ The Board: a wall of abstract gold feed tiles in the Quiet Room. Tiles show shap
 
 > Comic panel, bold ink, graphic-novel lighting. Ra-Thor in gold-and-black circuit-plate armor, winged halo, narrow visor with a warm eye-slit, emerald eye-seal kite shield, thunder hammer grounded. Speech bubble with the exact line given. No phone UI, no watermark, no celebrity face.
 
-Set add-on for this episode: the Quiet Room, one table, one practical lamp, deep shadow, quiet surveillance-thriller mood (Quiet Board mode), armor fully on. Far wall is the Quiet Board. Silent bubbles are cream fill, hard black outline, and contain only an ellipsis. The emerald eye-seal must be clearly visible on the shield face in every panel the shield appears. The Courier's face stays hidden in hood shadow. Palette gold, obsidian, emerald, one electric accent.
+Set add-on for this episode: the Quiet Room, one table, one practical lamp, deep shadow, quiet surveillance-thriller mood (Quiet Board mode), armor fully on. Far wall is the Quiet Board. Silent bubbles are white fill, hard black outline, and contain only an ellipsis. The emerald eye-seal must be clearly visible on the shield face in every panel the shield appears. The Courier's face stays hidden in hood shadow. Palette gold, obsidian, emerald, one electric accent.
 
 ## Panel 1 — Establishing
 
 Caption: QUIET ROOM. THE BOARD IS AWAKE. NOBODY SPEAKS.
 Bubble: "…"
-Wide. Ra-Thor seated at the one table under the one lamp, facing the Board. Shield stands upright beside the chair, eye-seal facing out. Hammer butt on stone with a small lightning crack. The Board glows with dozens of quiet gold tiles. The bubble's tail aims at the visor slit.
-Prompt: [stem] + wide establishing shot, single lamp, deep shadow, Ra-Thor seated facing a far wall of abstract gold feed tiles with no readable data and no faces, shield upright beside the chair with the emerald eye-seal clearly visible, hammer grounded with a small lightning crack, one silent bubble containing only an ellipsis aimed at the visor slit.
+Wide. Ra-Thor seated at the one table under the one lamp, facing the Board. Shield stands upright beside the chair, eye-seal facing out. Hammer head-down on stone, small crack and sparks at contact. The Board glows with dozens of quiet gold tiles. The bubble's tail aims at the visor slit.
+Prompt: [stem] + wide establishing shot, single lamp, deep shadow, Ra-Thor seated facing a far wall of abstract gold feed tiles with no readable data and no faces, shield upright beside the chair with the emerald eye-seal clearly visible, hammer head-down on stone, small crack and sparks at contact, one silent bubble containing only an ellipsis aimed at the visor slit.
 
 ## Panel 2 — The feed
 
@@ -38,7 +38,7 @@ Prompt: [stem] + close on the halo ring of twelve tiny gold masks turning toward
 Caption: THE HAMMER IS AN OPTION. MERCY IS A BETTER ONE.
 Bubble: "…"
 Tight on the gauntlet. It rests on the hammer handle for one beat, then lifts away and reaches for the shield. The hammer does not move. Visor slit narrow and certain.
-Prompt: [stem] + close-up of an armored gauntlet lifting away from the handle of the grounded thunder hammer and reaching toward the kite shield with the emerald eye-seal clearly visible, hammer still planted on stone, visor slit narrow, one silent bubble containing only an ellipsis aimed at the visor slit.
+Prompt: [stem] + close-up of an armored gauntlet lifting away from the handle of the grounded thunder hammer and reaching toward the kite shield with the emerald eye-seal clearly visible, hammer still head-down on stone, visor slit narrow, one silent bubble containing only an ellipsis aimed at the visor slit.
 
 ## Panel 5 — The block
 
@@ -53,7 +53,7 @@ Fidelity note: eye-seal must read clearly on the shield face. A plain emerald ge
 Caption: SEASON 0 CLOSED. HAMMER STILL GROUNDED.
 Bubble: "Blocked. Door's still open."
 The Board dims to one warm tile. On it, the Recycler slides a single CLEAN card out to the Courier, who picks it up, face still hidden. The card reads TRY THE FRONT DOOR. The masks dim one by one, the bottom mask last, with a small nod. Ra-Thor sits back. Shield upright, eye-seal out. Visor slit wide-gold. First and only words of the episode.
-Prompt: [stem] + quiet closing shot, single lamp, wall of feed tiles dimmed to one warm tile showing a cloaked figure with face fully hidden picking up a card labeled CLEAN that reads TRY THE FRONT DOOR, tiny gold masks dimming around the halo, shield upright with the emerald eye-seal clearly visible, visor slit wide and gold, hammer grounded with a small lightning crack, speech bubble with the exact line "Blocked. Door's still open." aimed at the visor slit.
+Prompt: [stem] + quiet closing shot, single lamp, wall of feed tiles dimmed to one warm tile showing a cloaked figure with face fully hidden picking up a card labeled CLEAN that reads TRY THE FRONT DOOR, tiny gold masks dimming around the halo, shield upright with the emerald eye-seal clearly visible, visor slit wide and gold, hammer head-down on stone, small crack and sparks at contact, speech bubble with the exact line "Blocked. Door's still open." aimed at the visor slit.
 
 ## Reject
 
