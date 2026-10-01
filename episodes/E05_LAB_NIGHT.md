@@ -46,7 +46,7 @@ Fidelity note: eye-seal must read clearly on the shield face. A plain emerald ge
 Caption: CARD THREE MATCHES MASK ONE. COUNSEL TAKEN.
 Bubble: "Let it cool."
 The drop slides into the hopper. The drum hiccups. Three cards out the side: OBVIOUS, FERAL, CLEAN. Ra-Thor reads only CLEAN. It says LET IT COOL. The top mask looks quietly pleased.
-Prompt: [stem] + IDEA-RECYCLER drum swallowing a glowing drop, three cards ejecting labeled OBVIOUS / FERAL / CLEAN, Ra-Thor holding only the CLEAN card which reads LET IT COOL, top gold mask in the halo ring looking pleased, hammer grounded.
+Prompt: [stem] + IDEA-RECYCLER (horizontal drum, twin THEORY IN / CONCEPTS IN hoppers, gauge, power core, OUTPUT tray) swallowing a glowing drop, three cards ejecting labeled OBVIOUS / FERAL / CLEAN, Ra-Thor holding only the CLEAN card which reads LET IT COOL, top gold mask in the halo ring looking pleased, hammer grounded.
 
 ## Panel 6 — Quiet closer
 
