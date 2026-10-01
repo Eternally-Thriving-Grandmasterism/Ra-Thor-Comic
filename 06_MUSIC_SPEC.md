@@ -76,11 +76,11 @@ Equal-temperament reference at A4 = 432:
 |---|---|---|---|
 | Sub drone | 108 Hz (54 Hz siege, doubled at 108 Hz or higher) | −6 to −10 dB | Night Watch, Quiet Board, Suave Hour |
 | Harmonic pad | Key of A (or D/E) at A4 = 432 | 0 dB reference | All modes |
-| Top pad | 543 Hz, held | Mix to taste, under the pad body | Beds and sustained sections |
+| Top pad | 543 Hz, held | Mix to taste, under the pad body | Only over chords containing C# (see §3.2) |
 | Chime | 528 Hz, short only | Mix to taste | Stingers only, never held under chords |
 | Lead / arps | A4 = 432 tuning | Mix to taste | Snap, Lab Night, Suave Hour |
 
-**Keys.** Production guidance under ruling 2 (council ruling 2026-09-30): Prefer A major, D major and E major for beds that carry the 543 pad. A minor, D minor and E minor are fine for sections without it. The 108 and 54 Hz drones stay the tonic or fifth either way.
+**Keys.** Production guidance under ruling 2/3 (council ruling 2026-09-30), covering this line and the top pad row above: Prefer A major, D major and E major for beds that carry the 543 pad. A minor, D minor and E minor are fine for sections without it. The 108 and 54 Hz A drones belong to A-tonic beds (A as the tonic) and D-major beds (A as the fifth). In E-major beds the drone sits on E (E2 = 80.91 Hz at A4 = 432) or on B, the fifth (B2 = 121.23 Hz), never on A, because A is the fourth of E and fights the third. Siege stays on A (54 Hz, doubled as in §3.3).
 
 ### 3.5 Delivery
 
