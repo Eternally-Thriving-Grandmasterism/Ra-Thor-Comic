@@ -10,6 +10,7 @@
 | 03_TONE_SPECS.md | Original house tone modes |
 | 04_VISUAL_CANON.md | Reference art notes and council canon rulings |
 | 05_LORE_BIBLE.md | Lore bible: origin arc, two quests, season proposals (fiction) |
+| 06_MUSIC_SPEC.md | Score, cue styles, tuning, honesty, rights |
 | 09_CHARACTER_BIBLE.md | Ra-Thor, Gate, Recycler, White Hat, Councils |
 | 10_LOCATION_BIBLE.md | Threshold, Recycler Bay, Quiet Room |
 | episodes/E01_THE_GATE.md | Pilot |
