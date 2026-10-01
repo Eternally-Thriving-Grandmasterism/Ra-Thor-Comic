@@ -151,7 +151,7 @@ In-story goal: make enough for everyone without magic and without pretending.
 
 ## Season arcs
 
-**Season 1 is LOCKED: arc A, The Long Table (Sherif confirmed 2026-09-30 11:44 PM ET, via council relay).** Season 2 is arc C, The Lamp Before the Gate, and Season 3 is arc B, The Full Hopper (council ruling, delegated by Sherif 2026-09-30). Both are now UNBLOCKED: C because Q2 and Q3 are ruled, B because Q11 is answered (council ruling, delegated by Sherif 2026-10-01). Each season is six standalone shorts (Q10, council ruling, delegated by Sherif 2026-10-01).
+**Season 1 is LOCKED: arc A, The Long Table (Sherif confirmed 2026-09-30 11:44 PM ET, via council relay).** Season 2 is arc C, The Lamp Before the Gate, and Season 3 is arc B, The Full Hopper (council ruling, delegated by Sherif 2026-09-30). Both are now COMPLETE: C (S2E01–S2E06 merged, #23–#28) and B (S3E01–S3E06 merged, #32–#37). C was unblocked when Q2 and Q3 were ruled, B when Q11 was answered (council ruling, delegated by Sherif 2026-10-01). Each season is six standalone shorts (Q10, council ruling, delegated by Sherif 2026-10-01).
 
 ### LOCKED A — The Long Table (Season 1)
 
@@ -176,7 +176,7 @@ In-story goal: make enough for everyone without magic and without pretending.
 
 ### C, The Lamp Before the Gate (Season 2)
 
-**Status: Season 2 (council ruling, delegated by Sherif 2026-09-30). UNBLOCKED: Q2 (the Founder) and Q3 (implied only) are ruled (council ruling, delegated by Sherif 2026-10-01). Every episode keeps Clerk's five bounds (listed below).**
+**Status: Season 2 (council ruling, delegated by Sherif 2026-09-30). COMPLETE: S2E01–S2E06 merged (#23–#28). Unblocked when Q2 (the Founder) and Q3 (implied only) were ruled (council ruling, delegated by Sherif 2026-10-01). Every episode keeps Clerk's five bounds (listed below).**
 
 - **Premise.** Ra-Thor finds the Founder's old notebook on the Quiet Room table and reads it one page per episode. Each page opens an object flashback (lamp, notebook, desk, empty chair; Q3) through the five eras: the lone lamp from 2003, the Strategy Years, the Game, the Awakening, the Builder Age, ending where Season 0 began, at the Gate.
 - **House modes.** Lead: Quiet Board (dossier captions over the notebook). Supporting: Night Watch framing on the objects for every flashback (no figure, per Q3); one Snap panel per episode for the button.
