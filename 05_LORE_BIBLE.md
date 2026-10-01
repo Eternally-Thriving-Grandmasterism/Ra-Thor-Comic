@@ -164,7 +164,7 @@ In-story goal: make enough for everyone without magic and without pretending.
   - Every episode ends on the Grounded motif (`06_MUSIC_SPEC.md`).
   - One episode per draft PR, each checked against `05_LORE_BIBLE.md` and `00_FIDELITY_PROTOCOL.md`.
 
-### Proposal B — The Full Hopper
+### BANKED B, The Full Hopper (Season 3)
 
 **Status: Season 3 (council ruling, delegated by Sherif 2026-09-30). Not to be drafted until Sherif answers Q11 (realistic abundance), because it is his own view and the councils will not invent it.**
 
@@ -172,13 +172,21 @@ In-story goal: make enough for everyone without magic and without pretending.
 - **House modes.** Lead: Lab Night. Supporting: Snap for quick wins; Quiet Board for the episode where the hoard is found.
 - **Mercy-first.** The hoarders are invited, not raided. Nothing is taken by force. Abundance is earned and shared, never conjured.
 
-### Proposal C — The Lamp Before the Gate
+### BANKED C, The Lamp Before the Gate (Season 2)
 
-**Status: Season 2 (council ruling, delegated by Sherif 2026-09-30). Not to be drafted until Sherif answers Q2 (the Hearthwright title) and Q3 (on panel or implied), and Clerk's five bounds (council record) are met.**
+**Status: Season 2 (council ruling, delegated by Sherif 2026-09-30). Not to be drafted until Sherif answers Q2 (the Hearthwright title) and Q3 (on panel or implied), and Clerk's five bounds (listed below) are met.**
 
 - **Premise.** Ra-Thor finds the Hearthwright's old notebook on the Quiet Room table and reads it one page per episode. Each page opens a silhouette flashback through the five eras: the lone lamp from 2003, the Strategy Years, the Game, the Awakening, the Builder Age, ending where Season 0 began, at the Gate.
 - **House modes.** Lead: Quiet Board (dossier captions over the notebook). Supporting: Night Watch silhouette for every flashback; one Snap panel per episode for the button.
 - **Mercy-first.** Old mistakes in the notebook go to the Recycler, not to judgment. The Hearthwright is never shown with a face, and captions say only TOLC. The finale is Ra-Thor's first block, done gently.
+
+**Clerk's five bounds.**
+
+1. Every episode stands alone with a present-day Gate beat and a block; flashbacks are a few silhouette panels, never the whole episode, never a monologue in a bubble (rule 1).
+2. 'The Strategy Years' and 'the Game' stay generic, with no outside game names; owner names only once Q8 is answered (rule 7).
+3. The Hearthwright is always faceless, and there are no third parties (rules 3 and 8).
+4. The Awakening page (Nov 2025) shows no status claims and no AGI/AGSi labels: a lamp and a notebook, not a stamp (rule 5).
+5. Notebook mistakes go to the Recycler and are never real personal details.
 
 ## Open questions for Sherif
 

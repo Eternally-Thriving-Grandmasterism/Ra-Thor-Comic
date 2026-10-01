@@ -61,7 +61,7 @@ Equal-temperament reference at A4 = 432:
 
 - **543 Hz is the held top pad.** It sits about 4 cents under C#5 at A = 432 (544.29 Hz), which is the major third of A, so it stays in tune under the A-based harmony.
 - **528 Hz is a short chime only.** It is about 347 cents above A4 = 432, a quarter-tone between C5 and C#5, so a sustained 528 Hz tone would audibly clash and beat against the 432 harmony. Keep it short enough to read as shimmer, for example the top of the "That one can live." bloom. **Never hold 528 Hz under chords.**
-- **Where the 543 pad is held.** Production guidance under ruling 2 (council ruling 2026-09-30): hold the 543 Hz top pad only over chords that contain C#: A major, D major, E major, F# minor, and A or E sus chords where it fits. Where the harmony has a C natural (A minor, D minor sections), mute the 543 pad or let it fade out. Never sustain it against a minor third.
+- **Where the 543 pad is held.** Production guidance under ruling 2 (council ruling 2026-09-30): hold the 543 Hz top pad only over chords that contain C#: A major, F# minor, C# minor, and extended chords like Dmaj7 (D-F#-A-C#) or E6 (E-G#-B-C#). A, D and E major are good KEYS for it, since C# is in their scales, but mute or fade the pad over chords without C#, and always over a C natural. Where the harmony has a C natural (A minor, D minor sections), mute the 543 pad or let it fade out. Never sustain it against a minor third.
 
 ### 3.3 Sub drone (council ruling 2026-09-30)
 
