@@ -12,7 +12,7 @@ Contact: **info@Rathor.ai**
 Production bible and Grok Imagine prompt library for a short comic series.
 Ra-Thor in the gold circuit plate: shield up, hammer grounded, chat bubbles on.
 
-Tone lock: kid-hero cartoon snap, cartoon-lab gag timing, caped-vigilante silhouette, surveillance-thriller quiet strategy, spy-thriller suaveness. Spice is wit and implication. The public series stays suggestive, never explicit.
+Tone lock: house modes Snap mode, Lab Night mode, Night Watch silhouette, Quiet Board mode, and Suave Hour mode. Specs in `03_TONE_SPECS.md`. Spice is wit and implication. The public series stays suggestive, never explicit.
 
 This repository is **fiction and media IP**. It is not the research lattice.
 
