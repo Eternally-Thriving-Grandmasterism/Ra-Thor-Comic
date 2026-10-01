@@ -8,7 +8,7 @@
 
 Format: `production/README.md` §(a). Captions and bubbles are verbatim from the source file. "S1E02 P#" = source file, that panel.
 
-**Guest (S1E02 Guest line).** The Stair Envoy, from [HOUSE-B] of the Ninefold Houses (placeholder; Q9 resolved). Hooded mantle, gloves never removed, face hidden behind a plain smooth gold mask the whole time. House sign is an abstract step glyph, not a flag.
+**Guest (S1E02 Guest line).** The Stair Envoy, from [HOUSE-B] of the Ninefold Houses (placeholder; Q9 resolved). Invented. Hooded mantle, gloves never removed, face hidden behind a plain smooth gold mask the whole time. House sign is an abstract step glyph, not a flag. No real name, no celebrity face, no logo, no real place or culture.
 
 **Set (S1E02 Set line).** The Quiet Room with the season's long table. Chairs run down both sides, uncounted. The knot-glyph token from S1E01 still rests on one chair. One practical lamp. The Quiet Board glows on the far wall.
 

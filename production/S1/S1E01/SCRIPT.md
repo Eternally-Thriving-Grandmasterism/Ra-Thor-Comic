@@ -8,7 +8,7 @@
 
 Format: `production/README.md` §(a). Captions and bubbles are verbatim from the source file. "S1E01 P#" = source file, that panel.
 
-**Guest (S1E01 Guest line).** The Ribbon Envoy, from [HOUSE-A] of the Ninefold Houses (placeholder; Q9 resolved). Long dark travelling cloak, fitted gloves never removed, face hidden behind a veil of fine gold mesh the whole time. House sign is an abstract knot glyph, not a flag.
+**Guest (S1E01 Guest line).** The Ribbon Envoy, from [HOUSE-A] of the Ninefold Houses (placeholder; Q9 resolved). Invented. Long dark travelling cloak, fitted gloves never removed, face hidden behind a veil of fine gold mesh the whole time. House sign is an abstract knot glyph, not a flag. No real name, no celebrity face, no logo, no real place or culture.
 
 **Set (S1E01 Set line).** The Quiet Room, extended with a long table for the season. Chairs run down both sides, all empty except the envoy's. One practical lamp.
 

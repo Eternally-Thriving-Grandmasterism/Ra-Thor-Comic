@@ -8,7 +8,7 @@
 
 Format: `production/README.md` §(a). Captions and bubbles are verbatim from the source file. "S1E04 P#" = source file, that panel.
 
-**Guest (S1E04 Guest line).** The Glass Envoy, from [HOUSE-D] of the Ninefold Houses (placeholder; Q9 resolved). Speaks from behind a tall gilded folding screen that they carry and set up wherever they stand; only their gloved hands ever come around its edge. The face is never seen. House sign is an abstract hinge glyph, not a flag.
+**Guest (S1E04 Guest line).** The Glass Envoy, from [HOUSE-D] of the Ninefold Houses (placeholder; Q9 resolved). Invented. Speaks from behind a tall gilded folding screen that they carry and set up wherever they stand; only their gloved hands ever come around its edge. The face is never seen. House sign is an abstract hinge glyph, not a flag. No real name, no celebrity face, no logo, no real place or culture.
 
 **Set (S1E04 Set line).** The Quiet Room with the season's long table. Chairs run down both sides, uncounted. The knot-glyph token (S1E01), the step-glyph token (S1E02) and the capped pen (S1E03) rest on three chairs. One practical lamp.
 
