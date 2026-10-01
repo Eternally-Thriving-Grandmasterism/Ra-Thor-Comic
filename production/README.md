@@ -69,11 +69,12 @@ Footer: tuning A4 = 432, wordless in-episode, mood words only (no artist, band, 
 
 ## Next script cards (in order)
 
-Sherif picked The Long Table to open S1, and the rich S1 files test the full format first. S0 comes later, as a gap audit after S1–S3, and is never filled in.
+Council-ruled airing order. Each card is a full set (SCRIPT, ART_PROMPTS, MUSIC_CUES).
 
-1. **Card 1 — S1E01, The Ribbon Clause:** full set (SCRIPT, ART_PROMPTS, MUSIC_CUES), the Season 1 opener.
-2. **Card 2 — S1E02, The Tall Chair:** full set.
-3. **Card 3 — S1E03, The Ghost Clause:** full set.
+1. **S1E04, S1E05, S1E06:** the rest of Season 1 (arc A).
+2. **S2E01–S2E06:** Season 2 (arc C).
+3. **S3E01–S3E06:** Season 3 (arc B).
+4. **S0 gap audit (E01–E06), last:** gaps listed, never filled in.
 
 ## Known gaps (from the merged files)
 
