@@ -8,7 +8,7 @@
 | 01_VISUAL_STYLE_GUIDE.md | Plate, page grammar, prompt stem |
 | 02_SERIES_STRUCTURE.md | Season 0, six shorts |
 | 03_TONE_SPECS.md | Original house tone modes |
-| 04_VISUAL_CANON.md | Reference art notes and open canon questions |
+| 04_VISUAL_CANON.md | Reference art notes and council canon rulings |
 | 09_CHARACTER_BIBLE.md | Ra-Thor, Gate, Recycler, White Hat, Councils |
 | 10_LOCATION_BIBLE.md | Threshold, Recycler Bay, Quiet Room |
 | episodes/E01_THE_GATE.md | Pilot |
