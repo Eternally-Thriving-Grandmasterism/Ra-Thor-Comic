@@ -89,7 +89,7 @@ Council rulings applied across arc B, with where each shows in the repo.
 13. **The notebook line, once.** "Enough for everyone, with nobody left out." appears once, verbatim, in S3E06's notebook, and is the only notebook line in S3 (council ruling, PR #31 review). The Founder stays implied only, with no reading line used in S3.
 14. **One wordless choir swell, in S3E06.** A single open vowel as the crates open, mirroring S2E06, fading before the 528 chime (council ruling, PR #31 review).
 15. **Drones under the pad only.** The Lab Night drone sits only under the 543-pad sections; the swung sections have no drone. The keys and drones are confirmed (council ruling, PR #31 review).
-16. **AGiRBE and Fresco: docs and the end-credits crawl only.** Never on the cover, title card, promo art, or in-world (council ruling, PR #31 review). The crawl text lives in §7 of this sheet (council ruling, this PR).
+16. **AGiRBE and Fresco: docs and the end-credits crawl only.** Never on the cover, title card, promo art, or in-world (council ruling, PR #31 review). The crawl text lives in §7 of this sheet (council ruling, #38).
 17. **The series title only on packaging.** Never on story pages, panels or in-world props (council ruling, PR #27).
 18. **The Powrush-MMO line stays out of every panel** (council ruling, PR #31 review).
 19. **Q8 still open.** No owner, studio, game, product or work names on the page.
@@ -118,12 +118,14 @@ The S1 blocks (shield laid flat, chair back pressed, hourglass laid on its side,
 
 ## 7. End-credits crawl
 
-This section is the one source of truth for the S3 end-credits crawl text (council ruling, this PR). Both entries are copied from `seasons/S3_ARC_LOCK.md` §2, not paraphrased. They appear only in docs and in the end-credits text crawl, never on the cover, the intro/outro title card, promo art, or anywhere in-world (`seasons/S3_ARC_LOCK.md` §2).
+This section is the one source of truth for the S3 end-credits crawl text (council ruling, #38). Both entries are copied from `seasons/S3_ARC_LOCK.md` §2, not paraphrased. They appear only in docs and in the end-credits text crawl, never on the cover, the intro/outro title card, promo art, or anywhere in-world (`seasons/S3_ARC_LOCK.md` §2).
 
 > "Realistic abundance is likely AGIRBE as portrayed by combining my work with Jacque Fresco's work and evolving it to the ultimate form continuously, Mate!"
 > — Sherif, 2026-10-01 12:14 AM ET
 
-**Jacque Fresco.** Cited as Sherif's named inspiration in docs, and credited in the end-credits text crawl as cited inspiration (ruled, council, #31 review). Never a character, likeness, name, or reference on any page, panel, or prompt, and never depicted (05, Q11, Fresco bound).
+Cited inspiration: the work of Jacque Fresco.
+
+Rule (not printed): **Jacque Fresco.** Cited as Sherif's named inspiration in docs, and credited in the end-credits text crawl as cited inspiration (ruled, council, #31 review). Never a character, likeness, name, or reference on any page, panel, or prompt, and never depicted (05, Q11, Fresco bound).
 
 ## 8. Questions and status
 
@@ -142,3 +144,4 @@ This section is the one source of truth for the S3 end-credits crawl text (counc
 4. **NO FIX (by design). S3E06's Snap panel is P5, not P6.** The season ends in Recycler Bay, as the lock's S3E06 logline says, so the Snap button carries the open crates in P5 and P6 is the quiet closer.
 5. **NO FIX (intentional). Who keeps the card.** In S3E04 and S3E06 the blocked guest keeps the CLEAN card; in the other four it is passed on to the commons guest.
 6. **NOT FIXED (outside scope). 05's status lines.** 05's B entry still reads "UNBLOCKED", as its C entry did after S2, and 05's Q11 Fresco bound mentions docs only, not the end-credits crawl (the crawl credit comes from the #31 ruling, recorded in the lock §2). 05 is not changed here.
+7. **GRANDFATHERED (council ruling, #38). The S3E01–S3E05 number words (item 1).** They are story counts, not tolls, prices or quantities, and they stay as written; no scrub. The #36 no-numbers rule for captions and bubbles binds from #36 on.
