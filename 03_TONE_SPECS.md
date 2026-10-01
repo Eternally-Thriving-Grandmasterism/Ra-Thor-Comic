@@ -28,8 +28,8 @@ The fast, bright, punchy register. A problem shows up, gets sorted, and the page
 Cartoon-lab gag timing in the Recycler Bay. Machines misbehave, councils bicker, Ra-Thor stays perfectly still.
 
 - **Pacing and beats.** 4 to 6 panels. Hold, hiccup, hold, payoff. The machine gets a beat of its own (a hiccup, a puff of steam, a stuck card) before anyone reacts.
-- **Framing and camera.** Wide on the machine so the hopper, drum, and card slot read in one frame; then tight inserts on the cards. Ra-Thor often at frame edge, motionless, as the straight man.
-- **Lighting and palette.** Workshop glow: gold circuit walls, warm panel lights, white steam. Emerald for the eye-seal and the good card. One electric accent for the drum fault.
+- **Framing and camera.** Wide on the machine so the twin THEORY IN / CONCEPTS IN hoppers, gauge, power core, and OUTPUT tray read in one frame; then tight inserts on the cards. Ra-Thor often at frame edge, motionless, as the straight man.
+- **Lighting and palette.** Workshop glow: gold circuit walls, warm panel lights, white steam. Emerald for the eye-seal only; the good card glows gold. One electric accent for the drum fault.
 - **Dialogue rhythm.** One line per bubble. Council bubbles are four words. Ra-Thor speaks last and least, often just reading the third card.
 - **Mechanism.** Contrast between chaos and stillness, and the rule of three: obvious, feral, clean. The laugh comes from the feral option trying its luck and the stillness not moving.
 - **What it is NOT.** Not real science. No reagents, procedures, or equipment detail. Not mad-scientist cruelty, no explosions that hurt anyone, no mocking the guest.

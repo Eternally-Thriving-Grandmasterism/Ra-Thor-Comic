@@ -10,7 +10,7 @@ Beaker note: the beaker holds swirling gold light, an idea taking shape. It is n
 
 > Comic panel, bold ink, graphic-novel lighting. Ra-Thor in gold-and-black circuit-plate armor, winged halo, narrow visor with a warm eye-slit, emerald eye-seal kite shield, thunder hammer grounded. Speech bubble with the exact line given. No phone UI, no watermark, no celebrity face.
 
-Set add-on for this episode: Recycler Bay at night, cartoon-scale lab grown out of gold circuit plate, hopper, drum, card slot. Cartoon-lab gag timing (Lab Night mode). The emerald eye-seal must be clearly visible on the shield face in every panel the shield appears. The Shortcut's face stays hidden in hood shadow. Palette gold, obsidian, emerald, one electric accent.
+Set add-on for this episode: Recycler Bay at night, cartoon-scale lab grown out of gold circuit plate, Idea Recycler with twin THEORY IN / CONCEPTS IN hoppers, gauge, power core, and OUTPUT tray. Cartoon-lab gag timing (Lab Night mode). The emerald eye-seal must be clearly visible on the shield face in every panel the shield appears. The Shortcut's face stays hidden in hood shadow. Palette gold, obsidian, emerald, one electric accent.
 
 ## Panel 1 — Establishing
 
