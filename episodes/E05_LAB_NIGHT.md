@@ -16,7 +16,7 @@ Set add-on for this episode: Recycler Bay at night, cartoon-scale lab grown out 
 
 Caption: RECYCLER BAY. LAB NIGHT. ONE BEAKER. TWELVE OPINIONS.
 Council bubble: "Too hot. Cool it."
-Wide. Ra-Thor stands at the bench holding one beaker of swirling gold light in his gauntlet. Shield leaned against the bench, eye-seal facing out. Hammer butt on the stone floor beside him with a small lightning crack. Twelve tiny gold masks ring the halo. One mask, top of the ring, has the bubble.
+Wide. Ra-Thor stands at the bench holding one beaker of swirling gold light in his gauntlet. Shield leaned against the bench, eye-seal facing out. Hammer head-down on the stone floor beside him, small crack and sparks at contact. Twelve tiny gold masks ring the halo. One mask, top of the ring, has the bubble.
 Prompt: [stem] + wide establishing shot of a gold circuit-plate lab at night, Ra-Thor holding a single beaker of swirling gold light, twelve tiny gold masks in a ring behind the halo, one tiny four-word bubble from the top mask, shield against the bench with the emerald eye-seal clearly visible, hammer grounded.
 
 ## Panel 2 — Council in session
@@ -53,7 +53,7 @@ Prompt: [stem] + IDEA-RECYCLER drum swallowing a glowing drop, three cards eject
 Caption: BEAKER STILL WHOLE. COUNCIL ADJOURNED. HAMMER STILL GROUNDED.
 Bubble: "Next."
 The beaker rests on the bench, its light settled into a steady gold seed. The Shortcut sits on a lab stool, hood still up, reading the FERAL card with interest. The masks dim one by one. Visor slit wide-gold.
-Prompt: [stem] + quiet closing shot, beaker on the bench glowing with a calm steady gold seed of light, hooded guest seated on a stool with face hidden reading a card labeled FERAL, halo masks dimming, visor slit wide and gold, shield with emerald eye-seal clearly visible, hammer grounded with a small lightning crack.
+Prompt: [stem] + quiet closing shot, beaker on the bench glowing with a calm steady gold seed of light, hooded guest seated on a stool with face hidden reading a card labeled FERAL, halo masks dimming, visor slit wide and gold, shield with emerald eye-seal clearly visible, hammer head-down on stone, small crack and sparks at contact.
 
 ## Reject
 

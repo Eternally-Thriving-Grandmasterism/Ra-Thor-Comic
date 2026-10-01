@@ -46,12 +46,12 @@ The pose-and-shadow register for establishing shots and closers. The armor alone
 - **Framing and camera.** Full figure or three-quarter, low angle, against the gold lattice arch or a dark doorway. Wings and halo ring break the skyline. Cape dark and heavy. Negative space around the figure.
 - **Lighting and palette.** Backlight and rim light. Obsidian mass, gold edges, the visor slit as the brightest small point. Emerald only on the eye-seal.
 - **Dialogue rhythm.** One short bubble or none. The caption carries the context.
-- **Mechanism.** Presence. Stillness reads as strength; the hammer resting on stone says the watch never needed it.
+- **Mechanism.** Presence. Stillness reads as strength; the hammer resting head-down on stone says the watch never needed it.
 - **What it is NOT.** Not brooding self-pity. Not menace aimed at civilians. Not a fight pose: no raised hammer, no lunge, no chase.
 - **Example beats (our episodes).**
   - E01 Panel 1: THRESHOLD. NIGHT. SORT IN PROGRESS. "Left is noise. Right can live."
   - E03 Panel 3: Ra-Thor has not raised the hammer. "Edge held."
-  - E06 Panel 1: the Board is awake, nobody speaks, hammer on stone.
+  - E06 Panel 1: the Board is awake, nobody speaks, hammer head-down on stone.
 
 ## Quiet Board mode
 
