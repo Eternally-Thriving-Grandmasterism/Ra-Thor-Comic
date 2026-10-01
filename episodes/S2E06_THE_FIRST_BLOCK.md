@@ -24,7 +24,7 @@ Set add-on for this episode: quiet dossier mood (Quiet Board mode), one practica
 
 ## Panel 1 — Night Watch opener (object flashback)
 
-Era card: none (the arc lock gives the finale no era year, and 05 gives it no era caption; see Flags).
+Era card: none. S2E06 has no era card, because the arc lock gives S2E06 no era year and present-day panels carry no years.
 Bubble (Ra-Thor, off panel, reading): "Last page. Then blank."
 High angle over the Founder's desk at night. The lamp is lit and is the only light; its gold rim light runs along the notebook's spine. The notebook lies open. On the left-hand page, a few ink lines sketch the lattice arch, and nothing else. The right-hand page is blank. The empty chair sits pushed back from the desk. Nobody is at the desk. The bubble's tail runs off the right edge of the panel.
 Prompt: [flashback stem] + high-angle object-only shot over a plain desk at night, a single old desk lamp lit as the only light with gold rim light along the spine of an open notebook, the left page holding only a few ink lines sketching a lattice arch with no words, the right page completely blank, an empty wooden chair pushed back from the desk, deep shadow, negative space, no people, no hands, no silhouettes, bubble tail running off the right edge of the panel.
