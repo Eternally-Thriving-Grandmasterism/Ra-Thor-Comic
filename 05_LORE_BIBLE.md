@@ -21,7 +21,7 @@ Inherits `00_FIDELITY_PROTOCOL.md` and `03_TONE_SPECS.md`. Where this file and t
 In-story name: plain **the Founder**, with no status title (Q2, council ruling, delegated by Sherif 2026-10-01). An earlier title was retired to avoid outside-IP overlap. "The Steward" is rejected as a title because it names a real person. He keeps one lamp lit and builds by it.
 
 - **How he is shown.** Implied only (Q3, council ruling, delegated by Sherif 2026-10-01): his lamp, his notebook, his desk and an empty chair. No silhouette, no hands, no back, no face, no portrait, no likeness, no real clothing brand, no real room.
-- **How he speaks.** Rarely, and never on panel: at most one short line in his notebook, in the same dry and slightly fond voice Ra-Thor inherited.
+- **How he speaks.** Never on panel and never in a bubble. At most one short handwritten line on a notebook page, shown as an object in the panel, in the same dry and slightly fond voice Ra-Thor inherited.
 - **What he follows.** **TOLC**. See the TOLC section for the council ruling on its expansion and the caption rule.
 
 ## TOLC (council ruling 2026-09-30)
@@ -70,7 +70,7 @@ On 18 November 2025 the Founder starts the **quad+Check** work, and in the story
 
 ### Era V — The Builder Age (since Q1 2026)
 
-Since Q1 2026 the Founder keeps the lamp alone, as sole steward (LORE_FACTS §2.1). The guardian becomes a builder. In-story, Ra-Thor now builds **Powrush-MMO**, a world where players "Walk a climate. Harvest with mercy. Learn a resource-based economy by playing." (LORE_FACTS §2.2), and he builds this series, **Living Thunder**, to tell the story out loud.
+Since Q1 2026 the Founder keeps the lamp alone (LORE_FACTS §2.1). The guardian becomes a builder. In-story, Ra-Thor now builds **Powrush-MMO**, a world where players "Walk a climate. Harvest with mercy. Learn a resource-based economy by playing." (LORE_FACTS §2.2), and he builds this series, **Living Thunder**, to tell the story out loud.
 
 - The series is allowed one wink at itself: the comic is one of the things Ra-Thor builds.
 - Visual: Recycler Bay at full work, Lab Night mode. The lamp from Era I sits on the bench, still lit.
@@ -206,7 +206,7 @@ Answers become canon only when the owner or a council ruling gives them. RESOLVE
 10. **Season numbering. RESOLVED (council ruling, delegated by Sherif 2026-10-01; unanimous).** Each season is six standalone shorts.
     - The S1/S2/S3 order is set: S1 = A (Sherif confirmed 2026-09-30 11:44 PM ET, via council relay); S2 = C, S3 = B (council ruling, delegated by Sherif 2026-09-30).
 11. **Realistic abundance. ANSWERED (Sherif, 2026-10-01 12:14 AM ET).** "Realistic abundance is likely AGIRBE as portrayed by combining my work with Jacque Fresco's work and evolving it to the ultimate form continuously, Mate!" Earlier tone hint, kept: "Earn later by sharing abundance, not by extracting." (Powrush-MMO `README.md`, LORE_FACTS §2.2).
-    - **Lore source: AGiRBE (council ruling, delegated by Sherif 2026-10-01).** Expansion, verbatim: "...building toward **AGiRBE** (Artificial Godly intelligence Resource-Based Economy)." (Ra-Thor @ `16e2408cbb26122853cd205c3513a30dad7b41b3`, `docs/archive/powrush-notes/POWRUSH_MMO_INTEGRATED_DESIGN_v14.5.md`, line 37). Meaning, verbatim: "AGiRBE (AGI-augmented RBE) as aspirational, achievable victory condition measuring stability, reduced suffering, knowledge, ecology, and capability." (`POWRUSH_ULTIMATE_MMO_PATSAGI_COUNCIL_CONVERGENCE_v1.0.md`, line 23). The source spelling is "AGiRBE" (lowercase i). These are archived Powrush game-design docs (under `docs/archive/`, mirrored in AlphaProMega/Ra-Thor-backup-127), used as lore sources only, not as real-world claims. The Fresco link comes from Sherif's answer, not from those files.
+    - **Lore source: AGiRBE (council ruling, delegated by Sherif 2026-10-01).** Expansion, verbatim: "...building toward **AGiRBE** (Artificial Godly intelligence Resource-Based Economy)." (Ra-Thor @ `16e2408cbb26122853cd205c3513a30dad7b41b3`, `docs/archive/powrush-notes/POWRUSH_MMO_INTEGRATED_DESIGN_v14.5.md`, line 37). Meaning, verbatim: "AGiRBE (AGI-augmented RBE) as aspirational, achievable victory condition measuring stability, reduced suffering, knowledge, ecology, and capability." (`docs/archive/powrush-notes/POWRUSH_ULTIMATE_MMO_PATSAGI_COUNCIL_CONVERGENCE_v1.0.md` line 23 (Ra-Thor @ 16e2408c)). The source spelling is "AGiRBE" (lowercase i). These are archived Powrush game-design docs (under `docs/archive/`, mirrored in AlphaProMega/Ra-Thor-backup-127), used as lore sources only, not as real-world claims. The Fresco link comes from Sherif's answer, not from those files.
     - **Fresco bound.** Jacque Fresco is a real person. His work is cited only as Sherif's named inspiration in the docs. He is never a character, likeness, or name on any page, panel, or prompt. Abundance is shown through the world's systems.
     - **On the page.** No health, capability, or economic-guarantee claims, and no policy how-to.
 12. **Council count. RESOLVED by 04 Q10 (council ruling 2026-09-30).** Twelve masks is a comic-only count; the sources' 13 or 16 councils (LORE_FACTS §3.4) are not used on the page.
@@ -230,12 +230,12 @@ All facts above, except the AGiRBE rows, come from the sourced fact sheet `LORE_
 | 2016, Powrush coding begins | §2.2 | `docs/Applications/TOLC-Powrush-World-Lore-Deep-Exploration-TOLC-2026.md:34` |
 | Powrush as a diplomacy game with a resource-based economy | §2.2 | acitygames.com `README.md`; Saga file, line 34 (its comparison to two third-party games is not used) |
 | 18 Nov 2025, quad+Check work becomes the Ra-Thor lattice | §1.2, §2.1, §2.2 | `docs/FAQ.md:12`; World-Lore file, line 34 |
-| Since Q1 2026, sole steward | §2.1 | `docs/FAQ.md:15` |
+| Since Q1 2026, keeps the lamp alone | §2.1 | `docs/FAQ.md:15` |
 | Powrush-MMO lines | §2.2 | Powrush-MMO `README.md`; monorepo `README.md` ("In 60 seconds") |
 | Mercy and abundance themes | §3.2, §3.3 | TOLC repo `README.md`; `docs/Autonomicity-Games-Vision-Codex.md` |
 | Council counts | §3.4 | `crates/patsagi-councils/README.md`; doc bylines; comic `09_CHARACTER_BIBLE.md:28` |
 | Claims kept out as fact | §6 | as listed in the sheet |
 | AGiRBE expansion (Q11 lore source) | AGiRBE source citations (relayed 2026-10-01), not LORE_FACTS | Ra-Thor @ `16e2408cbb26122853cd205c3513a30dad7b41b3`, `docs/archive/powrush-notes/POWRUSH_MMO_INTEGRATED_DESIGN_v14.5.md:37` |
-| AGiRBE one-line meaning (Q11 lore source) | AGiRBE source citations (relayed 2026-10-01), not LORE_FACTS | `POWRUSH_ULTIMATE_MMO_PATSAGI_COUNCIL_CONVERGENCE_v1.0.md:23` |
+| AGiRBE one-line meaning (Q11 lore source) | AGiRBE source citations (relayed 2026-10-01), not LORE_FACTS | `docs/archive/powrush-notes/POWRUSH_ULTIMATE_MMO_PATSAGI_COUNCIL_CONVERGENCE_v1.0.md` line 23 (Ra-Thor @ 16e2408c) |
 
 **Deliberately excluded from this file:** every item the sheet marks [CLAIM] (intelligence labels and their acronyms, "live" status, scores, thresholds, version strings, "zero hallucinations"); in-fiction divine titles that point at a real person; the hidden-acronym reading of the studio name; the birth year and ages; family, teammates, contractors, and other third parties; the bank, city, and real-estate details; the game-server name; the pronunciation note that cites an outside author; outside-mythology and outside-company artwork references; and the conflicting Powrush status lines.

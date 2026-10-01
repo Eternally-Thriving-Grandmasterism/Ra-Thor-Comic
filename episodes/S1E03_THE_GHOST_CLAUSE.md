@@ -2,7 +2,7 @@
 
 Status: draft. Six panels scripted, not yet prompted. Season 1, arc A, The Long Table. Suave Hour mode (lead), with a Night Watch silhouette opener. The third envoy brings a beautiful treaty written in ink that fades by morning. The vanishing clause is blocked, the terms are kept in ink that lasts, the envoy leaves with a CLEAN card, and the hammer never moves.
 
-Guest: the Ink Envoy, from [HOUSE-C] of the Ninefold Houses (placeholder; faction names await Q9). Invented. Deep cowl, long gloves never removed, face kept in cowl shadow the whole time. Carries a slim writing case. House sign is an abstract drop glyph, not a flag. No real name, no celebrity face, no logo, no real place or culture.
+Guest: the Ink Envoy, from [HOUSE-C] of the Ninefold Houses (placeholder; Q9 resolved). Invented. Deep cowl, long gloves never removed, face kept in cowl shadow the whole time. Carries a slim writing case. House sign is an abstract drop glyph, not a flag. No real name, no celebrity face, no logo, no real place or culture.
 
 Set: the Quiet Room with the season's long table. Chairs run down both sides, uncounted. The knot-glyph token (S1E01) and the step-glyph token (S1E02) rest on two chairs. One practical lamp.
 

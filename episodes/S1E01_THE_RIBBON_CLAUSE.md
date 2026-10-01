@@ -2,7 +2,7 @@
 
 Status: draft. Six panels scripted, not yet prompted. Season 1 opener, arc A, The Long Table. Suave Hour mode (lead). The first envoy arrives with a gift that has strings. The offer is blocked, the deal is kept, the envoy leaves with a CLEAN card, and the hammer never moves.
 
-Guest: the Ribbon Envoy, from [HOUSE-A] of the Ninefold Houses (placeholder; faction names await Q9). Invented. Long dark travelling cloak, fitted gloves never removed, face hidden behind a veil of fine gold mesh the whole time. House sign is an abstract knot glyph, not a flag. No real name, no celebrity face, no logo, no real place or culture.
+Guest: the Ribbon Envoy, from [HOUSE-A] of the Ninefold Houses (placeholder; Q9 resolved). Invented. Long dark travelling cloak, fitted gloves never removed, face hidden behind a veil of fine gold mesh the whole time. House sign is an abstract knot glyph, not a flag. No real name, no celebrity face, no logo, no real place or culture.
 
 Set: the Quiet Room, extended with a long table for the season. Chairs run down both sides, all empty except the envoy's. One practical lamp.
 

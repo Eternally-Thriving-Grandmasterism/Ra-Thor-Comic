@@ -13,11 +13,11 @@ Status: reference sheet. Arc A, The Long Table, six standalone shorts (Q10, coun
 | S1E05 | The Side Letter | `episodes/S1E05_THE_SIDE_LETTER.md` | #18 | single envoy |
 | S1E06 | The Kept Chair | `episodes/S1E06_THE_KEPT_CHAIR.md` | #19 | arc A finale |
 
-Each season is six standalone shorts (Q10, council ruling, delegated by Sherif 2026-10-01). S1E06's status line still reads "six-episode plan, Q10 open", written before the ruling.
+Each season is six standalone shorts (Q10, council ruling, delegated by Sherif 2026-10-01). FIXED in CANON-RULINGS-1: S1E06's status line now reads "Q10 resolved: six shorts".
 
 ## 2. Per-episode table
 
-All houses are of the Ninefold Houses of the Ostlen Marches (faction names approved, Q9, council ruling, delegated by Sherif 2026-10-01). Individual houses stay unnamed and glyph-only, with [HOUSE-X] placeholders. The episode files still carry the older "faction names await Q9" tag. All envoys are invented, faces never shown. House signs are abstract glyphs, never flags.
+All houses are of the Ninefold Houses of the Ostlen Marches (faction names approved, Q9, council ruling, delegated by Sherif 2026-10-01). Individual houses stay unnamed and glyph-only, with [HOUSE-X] placeholders. FIXED in CANON-RULINGS-1: the episode files' house tags now read "(placeholder; Q9 resolved)". All envoys are invented, faces never shown. House signs are abstract glyphs, never flags.
 
 | Ep | Envoy | Hiding device | House glyph | House placeholder | Flaw | Block | Token / marker left |
 |---|---|---|---|---|---|---|---|

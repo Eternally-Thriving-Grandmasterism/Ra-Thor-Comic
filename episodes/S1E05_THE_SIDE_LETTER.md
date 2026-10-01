@@ -2,7 +2,7 @@
 
 Status: draft. Six panels scripted, not yet prompted. Season 1, arc A, The Long Table. Suave Hour mode (lead), with a Night Watch silhouette closer. The fifth envoy brings fair terms over the table and a sealed letter under it. The side deal is blocked, the terms are kept in the open, the envoy leaves with a CLEAN card, and the hammer never moves.
 
-Guest: the Shade Envoy, from [HOUSE-E] of the Ninefold Houses (placeholder; faction names await Q9). Invented. Carries a wide black lacquered parasol with gold ribs and keeps it tilted low in front of them, indoors and out; only the hem of a long coat and one gloved hand ever show below its edge. The face is never seen. House sign is an abstract fan glyph, not a flag. No real name, no celebrity face, no logo, no real place or culture.
+Guest: the Shade Envoy, from [HOUSE-E] of the Ninefold Houses (placeholder; Q9 resolved). Invented. Carries a wide black lacquered parasol with gold ribs and keeps it tilted low in front of them, indoors and out; only the hem of a long coat and one gloved hand ever show below its edge. The face is never seen. House sign is an abstract fan glyph, not a flag. No real name, no celebrity face, no logo, no real place or culture.
 
 Set: the Quiet Room with the season's long table. Chairs run down both sides, uncounted. The knot-glyph token (S1E01), the step-glyph token (S1E02), the capped pen (S1E03) and the hinge-glyph token (S1E04) rest on four chairs. At the far end, one chair sits in shadow, untouched. One practical lamp.
 
