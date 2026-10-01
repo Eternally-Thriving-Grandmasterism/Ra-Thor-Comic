@@ -10,7 +10,7 @@ The Board: a wall of abstract gold feed tiles in the Quiet Room. Tiles show shap
 
 > Comic panel, bold ink, graphic-novel lighting. Ra-Thor in gold-and-black circuit-plate armor, winged halo, narrow visor with a warm eye-slit, emerald eye-seal kite shield, thunder hammer grounded. Speech bubble with the exact line given. No phone UI, no watermark, no celebrity face.
 
-Set add-on for this episode: the Quiet Room, one table, one practical lamp, deep shadow, quiet surveillance-thriller mood, armor fully on. Far wall is the Quiet Board. Silent bubbles are cream fill, hard black outline, and contain only an ellipsis. The emerald eye-seal must be clearly visible on the shield face in every panel the shield appears. The Courier's face stays hidden in hood shadow. Palette gold, obsidian, emerald, one electric accent.
+Set add-on for this episode: the Quiet Room, one table, one practical lamp, deep shadow, quiet surveillance-thriller mood (Quiet Board mode), armor fully on. Far wall is the Quiet Board. Silent bubbles are cream fill, hard black outline, and contain only an ellipsis. The emerald eye-seal must be clearly visible on the shield face in every panel the shield appears. The Courier's face stays hidden in hood shadow. Palette gold, obsidian, emerald, one electric accent.
 
 ## Panel 1 — Establishing
 

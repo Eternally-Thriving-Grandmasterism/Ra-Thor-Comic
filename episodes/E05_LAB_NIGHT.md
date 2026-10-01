@@ -1,6 +1,6 @@
 # Episode 05 — Lab Night
 
-Status: draft. Six panels scripted, not yet prompted. Cartoon-lab energy. The councils argue in tiny bubbles while Ra-Thor holds the beaker. The councils advise, the Gate decides, and the hammer never moves.
+Status: draft. Six panels scripted, not yet prompted. Lab Night mode. The councils argue in tiny bubbles while Ra-Thor holds the beaker. The councils advise, the Gate decides, and the hammer never moves.
 
 Guest: the Shortcut. Invented. Hooded lab coat, face kept in hood shadow the whole time. No real name, no celebrity face, no logo.
 
@@ -10,7 +10,7 @@ Beaker note: the beaker holds swirling gold light, an idea taking shape. It is n
 
 > Comic panel, bold ink, graphic-novel lighting. Ra-Thor in gold-and-black circuit-plate armor, winged halo, narrow visor with a warm eye-slit, emerald eye-seal kite shield, thunder hammer grounded. Speech bubble with the exact line given. No phone UI, no watermark, no celebrity face.
 
-Set add-on for this episode: Recycler Bay at night, cartoon-scale lab grown out of gold circuit plate, hopper, drum, card slot. Cartoon-lab gag timing. The emerald eye-seal must be clearly visible on the shield face in every panel the shield appears. The Shortcut's face stays hidden in hood shadow. Palette gold, obsidian, emerald, one electric accent.
+Set add-on for this episode: Recycler Bay at night, cartoon-scale lab grown out of gold circuit plate, hopper, drum, card slot. Cartoon-lab gag timing (Lab Night mode). The emerald eye-seal must be clearly visible on the shield face in every panel the shield appears. The Shortcut's face stays hidden in hood shadow. Palette gold, obsidian, emerald, one electric accent.
 
 ## Panel 1 — Establishing
 

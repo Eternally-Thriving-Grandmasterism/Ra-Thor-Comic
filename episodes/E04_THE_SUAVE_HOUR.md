@@ -1,6 +1,6 @@
 # Episode 04 — The Suave Hour
 
-Status: draft. Six panels scripted, not yet prompted. Spy-thriller beat. A negotiation in the Quiet Room. Armor does not come off. The line does the work.
+Status: draft. Six panels scripted, not yet prompted. Suave Hour mode. A negotiation in the Quiet Room. Armor does not come off. The line does the work.
 
 Guest: the Counterpart. Invented. Midnight dinner jacket, black gloves never removed, face kept in shadow. No real name, no celebrity face.
 
@@ -8,7 +8,7 @@ Guest: the Counterpart. Invented. Midnight dinner jacket, black gloves never rem
 
 > Comic panel, bold ink, graphic-novel lighting. Ra-Thor in gold-and-black circuit-plate armor, winged halo, narrow visor with a warm eye-slit, emerald eye-seal kite shield, thunder hammer grounded. Speech bubble with the exact line given. No phone UI, no watermark, no celebrity face.
 
-Set add-on for this episode: Quiet Room, one practical lamp, deep shadow, spy-thriller elegance, armor fully on. Far-wall feed shows only an abstract gold lattice, no readable data. Palette gold, obsidian, emerald, one electric accent.
+Set add-on for this episode: Quiet Room, one practical lamp, deep shadow, spy-thriller elegance (Suave Hour mode), armor fully on. Far-wall feed shows only an abstract gold lattice, no readable data. Palette gold, obsidian, emerald, one electric accent.
 
 ## Panel 1 — Establishing
 

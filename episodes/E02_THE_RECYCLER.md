@@ -1,6 +1,6 @@
 # Episode 02 — The Recycler
 
-Cartoon-lab bay. One drum. Three cards. Ra-Thor reads only the third.
+Recycler Bay, Lab Night mode. One drum. Three cards. Ra-Thor reads only the third.
 
 ## Panel 1
 
@@ -22,4 +22,4 @@ Bubble, from the visor: "That one."
 The wolf card tries to climb back into the hopper.
 Bubble: "Recycle it."
 
-Prompt stem: comic panel, cartoon-lab gag timing, gold-and-obsidian lab, IDEA-RECYCLER drum, three cards OBVIOUS / FERAL / CLEAN, Ra-Thor in gold circuit plate with winged halo and grounded hammer, speech bubble with the exact line given. No phone UI.
+Prompt stem: comic panel, cartoon-lab gag timing (Lab Night mode), gold-and-obsidian lab, IDEA-RECYCLER drum, three cards OBVIOUS / FERAL / CLEAN, Ra-Thor in gold circuit plate with winged halo and grounded hammer, speech bubble with the exact line given. No phone UI.
