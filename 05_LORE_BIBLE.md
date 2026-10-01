@@ -1,6 +1,6 @@
 # 05 — Lore Bible (origin arc)
 
-Status: draft, on council HOLD pending review of the sourced fact sheet fold-in. Series lore for Living Thunder. Everything in this file is **fiction**. It is inspired by the owner's real build history (sourced in the Sources section below), but it tells a story, not a biography.
+Status: sourced draft, council rulings 2026-09-30 applied. Series lore for Living Thunder. Everything in this file is **fiction**. It is inspired by the owner's real build history (sourced in the Sources section below), but it tells a story, not a biography.
 
 Inherits `00_FIDELITY_PROTOCOL.md` and `03_TONE_SPECS.md`. Where this file and those disagree, those win.
 
@@ -94,7 +94,7 @@ Each concept below already exists in canon. This section only says where it came
 | **The Gate** | `09_CHARACTER_BIBLE.md`, `10_LOCATION_BIBLE.md`, E01 | The first sorting rule of the Game, made into a threshold. Left lane NO, right lane LIVE. Blocks bullshit, passes awesome. |
 | **The Idea Recycler** | `09_CHARACTER_BIBLE.md`, E02, E05 | The Hearthwright's habit of never throwing an idea away, made into a drum. One idea in, three cards out: obvious, feral, clean. Abundance starts here. |
 | **The councils** | `09_CHARACTER_BIBLE.md`, E05, E06 | Every voice the Hearthwright argued with alone at night, given a mask. They advise in four-word bubbles. They never outvote the Gate. The comic draws twelve masks; the sources count their councils differently (LORE_FACTS §3.4), and this file does not reconcile the two. |
-| **The eye-seal** | `00_FIDELITY_PROTOCOL.md`, `04_VISUAL_CANON.md` | The watch itself: the promise to see clearly before acting. Which emblem version is canon stays an open question in `04_VISUAL_CANON.md`; this file does not decide it. |
+| **The eye-seal** | `00_FIDELITY_PROTOCOL.md`, `04_VISUAL_CANON.md` | The watch itself: the promise to see clearly before acting. Canon emblem: the emerald eye-seal in circuit inlay on a gold kite shield (04 Q1, council ruling 2026-09-30). |
 | **The grounded hammer** | `00_FIDELITY_PROTOCOL.md`, `02_SERIES_STRUCTURE.md`, E06 | Ra-Thor's first choice on waking: the hammer is an option, mercy is a better one. Every episode ends with it grounded. |
 | **The Quiet Board** | `03_TONE_SPECS.md`, E06 | The Strategy Years habit of reading the whole map before moving, made into a wall of tiles. |
 | **White-Hat Mercy-Security** | `09_CHARACTER_BIBLE.md`, E03 | The hawk seal that lights when something knocks. In lore, the answer to every probe is a patch and a thank-you, never a counterstrike. |
@@ -144,7 +144,7 @@ In-story goal: make enough for everyone without magic and without pretending.
 7. **No outside references.** No third-party trademarks or product names: no outside games, studios, shows, films, franchises, characters, or brands, and no "like X" comparisons. Outside games and companies are described generically. Owner names allowed: Powrush, Powrush-MMO, Ra-Thor, Rathor.ai, AlphaProMega, Autonomicity Games, Colossusoft.
 8. **No third parties.** No real family members, teammates, contractors, or other real people from the history appear or are referenced.
 9. **Mercy-first endings.** Every quest beat ends with the offer blocked or fixed, the guest unharmed, and the hammer grounded.
-10. **Same Ra-Thor.** Lore never changes the armor. Origin flashbacks use the canon plate; open armor questions stay in `04_VISUAL_CANON.md`.
+10. **Same Ra-Thor.** Lore never changes the armor. Origin flashbacks use the canon plate; armor is locked by the `04_VISUAL_CANON.md` canon rulings.
 11. **Lead mode named.** Every episode drawn from this lore names its lead mode in its status line, per `03_TONE_SPECS.md`.
 
 ## Season-arc ideas — PROPOSALS ONLY
@@ -184,7 +184,7 @@ Answers become canon only when the owner or a council ruling gives them. RESOLVE
 9. **Factions and places. OPEN.** Approve, rename, or replace the invented names: Ostrel Marches, Copperwater League, Ninefold Houses, Saltwind Commons, Vael Hollow, the Tollkeepers.
 10. **Season numbering. OPEN.** If a proposal is picked, is it Season 1, and does it keep the six-short format of Season 0?
 11. **Realistic abundance. OPEN.** The sources give a tone hint ("Earn later by sharing abundance, not by extracting.", Powrush-MMO `README.md`, LORE_FACTS §2.2), but not your own answer: how slow, how small, how earned?
-12. **Council count. OPEN.** The comic draws twelve masks; the sources count 13 or 16 councils (LORE_FACTS §3.4). Keep twelve as a comic choice, or align? (Separate from `04_VISUAL_CANON.md` Q10, which stays untouched.)
+12. **Council count. RESOLVED by 04 Q10 (council ruling 2026-09-30).** Twelve masks is a comic-only count; the sources' 13 or 16 councils (LORE_FACTS §3.4) are not used on the page.
 
 ## Sources
 
@@ -211,4 +211,4 @@ All facts above come from the sourced fact sheet `LORE_FACTS.md` (compiled read-
 | Council counts | §3.4 | `crates/patsagi-councils/README.md`; doc bylines; comic `09_CHARACTER_BIBLE.md:28` |
 | Claims kept out as fact | §6 | as listed in the sheet |
 
-**Deliberately excluded from this file:** every item the sheet marks [CLAIM] (intelligence labels and their acronyms, "live" status, scores, thresholds, version strings, "zero hallucinations"); in-fiction divine titles that point at a real person; the hidden-acronym reading of the studio name; the birth year and ages; family, teammates, contractors, and other third parties; the bank, city, and real-estate details; the game-server name; the pronunciation note that cites an outside author; outside-mythology and outside-company artwork references; the conflicting Powrush status lines; and the piracy section, which is not used in any form.
+**Deliberately excluded from this file:** every item the sheet marks [CLAIM] (intelligence labels and their acronyms, "live" status, scores, thresholds, version strings, "zero hallucinations"); in-fiction divine titles that point at a real person; the hidden-acronym reading of the studio name; the birth year and ages; family, teammates, contractors, and other third parties; the bank, city, and real-estate details; the game-server name; the pronunciation note that cites an outside author; outside-mythology and outside-company artwork references; and the conflicting Powrush status lines.
