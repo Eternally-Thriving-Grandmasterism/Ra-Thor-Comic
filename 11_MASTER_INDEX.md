@@ -22,6 +22,7 @@
 | episodes/S1E01_THE_RIBBON_CLAUSE.md | Season 1 opener, The Long Table, Suave Hour mode |
 | episodes/S1E02_THE_TALL_CHAIR.md | Season 1, The Long Table, Suave Hour mode |
 | episodes/S1E03_THE_GHOST_CLAUSE.md | Season 1, The Long Table, Suave Hour mode |
+| episodes/S1E04_THE_SIDEWAYS_GLASS.md | Season 1, The Long Table, Suave Hour mode |
 | bots/GROKBOT_COMIC_SEAT.md | One seat, app-provisioned |
 | bots/ROUTINE.md | Forever routine |
 | 11_MASTER_INDEX.md | This map |
