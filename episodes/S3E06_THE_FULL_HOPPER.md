@@ -6,7 +6,7 @@ The Founder: implied only (05, Q3). His notebook appears as an object only, clos
 
 Faction names stay off every panel, caption, bubble and prop (ruling, #32): captions say "THE WATCHER", never a faction name. No glyph, emblem or name on any faction prop (ruling, #32; §5). Locks and keys stay plain and blank (ruling, #35). No numbers in any caption or bubble (ruling, #36). The series title appears on packaging only, never on a page, panel or prop (ruling, #27).
 
-End-credits crawl: the AGiRBE credit line (verbatim, with "Sherif, 2026-10-01 12:14 AM ET") and the Jacque Fresco credit as cited inspiration belong only in the end-credits text crawl (`seasons/S3_ARC_LOCK.md` §2). No episode file defines a credits-crawl section, so neither is placed in this file, and neither appears in any panel, caption, bubble, card or prompt.
+End-credits crawl: the AGiRBE credit line (verbatim, with "Sherif, 2026-10-01 12:14 AM ET") and the Jacque Fresco credit as cited inspiration belong only in the end-credits text crawl. Their placement rules are in `seasons/S3_ARC_LOCK.md` §2, and the crawl text itself is in `seasons/S3_SEASON_SHEET.md` §7 (End-credits crawl). Neither is placed in this file, and neither appears in any panel, caption, bubble, card or prompt.
 
 ## Guests
 

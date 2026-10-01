@@ -1,6 +1,6 @@
 # Season 3 Arc Doc — The Full Hopper (arc B)
 
-Status: S3 = B, council ruling delegated by Sherif 2026-09-30; UNBLOCKED by Sherif's answer to Q11 (2026-10-01 12:14 AM ET). Outline only: six standalone shorts, no episode files yet. Approved in principle as the season plan; every beat stays a proposal, and each episode PR is voted on separately (ruled, council, #31 review). Built only from the B entry in `05_LORE_BIBLE.md` (Season arcs), 05's Quest two (The Full Hopper), Q9, Q10 and Q11, and the standing rules recorded in `seasons/S1_SEASON_SHEET.md`, `seasons/S2_SEASON_SHEET.md` and `seasons/S2_ARC_LOCK.md`. Adds no new canon beyond outlining six standalone shorts. Where a line here is a proposal, not a quote, it says so. Inherits `00_FIDELITY_PROTOCOL.md`, `03_TONE_SPECS.md`, `04_VISUAL_CANON.md` and `06_MUSIC_SPEC.md`; where this doc and those disagree, those win.
+Status: S3 = B, council ruling delegated by Sherif 2026-09-30; UNBLOCKED by Sherif's answer to Q11 (2026-10-01 12:14 AM ET). Complete: all six episodes are merged (#32–#37; see §12). This doc began as the outline, and the episode files were written in their own PRs. Approved in principle as the season plan; every beat stays a proposal, and each episode PR is voted on separately (ruled, council, #31 review). Built only from the B entry in `05_LORE_BIBLE.md` (Season arcs), 05's Quest two (The Full Hopper), Q9, Q10 and Q11, and the standing rules recorded in `seasons/S1_SEASON_SHEET.md`, `seasons/S2_SEASON_SHEET.md` and `seasons/S2_ARC_LOCK.md`. Adds no new canon beyond outlining six standalone shorts. Where a line here is a proposal, not a quote, it says so. Inherits `00_FIDELITY_PROTOCOL.md`, `03_TONE_SPECS.md`, `04_VISUAL_CANON.md` and `06_MUSIC_SPEC.md`; where this doc and those disagree, those win.
 
 ## 1. Premise
 
@@ -147,7 +147,7 @@ The Snap button panel uses only the fixed stinger. There is no Snap cue, because
 - [x] Canon armor unchanged: winged-halo closed helm, warm gold visor slit, emerald eye-seal kite shield, hammer head-down on stone, emerald only on the shield eye-seal and the shoulder hawk seal (00, 04).
 - [x] Music: A4 = 432, 543 only over C# chords, 528 only as a short chime, no darksynth (no siege), in-episode cues wordless, every episode ends on Grounded; E-major drones on E2 or B2.
 - [x] Sourcing bound respected (no `docs/WifeShow/`, no `docs/FACTIONS_OVERVIEW.md`).
-- [x] No episode files written.
+- [x] No episode files written in this doc; the six episodes were merged in separate PRs (#32–#37, §12).
 
 ## 11. Open items (all ruled, council, #31 review)
 
@@ -163,3 +163,22 @@ The Snap button panel uses only the fixed stinger. There is no Snap cue, because
 10. **Recurring guests.** 05's premise implies the Hollow and the Tollkeepers recur across the season. Episodes stay standalone (Q10). Rule whether named recurring guests are allowed, or each episode's guests stay fresh. **Ruled (council, #31 review):** one recurring Tollkeeper, face hidden, appears in S3E04, S3E05 and S3E06 to carry the "by choice" turn. All other guests are fresh in each episode (§3).
 11. **Earlier tone line.** 05 cites Powrush-MMO's "Earn later by sharing abundance, not by extracting." as spirit. It is not proposed for any panel (Q7 keeps Powrush-MMO to captions only, and no caption is given). **Ruled (council, #31 review):** the Powrush-MMO line stays out of every panel (§5).
 12. **06 §6 still open.** Synthwave sub-flavor and who composes. **Ruled (council, #31 review):** carries forward as open and does not block S3.
+
+## 12. Episodes (complete)
+
+| Ep | Title | File | PR | Merge commit on main |
+|---|---|---|---|---|
+| S3E01 | The Last Scraps | `episodes/S3E01_THE_LAST_SCRAPS.md` | #32 | `27bf3efa2a2385c165263b48570c2c63415c1d88` |
+| S3E02 | One Tool, Many Hands | `episodes/S3E02_ONE_TOOL_MANY_HANDS.md` | #33 | `7c789987e026b4f744e7372d1615d5ccbb06c29c` |
+| S3E03 | Let It Cool | `episodes/S3E03_LET_IT_COOL.md` | #34 | `a69405e615de685dfecd6457219dcf52676f85f9` |
+| S3E04 | The Locked Crates | `episodes/S3E04_THE_LOCKED_CRATES.md` | #35 | `c64e493761ee6f8b6d820c75a8087725f00f7457` |
+| S3E05 | The Better Deal | `episodes/S3E05_THE_BETTER_DEAL.md` | #36 | `1d73fe1c2abb77032819f3f34a4ed5c7c1f0b8b0` |
+| S3E06 | The Full Hopper | `episodes/S3E06_THE_FULL_HOPPER.md` | #37 | `bb022caa694ab4ec1f36a020566d7ac819a94911` |
+
+**Rulings from the S3E06 review (council ruling, PR #37).**
+
+- The fixed house line "That one can live." is exempt from the no-numbers rule for captions and bubbles (PR #36).
+- Every S3 episode closes its block with a CLEAN card.
+- Background crate-keepers are fresh figures; only the Watcher (the one recurring Tollkeeper) recurs.
+
+Season wrap-up, rulings ledger, detection-device list and the end-credits crawl text: `seasons/S3_SEASON_SHEET.md`.
