@@ -33,7 +33,7 @@ Episode-wide (S1E05 Music cues): all tonal material at A4 = 432; no darksynth an
 
 ## Notes (file differs from 06; the file wins)
 
-- 06 §2's Night Watch row puts the held 543 top "over the 108 Hz sub drone". The file's Night Watch closer uses the B2 drone instead (121.23 Hz, "never on A, including the Night Watch closer"), in line with 06 §3.4 Keys for E-major beds and the S1 sheet §4 council note on E05.
+- 06 §2's Night Watch row puts the held 543 top "over the 108 Hz sub drone". The file's Night Watch closer uses the B2 drone instead (121.23 Hz, "never on A. That includes the Night Watch closer."), in line with 06 §3.4 Keys for E-major beds and the S1 sheet §4 council note on E05.
 
 ## Footer
 
