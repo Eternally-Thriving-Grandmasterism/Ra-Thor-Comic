@@ -13,7 +13,7 @@ Score and cues for Living Thunder (comic motion and trailer use, and the show). 
 | **Synthwave (lead)** | Analog-style polysynth pads, gated drums, arpeggiated bass, warm saw leads. The default sound of the series. |
 | **Darksynth (siege only)** | Driven bass, distortion, harder kicks. Only for siege cues, matching "Obsidian fortress plate appears only when the Gate is under siege" (`01_VISUAL_STYLE_GUIDE.md`). |
 | **Ambient drone beds** | Long pads, sub drones, slow filter motion. |
-| **Choir swell (sparing)** | Choir pads and low brass-style synth for the one big moment per episode, at most. |
+| **Choir swell (sparing)** | Choir pads and low brass-style synth for the one big moment per episode, at most. Wordless in episodes (see §5, Sung words). |
 | **Chiptune stingers (optional, Lab Night only)** | Short square-wave blips for Lab Night gags. Optional. |
 
 **Signature motif: "Grounded" (council ruling 2026-09-30).** A short 4-note figure that rises and then **lands back on the tonic and holds**. Like the hammer, the music never swings away. Every episode ends with this motif resolving home, matching the season rule "every episode ends with the hammer still grounded" (`02_SERIES_STRUCTURE.md`).
@@ -109,6 +109,7 @@ Do not reuse, quote or link any monorepo frequency, solfeggio or binaural docume
 - **No names.** No artist, band, label or track names anywhere: prompts, briefs, temp lists, metadata, credits (other than our own composers), store copy or press.
 - **AI music tools** are allowed only with written terms that grant commercial and sync rights to the output. Never prompt with a name. Every AI-assisted cue gets human review and a log entry.
 - **Temp tracks** for internal edits also stay original or royalty-free, so nothing drifts into the final.
+- **Sung words (Sherif, 2026-10-01 12:17 AM ET).** "I think sung words are okay in the intro and outro, but not during the actual show episodes, Mate!" Sung lyrics are allowed only in the series intro and outro themes. Every in-episode cue, including the choir swell, stays wordless. Lyrics must be original: no real artist, no imitating an artist, no "mantra" borrowing (nothing lifted from any monorepo frequency, solfeggio, binaural or mantra text; see §4), no sung health or frequency claims (§4), and no real names. Intro and outro themes get rows in the per-track log like every other track.
 
 ### Per-track log (template)
 
@@ -121,5 +122,5 @@ One row per track, filled in when the track is created. Record the tool's licens
 ## 6. Open (not covered by the 2026-09-30 rulings)
 
 1. Synthwave sub-flavor: bright and sunny, or dark and driving (outside siege)?
-2. Vocals: is the choir swell wordless only, or are sung words ever allowed?
+2. Vocals. ANSWERED (Sherif, 2026-10-01 12:17 AM ET): sung words in the series intro and outro themes only; in-episode cues, including the choir swell, stay wordless. See §5, Sung words.
 3. Who composes: in-house, commissioned, or AI-assisted under §5?
