@@ -42,7 +42,7 @@ Fidelity note: eye-seal must read clearly on the shield face. A plain emerald ge
 
 Bubble: "Recycle it."
 A compact Idea Recycler sits on the drinks trolley like a cocktail shaker. The card goes in the hopper. Three cards out the side: OBVIOUS, FERAL, CLEAN. Ra-Thor reads only CLEAN. It says FAIR TERMS.
-Prompt: [stem] + small IDEA-RECYCLER drum on a drinks trolley, hopper swallowing the gilded card, three cards ejecting labeled OBVIOUS / FERAL / CLEAN, the CLEAN card reads FAIR TERMS, Ra-Thor holding only the CLEAN card.
+Prompt: [stem] + small IDEA-RECYCLER on a drinks trolley (horizontal drum, twin THEORY IN / CONCEPTS IN hoppers, OUTPUT tray), a hopper swallowing the gilded card, three cards ejecting labeled OBVIOUS / FERAL / CLEAN, the CLEAN card reads FAIR TERMS, Ra-Thor holding only the CLEAN card.
 
 ## Panel 6 — Quiet closer
 

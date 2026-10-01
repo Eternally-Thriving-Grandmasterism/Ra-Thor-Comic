@@ -6,7 +6,7 @@ Dark stone, gold lattice arch, two lanes. Default set for episodes 01 and 06.
 
 ## Recycler Bay
 
-A cartoon-scale lab for Lab Night mode, grown out of the same circuit plate. Hopper, drum, card slot. Episode 02 and 05.
+A cartoon-scale lab for Lab Night mode, grown out of the same circuit plate. Idea Recycler with twin THEORY IN / CONCEPTS IN hoppers, gauge, power core, and OUTPUT tray. Episode 02 and 05.
 
 ## The Quiet Room
 
