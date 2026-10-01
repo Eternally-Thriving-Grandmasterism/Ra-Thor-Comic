@@ -63,7 +63,7 @@ Header row from the episode file and its season sheet: lead mode, key, BPM, lead
 | 528 Hz | short chime on the bloom only, never held | 06 §3.2 |
 | Stingers | "Blocked." = low muted thud + filter close; "That one can live." = major bloom + 528 chime; card stingers OBVIOUS / FERAL / CLEAN where the file has them | 06 §1, §2 |
 | Choir | flag `YES` only where the file has it: one wordless swell, E06 only (S1E06, S2E06, S3E06 per the S1 sheet and the S2 and S3 locks); otherwise `no` | season sheets/locks; 06 §5 |
-| Ending | Grounded motif: four notes rise, land on the tonic, hold | 06 §1; 02 |
+| Ending | Grounded motif: four notes rise, land on the tonic, hold | 06 §1 |
 
 Footer: tuning A4 = 432, wordless in-episode, mood words only (no artist, band, label or track names), no health claims (06 §4–5).
 
