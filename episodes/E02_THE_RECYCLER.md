@@ -22,4 +22,4 @@ Bubble, from the visor: "That one."
 The wolf card tries to climb back into the hopper.
 Bubble: "Recycle it."
 
-Prompt stem: comic panel, cartoon-lab gag timing (Lab Night mode), gold-and-obsidian lab, IDEA-RECYCLER drum, three cards OBVIOUS / FERAL / CLEAN, Ra-Thor in gold circuit plate with winged halo and grounded hammer, speech bubble with the exact line given. No phone UI.
+Prompt stem: comic panel, cartoon-lab gag timing (Lab Night mode), gold-and-obsidian lab, IDEA-RECYCLER with a horizontal drum, twin THEORY IN / CONCEPTS IN hoppers, gauge, power core, and OUTPUT tray, three cards OBVIOUS / FERAL / CLEAN, Ra-Thor in gold circuit plate with winged halo and grounded hammer, speech bubble with the exact line given. No phone UI.

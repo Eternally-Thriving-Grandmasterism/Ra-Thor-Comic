@@ -45,7 +45,7 @@ Prompt: [stem] + close-up of an armored gauntlet lifting away from the handle of
 Caption: BLOCK APPLIED. NOBODY HURT. CRATE EMPTY ALL ALONG.
 Bubble: "…"
 Ra-Thor turns the shield toward the Board. The eye-seal flares emerald. On tile seven the gold lattice gently closes the LIVE lane and the crate rolls into the NO lane, straight into the Idea Recycler's hopper. Its lid pops open on the way: nothing inside but slack strings. The Courier stops, unharmed, hood dipping.
-Prompt: [stem] + Ra-Thor turning the kite shield toward the wall of feed tiles, emerald eye-seal clearly visible and flaring, on one tile a gold lattice gently closing the LIVE lane while a gilded crate rolls into the NO lane and into a compact IDEA-RECYCLER hopper, crate lid open showing only slack gold strings, cloaked figure unharmed with face hidden, hammer grounded, no weapons raised, one silent bubble containing only an ellipsis aimed at the visor slit.
+Prompt: [stem] + Ra-Thor turning the kite shield toward the wall of feed tiles, emerald eye-seal clearly visible and flaring, on one tile a gold lattice gently closing the LIVE lane while a gilded crate rolls into the NO lane and into one of the twin hoppers of a compact IDEA-RECYCLER, crate lid open showing only slack gold strings, cloaked figure unharmed with face hidden, hammer grounded, no weapons raised, one silent bubble containing only an ellipsis aimed at the visor slit.
 Fidelity note: eye-seal must read clearly on the shield face. A plain emerald gem is a reject.
 
 ## Panel 6 — Quiet closer
