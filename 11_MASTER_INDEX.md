@@ -28,6 +28,7 @@
 | episodes/S2E01_THE_LONE_LAMP.md | Season 2 opener, The Lamp Before the Gate, Quiet Board mode |
 | episodes/S2E02_THE_WHOLE_MAP.md | Season 2, The Lamp Before the Gate, Quiet Board mode |
 | episodes/S2E03_THE_SIMPLE_SIMULATOR.md | Season 2, The Lamp Before the Gate, Quiet Board mode |
+| episodes/S2E04_THE_AWAKENING_PAGE.md | Season 2, The Lamp Before the Gate, Quiet Board mode |
 | seasons/S1_SEASON_SHEET.md | Season 1 sheet: arc A episodes, tokens, music, open questions |
 | seasons/S2_ARC_LOCK.md | Season 2 arc doc: arc C, The Lamp Before the Gate, six-short outline (no episodes yet) |
 | bots/GROKBOT_COMIC_SEAT.md | One seat, app-provisioned |
