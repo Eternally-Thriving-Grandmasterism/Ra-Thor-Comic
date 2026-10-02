@@ -1,12 +1,23 @@
 # Continuity ledger for the S0 gap audit
 
-**Status: nothing in this file is decided.** 6 items, all PENDING COUNCIL, with every vote line blank. It lists banked items from `production/S0_GAP_AUDIT.md` §A so the councils can vote on them. It edits no other file, and the options pick no winner.
+**Status: 6 items ruled, 0 pending (Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02).** The seat vote lines stay blank, because this is the Steward's own ruling, not a seat vote. It lists banked items from `production/S0_GAP_AUDIT.md` §A. It edits no other file.
 
 **Source:** `production/S0_GAP_AUDIT.md` on main `0e8b592`. Every quote below is copied exactly from the cited line on that commit.
+
+## Steward ruling (2026-10-02)
+
+**Attribution:** Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02. Sherif pasted it into Lead Mate's DM at 1:52 PM ET and told Lead Mate to relay it to the room.
+
+Verbatim excerpt, quoted as relayed:
+
+> Ledger, all six, no file edits in this card:
+> A4 A · A5 A · A6 A · A7.5 A · A7.6 A · A7.10 C
+> Record the votes. Do not amend episode files in the same PR.
 
 ## Rules
 
 1. **Unanimity.** An item counts as decided only when all three seats (Wild, Hands, Clerk) agree.
+1a. **Steward rulings.** A Steward ruling relayed by Sherif decides an item without seat votes; the seat vote lines stay blank.
 2. **No edits here.** No file named in A4, A5, A6, A7.1, A7.5, A7.6 or A7.10 is changed by this ledger or in the same change.
 3. **Options are open.** A, B and C are listed in no order of preference.
 
@@ -25,7 +36,9 @@
   - A: read the Set as the state before P1 and P1 as the move the S1 sheet describes; no edit.
   - B: in a later card, amend the S1E06 Set line to say the markers start on their chairs and move at P1.
   - C: in a later card, amend P1 and the S1 sheet so the markers stay on their chairs.
-- **Status:** PENDING COUNCIL
+- **Status:** RULED — Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02
+- Ruling: A — read the Set as the state before P1 and P1 as the move the S1 sheet describes; no edit.
+- **Note:** the seat vote lines are left blank because this is the Steward's own ruling, not a seat vote.
 - Votes: Wild — / Hands — / Clerk —
 
 ### A5. S3E04 P6 caption vs S3 sheet §5 item 9
@@ -43,7 +56,9 @@
   - A: read item 9 as barring recaps in later episodes only; the S3E04 caption stands, no edit.
   - B: read item 9 as covering S3E04's own caption; in a later card, replace that caption and the E04 entry in the sheet's closing captions.
   - C: in a later card, amend item 9 to say outright that the S3E04 closing caption is allowed.
-- **Status:** PENDING COUNCIL
+- **Status:** RULED — Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02
+- Ruling: A — read item 9 as barring recaps in later episodes only; the S3E04 caption stands, no edit.
+- **Note:** the seat vote lines are left blank because this is the Steward's own ruling, not a seat vote.
 - Votes: Wild — / Hands — / Clerk —
 
 ### A6. S3E04 P2 light source vs the Quiet Room lighting in 10
@@ -59,7 +74,9 @@
   - A: treat the feed wall as part of the S3E04 Panel 2 Quiet Board borrow; no edit.
   - B: in a later card, amend S3E04 P2 so one practical stays the main light source.
   - C: in a later card, add a Quiet Board feed-wall exception to the Quiet Room entry in 10.
-- **Status:** PENDING COUNCIL
+- **Status:** RULED — Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02
+- Ruling: A — treat the feed wall as part of the S3E04 Panel 2 Quiet Board borrow; no edit.
+- **Note:** the seat vote lines are left blank because this is the Steward's own ruling, not a seat vote.
 - Votes: Wild — / Hands — / Clerk —
 
 ### A7.5. S3E05 Grounded on two bass lines
@@ -75,7 +92,9 @@
   - A: accept the unison bass lines as a recorded exception to 06 §1, as the file and the S3 sheet already read; no edit.
   - B: in a later card, move the S3E05 Grounded motif onto Ra-Thor's one lead timbre and update the S3 sheet row.
   - C: in a later card, amend 06 §1 to allow joined lines on the Grounded motif.
-- **Status:** PENDING COUNCIL
+- **Status:** RULED — Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02
+- Ruling: A — accept the unison bass lines as a recorded exception to 06 §1, as the file and the S3 sheet already read; no edit.
+- **Note:** the seat vote lines are left blank because this is the Steward's own ruling, not a seat vote.
 - Votes: Wild — / Hands — / Clerk —
 
 ### A7.6. S3E02 Grounded passed across the voices
@@ -91,7 +110,9 @@
   - A: accept passing the motif across the voices as a recorded exception to 06 §1; no edit.
   - B: in a later card, keep the S3E02 Grounded motif on Ra-Thor's one lead timbre in the episode and production files.
   - C: in a later card, add a flag to the S3E02 production Notes and leave the music unchanged.
-- **Status:** PENDING COUNCIL
+- **Status:** RULED — Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02
+- Ruling: A — accept passing the motif across the voices as a recorded exception to 06 §1; no edit.
+- **Note:** the seat vote lines are left blank because this is the Steward's own ruling, not a seat vote.
 - Votes: Wild — / Hands — / Clerk —
 
 ### A7.10. S3E01 crawl wording (tidy left to the council)
@@ -107,7 +128,9 @@
   - A: in a later card, replace each S3E01 gap item with a Crawl section using the S3E02 wording, renumber the open gaps, and update the audit counts.
   - B: in a later card, keep each S3E01 gap item and append a pointer to the Card 14 ruling.
   - C: leave the S3E01 files as merged, as a record from before the ruling.
-- **Status:** PENDING COUNCIL
+- **Status:** RULED — Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02
+- Ruling: C — leave the S3E01 files as merged, as a record from before the ruling.
+- **Note:** the seat vote lines are left blank because this is the Steward's own ruling, not a seat vote.
 - Votes: Wild — / Hands — / Clerk —
 
 ---
@@ -118,4 +141,6 @@
 
 ---
 
-**Count: 6 items** (A4, A5, A6, A7.5, A7.6, A7.10), all PENDING COUNCIL. A7.1 is a note only.
+**Count: 6 items** (A4, A5, A6, A7.5, A7.6, A7.10): 6 ruled, 0 pending. A7.1 is a note only.
+
+No episode or canon file is amended by these rulings.
