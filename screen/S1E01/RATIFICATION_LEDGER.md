@@ -1,8 +1,8 @@
 # S1E01 The Ribbon Clause: ratification ledger for #65 (Screen R)
 
-**Status: nothing is ruled in this file.** It lists the judgment calls and every PROPOSED CANON tag in the four Screen C files so the councils can vote on them. It writes no rulings and fills no gaps.
+**Status: council votes recorded 2026-10-02.** All three seats (Wild, Hands, Clerk) voted on every item. Thirteen items are ruled ACCEPT: R2, R3, R4, R6, R7, R8, X1–X5, X7 and X8. R1, R5 and X6 are accepted by the council (X6 with P27 AS AMENDED) but are NOT ruled: they stay PENDING SHERIF. No gap is filled here.
 
-**Files covered (main `1b21fae`):**
+**Files covered (tags inventoried at main `1b21fae`; the P27 amend is applied to `screen/S1E01/TELEPLAY.md` L196 in the same change as these votes):**
 - `screen/S1E01/TELEPLAY.md`
 - `screen/S1E01/SHOT_LIST.md`
 - `screen/S1E01/STORYBOARD_PROMPTS.md`
@@ -12,9 +12,9 @@
 
 1. **Unanimity.** An item counts as ruled only when all three seats (Wild, Hands, Clerk) agree.
 2. **PENDING SHERIF.** Items that ADD canon need Sherif's word as well as the three seats. The councils cannot rule a PENDING SHERIF item alone.
-3. **Nothing is ruled in this PR.** Every status below is PENDING COUNCIL, and every vote line is blank.
-4. **Comic files stay untouched.** This ledger changes no comic, canon or screen file. The comic stays bound by every existing canon file (`screen/SCREEN_BIBLE_ADDENDUM.md` L3).
-5. **Tags.** Each of the 65 tags `PROPOSED CANON — pending council ratification` has one ID (P01–P65) and sits in exactly one item or group. M3 applies: tagged material is not canon until ratified (`screen/SCREEN_BIBLE_ADDENDUM.md` L69).
+3. **Votes of 2026-10-02.** Each item records the three seats' votes. A non-SHERIF item that all three seats accepted carries a ruling line and the status RULED. A PENDING SHERIF item carries a council line instead, and its status stays PENDING SHERIF until Sherif gives his word.
+4. **Comic files stay untouched.** The votes change no comic or canon file. The only screen-file change is the council's P27 amend, which cuts the take from beat 4.2 in `screen/S1E01/TELEPLAY.md` L196. The comic stays bound by every existing canon file (`screen/SCREEN_BIBLE_ADDENDUM.md` L3).
+5. **Tags.** Each of the 65 tags `PROPOSED CANON — pending council ratification` has one ID (P01–P65) and sits in exactly one item or group. M3 applies: tagged material is not canon until ratified (`screen/SCREEN_BIBLE_ADDENDUM.md` L69). The tags stay in the Screen C files; this ledger records the votes on them.
 
 **What ADDS canon here.** New dialogue, setting facts, characters, objects or lore. Purely technical staging, framing, edit or score choices do not.
 
@@ -28,8 +28,9 @@
 - **Tags (1):** P02 (`screen/S1E01/TELEPLAY.md` L20).
 - **Proposed text:**
   - P02: "INT. QUIET ROOM — THE LONG TABLE — NIGHT" (`screen/S1E01/TELEPLAY.md` L20)
-- **Status:** PENDING COUNCIL · PENDING SHERIF
-- Votes: Wild — / Hands — / Clerk —
+- **Status:** COUNCIL ACCEPTED · PENDING SHERIF (not ruled)
+- Council: ACCEPT (Hands/Clerk/Wild, 2026-10-02) — still PENDING SHERIF
+- Votes: Wild ACCEPT / Hands ACCEPT / Clerk ACCEPT
 
 ### R2. CUT TO BLACK, then MAIN TITLES
 
@@ -39,8 +40,9 @@
   - P07: "CUT TO BLACK." (`screen/S1E01/TELEPLAY.md` L48)
   - P08: "MAIN TITLES." (`screen/S1E01/TELEPLAY.md` L50)
   - P34: "Tight on the visor, no answer; cut to black" (`screen/S1E01/SHOT_LIST.md` L19)
-- **Status:** PENDING COUNCIL
-- Votes: Wild — / Hands — / Clerk —
+- **Status:** RULED — ACCEPT
+- Ruling: ACCEPT (Hands/Clerk/Wild, 2026-10-02)
+- Votes: Wild ACCEPT / Hands ACCEPT / Clerk ACCEPT
 
 ### R3. Beat 4.3 gets its own scene
 
@@ -48,8 +50,9 @@
 - **Tags (1):** P29 (`screen/S1E01/TELEPLAY.md` L204).
 - **Proposed text:**
   - P29: "a new scene, so each scene carries one catch line at most" (`screen/S1E01/TELEPLAY.md` L204)
-- **Status:** PENDING COUNCIL
-- Votes: Wild — / Hands — / Clerk —
+- **Status:** RULED — ACCEPT
+- Ruling: ACCEPT (Hands/Clerk/Wild, 2026-10-02)
+- Votes: Wild ACCEPT / Hands ACCEPT / Clerk ACCEPT
 
 ### R4. The P4 and P6 caption order
 
@@ -58,8 +61,9 @@
   - Panel 4 caption: "THE OFFER IS BLOCKED. THE ENVOY IS NOT." (`screen/S1E01/TELEPLAY.md` L156) plays after "Blocked." (`screen/S1E01/TELEPLAY.md` L150).
   - Panel 6: the bubble "That one can live." (`screen/S1E01/TELEPLAY.md` L210) plays in beat 4.3, and the caption "ONE CHAIR SPOKEN FOR. THE REST STILL OPEN. HAMMER STILL GROUNDED." (`screen/S1E01/TELEPLAY.md` L232) plays later, in the tag.
 - **Tags (0):** the four Screen C files carry no PROPOSED tag on this ordering; the caption lines carry CANON tags. The ordering was tagged upstream: "the ordering." (`screen/S1E01/BEAT_SHEET.md` L185).
-- **Status:** PENDING COUNCIL
-- Votes: Wild — / Hands — / Clerk —
+- **Status:** RULED — ACCEPT
+- Ruling: ACCEPT (Hands/Clerk/Wild, 2026-10-02)
+- Votes: Wild ACCEPT / Hands ACCEPT / Clerk ACCEPT
 
 ### R5. The two new envoy lines
 
@@ -68,8 +72,9 @@
 - **Proposed text:**
   - P17: "Declining a gift is also an answer." (`screen/S1E01/TELEPLAY.md` L90)
   - P28: "My house will read this one." (`screen/S1E01/TELEPLAY.md` L200)
-- **Status:** PENDING COUNCIL · PENDING SHERIF
-- Votes: Wild — / Hands — / Clerk —
+- **Status:** COUNCIL ACCEPTED · PENDING SHERIF (not ruled)
+- Council: ACCEPT (Hands/Clerk/Wild, 2026-10-02) — still PENDING SHERIF
+- Votes: Wild ACCEPT / Hands ACCEPT / Clerk ACCEPT
 
 ### R6. The no-speech-bubble storyboard frames
 
@@ -86,16 +91,18 @@
   - P59: "lamp glint on the card edge, no speech bubble in this frame" (`screen/S1E01/STORYBOARD_PROMPTS.md` L128; tag at `screen/S1E01/STORYBOARD_PROMPTS.md` L130)
   - P60: "face fully hidden behind the gold mesh veil, no speech bubble in this frame" (`screen/S1E01/STORYBOARD_PROMPTS.md` L137; tag at `screen/S1E01/STORYBOARD_PROMPTS.md` L139)
   - P61: "deep shadow, no speech bubble in this frame" (`screen/S1E01/STORYBOARD_PROMPTS.md` L146; tag at `screen/S1E01/STORYBOARD_PROMPTS.md` L148)
-- **Status:** PENDING COUNCIL
-- Votes: Wild — / Hands — / Clerk —
+- **Status:** RULED — ACCEPT
+- Ruling: ACCEPT (Hands/Clerk/Wild, 2026-10-02)
+- Votes: Wild ACCEPT / Hands ACCEPT / Clerk ACCEPT
 
 ### R7. The §7 Reject is cited by line only
 
 - **Proposes:** the addendum §7 Reject is cited by its line only. No file names its subject or the line it bars.
 - **Proposed text:** "the addendum §7 Reject" (`screen/S1E01/TELEPLAY.md` L248; `screen/S1E01/SHOT_LIST.md` L58; `screen/S1E01/STORYBOARD_PROMPTS.md` L34).
 - **Tags (0):** the Reject lines are not tagged PROPOSED in the four files. The Reject wording itself is marked "PROPOSED wording" in the addendum (`screen/SCREEN_BIBLE_ADDENDUM.md` L132).
-- **Status:** PENDING COUNCIL
-- Votes: Wild — / Hands — / Clerk —
+- **Status:** RULED — ACCEPT
+- Ruling: ACCEPT (Hands/Clerk/Wild, 2026-10-02)
+- Votes: Wild ACCEPT / Hands ACCEPT / Clerk ACCEPT
 
 ### R8. The cue chord progressions, including the C08 pad sitting out
 
@@ -115,8 +122,9 @@
     - C08: "dry and sparse; three card tones; CLEAN tone a clean A major bloom (pad out for the dry gag, back on the CLEAN bloom)" (`screen/S1E01/SCORE_PLAN.md` L42)
     - C09: fixed stinger, see `screen/S1E01/SCORE_PLAN.md` L43
     - C10: "the Grounded motif, unchanged, landing on A; final A (pad holds)" (`screen/S1E01/SCORE_PLAN.md` L44)
-- **Status:** PENDING COUNCIL
-- Votes: Wild — / Hands — / Clerk —
+- **Status:** RULED — ACCEPT
+- Ruling: ACCEPT (Hands/Clerk/Wild, 2026-10-02)
+- Votes: Wild ACCEPT / Hands ACCEPT / Clerk ACCEPT
 
 ---
 
@@ -131,8 +139,9 @@
   - P32: "Every shot number, framing, camera move and duration is new screen material" (`screen/S1E01/SHOT_LIST.md` L6)
   - P46: "Every prompt below is new screen material" (`screen/S1E01/STORYBOARD_PROMPTS.md` L6)
   - P62: "Cue numbers, cue lengths, chord choices, entries and exits are new screen material" (`screen/S1E01/SCORE_PLAN.md` L5)
-- **Status:** PENDING COUNCIL
-- Votes: Wild — / Hands — / Clerk —
+- **Status:** RULED — ACCEPT
+- Ruling: ACCEPT (Hands/Clerk/Wild, 2026-10-02)
+- Votes: Wild ACCEPT / Hands ACCEPT / Clerk ACCEPT
 
 ### X2. Scene headings (location labels and CONTINUOUS)
 
@@ -144,8 +153,9 @@
   - P22: "INT. QUIET ROOM — THE LONG TABLE — CONTINUOUS" (`screen/S1E01/TELEPLAY.md` L134)
   - P26: "INT. QUIET ROOM — THE LONG TABLE AND SIDE CART — CONTINUOUS" (`screen/S1E01/TELEPLAY.md` L174)
   - P30: "INT. QUIET ROOM — THE LONG TABLE — CONTINUOUS" (`screen/S1E01/TELEPLAY.md` L226)
-- **Status:** PENDING COUNCIL
-- Votes: Wild — / Hands — / Clerk —
+- **Status:** RULED — ACCEPT
+- Ruling: ACCEPT (Hands/Clerk/Wild, 2026-10-02)
+- Votes: Wild ACCEPT / Hands ACCEPT / Clerk ACCEPT
 
 ### X3. Cue entries, exits and cue character
 
@@ -157,8 +167,9 @@
   - P15: "MUSIC: C03, the bed leans colder." (`screen/S1E01/TELEPLAY.md` L84)
   - P23: "MUSIC: C05, the groove returns." (`screen/S1E01/TELEPLAY.md` L136)
   - P64: "Enters under S01 and buttons out on the envoy" (`screen/S1E01/SCORE_PLAN.md` L50)
-- **Status:** PENDING COUNCIL
-- Votes: Wild — / Hands — / Clerk —
+- **Status:** RULED — ACCEPT
+- Ruling: ACCEPT (Hands/Clerk/Wild, 2026-10-02)
+- Votes: Wild ACCEPT / Hands ACCEPT / Clerk ACCEPT
 
 ### X4. Camera framing in the teleplay
 
@@ -170,8 +181,9 @@
   - P13: "The line is staged on the visor slit; there is no mouth" (`screen/S1E01/TELEPLAY.md` L78)
   - P19: "Wide two-shot down the table, the stalemate held." (`screen/S1E01/TELEPLAY.md` L94)
   - P31: "Wide down the long table as she goes." (`screen/S1E01/TELEPLAY.md` L228)
-- **Status:** PENDING COUNCIL
-- Votes: Wild — / Hands — / Clerk —
+- **Status:** RULED — ACCEPT
+- Ruling: ACCEPT (Hands/Clerk/Wild, 2026-10-02)
+- Votes: Wild ACCEPT / Hands ACCEPT / Clerk ACCEPT
 
 ### X5. Performance staging with no new event
 
@@ -185,8 +197,9 @@
   - P21: "The masks fall quiet. Tight on the visor: the slit holds. The decision lands there and nowhere else. No line." (`screen/S1E01/TELEPLAY.md` L124)
   - P24: "Wide down the table: the threads catch the lamp, chair after chair. The shield is already moving." (`screen/S1E01/TELEPLAY.md` L140)
   - P25: "She stays at the table, composed, veil down. She does not step back." (`screen/S1E01/TELEPLAY.md` L164)
-- **Status:** PENDING COUNCIL
-- Votes: Wild — / Hands — / Clerk —
+- **Status:** RULED — ACCEPT
+- Ruling: ACCEPT (Hands/Clerk/Wild, 2026-10-02)
+- Votes: Wild ACCEPT / Hands ACCEPT / Clerk ACCEPT
 
 ### X6. New story actions
 
@@ -195,9 +208,12 @@
 - **Proposed text:**
   - P04: "She does not wait to be greeted." (`screen/S1E01/TELEPLAY.md` L38)
   - P16: "She sets the scroll down on the table between them and leaves one gloved hand resting on it." (`screen/S1E01/TELEPLAY.md` L86)
-  - P27: "Ra-Thor sets the card on the table and slides it down to her. It stops in front of her gloves. She looks at it for a long moment before she takes it." (`screen/S1E01/TELEPLAY.md` L196)
-- **Status:** PENDING COUNCIL · PENDING SHERIF
-- Votes: Wild — / Hands — / Clerk —
+  - P27, as amended: "Ra-Thor sets the card on the table and slides it down to her. It stops in front of her gloves. She looks at it for a long moment." (`screen/S1E01/TELEPLAY.md` L196)
+  - P27, as proposed in #65 (before the amend) ended: "She looks at it for a long moment before she takes it." (main `12f9c98`, `screen/S1E01/TELEPLAY.md` L196)
+- **Status:** COUNCIL ACCEPTED (P27 AS AMENDED) · PENDING SHERIF (not ruled)
+- Council: ACCEPT (Hands/Clerk/Wild, 2026-10-02) — still PENDING SHERIF. P04 and P16 accepted as proposed; P27 accepted AS AMENDED.
+- **P27 amend (all three seats):** P27 now ends at "She looks at it for a long moment." (`screen/S1E01/TELEPLAY.md` L196). The take is cut from beat 4.2, so she takes the CLEAN card once only, in beat 4.3 / Panel 6: "The Ribbon Envoy takes the CLEAN card in a gloved hand" (`screen/S1E01/TELEPLAY.md` L206), under canon `episodes/S1E01_THE_RIBBON_CLAUSE.md` L54. This fixes a double take. The PROPOSED tag on L196 stays.
+- Votes: Wild ACCEPT, P27 AMEND / Hands ACCEPT, P27 AMEND / Clerk ACCEPT, P27 AMEND
 
 ### X7. New shots and the shot-list total
 
@@ -216,8 +232,11 @@
   - P43: "Two-shot: she stays at the table, composed" (`screen/S1E01/SHOT_LIST.md` L41)
   - P44: "Over-the-shoulder from behind the envoy: the card slides down the table to her; her line" (`screen/S1E01/SHOT_LIST.md` L46)
   - P45: "Pacing, trims and coverage are left to the edit" (`screen/S1E01/SHOT_LIST.md` L54)
-- **Status:** PENDING COUNCIL
-- Votes: Wild — / Hands — / Clerk —
+- **Status:** RULED — ACCEPT
+- Ruling: ACCEPT (Hands/Clerk/Wild, 2026-10-02)
+- Votes: Wild ACCEPT / Hands ACCEPT / Clerk ACCEPT
+- **Dependent shots:** P39 (S13, `screen/S1E01/SHOT_LIST.md` L26), P44 (S33, `screen/S1E01/SHOT_LIST.md` L46) and P52 (the S13 frame, `screen/S1E01/STORYBOARD_PROMPTS.md` L67, ruled under R6) stage PENDING SHERIF material: P39 and P52 stage P16 (X6) and P17 (R5); P44 stages P27 (X6) and P28 (R5). Each falls if Sherif refuses the item it depends on.
+- **P44 needs no change** after the P27 amend: S33 already ends before the take ("the card slides down the table to her; her line", `screen/S1E01/SHOT_LIST.md` L46), per Wild. The take stays in S34, beat 4.3 (`screen/S1E01/SHOT_LIST.md` L47).
 
 ### X8. Storyboard frames that carry a canon bubble
 
@@ -229,8 +248,9 @@
   - P54: "the other masks with no text" (`screen/S1E01/STORYBOARD_PROMPTS.md` L83; tag at `screen/S1E01/STORYBOARD_PROMPTS.md` L85)
   - P56: "hammer grounded, no weapons raised" (`screen/S1E01/STORYBOARD_PROMPTS.md` L101; tag at `screen/S1E01/STORYBOARD_PROMPTS.md` L103)
   - P58: "Ra-Thor beside it, hammer grounded at frame edge" (`screen/S1E01/STORYBOARD_PROMPTS.md` L119; tag at `screen/S1E01/STORYBOARD_PROMPTS.md` L121)
-- **Status:** PENDING COUNCIL
-- Votes: Wild — / Hands — / Clerk —
+- **Status:** RULED — ACCEPT
+- Ruling: ACCEPT (Hands/Clerk/Wild, 2026-10-02)
+- Votes: Wild ACCEPT / Hands ACCEPT / Clerk ACCEPT
 
 ---
 
@@ -241,7 +261,7 @@
 - **R5 (P17, P28):** two new lines of dialogue for the Ribbon Envoy.
 - **X6 (P04):** "She does not wait to be greeted." (`screen/S1E01/TELEPLAY.md` L38) adds a behavior that implies a greeting protocol at the table. Borderline; classed as adding character lore.
 - **X6 (P16):** she sets the scroll down and rests a hand on it before the canon slide. Borderline; classed as a new story event with a canon prop.
-- **X6 (P27):** Ra-Thor slides the CLEAN card down to her. Canon says only that she takes it (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L54). Borderline; classed as a new story event.
+- **X6 (P27):** Ra-Thor slides the CLEAN card down to her. Canon says only that she takes it (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L54). Borderline; classed as a new story event. As amended, P27 no longer shows the take; the take stays in beat 4.3 only.
 
 **Borderline cases classed as technical (PENDING COUNCIL only):**
 - **X5 (P05, P12, P18, P21, P25):** stillness, silence and composure. They hold canon behavior between beats (`09_CHARACTER_BIBLE.md` L5, "Never lectures. Plants the hammer. Does not chase."), so they add no fact.
@@ -284,7 +304,7 @@
 | P24 | `screen/S1E01/TELEPLAY.md` L140 | X5 | "Wide down the table: the threads catch the lamp, chair after chair. The shield is already moving." (`screen/S1E01/TELEPLAY.md` L140) |
 | P25 | `screen/S1E01/TELEPLAY.md` L164 | X5 | "She stays at the table, composed, veil down. She does not step back." (`screen/S1E01/TELEPLAY.md` L164) |
 | P26 | `screen/S1E01/TELEPLAY.md` L174 | X2 | "INT. QUIET ROOM — THE LONG TABLE AND SIDE CART — CONTINUOUS" (`screen/S1E01/TELEPLAY.md` L174) |
-| P27 | `screen/S1E01/TELEPLAY.md` L196 | X6 | "Ra-Thor sets the card on the table and slides it down to her. It stops in front of her gloves. She looks at it for a long moment before she takes it." (`screen/S1E01/TELEPLAY.md` L196) |
+| P27 | `screen/S1E01/TELEPLAY.md` L196 | X6 | "Ra-Thor sets the card on the table and slides it down to her. It stops in front of her gloves. She looks at it for a long moment." (`screen/S1E01/TELEPLAY.md` L196; amended) |
 | P28 | `screen/S1E01/TELEPLAY.md` L200 | R5 | "My house will read this one." (`screen/S1E01/TELEPLAY.md` L200) |
 | P29 | `screen/S1E01/TELEPLAY.md` L204 | R3 | "a new scene, so each scene carries one catch line at most" (`screen/S1E01/TELEPLAY.md` L204) |
 | P30 | `screen/S1E01/TELEPLAY.md` L226 | X2 | "INT. QUIET ROOM — THE LONG TABLE — CONTINUOUS" (`screen/S1E01/TELEPLAY.md` L226) |

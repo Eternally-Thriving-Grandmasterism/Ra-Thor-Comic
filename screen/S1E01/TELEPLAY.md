@@ -193,7 +193,7 @@ SFX: the cards landing in the tray (G5 C; `screen/S1E01/GAP_RULINGS.md` L66).
 
 INSERT: the CLEAN card. "It says TRADE WITHOUT KNOTS." [CANON: `episodes/S1E01_THE_RIBBON_CLAUSE.md` L47]
 
-Ra-Thor sets the card on the table and slides it down to her. It stops in front of her gloves. She looks at it for a long moment before she takes it. [PROPOSED CANON — pending council ratification]
+Ra-Thor sets the card on the table and slides it down to her. It stops in front of her gloves. She looks at it for a long moment. [PROPOSED CANON — pending council ratification]
 
 **RIBBON ENVOY**
 
