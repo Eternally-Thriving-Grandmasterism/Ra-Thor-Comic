@@ -31,4 +31,4 @@ What the owner's reference art shows, and the council canon rulings on it: `04_V
 
 ## Reject
 
-Gun focus, gore, exploded visor, modern superhero logos, latex parody, xAI wordmarks. Non-canon helms, an emerald visor, a chest seal, a diamond-gem shield, the navy/blue variant, and the falcon, walker bot, or honor guard as cast.
+Gun focus, gore, exploded visor, modern superhero logos, latex parody, xAI wordmarks. Non-canon helms, an emerald visor, a chest seal, a diamond-gem shield, the navy/blue variant, and the falcon, walker bot, or honor guard as cast. Treants, tree people, bark or wood-skinned figures, or plant-bodied people.
