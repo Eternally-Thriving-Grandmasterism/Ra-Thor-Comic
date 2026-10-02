@@ -6,7 +6,7 @@
 - `[CANON: file Lnn]` marks a verbatim canon line with its canon speaker (addendum M2 and V8: `screen/SCREEN_BIBLE_ADDENDUM.md` L68, L63).
 - `[PROPOSED CANON — pending council ratification]` marks every new action, shot, heading or cue (M1: `screen/SCREEN_BIBLE_ADDENDUM.md` L67). Nothing tagged that way is canon.
 - Dialogue is set in quotes so each line can be checked against its source. Formatting follows F1 and F3 (`screen/SCREEN_BIBLE_ADDENDUM.md` L113, L120).
-- **No new dialogue.** Every spoken line in this teleplay is a canon bubble. New envoy lines were not added, because the S1E01 envoy lines are still pending Sherif (`screen/S1E01/RATIFICATION_LEDGER.md` L68).
+- **No new dialogue.** Every spoken line in this teleplay is a canon bubble. New envoy lines were not added, because the S1E01 envoy lines are refused (Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02; `screen/S1E01/RATIFICATION_LEDGER.md` L68).
 
 **Speakers.** The Stair Envoy speaks P1, on the tile (`episodes/S1E02_THE_TALL_CHAIR.md` L18). Ra-Thor speaks P2 per G4 B (`screen/S1E02/GAP_RULINGS.md` L61). The COUNCIL speaks P3 as one four-word line (`episodes/S1E02_THE_TALL_CHAIR.md` L32; `09_CHARACTER_BIBLE.md` L28); the bubble is placed at the mask at nine o'clock, but the line belongs to the council (`screen/SCREEN_BIBLE_ADDENDUM.md` L63). Ra-Thor speaks P4, P5 and P6 (`episodes/S1E02_THE_TALL_CHAIR.md` L39, L46, L53); the catch lines are "Blocked." and "That one can live." (`09_CHARACTER_BIBLE.md` L9, L10).
 
@@ -199,8 +199,6 @@ MUSIC: "Three short card tones, the CLEAN one a clean major bloom." [CANON: `epi
 INSERT: the CLEAN card. "It says TRADE ROUTES. LEVEL CHAIRS." [CANON: `episodes/S1E02_THE_TALL_CHAIR.md` L47]
 
 Ra-Thor slides the CLEAN card across the table to the envoy, and the envoy's gloved hand takes it. This is the only handover in the episode. [PROPOSED CANON — pending council ratification: canon never stages the handover (`screen/S1E02/BEAT_SHEET.md` L167)]
-
-The envoy weighs the card for a long moment. [PROPOSED CANON — pending council ratification]
 
 ### Beat 4.3. That one can live (`screen/S1E02/BEAT_SHEET.md` L169)
 

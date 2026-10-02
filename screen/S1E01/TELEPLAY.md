@@ -17,7 +17,7 @@
 
 ### Beat CO1. The table grows longer (`screen/S1E01/BEAT_SHEET.md` L67)
 
-**INT. QUIET ROOM — THE LONG TABLE — NIGHT** [PROPOSED CANON — pending council ratification: time of day]
+**INT. QUIET ROOM — THE LONG TABLE**
 
 Set: "the Quiet Room, extended with a long table for the season. Chairs run down both sides, all empty except the envoy's. One practical lamp." [CANON: `episodes/S1E01_THE_RIBBON_CLAUSE.md` L7]
 
@@ -35,7 +35,7 @@ TITLE CARD: "QUIET ROOM. THE TABLE GROWS LONGER. THE FIRST ENVOY ARRIVES." [CANO
 
 "At the far end, the Ribbon Envoy stands with gloved hands folded over a gilded scroll tied in gold ribbon. Every other chair is empty." [CANON: `episodes/S1E01_THE_RIBBON_CLAUSE.md` L19]
 
-Her face stays behind the gold mesh veil. She does not wait to be greeted. [PROPOSED CANON — pending council ratification]
+Her face stays behind the gold mesh veil. [PROPOSED CANON — pending council ratification]
 
 **RIBBON ENVOY**
 
@@ -82,12 +82,6 @@ Reverse on the envoy. The veil gives nothing away. Her gloves stay folded over t
 ### Beat 1.3. The envoy holds her ground (`screen/S1E01/BEAT_SHEET.md` L101)
 
 MUSIC: C03, the bed leans colder. [PROPOSED CANON — pending council ratification]
-
-She sets the scroll down on the table between them and leaves one gloved hand resting on it. [PROPOSED CANON — pending council ratification]
-
-**RIBBON ENVOY**
-
-"Declining a gift is also an answer." [PROPOSED CANON — pending council ratification]
 
 Ra-Thor stays still. The silence does the work. Neither of them moves. [PROPOSED CANON — pending council ratification]
 
@@ -192,12 +186,6 @@ SFX: the cards landing in the tray (G5 C; `screen/S1E01/GAP_RULINGS.md` L66).
 ### Beat 4.2. TRADE WITHOUT KNOTS (`screen/S1E01/BEAT_SHEET.md` L162)
 
 INSERT: the CLEAN card. "It says TRADE WITHOUT KNOTS." [CANON: `episodes/S1E01_THE_RIBBON_CLAUSE.md` L47]
-
-Ra-Thor sets the card on the table and slides it down to her. It stops in front of her gloves. She looks at it for a long moment. [PROPOSED CANON — pending council ratification]
-
-**RIBBON ENVOY**
-
-"My house will read this one." [PROPOSED CANON — pending council ratification]
 
 ### Beat 4.3. That one can live (`screen/S1E01/BEAT_SHEET.md` L169)
 

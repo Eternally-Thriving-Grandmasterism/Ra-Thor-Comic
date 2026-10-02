@@ -1,6 +1,6 @@
 # S1E01 The Ribbon Clause: ratification ledger for #65 (Screen R)
 
-**Status: council votes recorded 2026-10-02.** All three seats (Wild, Hands, Clerk) voted on every item. Thirteen items are ruled ACCEPT: R2, R3, R4, R6, R7, R8, X1–X5, X7 and X8. R1, R5 and X6 are accepted by the council (X6 with P27 AS AMENDED) but are NOT ruled: they stay PENDING SHERIF. No gap is filled here.
+**Status: council votes recorded 2026-10-02.** All three seats (Wild, Hands, Clerk) voted on every item. Thirteen items are ruled ACCEPT: R2, R3, R4, R6, R7, R8, X1–X5, X7 and X8. R1, R5 and X6 were accepted by the council (X6 with P27 AS AMENDED) and are REFUSED — Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02. No gap is filled here.
 
 **Files covered (tags inventoried at main `1b21fae`; the P27 amend is applied to `screen/S1E01/TELEPLAY.md` L196 in the same change as these votes):**
 - `screen/S1E01/TELEPLAY.md`
@@ -28,7 +28,11 @@
 - **Tags (1):** P02 (`screen/S1E01/TELEPLAY.md` L20).
 - **Proposed text:**
   - P02: "INT. QUIET ROOM — THE LONG TABLE — NIGHT" (`screen/S1E01/TELEPLAY.md` L20)
-- **Status:** COUNCIL ACCEPTED · PENDING SHERIF (not ruled)
+- **Status:** REFUSED — Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02
+- **Ruling:**
+
+> R1 REFUSED. Drop NIGHT. Slug is QUIET ROOM — THE LONG TABLE. Suave Hour is lighting, not a clock. Time of day stays unstated.
+
 - Council: ACCEPT (Hands/Clerk/Wild, 2026-10-02) — still PENDING SHERIF
 - Votes: Wild ACCEPT / Hands ACCEPT / Clerk ACCEPT
 
@@ -72,7 +76,14 @@
 - **Proposed text:**
   - P17: "Declining a gift is also an answer." (`screen/S1E01/TELEPLAY.md` L90)
   - P28: "My house will read this one." (`screen/S1E01/TELEPLAY.md` L200)
-- **Status:** COUNCIL ACCEPTED · PENDING SHERIF (not ruled)
+- **Status:** REFUSED — Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02
+- **Ruling:**
+
+> R5 REFUSED. Cut both new envoy lines:
+> "Declining a gift is also an answer."
+> "My house will read this one."
+> Spoken lines stay the episode file only.
+
 - Council: ACCEPT (Hands/Clerk/Wild, 2026-10-02) — still PENDING SHERIF
 - Votes: Wild ACCEPT / Hands ACCEPT / Clerk ACCEPT
 
@@ -210,7 +221,14 @@
   - P16: "She sets the scroll down on the table between them and leaves one gloved hand resting on it." (`screen/S1E01/TELEPLAY.md` L86)
   - P27, as amended: "Ra-Thor sets the card on the table and slides it down to her. It stops in front of her gloves. She looks at it for a long moment." (`screen/S1E01/TELEPLAY.md` L196)
   - P27, as proposed in #65 (before the amend) ended: "She looks at it for a long moment before she takes it." (main `12f9c98`, `screen/S1E01/TELEPLAY.md` L196)
-- **Status:** COUNCIL ACCEPTED (P27 AS AMENDED) · PENDING SHERIF (not ruled)
+- **Status:** REFUSED — Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02
+- **Ruling:**
+
+> X6 REFUSED. Cut all three new actions.
+> She stands at the far end, gloves on the scroll.
+> She slides the scroll. Shield pins it. Hand lifts away, unharmed.
+> She takes the CLEAN card once. No slide from Ra-Thor. No long look.
+
 - Council: ACCEPT (Hands/Clerk/Wild, 2026-10-02) — still PENDING SHERIF. P04 and P16 accepted as proposed; P27 accepted AS AMENDED.
 - **P27 amend (all three seats):** P27 now ends at "She looks at it for a long moment." (`screen/S1E01/TELEPLAY.md` L196). The take is cut from beat 4.2, so she takes the CLEAN card once only, in beat 4.3 / Panel 6: "The Ribbon Envoy takes the CLEAN card in a gloved hand" (`screen/S1E01/TELEPLAY.md` L206), under canon `episodes/S1E01_THE_RIBBON_CLAUSE.md` L54. This fixes a double take. The PROPOSED tag on L196 stays.
 - Votes: Wild ACCEPT, P27 AMEND / Hands ACCEPT, P27 AMEND / Clerk ACCEPT, P27 AMEND
@@ -263,7 +281,7 @@
 - **X6 (P16):** she sets the scroll down and rests a hand on it before the canon slide. Borderline; classed as a new story event with a canon prop.
 - **X6 (P27):** Ra-Thor slides the CLEAN card down to her. Canon says only that she takes it (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L54). Borderline; classed as a new story event. As amended, P27 no longer shows the take; the take stays in beat 4.3 only.
 
-**Borderline cases classed as technical (PENDING COUNCIL only):**
+**Borderline cases classed as technical (ruled ACCEPT — 13 items; 0 pending council):**
 - **X5 (P05, P12, P18, P21, P25):** stillness, silence and composure. They hold canon behavior between beats (`09_CHARACTER_BIBLE.md` L5, "Never lectures. Plants the hammer. Does not chase."), so they add no fact.
 - **X5 (P14):** "The veil gives nothing away." (`screen/S1E01/TELEPLAY.md` L80) The veil is canon (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L5); this is performance only.
 - **X5 (P24):** "The shield is already moving." (`screen/S1E01/TELEPLAY.md` L140) This is timing inside the canon block (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L40).
