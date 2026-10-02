@@ -13,6 +13,7 @@
 | 06_MUSIC_SPEC.md | Score, cue styles, tuning, honesty, rights |
 | 09_CHARACTER_BIBLE.md | Ra-Thor, Gate, Recycler, White Hat, Councils |
 | 10_LOCATION_BIBLE.md | Threshold, Recycler Bay, Quiet Room |
+| READING_ORDER.md | Reading order: Season 0 first, then Seasons 1–3 |
 | episodes/E01_THE_GATE.md | Pilot |
 | episodes/E02_THE_RECYCLER.md | Drum gag |
 | episodes/E03_WHITE_HAT.md | Edge, no how-to |

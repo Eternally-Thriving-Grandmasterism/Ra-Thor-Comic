@@ -38,5 +38,5 @@ PATSAGi on the live lattice, Odyssey pattern checked:
 
 ## Status
 
-Pilot locked: Episode 01, *The Gate*.
+Reading order: Season 0 first, then Seasons 1–3 (`READING_ORDER.md`). Screen packages for S1E01 and S1E02 are merged in `screen/`; their files are drafts for council review, and ratification items remain pending.
 Thunder locked. IP secured.
