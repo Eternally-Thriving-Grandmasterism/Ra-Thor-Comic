@@ -39,7 +39,7 @@ Ra-Thor never raises the hammer. He works the problem in four strategic moves:
 3. He blocks the precedence but keeps the trade.
 4. He lets the guest recycle the crest into a level trade.
 
-The envoy leaves with TRADE ROUTES. LEVEL CHAIRS. and sets her token on her own levelled chair. Two chairs are now spoken for (`episodes/S1E02_THE_TALL_CHAIR.md` L52, L54).
+The envoy leaves with TRADE ROUTES. LEVEL CHAIRS. and sets their token on their own levelled chair. Two chairs are now spoken for (`episodes/S1E02_THE_TALL_CHAIR.md` L52, L54).
 
 The arc runs from a polite bid for rank to a fair deal at equal height. The season premise works the same way: "One by one, Ra-Thor blocks the strings and keeps the deal" (`05_LORE_BIBLE.md` L160).
 
@@ -78,14 +78,14 @@ The arc runs from a polite bid for rank to a fair deal at equal height. The seas
 - **Move:** on the tile, the envoy asks a favor and wheels in a gilded chair with a towering back (`episodes/S1E02_THE_TALL_CHAIR.md` L19). **Counter-move:** Ra-Thor does not answer yet.
 - **Emotional turn:** courtesy that carries a hook.
 - **Anchor (CANON):** title card "QUIET ROOM. TILE TWO. THE SECOND ENVOY IS BRINGING FURNITURE." (`episodes/S1E02_THE_TALL_CHAIR.md` L17). The Stair Envoy, on the tile, says "My house asks one small favor." (`episodes/S1E02_THE_TALL_CHAIR.md` L18). The Board shows "no readable data" (`episodes/S1E02_THE_TALL_CHAIR.md` L20).
-- **Anchor (PROPOSED CANON — pending council ratification):** the cold open cuts out on her line, before main titles.
+- **Anchor (PROPOSED CANON — pending council ratification):** the cold open cuts out on the envoy's line, before main titles.
 
 ## Act One: the tall chair
 
 ### 1.1 The chair at his right hand
 
 - **Purpose:** bring the gambit into the room and let its height register.
-- **Move:** "The tall chair now stands at Ra-Thor's right hand, its back towering over the whole row." (`episodes/S1E02_THE_TALL_CHAIR.md` L26). **Counter-move:** Ra-Thor looks at it before he looks at her.
+- **Move:** "The tall chair now stands at Ra-Thor's right hand, its back towering over the whole row." (`episodes/S1E02_THE_TALL_CHAIR.md` L26). **Counter-move:** Ra-Thor looks at it before he looks at the envoy.
 - **Emotional turn:** amusement edged with caution.
 - **Anchor (PROPOSED CANON — pending council ratification):** the move from the tile to the room. Canon goes from the corridor on the tile (P1) to the chair at his right hand (P2); the arrival in between is new staging, shot over the shoulder on the offer (`03_TONE_SPECS.md` L76, "over-the-shoulder on the offer").
 
@@ -95,12 +95,12 @@ The arc runs from a polite bid for rank to a fair deal at equal height. The seas
 - **Move:** "The Stair Envoy rests a gloved hand on its gilded crest, which is engraved FIRST." (`episodes/S1E02_THE_TALL_CHAIR.md` L26). **Counter-move:** Ra-Thor says "Tall chairs make short talks." (`episodes/S1E02_THE_TALL_CHAIR.md` L25). The speaker is Ra-Thor per G4 B, on the narrowing visor (`screen/S1E02/GAP_RULINGS.md` L61; `episodes/S1E02_THE_TALL_CHAIR.md` L26, "Visor slit narrows.").
 - **Emotional turn:** charm becomes a negotiation.
 - **Anchor (CANON):** title card "OFFER: TRADE ROUTES FOR THE FIRST SEAT. FINE PRINT: EVERYONE ELSE SITS LOWER." (`episodes/S1E02_THE_TALL_CHAIR.md` L24).
-- **Sound (CANON and ruled):** "Full groove. The lead answers the envoy's phrase with a short, dry figure." (`episodes/S1E02_THE_TALL_CHAIR.md` L62). The phrase answered is her P1 line, and the lead is Ra-Thor's timbre per G4 B and G6 B (`screen/S1E02/GAP_RULINGS.md` L61, L87).
+- **Sound (CANON and ruled):** "Full groove. The lead answers the envoy's phrase with a short, dry figure." (`episodes/S1E02_THE_TALL_CHAIR.md` L62). The phrase answered is the envoy's P1 line, and the lead is Ra-Thor's timbre per G4 B and G6 B (`screen/S1E02/GAP_RULINGS.md` L61, L87).
 
-### 1.3 The envoy holds her ground (Act One out)
+### 1.3 The envoy holds their ground (Act One out)
 
 - **Purpose:** raise the pressure without raising voices.
-- **Move:** the envoy keeps her hand on the crest, so refusing the chair would read as refusing the routes. **Counter-move:** Ra-Thor stays still and lets the silence work.
+- **Move:** the envoy keeps their hand on the crest, so refusing the chair would read as refusing the routes. **Counter-move:** Ra-Thor stays still and lets the silence work.
 - **Emotional turn:** polite stalemate.
 - **Anchor (PROPOSED CANON — pending council ratification):** the whole beat. It follows the Suave Hour rhythm, where "The best line is usually the reply, not the opener." (`03_TONE_SPECS.md` L78).
 
@@ -143,7 +143,7 @@ The arc runs from a polite bid for rank to a fair deal at equal height. The seas
 - **Purpose:** prove the block hit the rank, not the person.
 - **Move:** "The FIRST crest pops loose and lands on the table. Nobody is hit. The envoy steps back unharmed, shoulders shaking with a quiet laugh behind the mask." (`episodes/S1E02_THE_TALL_CHAIR.md` L40). **Counter-move:** "Hammer untouched, still grounded." (`episodes/S1E02_THE_TALL_CHAIR.md` L40).
 - **Emotional turn:** the laugh turns the block into shared wit.
-- **Anchor (PROPOSED CANON — pending council ratification):** she stays in the room and does not leave. That keeps "A blocked envoy is never humiliated" (`05_LORE_BIBLE.md` L122).
+- **Anchor (PROPOSED CANON — pending council ratification):** the envoy stays in the room and does not leave. That keeps "A blocked envoy is never humiliated" (`05_LORE_BIBLE.md` L122).
 - **Sound (CANON and ruled):** the crest landing per G5 C (`screen/S1E02/GAP_RULINGS.md` L76). "The groove resumes one bar later." (`episodes/S1E02_THE_TALL_CHAIR.md` L64).
 
 ## Act Four: the level trade
@@ -164,7 +164,7 @@ The arc runs from a polite bid for rank to a fair deal at equal height. The seas
 - **Purpose:** the counter-offer. Ra-Thor gives back the trade without the rank.
 - **Move:** Ra-Thor reads the CLEAN card aloud: "Trade routes. Level chairs." (`episodes/S1E02_THE_TALL_CHAIR.md` L46). The card says TRADE ROUTES. LEVEL CHAIRS. (`episodes/S1E02_THE_TALL_CHAIR.md` L47). **Counter-move:** the envoy weighs it.
 - **Emotional turn:** suspicion gives way to recognition.
-- **Anchor (PROPOSED CANON — pending council ratification):** the card passes to her here, once. Canon never stages the handover; it only has her leave "CLEAN card in hand" (`episodes/S1E02_THE_TALL_CHAIR.md` L54).
+- **Anchor (PROPOSED CANON — pending council ratification):** the card passes to the envoy here, once. Canon never stages the handover; it only has the envoy leave "CLEAN card in hand" (`episodes/S1E02_THE_TALL_CHAIR.md` L54).
 
 ### 4.3 That one can live (Act Four out)
 

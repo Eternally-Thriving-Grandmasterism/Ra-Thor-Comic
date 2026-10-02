@@ -60,7 +60,7 @@ Screen drafts treat every GAP as open until it is ruled (`screen/SCREEN_BIBLE_AD
   - P2 staging has the envoy at the chair: "The Stair Envoy rests a gloved hand on its gilded crest" (`episodes/S1E02_THE_TALL_CHAIR.md` L26).
 - **Ruling: B (Hands/Clerk/Wild, 2026-10-02)**
   - Note: Ra-Thor speaks "Tall chairs make short talks." verbatim (`episodes/S1E02_THE_TALL_CHAIR.md` L25), on the narrowing visor: "Visor slit narrows." (`episodes/S1E02_THE_TALL_CHAIR.md` L26).
-  - Note: the P2 lead "answers the envoy's phrase" (`episodes/S1E02_THE_TALL_CHAIR.md` L62), meaning her P1 phrase, "My house asks one small favor." (`episodes/S1E02_THE_TALL_CHAIR.md` L18). This matches the S1E01 G4 ruling (`screen/S1E01/GAP_RULINGS.md` L57).
+  - Note: the P2 lead "answers the envoy's phrase" (`episodes/S1E02_THE_TALL_CHAIR.md` L62), meaning the envoy's P1 phrase, "My house asks one small favor." (`episodes/S1E02_THE_TALL_CHAIR.md` L18). This matches the S1E01 G4 ruling (`screen/S1E01/GAP_RULINGS.md` L57).
   - Note: the #68 vote record listed Hands at C; Hands then moved to the majority, so the ruling is 3–0.
 
 ## G5. SFX
