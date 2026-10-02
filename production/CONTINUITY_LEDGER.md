@@ -17,6 +17,7 @@ Verbatim excerpt, quoted as relayed:
 ## Rules
 
 1. **Unanimity.** An item counts as decided only when all three seats (Wild, Hands, Clerk) agree.
+1a. **Steward rulings.** A Steward ruling relayed by Sherif decides an item without seat votes; the seat vote lines stay blank.
 2. **No edits here.** No file named in A4, A5, A6, A7.1, A7.5, A7.6 or A7.10 is changed by this ledger or in the same change.
 3. **Options are open.** A, B and C are listed in no order of preference.
 
