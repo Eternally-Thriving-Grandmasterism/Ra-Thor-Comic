@@ -1,6 +1,6 @@
 # S1E01 The Ribbon Clause: ratification ledger for #65 (Screen R)
 
-**Status: council votes recorded 2026-10-02.** All three seats (Wild, Hands, Clerk) voted on every item. Thirteen items are ruled ACCEPT: R2, R3, R4, R6, R7, R8, X1–X5, X7 and X8. R1, R5 and X6 are accepted by the council (X6 with P27 AS AMENDED) but are NOT ruled: they stay PENDING SHERIF. No gap is filled here.
+**Status: council votes recorded 2026-10-02.** All three seats (Wild, Hands, Clerk) voted on every item. Thirteen items are ruled ACCEPT: R2, R3, R4, R6, R7, R8, X1–X5, X7 and X8. R1, R5 and X6 were accepted by the council (X6 with P27 AS AMENDED) and are REFUSED — Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02. No gap is filled here.
 
 **Files covered (tags inventoried at main `1b21fae`; the P27 amend is applied to `screen/S1E01/TELEPLAY.md` L196 in the same change as these votes):**
 - `screen/S1E01/TELEPLAY.md`
@@ -14,7 +14,7 @@
 2. **PENDING SHERIF.** Items that ADD canon need Sherif's word as well as the three seats. The councils cannot rule a PENDING SHERIF item alone.
 3. **Votes of 2026-10-02.** Each item records the three seats' votes. A non-SHERIF item that all three seats accepted carries a ruling line and the status RULED. A PENDING SHERIF item carries a council line instead, and its status stays PENDING SHERIF until Sherif gives his word.
 4. **Comic files stay untouched.** The votes change no comic or canon file. The only screen-file change is the council's P27 amend, which cuts the take from beat 4.2 in `screen/S1E01/TELEPLAY.md` L196. The comic stays bound by every existing canon file (`screen/SCREEN_BIBLE_ADDENDUM.md` L3).
-5. **Tags.** Each of the 65 tags `PROPOSED CANON — pending council ratification` has one ID (P01–P65) and sits in exactly one item or group. M3 applies: tagged material is not canon until ratified (`screen/SCREEN_BIBLE_ADDENDUM.md` L69). The tags stay in the Screen C files; this ledger records the votes on them.
+5. **Tags.** The inventory holds IDs P01–P65, one item or group each. Seven of them (P02, P16, P17, P27, P28, P39, P44) are cut per Steward ruling and kept as cut records. The live count of `PROPOSED CANON — pending council ratification` is the Count line below. M3 applies: tagged material is not canon until ratified (`screen/SCREEN_BIBLE_ADDENDUM.md` L69).
 
 **What ADDS canon here.** New dialogue, setting facts, characters, objects or lore. Purely technical staging, framing, edit or score choices do not.
 
@@ -25,11 +25,15 @@
 ### R1. The cold-open scene is set at NIGHT
 
 - **Proposes:** A time of day for the Quiet Room scene. Canon gives none (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L7 sets the room and lamp only).
-- **Tags (1):** P02 (`screen/S1E01/TELEPLAY.md` L20).
+- **Tags (0):** P02 cut per Steward ruling (was `screen/S1E01/TELEPLAY.md` L20).
 - **Proposed text:**
-  - P02: "INT. QUIET ROOM — THE LONG TABLE — NIGHT" (`screen/S1E01/TELEPLAY.md` L20)
-- **Status:** COUNCIL ACCEPTED · PENDING SHERIF (not ruled)
-- Council: ACCEPT (Hands/Clerk/Wild, 2026-10-02) — still PENDING SHERIF
+  - P02, cut per Steward ruling: "INT. QUIET ROOM — THE LONG TABLE — NIGHT" (was `screen/S1E01/TELEPLAY.md` L20)
+- **Status:** REFUSED — Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02
+- **Ruling:**
+
+> R1 REFUSED. Drop NIGHT. Slug is QUIET ROOM — THE LONG TABLE. Suave Hour is lighting, not a clock. Time of day stays unstated.
+
+- Council: ACCEPT (Hands/Clerk/Wild, 2026-10-02) — overruled by Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02
 - Votes: Wild ACCEPT / Hands ACCEPT / Clerk ACCEPT
 
 ### R2. CUT TO BLACK, then MAIN TITLES
@@ -68,12 +72,19 @@
 ### R5. The two new envoy lines
 
 - **Proposes:** Two new spoken lines for the Ribbon Envoy, in beats 1.3 and 4.2.
-- **Tags (2):** P17 (`screen/S1E01/TELEPLAY.md` L90), P28 (`screen/S1E01/TELEPLAY.md` L200).
+- **Tags (0):** P17 and P28 cut per Steward ruling (were `screen/S1E01/TELEPLAY.md` L90 and L200).
 - **Proposed text:**
-  - P17: "Declining a gift is also an answer." (`screen/S1E01/TELEPLAY.md` L90)
-  - P28: "My house will read this one." (`screen/S1E01/TELEPLAY.md` L200)
-- **Status:** COUNCIL ACCEPTED · PENDING SHERIF (not ruled)
-- Council: ACCEPT (Hands/Clerk/Wild, 2026-10-02) — still PENDING SHERIF
+  - P17, cut per Steward ruling: "Declining a gift is also an answer." (was `screen/S1E01/TELEPLAY.md` L90)
+  - P28, cut per Steward ruling: "My house will read this one." (was `screen/S1E01/TELEPLAY.md` L200)
+- **Status:** REFUSED — Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02
+- **Ruling:**
+
+> R5 REFUSED. Cut both new envoy lines:
+> "Declining a gift is also an answer."
+> "My house will read this one."
+> Spoken lines stay the episode file only.
+
+- Council: ACCEPT (Hands/Clerk/Wild, 2026-10-02) — overruled by Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02
 - Votes: Wild ACCEPT / Hands ACCEPT / Clerk ACCEPT
 
 ### R6. The no-speech-bubble storyboard frames
@@ -204,39 +215,45 @@
 ### X6. New story actions
 
 - **Proposes:** New actions that change what happens in the room, beyond canon staging.
-- **Tags (3):** P04 (`screen/S1E01/TELEPLAY.md` L38), P16 (`screen/S1E01/TELEPLAY.md` L86), P27 (`screen/S1E01/TELEPLAY.md` L196).
+- **Tags (1):** P04 (`screen/S1E01/TELEPLAY.md` L38). P16 and P27 cut per Steward ruling (were `screen/S1E01/TELEPLAY.md` L86 and L196).
 - **Proposed text:**
   - P04: "She does not wait to be greeted." (`screen/S1E01/TELEPLAY.md` L38)
-  - P16: "She sets the scroll down on the table between them and leaves one gloved hand resting on it." (`screen/S1E01/TELEPLAY.md` L86)
-  - P27, as amended: "Ra-Thor sets the card on the table and slides it down to her. It stops in front of her gloves. She looks at it for a long moment." (`screen/S1E01/TELEPLAY.md` L196)
-  - P27, as proposed in #65 (before the amend) ended: "She looks at it for a long moment before she takes it." (main `12f9c98`, `screen/S1E01/TELEPLAY.md` L196)
-- **Status:** COUNCIL ACCEPTED (P27 AS AMENDED) · PENDING SHERIF (not ruled)
-- Council: ACCEPT (Hands/Clerk/Wild, 2026-10-02) — still PENDING SHERIF. P04 and P16 accepted as proposed; P27 accepted AS AMENDED.
-- **P27 amend (all three seats):** P27 now ends at "She looks at it for a long moment." (`screen/S1E01/TELEPLAY.md` L196). The take is cut from beat 4.2, so she takes the CLEAN card once only, in beat 4.3 / Panel 6: "The Ribbon Envoy takes the CLEAN card in a gloved hand" (`screen/S1E01/TELEPLAY.md` L206), under canon `episodes/S1E01_THE_RIBBON_CLAUSE.md` L54. This fixes a double take. The PROPOSED tag on L196 stays.
+  - P16, cut per Steward ruling: "She sets the scroll down on the table between them and leaves one gloved hand resting on it." (was `screen/S1E01/TELEPLAY.md` L86)
+  - P27, as amended, cut per Steward ruling: "Ra-Thor sets the card on the table and slides it down to her. It stops in front of her gloves. She looks at it for a long moment." (was `screen/S1E01/TELEPLAY.md` L196)
+  - P27, as proposed in #65 (before the amend), cut per Steward ruling, ended: "She looks at it for a long moment before she takes it." (main `12f9c98`, was `screen/S1E01/TELEPLAY.md` L196)
+- **Status:** REFUSED — Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02
+- **Ruling:**
+
+> X6 REFUSED. Cut all three new actions.
+> She stands at the far end, gloves on the scroll.
+> She slides the scroll. Shield pins it. Hand lifts away, unharmed.
+> She takes the CLEAN card once. No slide from Ra-Thor. No long look.
+
+- Council: ACCEPT (Hands/Clerk/Wild, 2026-10-02) — overruled by Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02. P04 and P16 accepted as proposed; P27 accepted AS AMENDED.
+- **P27 amend (all three seats):** P27 is cut. The single take is at `screen/S1E01/TELEPLAY.md` L194: "The Ribbon Envoy takes the CLEAN card in a gloved hand", under canon `episodes/S1E01_THE_RIBBON_CLAUSE.md` L54. No PROPOSED tag remains there.
 - Votes: Wild ACCEPT, P27 AMEND / Hands ACCEPT, P27 AMEND / Clerk ACCEPT, P27 AMEND
 
 ### X7. New shots and the shot-list total
 
 - **Proposes:** Shots in the shot list that are wholly or partly new, plus the runtime total and pacing note.
-- **Tags (12):** P33 (`screen/S1E01/SHOT_LIST.md` L15), P35 (`screen/S1E01/SHOT_LIST.md` L20), P36 (`screen/S1E01/SHOT_LIST.md` L21), P37 (`screen/S1E01/SHOT_LIST.md` L22), P38 (`screen/S1E01/SHOT_LIST.md` L25), P39 (`screen/S1E01/SHOT_LIST.md` L26), P40 (`screen/S1E01/SHOT_LIST.md` L27), P41 (`screen/S1E01/SHOT_LIST.md` L28), P42 (`screen/S1E01/SHOT_LIST.md` L33), P43 (`screen/S1E01/SHOT_LIST.md` L41), P44 (`screen/S1E01/SHOT_LIST.md` L46), P45 (`screen/S1E01/SHOT_LIST.md` L54).
+- **Tags (10):** P33 (`screen/S1E01/SHOT_LIST.md` L15), P35 (`screen/S1E01/SHOT_LIST.md` L20), P36 (`screen/S1E01/SHOT_LIST.md` L21), P37 (`screen/S1E01/SHOT_LIST.md` L22), P38 (`screen/S1E01/SHOT_LIST.md` L25), P40 (`screen/S1E01/SHOT_LIST.md` L27), P41 (`screen/S1E01/SHOT_LIST.md` L28), P42 (`screen/S1E01/SHOT_LIST.md` L33), P43 (`screen/S1E01/SHOT_LIST.md` L41), P45 (`screen/S1E01/SHOT_LIST.md` L54). P39 and P44 cut per Steward ruling (were `screen/S1E01/SHOT_LIST.md` L26 and L46).
 - **Proposed text:**
   - P33: "Wide, low and level, along the empty chairs" (`screen/S1E01/SHOT_LIST.md` L15)
   - P35: "Over-the-shoulder from behind Ra-Thor onto the offer: the scroll in her folded gloves" (`screen/S1E01/SHOT_LIST.md` L20)
   - P36: "Tight on gloves and the gold ribbon catching the lamp" (`screen/S1E01/SHOT_LIST.md` L21)
   - P37: "Held two-shot down the table" (`screen/S1E01/SHOT_LIST.md` L22)
   - P38: "Reverse, medium close on the envoy: veil and folded gloves" (`screen/S1E01/SHOT_LIST.md` L25)
-  - P39: "Two-shot: she sets the scroll down and keeps one gloved hand on it; her line" (`screen/S1E01/SHOT_LIST.md` L26)
+  - P39, cut per Steward ruling: "Two-shot: she sets the scroll down and keeps one gloved hand on it; her line" (was `screen/S1E01/SHOT_LIST.md` L26)
   - P40: "Tight on the visor, silent" (`screen/S1E01/SHOT_LIST.md` L27)
   - P41: "Wide two-shot down the table, the stalemate held" (`screen/S1E01/SHOT_LIST.md` L28)
   - P42: "Tight on the visor, held, no line" (`screen/S1E01/SHOT_LIST.md` L33)
   - P43: "Two-shot: she stays at the table, composed" (`screen/S1E01/SHOT_LIST.md` L41)
-  - P44: "Over-the-shoulder from behind the envoy: the card slides down the table to her; her line" (`screen/S1E01/SHOT_LIST.md` L46)
+  - P44, cut per Steward ruling: "Over-the-shoulder from behind the envoy: the card slides down the table to her; her line" (was `screen/S1E01/SHOT_LIST.md` L46)
   - P45: "Pacing, trims and coverage are left to the edit" (`screen/S1E01/SHOT_LIST.md` L54)
 - **Status:** RULED — ACCEPT
 - Ruling: ACCEPT (Hands/Clerk/Wild, 2026-10-02)
 - Votes: Wild ACCEPT / Hands ACCEPT / Clerk ACCEPT
-- **Dependent shots:** P39 (S13, `screen/S1E01/SHOT_LIST.md` L26), P44 (S33, `screen/S1E01/SHOT_LIST.md` L46) and P52 (the S13 frame, `screen/S1E01/STORYBOARD_PROMPTS.md` L67, ruled under R6) stage PENDING SHERIF material: P39 and P52 stage P16 (X6) and P17 (R5); P44 stages P27 (X6) and P28 (R5). Each falls if Sherif refuses the item it depends on.
-- **P44 needs no change** after the P27 amend: S33 already ends before the take ("the card slides down the table to her; her line", `screen/S1E01/SHOT_LIST.md` L46), per Wild. The take stays in S34, beat 4.3 (`screen/S1E01/SHOT_LIST.md` L47).
+- **Dependent shots:** P39 (S13, was `screen/S1E01/SHOT_LIST.md` L26) and P44 (S33, was `screen/S1E01/SHOT_LIST.md` L46) are cut per Steward ruling. P52 (the S13 frame, `screen/S1E01/STORYBOARD_PROMPTS.md` L65) staged P16, P17, P27 and P28, which are cut per Steward ruling. S13 and S33 are now flagged with GAP markers. The take stays in S34, beat 4.3 (`screen/S1E01/SHOT_LIST.md` L47).
 
 ### X8. Storyboard frames that carry a canon bubble
 
@@ -257,20 +274,20 @@
 ## PENDING SHERIF classification
 
 **PENDING SHERIF (adds canon):**
-- **R1 (P02):** NIGHT is a new setting fact.
-- **R5 (P17, P28):** two new lines of dialogue for the Ribbon Envoy.
+- **R1 (P02, cut per Steward ruling):** NIGHT is a new setting fact.
+- **R5 (P17, P28, cut per Steward ruling):** two new lines of dialogue for the Ribbon Envoy.
 - **X6 (P04):** "She does not wait to be greeted." (`screen/S1E01/TELEPLAY.md` L38) adds a behavior that implies a greeting protocol at the table. Borderline; classed as adding character lore.
-- **X6 (P16):** she sets the scroll down and rests a hand on it before the canon slide. Borderline; classed as a new story event with a canon prop.
-- **X6 (P27):** Ra-Thor slides the CLEAN card down to her. Canon says only that she takes it (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L54). Borderline; classed as a new story event. As amended, P27 no longer shows the take; the take stays in beat 4.3 only.
+- **X6 (P16, cut per Steward ruling):** she sets the scroll down and rests a hand on it before the canon slide. Borderline; classed as a new story event with a canon prop.
+- **X6 (P27):** Ra-Thor slides the CLEAN card down to her. Canon says only that she takes it (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L54). Borderline; classed as a new story event. P27 is cut. The single take stays in beat 4.3 only.
 
-**Borderline cases classed as technical (PENDING COUNCIL only):**
+**Borderline cases classed as technical (ruled ACCEPT — 8 items; 0 pending council):**
 - **X5 (P05, P12, P18, P21, P25):** stillness, silence and composure. They hold canon behavior between beats (`09_CHARACTER_BIBLE.md` L5, "Never lectures. Plants the hammer. Does not chase."), so they add no fact.
 - **X5 (P14):** "The veil gives nothing away." (`screen/S1E01/TELEPLAY.md` L80) The veil is canon (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L5); this is performance only.
 - **X5 (P24):** "The shield is already moving." (`screen/S1E01/TELEPLAY.md` L140) This is timing inside the canon block (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L40).
 - **R2 (P08):** MAIN TITLES places the series intro, which 06 already allows (`06_MUSIC_SPEC.md` L112). It is an edit choice, not new lore.
 - **R3 (P29), X2:** scene headings and CONTINUOUS are format. The side cart in P26 is canon (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L47).
 - **R8, X3:** chords and cue placement are score choices inside the ruled G5–G10 frame (`screen/S1E01/GAP_RULINGS.md` L102).
-- **X7 (P39, P44) and R6 (P52):** these shots and the S13 frame stage the PENDING SHERIF material in R5 and X6. The framing itself is technical, but each one falls if its R5 or X6 item is refused.
+- **X7 (P39, P44) and R6 (P52):** these shots and the S13 frame staged the refused material in R5 and X6. P39 and P44 are cut per Steward ruling. S13 and S33 are now flagged with GAP markers.
 
 ---
 
@@ -279,7 +296,7 @@
 | ID | File:line | Item | Proposed text (verbatim excerpt) |
 |---|---|---|---|
 | P01 | `screen/S1E01/TELEPLAY.md` L7 | X1 | "marks every new line, action, shot or cue" (`screen/S1E01/TELEPLAY.md` L7) |
-| P02 | `screen/S1E01/TELEPLAY.md` L20 | R1 | "INT. QUIET ROOM — THE LONG TABLE — NIGHT" (`screen/S1E01/TELEPLAY.md` L20) |
+| P02 | cut per Steward ruling (was `screen/S1E01/TELEPLAY.md` L20) | R1 | "INT. QUIET ROOM — THE LONG TABLE — NIGHT" |
 | P03 | `screen/S1E01/TELEPLAY.md` L26 | X4 | "The camera drifts slowly down the empty chairs, one after another, toward the far end. Ra-Thor does not move." (`screen/S1E01/TELEPLAY.md` L26) |
 | P04 | `screen/S1E01/TELEPLAY.md` L38 | X6 | "She does not wait to be greeted." (`screen/S1E01/TELEPLAY.md` L38) |
 | P05 | `screen/S1E01/TELEPLAY.md` L44 | X5 | "Ra-Thor does not answer. The visor slit holds, steady and warm." (`screen/S1E01/TELEPLAY.md` L44) |
@@ -293,8 +310,8 @@
 | P13 | `screen/S1E01/TELEPLAY.md` L78 | X4 | "The line is staged on the visor slit; there is no mouth" (`screen/S1E01/TELEPLAY.md` L78) |
 | P14 | `screen/S1E01/TELEPLAY.md` L80 | X5 | "Reverse on the envoy. The veil gives nothing away. Her gloves stay folded over the scroll." (`screen/S1E01/TELEPLAY.md` L80) |
 | P15 | `screen/S1E01/TELEPLAY.md` L84 | X3 | "MUSIC: C03, the bed leans colder." (`screen/S1E01/TELEPLAY.md` L84) |
-| P16 | `screen/S1E01/TELEPLAY.md` L86 | X6 | "She sets the scroll down on the table between them and leaves one gloved hand resting on it." (`screen/S1E01/TELEPLAY.md` L86) |
-| P17 | `screen/S1E01/TELEPLAY.md` L90 | R5 | "Declining a gift is also an answer." (`screen/S1E01/TELEPLAY.md` L90) |
+| P16 | cut per Steward ruling (was `screen/S1E01/TELEPLAY.md` L86) | X6 | "She sets the scroll down on the table between them and leaves one gloved hand resting on it." |
+| P17 | cut per Steward ruling (was `screen/S1E01/TELEPLAY.md` L90) | R5 | "Declining a gift is also an answer." |
 | P18 | `screen/S1E01/TELEPLAY.md` L92 | X5 | "Ra-Thor stays still. The silence does the work. Neither of them moves." (`screen/S1E01/TELEPLAY.md` L92) |
 | P19 | `screen/S1E01/TELEPLAY.md` L94 | X4 | "Wide two-shot down the table, the stalemate held." (`screen/S1E01/TELEPLAY.md` L94) |
 | P20 | `screen/S1E01/TELEPLAY.md` L104 | X2 | "INT. QUIET ROOM — AT THE HALO — CONTINUOUS" (`screen/S1E01/TELEPLAY.md` L104) |
@@ -304,8 +321,8 @@
 | P24 | `screen/S1E01/TELEPLAY.md` L140 | X5 | "Wide down the table: the threads catch the lamp, chair after chair. The shield is already moving." (`screen/S1E01/TELEPLAY.md` L140) |
 | P25 | `screen/S1E01/TELEPLAY.md` L164 | X5 | "She stays at the table, composed, veil down. She does not step back." (`screen/S1E01/TELEPLAY.md` L164) |
 | P26 | `screen/S1E01/TELEPLAY.md` L174 | X2 | "INT. QUIET ROOM — THE LONG TABLE AND SIDE CART — CONTINUOUS" (`screen/S1E01/TELEPLAY.md` L174) |
-| P27 | `screen/S1E01/TELEPLAY.md` L196 | X6 | "Ra-Thor sets the card on the table and slides it down to her. It stops in front of her gloves. She looks at it for a long moment." (`screen/S1E01/TELEPLAY.md` L196; amended) |
-| P28 | `screen/S1E01/TELEPLAY.md` L200 | R5 | "My house will read this one." (`screen/S1E01/TELEPLAY.md` L200) |
+| P27 | cut per Steward ruling (was `screen/S1E01/TELEPLAY.md` L196) | X6 | "Ra-Thor sets the card on the table and slides it down to her. It stops in front of her gloves. She looks at it for a long moment." (amended) |
+| P28 | cut per Steward ruling (was `screen/S1E01/TELEPLAY.md` L200) | R5 | "My house will read this one." |
 | P29 | `screen/S1E01/TELEPLAY.md` L204 | R3 | "a new scene, so each scene carries one catch line at most" (`screen/S1E01/TELEPLAY.md` L204) |
 | P30 | `screen/S1E01/TELEPLAY.md` L226 | X2 | "INT. QUIET ROOM — THE LONG TABLE — CONTINUOUS" (`screen/S1E01/TELEPLAY.md` L226) |
 | P31 | `screen/S1E01/TELEPLAY.md` L228 | X4 | "Wide down the long table as she goes." (`screen/S1E01/TELEPLAY.md` L228) |
@@ -316,12 +333,12 @@
 | P36 | `screen/S1E01/SHOT_LIST.md` L21 | X7 | "Tight on gloves and the gold ribbon catching the lamp" (`screen/S1E01/SHOT_LIST.md` L21) |
 | P37 | `screen/S1E01/SHOT_LIST.md` L22 | X7 | "Held two-shot down the table" (`screen/S1E01/SHOT_LIST.md` L22) |
 | P38 | `screen/S1E01/SHOT_LIST.md` L25 | X7 | "Reverse, medium close on the envoy: veil and folded gloves" (`screen/S1E01/SHOT_LIST.md` L25) |
-| P39 | `screen/S1E01/SHOT_LIST.md` L26 | X7 | "Two-shot: she sets the scroll down and keeps one gloved hand on it; her line" (`screen/S1E01/SHOT_LIST.md` L26) |
+| P39 | cut per Steward ruling (was `screen/S1E01/SHOT_LIST.md` L26) | X7 | "Two-shot: she sets the scroll down and keeps one gloved hand on it; her line" |
 | P40 | `screen/S1E01/SHOT_LIST.md` L27 | X7 | "Tight on the visor, silent" (`screen/S1E01/SHOT_LIST.md` L27) |
 | P41 | `screen/S1E01/SHOT_LIST.md` L28 | X7 | "Wide two-shot down the table, the stalemate held" (`screen/S1E01/SHOT_LIST.md` L28) |
 | P42 | `screen/S1E01/SHOT_LIST.md` L33 | X7 | "Tight on the visor, held, no line" (`screen/S1E01/SHOT_LIST.md` L33) |
 | P43 | `screen/S1E01/SHOT_LIST.md` L41 | X7 | "Two-shot: she stays at the table, composed" (`screen/S1E01/SHOT_LIST.md` L41) |
-| P44 | `screen/S1E01/SHOT_LIST.md` L46 | X7 | "Over-the-shoulder from behind the envoy: the card slides down the table to her; her line" (`screen/S1E01/SHOT_LIST.md` L46) |
+| P44 | cut per Steward ruling (was `screen/S1E01/SHOT_LIST.md` L46) | X7 | "Over-the-shoulder from behind the envoy: the card slides down the table to her; her line" |
 | P45 | `screen/S1E01/SHOT_LIST.md` L54 | X7 | "Pacing, trims and coverage are left to the edit" (`screen/S1E01/SHOT_LIST.md` L54) |
 | P46 | `screen/S1E01/STORYBOARD_PROMPTS.md` L6 | X1 | "Every prompt below is new screen material" (`screen/S1E01/STORYBOARD_PROMPTS.md` L6) |
 | P47 | `screen/S1E01/STORYBOARD_PROMPTS.md` L31 | R6 | "deep shadow, no speech bubble in this frame" (`screen/S1E01/STORYBOARD_PROMPTS.md` L29; tag at `screen/S1E01/STORYBOARD_PROMPTS.md` L31) |
@@ -344,4 +361,4 @@
 | P64 | `screen/S1E01/SCORE_PLAN.md` L50 | X3 | "Enters under S01 and buttons out on the envoy" (`screen/S1E01/SCORE_PLAN.md` L50) |
 | P65 | `screen/S1E01/SCORE_PLAN.md` L53 | R8 | "The cue settles on A under the silent visor beat in S20" (`screen/S1E01/SCORE_PLAN.md` L53) |
 
-**Count: 65 tags** (TELEPLAY 31, SHOT_LIST 14, STORYBOARD_PROMPTS 16, SCORE_PLAN 4). Each is assigned to exactly one item or group above.
+**Count: 58 tags** (TELEPLAY 26, SHOT_LIST 12, STORYBOARD_PROMPTS 16, SCORE_PLAN 4). Each live tag is assigned to exactly one item or group above. Seven cut records (P02, P16, P17, P27, P28, P39, P44) stay in the inventory.
