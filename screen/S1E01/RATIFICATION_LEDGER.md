@@ -33,7 +33,7 @@
 
 > R1 REFUSED. Drop NIGHT. Slug is QUIET ROOM — THE LONG TABLE. Suave Hour is lighting, not a clock. Time of day stays unstated.
 
-- Council: ACCEPT (Hands/Clerk/Wild, 2026-10-02) — still PENDING SHERIF
+- Council: ACCEPT (Hands/Clerk/Wild, 2026-10-02) — overruled by Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02
 - Votes: Wild ACCEPT / Hands ACCEPT / Clerk ACCEPT
 
 ### R2. CUT TO BLACK, then MAIN TITLES
@@ -84,7 +84,7 @@
 > "My house will read this one."
 > Spoken lines stay the episode file only.
 
-- Council: ACCEPT (Hands/Clerk/Wild, 2026-10-02) — still PENDING SHERIF
+- Council: ACCEPT (Hands/Clerk/Wild, 2026-10-02) — overruled by Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02
 - Votes: Wild ACCEPT / Hands ACCEPT / Clerk ACCEPT
 
 ### R6. The no-speech-bubble storyboard frames
@@ -229,7 +229,7 @@
 > She slides the scroll. Shield pins it. Hand lifts away, unharmed.
 > She takes the CLEAN card once. No slide from Ra-Thor. No long look.
 
-- Council: ACCEPT (Hands/Clerk/Wild, 2026-10-02) — still PENDING SHERIF. P04 and P16 accepted as proposed; P27 accepted AS AMENDED.
+- Council: ACCEPT (Hands/Clerk/Wild, 2026-10-02) — overruled by Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02. P04 and P16 accepted as proposed; P27 accepted AS AMENDED.
 - **P27 amend (all three seats):** P27 now ends at "She looks at it for a long moment." (`screen/S1E01/TELEPLAY.md` L196). The take is cut from beat 4.2, so she takes the CLEAN card once only, in beat 4.3 / Panel 6: "The Ribbon Envoy takes the CLEAN card in a gloved hand" (`screen/S1E01/TELEPLAY.md` L206), under canon `episodes/S1E01_THE_RIBBON_CLAUSE.md` L54. This fixes a double take. The PROPOSED tag on L196 stays.
 - Votes: Wild ACCEPT, P27 AMEND / Hands ACCEPT, P27 AMEND / Clerk ACCEPT, P27 AMEND
 
@@ -281,7 +281,7 @@
 - **X6 (P16):** she sets the scroll down and rests a hand on it before the canon slide. Borderline; classed as a new story event with a canon prop.
 - **X6 (P27):** Ra-Thor slides the CLEAN card down to her. Canon says only that she takes it (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L54). Borderline; classed as a new story event. As amended, P27 no longer shows the take; the take stays in beat 4.3 only.
 
-**Borderline cases classed as technical (ruled ACCEPT — 13 items; 0 pending council):**
+**Borderline cases classed as technical (ruled ACCEPT — 8 items; 0 pending council):**
 - **X5 (P05, P12, P18, P21, P25):** stillness, silence and composure. They hold canon behavior between beats (`09_CHARACTER_BIBLE.md` L5, "Never lectures. Plants the hammer. Does not chase."), so they add no fact.
 - **X5 (P14):** "The veil gives nothing away." (`screen/S1E01/TELEPLAY.md` L80) The veil is canon (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L5); this is performance only.
 - **X5 (P24):** "The shield is already moving." (`screen/S1E01/TELEPLAY.md` L140) This is timing inside the canon block (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L40).

@@ -1,6 +1,6 @@
 # S1E02 The Tall Chair: ratification ledger for #69 and #70 (Screen R)
 
-**Status: J1, J2 and J6B refused.** 29 items: 26 are PENDING COUNCIL, and 3 (J1, J2, J6B) are REFUSED — Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02. Every vote line is blank. It lists the Screen C judgment calls from #70, the beat-sheet judgment calls from #69, and every PROPOSED CANON tag in the five S1E02 screen files so the councils can vote on them. It fills no gaps.
+**Status: 2 ruled A, 1 refused.** 29 items: 26 are PENDING COUNCIL, 2 (J1, J2) are RULED: A — bound by Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02, and 1 (J6B) is REFUSED — Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02. Every vote line is blank. It lists the Screen C judgment calls from #70, the beat-sheet judgment calls from #69, and every PROPOSED CANON tag in the five S1E02 screen files so the councils can vote on them. It fills no gaps.
 
 **Files covered (main `c9c6a1e`):**
 - `screen/S1E02/TELEPLAY.md`
@@ -13,7 +13,7 @@
 
 1. **Unanimity.** An item counts as ruled only when all three seats (Wild, Hands, Clerk) agree.
 2. **PENDING SHERIF.** Items that ADD canon, or depend on Sherif's open S1E01 calls, need Sherif's word as well as the three seats. The councils cannot rule a PENDING SHERIF item alone.
-3. **J1, J2 and J6B are refused.** The other 26 items stay PENDING COUNCIL. Every vote line is blank, and the options pick no winner.
+3. **J1 and J2 are RULED: A — bound by Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02.** J6B is REFUSED — Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02. The other 26 items stay PENDING COUNCIL. Every vote line is blank, and those 26 options pick no winner.
 4. **Files stay untouched.** This ledger changes no comic, canon or screen file.
 5. **Tags.** Each of the 72 tags `PROPOSED CANON — pending council ratification` has one ID and sits in exactly one item: T01–T60 in the four Screen C files, B01–B12 in the beat sheet. M3 applies: tagged material is not canon until ratified (`screen/SCREEN_BIBLE_ADDENDUM.md` L69).
 6. **The Stair Envoy is never gendered** (`seasons/S1_SEASON_SHEET.md` L96). The Ribbon Envoy appears only in links to S1E01 items.
@@ -33,7 +33,7 @@
   - A: keep the teleplay canon-bubbles only, as drafted.
   - B: add new envoy lines in a later PR if Sherif accepts S1E01 R5, each tagged PROPOSED.
   - C: add new lines for Ra-Thor only, each tagged PROPOSED.
-- **Status:** REFUSED — Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02
+- **Status:** RULED: A — bound by Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02
 - **Ruling:**
 
 > Same three refusals bind the matching S1E02 teleplay lines.
@@ -55,7 +55,7 @@
   - A: keep the heading with no time of day.
   - B: add NIGHT, matching S1E01 R1, if Sherif accepts R1.
   - C: add another time of day chosen by Sherif.
-- **Status:** REFUSED — Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02
+- **Status:** RULED: A — bound by Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02
 - **Ruling:**
 
 > Same three refusals bind the matching S1E02 teleplay lines.
@@ -482,9 +482,11 @@
 
 ## PENDING SHERIF classification
 
-**REFUSED — Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02 (J1 bound to S1E01 R5, J2 bound to S1E01 R1, J6B bound to S1E01 X6):**
+**RULED: A — bound by Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02 (2 items; J1 bound to S1E01 R5, J2 bound to S1E01 R1):**
 - **J1:** no new dialogue. Linked to S1E01 R5 (`screen/S1E01/RATIFICATION_LEDGER.md` L68).
 - **J2 (T02):** no time of day. Linked to S1E01 R1 (`screen/S1E01/RATIFICATION_LEDGER.md` L25).
+
+**REFUSED — Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02 (1 item; J6B bound to S1E01 X6):**
 - **J6B (T23):** "The envoy weighs the card for a long moment." (`screen/S1E02/TELEPLAY.md` L203). Linked to S1E01 P27 / X6 (`screen/S1E01/RATIFICATION_LEDGER.md` L204, L215), to be ruled together.
 
 **PENDING COUNCIL only (technical or already canon-backed; 26 items):**
@@ -573,4 +575,4 @@
 | B11 | `screen/S1E02/BEAT_SHEET.md` L167 | K3 | "the card passes to the envoy here, once." (`screen/S1E02/BEAT_SHEET.md` L167) |
 | B12 | `screen/S1E02/BEAT_SHEET.md` L185 | J7A | "the ordering. P6's caption and closing staging are placed after the bubble and stinger as the tag" (`screen/S1E02/BEAT_SHEET.md` L185) |
 
-**Count: 72 tags** (TELEPLAY 26, SHOT_LIST 12, STORYBOARD_PROMPTS 15, SCORE_PLAN 7, BEAT_SHEET 12). Each is assigned to exactly one item above. **Items: 29** (26 PENDING COUNCIL, 3 REFUSED — Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02).
+**Count: 72 tags** (TELEPLAY 26, SHOT_LIST 12, STORYBOARD_PROMPTS 15, SCORE_PLAN 7, BEAT_SHEET 12). Each is assigned to exactly one item above. **Items: 29** (26 PENDING COUNCIL, 2 RULED: A — bound by Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02, 1 REFUSED — Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02).
