@@ -230,7 +230,7 @@
 > She takes the CLEAN card once. No slide from Ra-Thor. No long look.
 
 - Council: ACCEPT (Hands/Clerk/Wild, 2026-10-02) — overruled by Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02. P04 and P16 accepted as proposed; P27 accepted AS AMENDED.
-- **P27 amend (all three seats):** P27 now ends at "She looks at it for a long moment." (`screen/S1E01/TELEPLAY.md` L196). The take is cut from beat 4.2, so she takes the CLEAN card once only, in beat 4.3 / Panel 6: "The Ribbon Envoy takes the CLEAN card in a gloved hand" (`screen/S1E01/TELEPLAY.md` L206), under canon `episodes/S1E01_THE_RIBBON_CLAUSE.md` L54. This fixes a double take. The PROPOSED tag on L196 stays.
+- **P27 amend (all three seats):** P27 is cut. The single take is at `screen/S1E01/TELEPLAY.md` L194: "The Ribbon Envoy takes the CLEAN card in a gloved hand", under canon `episodes/S1E01_THE_RIBBON_CLAUSE.md` L54. No PROPOSED tag remains there.
 - Votes: Wild ACCEPT, P27 AMEND / Hands ACCEPT, P27 AMEND / Clerk ACCEPT, P27 AMEND
 
 ### X7. New shots and the shot-list total
@@ -253,8 +253,7 @@
 - **Status:** RULED — ACCEPT
 - Ruling: ACCEPT (Hands/Clerk/Wild, 2026-10-02)
 - Votes: Wild ACCEPT / Hands ACCEPT / Clerk ACCEPT
-- **Dependent shots:** P39 (S13, `screen/S1E01/SHOT_LIST.md` L26), P44 (S33, `screen/S1E01/SHOT_LIST.md` L46) and P52 (the S13 frame, `screen/S1E01/STORYBOARD_PROMPTS.md` L67, ruled under R6) stage PENDING SHERIF material: P39 and P52 stage P16 (X6) and P17 (R5); P44 stages P27 (X6) and P28 (R5). Each falls if Sherif refuses the item it depends on.
-- **P44 needs no change** after the P27 amend: S33 already ends before the take ("the card slides down the table to her; her line", `screen/S1E01/SHOT_LIST.md` L46), per Wild. The take stays in S34, beat 4.3 (`screen/S1E01/SHOT_LIST.md` L47).
+- **Dependent shots:** P39 (S13, `screen/S1E01/SHOT_LIST.md` L26), P44 (S33, `screen/S1E01/SHOT_LIST.md` L46) and P52 (the S13 frame, `screen/S1E01/STORYBOARD_PROMPTS.md` L65) staged P16, P17, P27 and P28. Those clauses are cut. The holes are bare. The take stays in S34, beat 4.3 (`screen/S1E01/SHOT_LIST.md` L47).
 
 ### X8. Storyboard frames that carry a canon bubble
 
@@ -279,7 +278,7 @@
 - **R5 (P17, P28):** two new lines of dialogue for the Ribbon Envoy.
 - **X6 (P04):** "She does not wait to be greeted." (`screen/S1E01/TELEPLAY.md` L38) adds a behavior that implies a greeting protocol at the table. Borderline; classed as adding character lore.
 - **X6 (P16):** she sets the scroll down and rests a hand on it before the canon slide. Borderline; classed as a new story event with a canon prop.
-- **X6 (P27):** Ra-Thor slides the CLEAN card down to her. Canon says only that she takes it (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L54). Borderline; classed as a new story event. As amended, P27 no longer shows the take; the take stays in beat 4.3 only.
+- **X6 (P27):** Ra-Thor slides the CLEAN card down to her. Canon says only that she takes it (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L54). Borderline; classed as a new story event. P27 is cut. The single take stays in beat 4.3 only.
 
 **Borderline cases classed as technical (ruled ACCEPT — 8 items; 0 pending council):**
 - **X5 (P05, P12, P18, P21, P25):** stillness, silence and composure. They hold canon behavior between beats (`09_CHARACTER_BIBLE.md` L5, "Never lectures. Plants the hammer. Does not chase."), so they add no fact.
@@ -288,7 +287,7 @@
 - **R2 (P08):** MAIN TITLES places the series intro, which 06 already allows (`06_MUSIC_SPEC.md` L112). It is an edit choice, not new lore.
 - **R3 (P29), X2:** scene headings and CONTINUOUS are format. The side cart in P26 is canon (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L47).
 - **R8, X3:** chords and cue placement are score choices inside the ruled G5–G10 frame (`screen/S1E01/GAP_RULINGS.md` L102).
-- **X7 (P39, P44) and R6 (P52):** these shots and the S13 frame stage the PENDING SHERIF material in R5 and X6. The framing itself is technical, but each one falls if its R5 or X6 item is refused.
+- **X7 (P39, P44) and R6 (P52):** these shots and the S13 frame staged the refused material in R5 and X6. Those clauses are cut. The holes are bare.
 
 ---
 

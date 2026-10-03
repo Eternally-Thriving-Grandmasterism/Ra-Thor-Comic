@@ -62,7 +62,7 @@ Prompt: [stem] + [set add-on] + close-up on the winged-halo closed helm, visor s
 
 ### S13 (beat 1.3): The envoy holds her ground
 
-Prompt: [stem] + [set add-on] + two-shot across the long table, the invented envoy composed and upright, face fully hidden behind the gold mesh veil, one gloved hand resting on the gilded scroll laid on the table, Ra-Thor still at the head, shield leaned at his knee with the eye-seal facing out, hammer head-down on stone, polite stillness, no speech bubble in this frame (her line is carried in the teleplay).
+Prompt: [stem] + [set add-on] + two-shot across the long table, the invented envoy composed and upright, face fully hidden behind the gold mesh veil, Ra-Thor still at the head, shield leaned at his knee with the eye-seal facing out, hammer head-down on stone, polite stillness, no speech bubble in this frame.
 
 - Tag: PROPOSED CANON — pending council ratification. Follows: PROPOSED CANON — pending council ratification; envoy look `episodes/S1E01_THE_RIBBON_CLAUSE.md` L5.
 - Reject (series, `01_VISUAL_STYLE_GUIDE.md` L34): "Gun focus, gore, exploded visor, modern superhero logos, latex parody, xAI wordmarks. Non-canon helms, an emerald visor, a chest seal, a diamond-gem shield, the navy/blue variant, and the falcon, walker bot, or honor guard as cast. Treants, tree people, bark or wood-skinned figures, or plant-bodied people."

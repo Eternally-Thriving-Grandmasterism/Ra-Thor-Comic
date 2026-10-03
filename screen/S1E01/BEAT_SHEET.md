@@ -162,9 +162,9 @@ The arc runs from courtesy under pressure to a fair deal kept in the open. The s
 ### 4.2 TRADE WITHOUT KNOTS
 
 - **Purpose:** the counter-offer. Ra-Thor gives back a better deal than the one that was blocked.
-- **Move:** the CLEAN card says TRADE WITHOUT KNOTS (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L47). **Counter-move:** the envoy weighs it.
+- **Move:** the CLEAN card says TRADE WITHOUT KNOTS (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L47). **Counter-move:**
 - **Emotional turn:** suspicion gives way to recognition.
-- **Anchor (PROPOSED CANON — pending council ratification):** a held beat as the card crosses the table between them, before she takes it.
+- **Anchor (PROPOSED CANON — pending council ratification):**
 
 ### 4.3 That one can live (Act Four out)
 

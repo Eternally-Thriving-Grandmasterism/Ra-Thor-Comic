@@ -101,6 +101,7 @@
   - B: cut the slide and show only the take in 4.2.
   - C: cut the handover and let canon's "CLEAN card in hand" stand alone (`episodes/S1E02_THE_TALL_CHAIR.md` L54).
 - **Status:** PENDING COUNCIL
+- **PENDING STEWARD:** The "Ra-Thor slides the CLEAN card across" clause (`screen/S1E02/TELEPLAY.md` L201, `screen/S1E02/SHOT_LIST.md` S31) is PENDING STEWARD. It conflicts with X6's "No slide from Ra-Thor". The handover itself is canon-backed: the envoy leaves with the card in hand (`episodes/S1E02_THE_TALL_CHAIR.md` L54). The question has been sent to Sherif.
 - Votes: Wild — / Hands — / Clerk —
 
 ### J6A. New staging in beats 1.1, 1.3, 2.2, 3.1 and 3.3
@@ -259,6 +260,7 @@
   - B: move it to 4.3.
   - C: cut it and let canon's "CLEAN card in hand" stand alone (`episodes/S1E02_THE_TALL_CHAIR.md` L54).
 - **Status:** PENDING COUNCIL
+- **PENDING STEWARD:** The "Ra-Thor slides the CLEAN card across" clause (`screen/S1E02/TELEPLAY.md` L201, `screen/S1E02/SHOT_LIST.md` S31) is PENDING STEWARD. It conflicts with X6's "No slide from Ra-Thor". The handover itself is canon-backed: the envoy leaves with the card in hand (`episodes/S1E02_THE_TALL_CHAIR.md` L54). The question has been sent to Sherif.
 - Votes: Wild — / Hands — / Clerk —
 
 ### K4. The 1.1 arrival from the tile to the room

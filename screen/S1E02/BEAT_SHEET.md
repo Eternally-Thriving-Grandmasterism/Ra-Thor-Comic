@@ -162,7 +162,7 @@ The arc runs from a polite bid for rank to a fair deal at equal height. The seas
 ### 4.2 TRADE ROUTES. LEVEL CHAIRS.
 
 - **Purpose:** the counter-offer. Ra-Thor gives back the trade without the rank.
-- **Move:** Ra-Thor reads the CLEAN card aloud: "Trade routes. Level chairs." (`episodes/S1E02_THE_TALL_CHAIR.md` L46). The card says TRADE ROUTES. LEVEL CHAIRS. (`episodes/S1E02_THE_TALL_CHAIR.md` L47). **Counter-move:** the envoy weighs it.
+- **Move:** Ra-Thor reads the CLEAN card aloud: "Trade routes. Level chairs." (`episodes/S1E02_THE_TALL_CHAIR.md` L46). The card says TRADE ROUTES. LEVEL CHAIRS. (`episodes/S1E02_THE_TALL_CHAIR.md` L47). **Counter-move:**
 - **Emotional turn:** suspicion gives way to recognition.
 - **Anchor (PROPOSED CANON — pending council ratification):** the card passes to the envoy here, once. Canon never stages the handover; it only has the envoy leave "CLEAN card in hand" (`episodes/S1E02_THE_TALL_CHAIR.md` L54).
 

@@ -23,7 +23,7 @@
 | S10 | 1.2 | Title card over the two-shot | Locked off | 4 | CANON: "RIBBON COUNT: ONE. LOOSE ENDS: SEVERAL." (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L24) |
 | S11 | 1.2 | Tight on the visor; lamp glint on the helm filigree (bell, once); his line | Locked off | 5 | CANON: "Tight on the visor." (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L26); line `episodes/S1E01_THE_RIBBON_CLAUSE.md` L25; speaker G4 B (`screen/S1E01/GAP_RULINGS.md` L57); bell G6 A (`screen/S1E01/GAP_RULINGS.md` L74) |
 | S12 | 1.2 | Reverse, medium close on the envoy: veil and folded gloves | Locked off | 4 | PROPOSED CANON — pending council ratification |
-| S13 | 1.3 | Two-shot: she sets the scroll down and keeps one gloved hand on it; her line | Locked off | 5 | PROPOSED CANON — pending council ratification |
+| S13 | 1.3 |  | Locked off | 5 | PROPOSED CANON — pending council ratification |
 | S14 | 1.3 | Tight on the visor, silent | Locked off | 4 | PROPOSED CANON — pending council ratification |
 | S15 | 1.3 | Wide two-shot down the table, the stalemate held | Very slow pull back | 5 | PROPOSED CANON — pending council ratification |
 | S16 | 2.1 | Title card over the halo | Locked off | 4 | CANON: "TWELVE MASKS. TOLC ON THE TABLE. HOW HARD?" (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L31) |
@@ -43,7 +43,7 @@
 | S30 | 4.1 | Medium on the Idea Recycler on its side cart: the scroll goes into one hopper, ribbon and all | Locked off | 5 | CANON: "The scroll goes into one of its twin hoppers, ribbon and all." (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L47) |
 | S31 | 4.1 | Tight on the OUTPUT tray: three cards land, OBVIOUS, FERAL, CLEAN | Locked off | 4 | CANON: "Three cards land in the OUTPUT tray: OBVIOUS, FERAL, CLEAN." (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L47) |
 | S32 | 4.2 | Insert: Ra-Thor holds only the CLEAN card, which reads TRADE WITHOUT KNOTS | Locked off | 4 | CANON: "It says TRADE WITHOUT KNOTS." (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L47) |
-| S33 | 4.2 | Over-the-shoulder from behind the envoy: the card slides down the table to her; her line | Slow push on the card | 5 | PROPOSED CANON — pending council ratification |
+| S33 | 4.2 |  |  | 5 | PROPOSED CANON — pending council ratification |
 | S34 | 4.3 | Tight on her glove taking the CLEAN card; the smallest bow, veil down | Locked off | 5 | CANON: "takes the CLEAN card in a gloved hand, veil still down, and gives the smallest bow" (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L54) |
 | S35 | 4.3 | Medium close on Ra-Thor; his line | Locked off | 4 | CANON: "That one can live." (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L53) |
 | S36 | 4.3 | Tight on one empty chair: she sets her knot-glyph token on it | Locked off | 4 | CANON: "She sets her knot-glyph token on one empty chair to hold it" (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L54) |
