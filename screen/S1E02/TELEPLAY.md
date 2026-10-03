@@ -198,7 +198,7 @@ MUSIC: "Three short card tones, the CLEAN one a clean major bloom." [CANON: `epi
 
 INSERT: the CLEAN card. "It says TRADE ROUTES. LEVEL CHAIRS." [CANON: `episodes/S1E02_THE_TALL_CHAIR.md` L47]
 
-Ra-Thor slides the CLEAN card across the table to the envoy, and the envoy's gloved hand takes it. This is the only handover in the episode. [PROPOSED CANON — pending council ratification: canon never stages the handover (`screen/S1E02/BEAT_SHEET.md` L167)]
+[GAP — handover staging cut per X6; canon L54: envoy leaves with card in hand]
 
 ### Beat 4.3. That one can live (`screen/S1E02/BEAT_SHEET.md` L169)
 

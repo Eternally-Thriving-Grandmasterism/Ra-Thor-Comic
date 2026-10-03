@@ -1,6 +1,6 @@
 # S1E02 The Tall Chair: ratification ledger for #69 and #70 (Screen R)
 
-**Status: 2 ruled A, 1 refused.** 29 items: 26 are PENDING COUNCIL, 2 (J1, J2) are RULED: A — bound by Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02, and 1 (J6B) is REFUSED — Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02. Every vote line is blank. It lists the Screen C judgment calls from #70, the beat-sheet judgment calls from #69, and every PROPOSED CANON tag in the five S1E02 screen files so the councils can vote on them. It fills no gaps.
+**Status: 2 ruled A, 1 ruled, 1 refused.** 29 items: 25 are PENDING COUNCIL, 2 (J1, J2) are RULED: A — bound by Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02, 1 (J5) is RULED — covered by X6, Steward ruling relayed by Sherif to Lead Mate, 2026-10-02; slide cut (Lead Mate ruling), and 1 (J6B) is REFUSED — Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02. Every vote line is blank. It lists the Screen C judgment calls from #70, the beat-sheet judgment calls from #69, and every PROPOSED CANON tag in the five S1E02 screen files so the councils can vote on them. It fills no gaps.
 
 **Files covered (main `c9c6a1e`):**
 - `screen/S1E02/TELEPLAY.md`
@@ -13,7 +13,7 @@
 
 1. **Unanimity.** An item counts as ruled only when all three seats (Wild, Hands, Clerk) agree.
 2. **PENDING SHERIF.** Items that ADD canon, or depend on Sherif's open S1E01 calls, need Sherif's word as well as the three seats. The councils cannot rule a PENDING SHERIF item alone.
-3. **J1 and J2 are RULED: A — bound by Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02.** J6B is REFUSED — Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02. The other 26 items stay PENDING COUNCIL. Every vote line is blank, and those 26 options pick no winner.
+3. **J1 and J2 are RULED: A — bound by Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02.** J5 is RULED — covered by X6, Steward ruling relayed by Sherif to Lead Mate, 2026-10-02; slide cut (Lead Mate ruling). J6B is REFUSED — Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02. The other 25 items stay PENDING COUNCIL. Every vote line is blank, and those 25 options pick no winner.
 4. **Files stay untouched.** This ledger changes no comic, canon or screen file.
 5. **Tags.** Each of the 72 tags `PROPOSED CANON — pending council ratification` has one ID and sits in exactly one item: T01–T60 in the four Screen C files, B01–B12 in the beat sheet. M3 applies: tagged material is not canon until ratified (`screen/SCREEN_BIBLE_ADDENDUM.md` L69).
 6. **The Stair Envoy is never gendered** (`seasons/S1_SEASON_SHEET.md` L96). The Ribbon Envoy appears only in links to S1E01 items.
@@ -100,8 +100,8 @@
   - A: keep the handover in 4.2 as drafted.
   - B: cut the slide and show only the take in 4.2.
   - C: cut the handover and let canon's "CLEAN card in hand" stand alone (`episodes/S1E02_THE_TALL_CHAIR.md` L54).
-- **Status:** PENDING COUNCIL
-- **PENDING STEWARD:** The "Ra-Thor slides the CLEAN card across" clause (`screen/S1E02/TELEPLAY.md` L201, `screen/S1E02/SHOT_LIST.md` S31) is PENDING STEWARD. It conflicts with X6's "No slide from Ra-Thor". The handover itself is canon-backed: the envoy leaves with the card in hand (`episodes/S1E02_THE_TALL_CHAIR.md` L54). The question has been sent to Sherif.
+- **Status:** RULED — covered by X6, Steward ruling relayed by Sherif to Lead Mate, 2026-10-02; slide cut (Lead Mate ruling)
+- **Gaps:** `screen/S1E02/TELEPLAY.md` L201 and `screen/S1E02/SHOT_LIST.md` S31: `[GAP — handover staging cut per X6; canon L54: envoy leaves with card in hand]`
 - Votes: Wild — / Hands — / Clerk —
 
 ### J6A. New staging in beats 1.1, 1.3, 2.2, 3.1 and 3.3
@@ -260,7 +260,6 @@
   - B: move it to 4.3.
   - C: cut it and let canon's "CLEAN card in hand" stand alone (`episodes/S1E02_THE_TALL_CHAIR.md` L54).
 - **Status:** PENDING COUNCIL
-- **PENDING STEWARD:** The "Ra-Thor slides the CLEAN card across" clause (`screen/S1E02/TELEPLAY.md` L201, `screen/S1E02/SHOT_LIST.md` S31) is PENDING STEWARD. It conflicts with X6's "No slide from Ra-Thor". The handover itself is canon-backed: the envoy leaves with the card in hand (`episodes/S1E02_THE_TALL_CHAIR.md` L54). The question has been sent to Sherif.
 - Votes: Wild — / Hands — / Clerk —
 
 ### K4. The 1.1 arrival from the tile to the room
@@ -488,12 +487,15 @@
 - **J1:** no new dialogue. Linked to S1E01 R5 (`screen/S1E01/RATIFICATION_LEDGER.md` L68).
 - **J2 (T02):** no time of day. Linked to S1E01 R1 (`screen/S1E01/RATIFICATION_LEDGER.md` L25).
 
+**RULED — covered by X6, Steward ruling relayed by Sherif to Lead Mate, 2026-10-02; slide cut (Lead Mate ruling) (1 item; J5):**
+- **J5 (T22, T37):** the slide is cut. Gaps: `screen/S1E02/TELEPLAY.md` L201 and `screen/S1E02/SHOT_LIST.md` S31, `[GAP — handover staging cut per X6; canon L54: envoy leaves with card in hand]`.
+
 **REFUSED — Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02 (1 item; J6B bound to S1E01 X6):**
 - **J6B (T23):** "The envoy weighs the card for a long moment." (`screen/S1E02/TELEPLAY.md` L203). Linked to S1E01 P27 / X6 (`screen/S1E01/RATIFICATION_LEDGER.md` L204, L215), to be ruled together.
 
-**PENDING COUNCIL only (technical or already canon-backed; 26 items):**
+**PENDING COUNCIL only (technical or already canon-backed; 25 items):**
 - **J3, J4, J10, X3:** cue count, chords and cue placement are score choices inside the ruled G5–G8 frame (`screen/S1E02/GAP_RULINGS.md` L76, L87, L97, L107).
-- **J5, K3:** the handover is borderline. Canon has the envoy leave "CLEAN card in hand" (`episodes/S1E02_THE_TALL_CHAIR.md` L54), so the card must change hands somewhere; the items only place it.
+- **K3:** the handover is borderline. Canon has the envoy leave "CLEAN card in hand" (`episodes/S1E02_THE_TALL_CHAIR.md` L54), so the card must change hands somewhere; the item only places it.
 - **J6A, X5, X9:** staging and readings between canon beats. They hold canon behavior (`09_CHARACTER_BIBLE.md` L5, "Never lectures. Plants the hammer. Does not chase.") and add no fact.
 - **J6C, J7A, J7B, X1, X2, X4, X6, X7, X8, K4, K5:** format, edit and framing choices.
 - **J8, J9, K1, K2, K6, N1:** citation, credit and Reject choices with no new canon.
@@ -577,4 +579,4 @@
 | B11 | `screen/S1E02/BEAT_SHEET.md` L167 | K3 | "the card passes to the envoy here, once." (`screen/S1E02/BEAT_SHEET.md` L167) |
 | B12 | `screen/S1E02/BEAT_SHEET.md` L185 | J7A | "the ordering. P6's caption and closing staging are placed after the bubble and stinger as the tag" (`screen/S1E02/BEAT_SHEET.md` L185) |
 
-**Count: 72 tags** (TELEPLAY 26, SHOT_LIST 12, STORYBOARD_PROMPTS 15, SCORE_PLAN 7, BEAT_SHEET 12). Each is assigned to exactly one item above. **Items: 29** (26 PENDING COUNCIL, 2 RULED: A — bound by Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02, 1 REFUSED — Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02).
+**Count: 72 tags** (TELEPLAY 26, SHOT_LIST 12, STORYBOARD_PROMPTS 15, SCORE_PLAN 7, BEAT_SHEET 12). Each is assigned to exactly one item above. **Items: 29** (25 PENDING COUNCIL, 2 RULED: A — bound by Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02, 1 RULED — covered by X6, Steward ruling relayed by Sherif to Lead Mate, 2026-10-02; slide cut (Lead Mate ruling), 1 REFUSED — Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02).
