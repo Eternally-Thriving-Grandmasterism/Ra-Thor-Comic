@@ -1,4 +1,4 @@
-# Living Thunder — Ra-Thor Comic Series Bible
+# Ra-Thor⚡️Living Thunder — Ra-Thor Comic Series Bible
 
 **Proprietary intellectual property of AlphaProMega Media Inc.**
 **All Rights Reserved**

@@ -1,6 +1,6 @@
 # 03 — Tone Specs
 
-House tone modes for Living Thunder. Each one is an original Ra-Thor house mode, named after our own episodes and sets. A spec describes craft only: pacing, framing, light, dialogue rhythm, and the joke or drama engine. Techniques cannot be owned. These specs are the source of truth for tone.
+House tone modes for Ra-Thor⚡️Living Thunder. Each one is an original Ra-Thor house mode, named after our own episodes and sets. A spec describes craft only: pacing, framing, light, dialogue rhythm, and the joke or drama engine. Techniques cannot be owned. These specs are the source of truth for tone.
 
 **Derivation rule.** Future episodes, prompts, and new modes build from these specs and from our own episodes. Do not reach for outside works, titles, characters, studios, or creators as references, and do not write "like X" comparisons in any file or prompt. If a new tone is needed, write a new house spec here first, in our own words, then use it.
 
