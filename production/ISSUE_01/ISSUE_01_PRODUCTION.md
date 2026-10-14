@@ -338,16 +338,16 @@ None of these is filled here.
 
 - **D1. Speakers.** E01 names no speaker for P1, P4 or P5.
   - **P4: CLOSED (council ruling, 2026-10-14; Wild, Hands and Clerk unanimous).** Ra-Thor speaks "Recycle it." He stays in the background and does not look; the tail aims at his visor (§0, §6 panel 6.1, §7).
-  - **P1 and P5: open.** Ra-Thor is the only figure on both, and `01` aims every tail at the visor, so §7 letters them that way pending a ruling.
+  - **P1 and P5: open.** Ra-Thor is the only figure on both, and `01` aims every tail at the visor, so §7 letters them that way pending a ruling. Proposed rulings with cites: `PROPOSED_SPEAKER_RULINGS.md` (not ratified).
 - **D2. Bubble letter case.** File case, all caps (R1/R2) or mixed-case italic (R3/R6) (`04` Lettering).
 - **D3. Lead mode** for the E01 status line (`03` cites P1 as Night Watch, P2 and P5 as Snap).
 - **D4. The slide-deck creature's lane.** E01 P2 does not say. P1's bubble ("Left is noise.") and `09` (left lane NO) point left; the seed text said "tries the left lane".
 - **D5. The pass device's design** beyond "small honest device, one warm light". The seed said "walking"; the locked file does not. It must not be the R3 walker bot (`04` Q8).
 - **D6. P5 visor state.** The seed said "Eye-slit a fraction wider"; the locked file is silent.
 - **D7. Cover and title page.** Composition, issue-line wording and any publisher mark (§5). Audit §6: defining a cover is new canon.
-- **D8. Credits, indicia and back cover.** Not defined anywhere.
+- **D8. Credits, indicia and back cover.** Not defined anywhere. Draft: `CREDITS_AND_INDICIA.md` (PROPOSED; entity placeholder).
 - **D9. Print route** given printer page minimums (§10), and an age rating for store listings.
-- **D10. The `⚡️` in metadata** where a field strips it.
+- **D10. The `⚡️` in metadata** where a field strips it. Store copy, export and render checks: `STORE_LISTING_AND_EXPORT.md`, `LETTERING_SPEC.md`, `RENDER_CHECKLIST.md` (PROPOSED).
 - **D11. The seed prompts** (§2): restore them to E01 as owner text, or leave them in history.
 - **D12. CLEAN card text.** E01 gives none; the card prints its label only.
 - **D13. The E01 status line.** Once 5.2 passes, the status line still says "Rerun the pass with the eye-seal before print". It is canon text; updating it needs a card.
