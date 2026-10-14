@@ -11,6 +11,7 @@ This is the print and digital package for issue #1: cover prompt, title page, pa
 ## 0. Rulings this package rests on
 
 - **Format (council ruling, 2026-10-14), verbatim:** "issue #1 ships SOLO as E01 The Gate. Five panels is thin, so you MAY expand pacing and page beats within the locked script (splitting beats across pages, adding silent or reaction panels and establishing shots) with NO new canon, dialogue, events or characters." This answers audit §5.1 step 1.
+- **E01 P4 speaker (council ruling, 2026-10-14; Wild, Hands and Clerk unanimous):** Ra-Thor speaks "Recycle it." The locked E01 names no speaker, `09_CHARACTER_BIBLE.md` lists it as his catch line, and council bubbles are four words. Ra-Thor stays in the background and does not look, so the bubble tail aims at his visor without turning him toward the hopper. Locked E01 text is unchanged. This closes D1 for P4 only (§11).
 - **Series title on packaging only** (council ruling, PR #27; `seasons/S2_SEASON_SHEET.md` §5 item 8): cover, intro/outro title card and credits. Never on a story page, panel or prop. In this package the full title `Ra-Thor⚡️Living Thunder` is placed on packaging only: cover, title page and credits.
 - **Production rules** (`production/README.md` rules 1–6): restate, never author; every line traceable; gaps flagged, never filled; prop counts in prompts only.
 - **Painted renders for covers only; panels are inked** (`04_VISUAL_CANON.md` Q13).
@@ -213,8 +214,8 @@ Source: `09`, Ra-Thor ("wide-gold for yes").
 ### Page 6 — The Recycler wink. Three panels: one wide tier, two below.
 
 **6.1 · [E01 P4].** Wide tier.
-Prompt: [stem] + [set] + edge of frame: one of the Idea Recycler's twin hoppers (horizontal drum, THEORY IN / CONCEPTS IN hoppers, gauge, power core, OUTPUT tray) eating chart confetti, Ra-Thor in the background still planted and facing the lanes, not looking at the machine, hammer head-down. Tiny speech bubble: "Recycle it."
-Source: E01 P4; `09` Idea Recycler; `04` Q9 (Ω-7 design). Speaker not named in the file: GAP (§11, D1).
+Prompt: [stem] + [set] + edge of frame: one of the Idea Recycler's twin hoppers (horizontal drum, THEORY IN / CONCEPTS IN hoppers, gauge, power core, OUTPUT tray) eating chart confetti, Ra-Thor in the background still planted and facing the lanes, not looking at the machine, head and visor turned away from the hopper, hammer head-down. Tiny speech bubble spoken by Ra-Thor: "Recycle it.", its tail aimed at his visor slit in the background.
+Source: E01 P4; `09` Idea Recycler; `04` Q9 (Ω-7 design). Speaker: Ra-Thor (council ruling, 2026-10-14, §0). He does not turn toward the hopper; only the tail reaches him.
 
 **6.2 · PACING (insert, E01 P4).** The three cards.
 Prompt: [stem, silent] + [set] + tight insert on the Recycler's OUTPUT tray, three cards labeled OBVIOUS (lightbulb), FERAL (wolf), CLEAN (cut gem), labels only, no other words on the cards.
@@ -250,7 +251,7 @@ Letter every line exactly as written in `episodes/E01_THE_GATE.md`: case and pun
 | 2.3 | Bubble | "Left is noise. Right can live." | Above the helm; tail to the visor slit |
 | 4.1 | Bubble | "Blocked." | Upper corner away from the impact; tail to the visor slit; clear of the eye-seal and the confetti |
 | 5.2 | Bubble | "That one can live." | Above the device and the helm; tail to the visor slit; clear of the shield face |
-| 6.1 | Tiny bubble | "Recycle it." | Small, near the hopper; tail per D1 (speaker not named) |
+| 6.1 | Tiny bubble (Ra-Thor) | "Recycle it." | Small, near the hopper; tail to Ra-Thor's visor slit in the background; he stays facing the lanes, not the hopper (council ruling, 2026-10-14) |
 | 8.1 | Bubble | "Next." | Beside the visor; tail to the visor slit |
 | 8.1 | Caption | HAMMER STILL GROUNDED. | Bottom-left, read after the bubble |
 
@@ -335,7 +336,9 @@ All values below are **PROPOSED CANON — pending council ratification**: they a
 
 None of these is filled here.
 
-- **D1. Speakers.** E01 names no speaker for P1, P4 or P5. Ra-Thor is the only figure on P1 and P5, and `01` aims every tail at the visor, so §7 letters them that way pending a ruling. P4 is open: the seed text (`fffa430`) had "Tiny council bubble", but council bubbles are four words (`09`, The Councils) and "Recycle it." is a Ra-Thor catch line (`09`, Ra-Thor).
+- **D1. Speakers.** E01 names no speaker for P1, P4 or P5.
+  - **P4: CLOSED (council ruling, 2026-10-14; Wild, Hands and Clerk unanimous).** Ra-Thor speaks "Recycle it." He stays in the background and does not look; the tail aims at his visor (§0, §6 panel 6.1, §7).
+  - **P1 and P5: open.** Ra-Thor is the only figure on both, and `01` aims every tail at the visor, so §7 letters them that way pending a ruling.
 - **D2. Bubble letter case.** File case, all caps (R1/R2) or mixed-case italic (R3/R6) (`04` Lettering).
 - **D3. Lead mode** for the E01 status line (`03` cites P1 as Night Watch, P2 and P5 as Snap).
 - **D4. The slide-deck creature's lane.** E01 P2 does not say. P1's bubble ("Left is noise.") and `09` (left lane NO) point left; the seed text said "tries the left lane".
@@ -352,7 +355,7 @@ None of these is filled here.
 ## 12. Open gaps
 
 1. Lead mode: not stated in E01 (D3).
-2. Speaker: P1, P4 and P5 bubbles not attributed in E01 (D1).
+2. Speaker: P1 and P5 bubbles not attributed in E01 (D1). P4 is ruled: Ra-Thor (council ruling, 2026-10-14).
 3. Creature's lane in P2 (D4).
 4. Pass device design (D5).
 5. P5 visor state (D6).
