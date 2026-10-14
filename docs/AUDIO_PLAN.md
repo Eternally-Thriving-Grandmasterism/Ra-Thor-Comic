@@ -18,7 +18,14 @@ Rulings (2) and (3) belong to the trailer follow-up slice. This file records the
 
 > No unnecessary walls. If something is legally usable for free or at minimal cost and works for the audio, it's approved. That includes CC-BY with attribution, low-cost royalty-free subscriptions, and licensed tracks in the final cut, not only temp. Keep the checks lean: a verified license page and a ledger row are enough. Drop the extra hurdles (no written sync licence when the license page already grants commercial use, and no original-only restriction for C01/C02/C08). Write the 06 §5 amendment as a PROPOSED change to match. The only lines that stay are no infringement, no named-artist imitation prompts, and no purchases by bots.
 
-**Sherif clarification (2026-10-14, 4:53 PM ET), as relayed on the card:** "the goal is top-grade, world-class output, like a AAA production. Free or cheap is fine only when it meets that bar, never as a shortcut." Applied as the quality bar (§1A) and the quality-first ranking (§1).
+**Sherif clarification (2026-10-14, 4:53 PM ET), as relayed on the card:** "the goal is top-grade, world-class output, like a AAA production. Free or cheap is fine only when it meets that bar, never as a shortcut." Applied as the quality bar (§1A), which every source in the §1 order must clear.
+
+**Sherif rulings (2026-10-14, 5:29 PM ET), as relayed on the card,** resolving the open decisions in this file:
+
+1. **Target 4–5/5 on everything, audio and visual.** Use free licensed sources first, then in-house AI-made material. AI music and audio tools under licensed subscriptions are acceptable. Human hires only if final cuts get really complicated, and Sherif decides that.
+2. **The finisher for the house layers is in-house.** Bots draft with AI tools and synth or DAW work, and Sherif finishes. The house layers are Ra-Thor's lead synth, the 108 Hz drone and 543 Hz pad, the blip ring, the stingers and the Grounded motif. "Needs Sherif budget" flags become **"in-house build; Sherif listen-test"**. A budget flag stays only for paid subscriptions Sherif must approve.
+3. **Rubric judge.** Bots self-score, and Sherif makes the final call by ear.
+4. **Clerk nit.** The playlist URL is removed from the repo. It is described only as "Sherif's private reference playlist (held outside repo)".
 
 This file follows the directive. Where it widens Wild ruling 1 (licensed tracks in the final cut, not only temp or promo), the directive is applied here as PROPOSED, pending the council recording it.
 
@@ -32,11 +39,11 @@ This file follows the directive. Where it widens Wild ruling 1 (licensed tracks 
 2. **No named-artist imitation prompts.** No AI prompt or brief names an artist or track, or asks for "like X." Craft terms only: tempo, key, instrumentation, texture.
 3. **No purchases by bots.** No agent buys, subscribes or signs up. A human (Sherif or someone he names) makes every purchase.
 
-**Approved, under the directive:** free and low-cost licensed music, including CC-BY with attribution and royalty-free subscriptions, in temp, promo **and the final cut**, **when it passes the quality bar** (§1A; Sherif clarification, 4:53 PM ET). The licensing check is a verified licence page and a ledger row. The quality check is the §1A rubric. Both apply to every track, free or paid.
+**Approved, under the directive:** free and low-cost licensed music, including CC-BY with attribution and royalty-free subscriptions, in temp, promo **and the final cut**, **when it passes the quality bar at 4–5/5** (§1A; Sherif clarification, 4:53 PM ET; Sherif ruling 1, 5:29 PM ET). The licensing check is a verified licence page and a ledger row. The quality check is the §1A rubric. Both apply to every track, free or paid.
 
 **Other house rules this card does not touch** (they are not licensing walls, and the directive does not mention them):
 
-- **Fixed house assets.** "Blocked.", "That one can live." and the Grounded motif are reused unchanged across episodes (`06_MUSIC_SPEC.md` §1). The directive frees C01, C02 and C08. C06, C09 and C10 stay the house files (GAP A17 if Sherif wants them opened too).
+- **Fixed house assets.** "Blocked.", "That one can live." and the Grounded motif are reused unchanged across episodes (`06_MUSIC_SPEC.md` §1). The directive frees C01, C02 and C08. C06, C09 and C10 stay the house files, built in-house (Sherif ruling 2).
 - **No names in this file.** This planning file names no individual track or artist, as the card asked. Ledger rows and required attribution credits may carry names (§2, §6).
 - **Vendor names are licence sources only.** The libraries and tools named in §2 and §5 are where a licence comes from, not prompt material.
 - **No outside IP or show names** anywhere in this file, including in the style traits.
@@ -49,29 +56,27 @@ This file follows the directive. Where it widens Wild ruling 1 (licensed tracks 
 
 ## 1. Source order — PROPOSED — pending council ratification
 
-**Rank quality first, cost second** (Sherif clarification, 2026-10-14 4:53 PM ET: "the goal is top-grade, world-class output, like a AAA production. Free or cheap is fine only when it meets that bar, never as a shortcut.").
+**The bar is fixed; the order is set by Sherif.** Every track must reach 4–5/5 on the §1A rubric (Sherif clarification, 4:53 PM ET: "Free or cheap is fine only when it meets that bar, never as a shortcut"; Sherif ruling 1, 5:29 PM ET). Among the options that reach the bar, follow this order.
 
-**Candidate pools (tiers 1–5).** These are the places to look. The numbers are labels, not a ranking.
+**Source order (tiers 1–5):**
 
 1. **Sherif's own X-posted tracks**, under the §2.2 X-post rule.
-2. **Free licensed music**: CC0, no-attribution libraries and CC-BY with attribution (§2.4).
-3. **Low-cost royalty-free subscriptions** (§2.4).
-4. **The #82 path: AI drafting with a human finisher** (`docs/AUDIO_RND.md` §5.2, §5.3 and §6).
-5. **Bespoke**: a human composer or finisher writing to the cue.
+2. **Free licensed sources**: CC0, no-attribution libraries and CC-BY with attribution (§2.4).
+3. **In-house AI-made material.** Bots draft with AI music and audio tools under licensed subscriptions, plus synth and DAW work. Sherif finishes (Sherif rulings 1 and 2; method in `docs/AUDIO_RND.md` §6). This is also where the house layers are built (§1A.3).
+4. **Paid royalty-free library subscriptions** (§2.4), only if Sherif approves the subscription (**GAP: needs Sherif budget approval**).
+5. **Human hire** (composer, mix engineer, voice performer), only if a final cut gets really complicated, and only when Sherif decides it.
 
-**Ranking, per cue:**
+**Per cue:**
 
-1. Audition candidates from every pool that could plausibly fit the cue.
-2. Score each one on the quality bar (§1A). Drop every candidate that fails any criterion, whatever it costs.
-3. Pick the highest-scoring candidate that passes.
-4. **Cost breaks ties only.** Between candidates of equal quality, take the cheaper one. Among equal free options, prefer CC0 or no-attribution, because it keeps the credits short.
-5. If only a paid or bespoke option passes, the cue is flagged **GAP: needs Sherif budget** (§1A.3). No agent buys anything; Sherif decides.
+1. Audition tiers 1 and 2 first. If a candidate scores 4–5 on every criterion, use it. Among equal free options, prefer CC0 or no-attribution, because it keeps the credits short.
+2. If nothing free reaches the bar, build it in-house (tier 3).
+3. A paid library subscription or a human hire only follows a Sherif decision. No agent buys anything.
 
 Every track that is used gets a ledger row with its rubric result (§2).
 
 **Where licensed tracks may go.** Temp, promo and the final cut of the trailer, the episodes, comic promos and Patreon (Sherif directive). In the trailer, C01, C02 and C08 are open to any tier. C06, C09 and C10 are the fixed house assets (`06_MUSIC_SPEC.md` §1; §0 above).
 
-**Today's state.** No track from any tier is in a ledger yet. The track list is pending from Sherif (GAP T14 in `docs/TRAILER_S1E01.md` §6). No finisher is named and no host is picked (`docs/AUDIO_RND.md` §8 items 3–4). No subscription is bought; a human buys one if Sherif wants it.
+**Today's state.** No track from any tier is in a ledger yet. The track list is pending from Sherif (GAP T14 in `docs/TRAILER_S1E01.md` §6). The finisher is in-house: bots draft and Sherif finishes (Sherif ruling 2). No AI host is picked yet (`docs/AUDIO_RND.md` §8 item 3). No subscription is bought; Sherif approves and a human buys any that are needed (§1A.3).
 
 ---
 
@@ -79,11 +84,13 @@ Every track that is used gets a ledger row with its rubric result (§2).
 
 **Every track, free or paid, from any pool, passes this bar before it goes into any piece.** A track that fails is not used. Cost never excuses a fail (Sherif clarification, 2026-10-14 4:53 PM ET).
 
-**Who scores.** Sherif, or a reviewer he names (GAP A20). Scores and the reviewer's name go in the ledger row (§2.1).
+**Target: 4–5/5 on everything, audio and visual** (Sherif ruling 1). This file holds the audio rubric. A matching visual rubric belongs to the visual docs (§7 follow-up).
+
+**Who scores** (Sherif ruling 3). The bot that drafts or picks the track self-scores it on criteria 1–5 and writes down why. **Sherif makes the final call by ear.** Both go in the ledger row (§2.1). A self-score never approves a track by itself.
 
 **What is scored.** The cue as it will play: the chosen track after editing, retuning and finishing, in the cut, against picture. A raw library file is auditioned on criteria 1, 3 and 4 first. Criteria 2 and 5 are checked again on the finished cue.
 
-**Reference.** Production quality is judged by ear against top-tier trailer and game scoring. No reference work is named in the repo. The reviewer may use the §3 playlist as a by-ear production-quality reference, never as a prompt. Once the first Living Thunder cues pass, they become the house reference set.
+**Reference.** Production quality is judged by ear against top-tier trailer and game scoring. No reference work is named in the repo. Sherif may use his private reference playlist (held outside repo; §3) as a by-ear production-quality reference. It is never a prompt. Once the first Living Thunder cues pass, they become the house reference set.
 
 ### 1A.1 Per-cue acceptance rubric
 
@@ -94,7 +101,7 @@ Score each of criteria 1–4 from 1 to 5. **A pass is 4 or more on every one of 
 | 1 | **Fidelity** | Lossless source at 48 kHz / 24-bit (44.1 kHz accepted for web), full bandwidth, clean transients, rich and deliberate sound design, a performance and arrangement that hold up on full-range monitors | MP3-only source for a final, clipping, codec smear, AI artefacts (metallic shimmer, phasey smearing, mushy transients, garbled timbres), hiss, hum, clicks at loop points, thin or dated-sounding patches | Listen on monitors and headphones; look at the spectrum for codec cut-offs; check loop points; ask the source for WAV or stems |
 | 2 | **Mix polish** | Balanced spectrum, tight low end, controlled resonances, a wide but mono-safe image, dynamics that breathe rather than squash, clean edits on bar lines, resolved tails, and a clear pocket for dialogue when lines are spoken | Muddy low end, harsh upper mids, over-limiting, audible edits, phase problems in mono, music masking the line | Check on monitors, headphones and a phone or laptop speaker; mono fold-down; level-matched A/B against the reference |
 | 3 | **Fit to cue and motif** | Matches the cue's mode, tempo, key and instrumentation (`06_MUSIC_SPEC.md` §2; `screen/S1E01/SCORE_PLAN.md`); hit points land on picture (the S11 bell, the card tones, hard stops); leaves room for the fixed stingers and for the Grounded motif to resolve on the tonic; carries Ra-Thor's lead timbre wherever the cue has a melody (06 §1; `screen/S1E01/GAP_RULINGS.md` G7 B); works with the 543 Hz pad rule (06 §3.2); joins cleanly to the cues on either side | Wrong mode or energy (for example a siege colour where there is no siege), a competing melody over a stinger or the motif, a key that fights A after retuning, a melody in a lead that is not Ra-Thor's, a sung word inside an episode | Play against picture at the cut's timecodes; check tempo (88 BPM for S1E01) and key after retuning to A4 = 432; check the cue joins |
-| 4 | **Uniqueness (not overused stock)** | Fresh to the audience: not a library's most-played or most-downloaded tracks, not recognisable from wide use elsewhere, with a distinct identity. Signature moments (the trailer opener, the intro and outro themes, the house stingers) are bespoke. | A track the reviewer recognises from other videos, a library front-page favourite, a generic "epic" or "corporate" bed with no identity, or one that appears in many unrelated videos when searched by title | Check the library's own play or download counts where shown; search the track title on the major video platforms; the reviewer's recognition test. For a signature moment, a non-exclusive licence scores no higher than 3. |
+| 4 | **Uniqueness (not overused stock)** | Fresh to the audience: not a library's most-played or most-downloaded tracks, not recognisable from wide use elsewhere, with a distinct identity. Signature moments (the trailer opener, the intro and outro themes, the house stingers) are built in-house. | A track the bot or Sherif recognises from other videos, a library front-page favourite, a generic "epic" or "corporate" bed with no identity, or one that appears in many unrelated videos when searched by title | Check the library's own play or download counts where shown; search the track title on the major video platforms; Sherif's recognition test by ear. For a signature moment, a non-exclusive licence scores no higher than 3. |
 | 5 | **Loudness and master spec** (pass or fail) | Every item below is met | Any item missed | ITU-R BS.1770 meter; tuner; null test of stems against the mix |
 
 **Criterion 5 items** (from `06_MUSIC_SPEC.md` §3 and §5.4–§5.6 of this file):
@@ -112,28 +119,38 @@ Score each of criteria 1–4 from 1 to 5. **A pass is 4 or more on every one of 
 These are reads from the licence and product pages in §2.4, not auditions. Each track is still scored.
 
 - **Free libraries.** They can pass, especially for SFX: the Sonniss bundle is a professional SFX release. For music, uniqueness (criterion 4) is the usual fail, because the most-used free tracks are widely heard. The YouTube Audio Library page says downloads are MP3 files, which fails criterion 1 for a final. Check the download format for every other library.
-- **Low-cost subscriptions.** Larger catalogues and often WAV or stems. The Uppbeat pricing extract lists high-quality WAV files under its Business plan. They are still non-exclusive, so criterion 4 caps signature moments at 3.
-- **AI drafting.** Passes only after a human finisher has removed the artefacts (criterion 1) and built the house layers (criterion 3) (`docs/AUDIO_RND.md` §6).
-- **Bespoke.** The only pool that can carry the house layers by itself and give a signature moment full uniqueness.
+- **Paid library subscriptions.** Larger catalogues and often WAV or stems. The Uppbeat pricing extract lists high-quality WAV files under its Business plan. They are still non-exclusive, so criterion 4 caps signature moments at 3. Each one needs Sherif's approval (§1A.4).
+- **In-house AI-made material.** Passes once the in-house finish is done: bots clean the artefacts (criterion 1) and build the house layers (criterion 3), then Sherif finishes and listen-tests (Sherif ruling 2; `docs/AUDIO_RND.md` §6). It is made for the cue, so it can reach 5 on uniqueness for signature moments.
+- **Human hire.** Only if a final cut gets really complicated, and only when Sherif decides it (Sherif ruling 1).
 
-### 1A.3 Cues where only a paid or bespoke option meets the bar
+### 1A.3 Cue build plan
 
-These follow from the rubric and the house spec, before any audition. The common cause is that 06 makes some sounds house-owned: Ra-Thor's lead timbre (06 §1; G7 B), the fixed stingers and motif (06 §1), the twelve-mask blip ring (06 §1), and the 108 Hz drone with the 543 Hz pad held only on C#-bearing chords (06 §3). No library track carries these. A licensed bed can still be the harmonic and rhythmic body under them.
+These follow from the rubric and the house spec, before any audition. 06 makes some sounds house-owned: Ra-Thor's lead timbre (06 §1; G7 B), the fixed stingers and motif (06 §1), the twelve-mask blip ring (06 §1), and the 108 Hz drone with the 543 Hz pad held only on C#-bearing chords (06 §3). No library track carries these, so they are built in-house: bots draft with AI tools and synth or DAW work, and Sherif finishes (Sherif ruling 2). A free licensed bed can still be the harmonic and rhythmic body under them.
 
-| Cue or item | What a free or low-cost track can supply | What only bespoke work can supply | Flag |
+| Cue or item | What a free licensed track can supply | What is built in-house | Flag |
 |---|---|---|---|
-| Trailer and S1E01 **C01, C02, C05, C07, C08** | The bed: pads, bass, soft drums, keys | Ra-Thor's answering lead; the drone and 543 Hz pad layers; the C02 bell placed on S11 and the C08 card tones placed on the cuts | **GAP: needs Sherif budget** (a finisher for the house layers) |
-| S1E01 **C03** | The bed: pad body, soft drums | The drone and 543 Hz pad layers (pad muted over plain D and E) | **GAP: needs Sherif budget** (finisher) |
-| S1E01 **C04** | Pad body | The twelve-mask blip ring, panned across the stereo field; the drone and 543 Hz pad layers | **GAP: needs Sherif budget** (bespoke) |
-| **C06, C09, C10** (both pieces) | Nothing: they are the fixed house files | "Blocked.", "That one can live." and the Grounded motif, recorded once and reused | **GAP: needs Sherif budget** (bespoke, one-time) |
-| **Series intro and outro themes** | Nothing at the signature level (criterion 4) | Original theme; sung words allowed here only | **GAP: needs Sherif budget** (bespoke) |
-| **Trailer title-card music** (Wild #83 ruling 3) | A sting or tail could pass if it scores 4+ on uniqueness | — | Audition first. Flag if nothing free or low-cost passes. |
-| **Comic promo and Patreon beds** | Can pass if a track clears criterion 4 | — | Audition first. Flag if nothing free or low-cost passes. |
-| **S1E01 SFX** (three staged actions, room tone) | Can pass: professional free SFX plus recorded foley | — | Audition first |
-| **Mix and master** (every piece) | — | AAA polish (criteria 2 and 5) needs a skilled mix and mastering engineer | **GAP: needs Sherif budget** (unless Sherif or a named in-house person does it) |
-| **Voice-over** (if lines are spoken, GAP T4) | Library or AI voice rarely reaches AAA character work | A cast performer | **GAP: needs Sherif budget** (if spoken) |
+| Trailer and S1E01 **C01, C02, C05, C07, C08** | The bed: pads, bass, soft drums, keys | Ra-Thor's answering lead; the drone and 543 Hz pad layers; the C02 bell placed on S11 and the C08 card tones placed on the cuts | **In-house build; Sherif listen-test** |
+| S1E01 **C03** | The bed: pad body, soft drums | The drone and 543 Hz pad layers (pad muted over plain D and E) | **In-house build; Sherif listen-test** |
+| S1E01 **C04** | Pad body | The twelve-mask blip ring, panned across the stereo field; the drone and 543 Hz pad layers | **In-house build; Sherif listen-test** |
+| **C06, C09, C10** (both pieces) | Nothing: they are the fixed house files | "Blocked.", "That one can live." and the Grounded motif, built once and reused | **In-house build; Sherif listen-test** (one-time) |
+| **Series intro and outro themes** | Nothing at the signature level (criterion 4) | Original theme; sung words allowed here only | **In-house build; Sherif listen-test** |
+| **Trailer title-card music** (Wild #83 ruling 3) | A sting or tail could pass if it scores 4+ on uniqueness | If nothing free passes | Audition first, then **in-house build; Sherif listen-test** |
+| **Comic promo and Patreon beds** | Can pass if a track clears criterion 4 | If nothing free passes | Audition first, then **in-house build; Sherif listen-test** |
+| **S1E01 SFX** (three staged actions, room tone) | Can pass: professional free SFX plus recorded foley | AI SFX if nothing free fits | Audition first, then **in-house build; Sherif listen-test** |
+| **Mix and master** (every piece) | — | Bots draft the mix and master against criteria 2 and 5; Sherif finishes | **In-house build; Sherif listen-test.** Human engineer only if Sherif decides. |
+| **Voice-over** (if lines are spoken, GAP T4) | — | AI voice under a licensed subscription, scored on the rubric | **In-house build; Sherif listen-test.** Human performer only if Sherif decides. |
 
-**One budget line unlocks most of the table:** a finisher (`docs/AUDIO_RND.md` §5.2; §8 item 4). If Sherif or a named in-house person takes that role, the flags become staffing rather than spend. Sherif may instead waive the house-layer requirement for licensed beds. That would change 06 §1 and the G7 B ruling, so it is GAP A21, not assumed here.
+### 1A.4 Budget flags (paid subscriptions only)
+
+Sherif ruling 2 keeps a budget flag only for paid subscriptions he must approve. No agent buys any of these. A human buys after Sherif approves, re-reading the terms on the purchase date (§7). No prices are given here.
+
+| Subscription | Needed for | Source of the candidates | Flag |
+|---|---|---|---|
+| AI music host | Drafting beds, the house layers, the stingers, the motif and the themes (tier 3) | `docs/AUDIO_RND.md` §5.3: hosted Stable Audio recommended, Suno Premier alternate; Eleven Music only under an Enterprise order covering the trailer and the pilot | **GAP: needs Sherif budget approval** |
+| AI SFX tool | SFX that free libraries do not cover | `docs/AUDIO_RND.md` §3, ElevenLabs Sound Effects row (paid plans) | **GAP: needs Sherif budget approval** (only if used) |
+| AI voice tool | Spoken lines, if T4 rules for them | Not chosen; terms not read for this card (GAP A14) | **GAP: needs Sherif budget approval** (only if used) |
+| Paid synth, plugin or DAW licence | In-house synth and DAW work, if free tools fall short | Not chosen | **GAP: needs Sherif budget approval** (only if used) |
+| Paid royalty-free library | Tier 4, only if free sources and the in-house build do not reach the bar | §2.4: Uppbeat, Epidemic Sound, Artlist | **GAP: needs Sherif budget approval** (only if used) |
 
 ---
 
@@ -141,7 +158,7 @@ These follow from the rubric and the house spec, before any audition. The common
 
 ### 2.1 Template (one row per track)
 
-| ID | Tier | Use and slot | Source URL | License text or link | Attribution needed (credit text) | Content ID / registration risk | Date verified | Rubric (fidelity / mix / fit / uniqueness / master) and reviewer | Status |
+| ID | Tier | Use and slot | Source URL | License text or link | Attribution needed (credit text) | Content ID / registration risk | Date verified | Rubric (fidelity / mix / fit / uniqueness / master): bot self-score · Sherif call | Status |
 |---|---|---|---|---|---|---|---|---|---|
 | | | | | | | | | | |
 
@@ -155,7 +172,7 @@ These follow from the rubric and the house spec, before any audition. The common
 - **Attribution needed (credit text).** No, or yes plus the exact credit the licence asks for. A "yes" goes into the credits or description of every piece that uses the track.
 - **Content ID / registration risk.** Whether the track is registered with a fingerprinting system, and what proof the source offers (a licence certificate, a channel safelist). "Unknown" is fine to write down.
 - **Date verified.** The date the licence page was read for this row.
-- **Rubric and reviewer.** The five §1A.1 results, for example `5/4/4/4/pass`, and who scored them.
+- **Rubric.** The bot's self-score on the five §1A.1 criteria, for example `5/4/4/4/pass` with one line of reasons, then Sherif's call by ear: `accept` or `reject` (Sherif ruling 3). Only Sherif's accept counts.
 - **Status.** One of the values in §2.3.
 
 The licensing check is a verified licence page and this row (Sherif directive). The quality check is the rubric column (Sherif clarification). A track needs both.
@@ -173,7 +190,7 @@ If Sherif made the track with an AI tool, the row also records that tool's terms
 | Status | Meaning |
 |---|---|
 | **UNVERIFIED** | No licence page yet, the page does not cover the use, or the rubric is not scored. Not usable yet. |
-| **APPROVED** | Licence page verified for the use in the row, **and** the track passes the §1A rubric. Usable in temp, promo or final, as the row says. |
+| **APPROVED** | Licence page verified for the use in the row, **and** the track passes the §1A rubric with Sherif's accept by ear. Usable in temp, promo or final, as the row says. |
 | **REJECTED** | Infringes, the licence does not allow the use, or the track fails the rubric. |
 | **RETIRED** | Replaced or no longer used. Kept for the record. |
 
@@ -218,9 +235,9 @@ Libraries not listed were not read for this card. Adding one is a new read of it
 
 ## 3. Style reference — PROPOSED — pending council ratification
 
-**Reference only:** Sherif's YouTube Music playlist, https://music.youtube.com/playlist?list=PLVTpZcM10F04 .
+**Reference only:** Sherif's private reference playlist (held outside repo). No link to it is kept in the repo (Clerk nit; Sherif ruling 4).
 
-**What was read, 2026-10-14.** The public playlist page, logged out. The page is titled "Liked" and lists 25 items, updated that day. Only page metadata was read: item titles, uploading channel labels and running times. **No audio was heard.** No track, artist, channel or show name from the playlist is recorded here.
+**What was read, 2026-10-14.** Page metadata only, 25 items: item titles, uploading channel labels and running times. **No audio was heard.** No track, artist, channel or show name from the playlist is recorded here.
 
 **What the metadata supports.** These are reads from titles and channel labels, not from listening. Each needs Sherif to confirm by ear (GAP A7).
 
@@ -236,7 +253,7 @@ Libraries not listed were not read for this card. Adding one is a new read of it
 
 **How the traits are used.** As house craft terms in §4, and as a listening guide for humans picking tracks. No AI prompt names or imitates any item on the playlist (Sherif directive, line 2).
 
-**Status of the link.** The current `06_MUSIC_SPEC.md` §5 says no brief, prompt, temp track, mix note or metadata may reference any existing work. The §6 amendment narrows that rule to named-artist imitation prompts, so a human reference link would be allowed. Until the amendment is applied, the link stays here as reference only.
+**Where the playlist lives.** Outside the repo, with Sherif. Only the derived craft traits above are kept here.
 
 ---
 
@@ -246,7 +263,7 @@ Every cue keeps A4 = 432, the 543 Hz pad only over chords that contain C#, and t
 
 ### 4.1 S1E01 trailer
 
-Timecodes are the current 56 s cut in `docs/TRAILER_S1E01.md` §2. Tempo: Suave Hour at 88 BPM (`screen/S1E01/SCORE_PLAN.md`). "Any tier" means a Sherif track, a licensed track or an original, in temp, promo or the final cut (Sherif directive), ranked quality first (§1) and passing the §1A rubric. Budget flags for each cue are in §1A.3: every melodic cue needs bespoke house layers on top of any bed.
+Timecodes are the current 56 s cut in `docs/TRAILER_S1E01.md` §2. Tempo: Suave Hour at 88 BPM (`screen/S1E01/SCORE_PLAN.md`). "Any tier" means a Sherif track, a licensed track or an original, in temp, promo or the final cut (Sherif directive), passing the §1A rubric at 4–5/5, in the §1 source order. The build plan for each cue is in §1A.3: every melodic cue gets in-house house layers on top of any bed, then a Sherif listen-test.
 
 | Cue | Span (current cut) | House cue (from `SCORE_PLAN.md`) | Style traits (tempo · instrumentation · mood) | Source |
 |---|---|---|---|---|
@@ -263,7 +280,7 @@ Timecodes are the current 56 s cut in `docs/TRAILER_S1E01.md` §2. Tempo: Suave 
 
 ### 4.2 S1E01 episode
 
-Cues from `screen/S1E01/SCORE_PLAN.md`. Under the directive, licensed tracks may be used in the final episode as well as in temp, each with a ledger row and a §1A pass. "Any tier" means any tier for the bed; the house layers and budget flags are in §1A.3.
+Cues from `screen/S1E01/SCORE_PLAN.md`. Under the directive, licensed tracks may be used in the final episode as well as in temp, each with a ledger row and a §1A pass. "Any tier" means any tier for the bed; the house layers are an in-house build (§1A.3).
 
 | Cue | Shots | Style traits (tempo · instrumentation · mood) | Source |
 |---|---|---|---|
@@ -318,8 +335,9 @@ Issue #1 is E01 The Gate (`docs/SHIP_READINESS_AUDIT.md`). "E01 has no cue secti
 
 **Casting rules**
 
-- A human performer whose agreement covers this use. No celebrity, no impression of a real person, no "sounds like" brief (`00_FIDELITY_PROTOCOL.md` rules 4 and 6).
-- AI or library voice on a plan whose terms page grants commercial use, logged in the ledger. No cloned voice of a real person. Whether Sherif wants AI voice at all: GAP A14.
+- **In-house first** (Sherif ruling 1): AI voice on a licensed subscription whose terms page grants commercial use, logged in the ledger, scored on the §1A rubric, with Sherif's accept by ear. The voice tool is not chosen yet (GAP A14; budget flag in §1A.4).
+- **Human performer** only if Sherif decides the cut needs one, under an agreement that covers this use.
+- Either way: no celebrity, no impression of a real person, no cloned voice of a real person, no "sounds like" brief (`00_FIDELITY_PROTOCOL.md` rules 4 and 6).
 - Lines read verbatim from canon, character for character. No ad-libs, no new lines.
 - **Recording spec:** WAV 48 kHz / 24-bit, mono, dry (no reverb or music printed), one file per line, at least three takes, a quiet treated room. File names use the shot and line ID, not the performer's name.
 
@@ -333,6 +351,7 @@ Issue #1 is E01 The Gate (`docs/SHIP_READINESS_AUDIT.md`). "E01 has no cue secti
 
 ### 5.3 Mix and master
 
+- **In-house** (Sherif rulings 1 and 2): bots draft the mix and master against §1A criteria 2 and 5, and self-score. Sherif finishes and makes the call by ear. A human engineer only if Sherif decides.
 - Dialogue first when lines are spoken. Music and SFX sit under the line.
 - Drone mono below 120 Hz, low-passed around 150–200 Hz. 54 Hz only in siege, always doubled at 108 Hz or higher (`06_MUSIC_SPEC.md` §3.3).
 - No stem at 440 (`06_MUSIC_SPEC.md` §3.1). Licensed tracks are retuned where the licence allows modification; a track that cannot be retuned is GAP A18 (§2.3).
@@ -385,7 +404,8 @@ Picture-side delivery (aspect ratio, frame rate, platform masters): GAP T11 in `
 **Proposed replacement:**
 
 > - **Sources (Sherif, 2026-10-14).** Music may be original, made by the Steward, or licensed. Licensed music that is legally usable for free or at low cost, and that passes the quality bar below, is approved for temp, promo and the final cut, including CC0, no-attribution libraries, CC-BY with attribution, and royalty-free subscriptions. Original cues composed for Living Thunder are owned by AlphaProMega Media Inc. (see `LICENSE`).
-> - **Quality bar (Sherif, 2026-10-14).** The goal is top-grade, world-class output. Every track, free or paid, passes the per-cue acceptance rubric (`docs/AUDIO_PLAN.md` §1A: fidelity, mix polish, fit to cue and motif, uniqueness, loudness and master spec) before use. Sources are ranked quality first and cost second. Free or cheap is used only when it meets the bar. Where only a paid or bespoke option meets the bar, the cue waits on a budget decision by the Steward.
+> - **Quality bar (Sherif, 2026-10-14).** The goal is top-grade, world-class output, at 4–5/5 on everything. Every track, free or paid, passes the per-cue acceptance rubric (`docs/AUDIO_PLAN.md` §1A: fidelity, mix polish, fit to cue and motif, uniqueness, loudness and master spec) before use. Free or cheap is used only when it meets the bar. Bots self-score; the Steward makes the final call by ear.
+> - **Source order (Sherif, 2026-10-14).** Free licensed sources first, then in-house AI-made material: bots draft with AI music and audio tools under licensed subscriptions and with synth or DAW work, and the Steward finishes. The house layers (Ra-Thor's lead synth, the 108 Hz drone and 543 Hz pad, the blip ring, the stingers and the Grounded motif) are built this way. Human hires only if a final cut gets really complicated, at the Steward's decision. Every paid subscription needs the Steward's approval.
 > - **The licensing check.** Every licensed track needs a verified licence page that covers the use and a row in the license ledger (`docs/AUDIO_PLAN.md` §2). No separate written sync licence is needed when the licence page already grants commercial use.
 > - **Attribution.** When a licence requires credit, give it as the licence asks, in the credits, description or post. Credits may name licensed creators for that purpose.
 > - **No infringement.** Nothing is used without a licence that covers the use. No samples of commercial recordings and no loops outside their licence terms.
@@ -396,7 +416,7 @@ Picture-side delivery (aspect ratio, frame rate, platform masters): GAP T11 in `
 
 **What the amendment would not change.** §1 (genre palette and fixed stingers), §2 (cue styles), §3 (tuning, including A4 = 432), §4 (honesty), the sung-words rule and the per-track log template.
 
-**Open before ratification:** whether C06, C09 and C10 should also open to licensed tracks (GAP A17); what to do with a track whose licence does not allow retuning to 432 (GAP A18).
+**Open before ratification:** what to do with a track whose licence does not allow retuning to 432 (GAP A18).
 
 ---
 
@@ -412,6 +432,7 @@ Picture-side delivery (aspect ratio, frame rate, platform masters): GAP T11 in `
 3. Trailer follow-up slice for Wild #83 rulings 2 and 3: add S29 and a 2–4 s title card in `docs/TRAILER_S1E01.md`. The title card text waits on GAP T1 and must not invent copy.
 4. A `06` amendment card to apply §6, if the council ratifies it.
 5. Once Sherif sends the track list (GAP T14), fill ledger rows.
+6. A matching 4–5/5 visual rubric for the visual docs (Sherif ruling 1 covers audio and visual). Not written here.
 
 ---
 
@@ -419,7 +440,7 @@ Picture-side delivery (aspect ratio, frame rate, platform masters): GAP T11 in `
 
 | ID | Gap | Needs |
 |---|---|---|
-| A1–A4, A8, A16 | Closed by Sherif's 2026-10-14 directive: Sherif-made and licensed tracks may go in the final cut; ledger rows may carry URLs and names; CC-BY with attribution is approved; vocals are fine in promos; the playlist link is a human reference; no promo-versus-final boundary is needed | Council records the directive |
+| A1–A4, A8, A16 | Closed by Sherif's 2026-10-14 directive: Sherif-made and licensed tracks may go in the final cut; ledger rows may carry URLs and names; CC-BY with attribution is approved; vocals are fine in promos; no promo-versus-final boundary is needed. The playlist is now held outside the repo (Sherif ruling 4). | Council records the directive |
 | A5 | Off-YouTube use of YouTube Audio Library tracks | Read the in-Studio licence text; Sherif |
 | A6 | Libraries not read for this card | A new dated read per library |
 | A7 | Playlist style traits confirmed by ear, and any tempo reading | Sherif |
@@ -427,27 +448,27 @@ Picture-side delivery (aspect ratio, frame rate, platform masters): GAP T11 in `
 | A10 | Series intro and outro themes | Council ruling; composer |
 | A11 | Comic promo bed (E01 has no cue; lead mode D3 open) | Council ruling |
 | A12 | Patreon audio, and the platform's music rules on the day of posting | Sherif |
-| A13 | Voice casting and direction for Ra-Thor, the Ribbon Envoy and the councils | Council ruling on T4; casting by Sherif |
-| A14 | Whether AI or synthetic voice is allowed | Council ruling |
+| A13 | Voice direction for Ra-Thor, the Ribbon Envoy and the councils, and which AI voices are used | Council ruling on T4; Sherif's call by ear |
+| A14 | AI voice is allowed under a licensed subscription (Sherif ruling 1). Still open: which tool, with its terms read on the day | Sherif approves the subscription (§1A.4) |
 | A15 | Per-platform loudness targets for promos and Patreon | Read on the day of delivery |
-| A17 | Whether C06, C09 and C10 (the fixed house stingers and motif) should also open to licensed tracks. The directive names only C01, C02 and C08. | Sherif |
+| A17 | Closed by Sherif ruling 2: C06, C09 and C10 stay the house stingers and motif, built in-house | — |
 | A18 | A licensed track whose licence does not allow retuning to A4 = 432 | Sherif |
 | A19 | Whether paid subscription plans (Uppbeat, Epidemic Sound, Artlist) require attribution | A human reads the plan terms before buying |
-| A20 | Who scores the §1A rubric | Sherif names the reviewer |
-| A21 | Whether licensed beds may skip the house layers (Ra-Thor's lead, drone, 543 Hz pad). This would change 06 §1 and the G7 B ruling. | Sherif; council |
-| Budget | **GAP: needs Sherif budget** for each item flagged in §1A.3: the finisher for the house layers (C01–C05, C07, C08), the bespoke C04 blip ring, the C06, C09 and C10 house files, the intro and outro themes, the mix and master engineer, and the voice cast if lines are spoken | Sherif |
+| A20 | Closed by Sherif ruling 3: bots self-score, Sherif makes the final call by ear | — |
+| A21 | Closed by Sherif ruling 2: the house layers stay and are built in-house, so 06 §1 and G7 B are unchanged | — |
+| Budget | **GAP: needs Sherif budget approval**, paid subscriptions only (§1A.4): the AI music host, plus an AI SFX tool, AI voice tool, paid synth, plugin or DAW licence, or paid library only if used. Everything else in §1A.3 is an in-house build with a Sherif listen-test. | Sherif |
 | T1, T4, T5, T11, T13, T14 | Carried from `docs/TRAILER_S1E01.md` §6 | As listed there |
 
 ## 9. Decisions for Sherif or the council
 
 1. Record Sherif's 2026-10-14 directive against Wild's #83 ruling 1 (§0, §1).
-2. Ratify the quality-first ranking, the lean ledger, the X-post rule and the status values (§1, §2).
-3. Ratify the quality bar and its thresholds (§1A.1), name the reviewer (GAP A20), and decide the budget lines in §1A.3 (GAP: needs Sherif budget).
+2. Ratify the source order (free licensed, then in-house AI-made, then paid or human only on Sherif's decision), the lean ledger, the X-post rule and the status values (§1, §2).
+3. Ratify the quality bar and its thresholds (§1A.1). Approve or decline each paid subscription in §1A.4 (GAP: needs Sherif budget approval).
 4. Confirm or cut the library and subscription candidates (§2.4). No purchase follows from this list; a human buys anything Sherif picks.
 5. Confirm the playlist traits by ear (§3; GAP A7).
 6. Ratify the cue maps (§4) and the specs (§5).
 7. Rule the §6 amendment, and open a `06` card if it passes.
-8. Answer GAP A17, A18 and A21.
+8. Answer GAP A18.
 9. Send the track list (GAP T14).
 
 ## 10. Sources
@@ -460,7 +481,8 @@ Read on **2026-10-14** unless a line says otherwise.
 - Sherif directive, 2026-10-14 4:52 PM ET, and Sherif clarification on the quality bar, 4:53 PM ET, both as relayed on the card.
 - `screen/S1E01/GAP_RULINGS.md` G7 B (Ra-Thor's lead timbre carries the answering lead).
 - PR #83 comment 6178168603 (Wild's rulings) and the #83 votes comment 6178194358 (Hands' sync-licence note). PR #82 comments 6177589865 (Wild's note) and 6177605018 (Clerk's nits).
-- Playlist page, metadata only: https://music.youtube.com/playlist?list=PLVTpZcM10F04 .
+- Sherif's private reference playlist (held outside repo), page metadata only.
+- Sherif rulings, 2026-10-14 5:29 PM ET, as relayed on the card.
 - Licence pages: https://pixabay.com/service/license-summary/ ; https://pixabay.com/service/faq/ ; https://mixkit.co/license/ ; https://mixkit.co/license/modal/musicFree/ ; https://mixkit.co/license/modal/sfxFree/ ; https://mixkit.co/free-stock-music/ ; https://mixkit.co/terms/ ; https://support.google.com/youtube/answer/3376882 ; https://freesound.org/help/faq/ ; https://sonniss.com/gdc-bundle-license/ ; https://kenney.nl/support ; https://opengameart.org/content/faq ; https://freemusicarchive.org/License_Guide ; https://openverse.org/about ; https://creativecommons.org/publicdomain/zero/1.0/ .
 - Subscription pages (Uppbeat and Artlist through search extracts): https://uppbeat.io/user-agreement ; https://uppbeat.io/uppbeat-basic-license ; https://uppbeat.io/pricing ; https://www.epidemicsound.com/pricing/ ; https://www.epidemicsound.com/filmmaking/ ; https://www.epidemicsound.com/how-it-works/license-music-legally/ ; https://help-center.artlist.io/help-center/privacy-terms/artlist-license/ ; https://help.artlist.io/hc/en-us/articles/7856595463581-Using-the-assets-in-a-film ; https://artlist.zendesk.com/hc/en-us/articles/6185461392029-Commercial-projects-and-advertising .
 
