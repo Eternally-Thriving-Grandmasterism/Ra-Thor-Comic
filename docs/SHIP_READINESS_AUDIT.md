@@ -119,7 +119,7 @@
 
 ### 5.2 S1E01 The Ribbon Clause (trailer)
 
-1. **Ask the council to rule S1E01's open screen items**, or confirm the trailer may use only the 13 RULED/ACCEPT shots. Four items stay pending Sherif's word by the ledger's own rules.
+1. **Ask the council to rule S1E01's open screen items**, or confirm the trailer may use only the 13 RULED/ACCEPT shots. The ledger's PENDING SHERIF list has five entries (R1, R5, X6 x3), all of them cut or refused, so the cut keeps them out.
 2. **Decide the fate of the PC tags** on ratified lines. Stripping tags is a canon-file edit, so it needs its own card.
 3. **Rule on `MAIN TITLES`** (TELEPLAY L50) and the intro theme, which the plan says is outside it. A trailer needs a title card, and none is defined.
 4. **Fix the render style.** `screen/SCREEN_BIBLE_ADDENDUM.md` L89 says render style is not yet ruled; storyboards stay inked comic linework.
