@@ -1,4 +1,4 @@
-# Living Thunder — forever routine
+# Ra-Thor⚡️Living Thunder — forever routine
 
 Run this every session. Do not freelance.
 

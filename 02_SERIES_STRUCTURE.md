@@ -1,6 +1,6 @@
 # 02 — Series Structure
 
-Working title: **Living Thunder**
+Working title: **Ra-Thor⚡️Living Thunder**
 Season 0: six shorts. Each stands alone. Order is a dossier, not a myth arc.
 
 | Ep | Title | Device | Joke |

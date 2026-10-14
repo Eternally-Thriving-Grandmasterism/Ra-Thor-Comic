@@ -1,6 +1,6 @@
 # 05 — Lore Bible (origin arc)
 
-Status: sourced draft, council rulings 2026-09-30 and CANON-RULINGS-1 (2026-10-01) applied. Series lore for Living Thunder. Everything in this file is **fiction**. It is inspired by the owner's real build history (sourced in the Sources section below), but it tells a story, not a biography.
+Status: sourced draft, council rulings 2026-09-30 and CANON-RULINGS-1 (2026-10-01) applied. Series lore for Ra-Thor⚡️Living Thunder. Everything in this file is **fiction**. It is inspired by the owner's real build history (sourced in the Sources section below), but it tells a story, not a biography.
 
 Inherits `00_FIDELITY_PROTOCOL.md` and `03_TONE_SPECS.md`. Where this file and those disagree, those win.
 

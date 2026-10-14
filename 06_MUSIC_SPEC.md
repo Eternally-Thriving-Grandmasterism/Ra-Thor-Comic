@@ -1,6 +1,6 @@
 # 06 — Music Spec
 
-Score and cues for Living Thunder (comic motion and trailer use, and the show). Every rule marked **(council ruling 2026-09-30)** is locked. Everything else is production guidance in service of those rulings.
+Score and cues for Ra-Thor⚡️Living Thunder (comic motion and trailer use, and the show). Every rule marked **(council ruling 2026-09-30)** is locked. Everything else is production guidance in service of those rulings.
 
 **Inherits:** `00_FIDELITY_PROTOCOL.md` and `03_TONE_SPECS.md`. All references are in house terms. There are no "like X" comparisons in this file, and none are allowed in any brief or prompt built from it.
 
