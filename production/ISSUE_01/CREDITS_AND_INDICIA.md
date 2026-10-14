@@ -9,12 +9,11 @@
 
 | Placeholder | Meaning |
 |---|---|
-| `[ENTITY: Sherif to confirm — AlphaProMega Media Inc. or Autonomicity Games Inc.]` | Copyright holder and publisher. Written out in full wherever it appears below |
 | `[NAME: Sherif to confirm]` | A person's credited name |
 | `[YEAR: Sherif to confirm]` | Copyright year |
 | `[DATE: Sherif to confirm]` | First publication date |
 
-**Flag, not resolved.** `LICENSE` L3 reads "Copyright © 2026 AlphaProMega Media Inc. (Canadian corporation)", and `README.md` L3 names the same holder. If Sherif confirms Autonomicity Games Inc., the in-book notice and `LICENSE` will disagree. Changing `LICENSE` is out of scope here and needs its own card. `ISSUE_01_PRODUCTION.md` §5.2 still quotes the `README.md` rights line; align it to the confirmed entity when this is ratified.
+**Copyright holder and publisher: AlphaProMega Media Inc.** (Sherif confirmed, 2026-10-14). This matches `LICENSE` L3 ("Copyright © 2026 AlphaProMega Media Inc. (Canadian corporation)"), `README.md` L3 and the `ISSUE_01_PRODUCTION.md` §5.2 rights line, so no file disagrees.
 
 ## 2. Credits page (inside back cover)
 
@@ -31,7 +30,7 @@ Art               [NAME: Sherif to confirm]
 Lettering         [NAME: Sherif to confirm]
 Editor            [NAME: Sherif to confirm]
 
-Published by [ENTITY: Sherif to confirm — AlphaProMega Media Inc. or Autonomicity Games Inc.]
+Published by AlphaProMega Media Inc.
 Contact: info@Rathor.ai
 
 No crawl defined (only S3 sheet §7 defines one).
@@ -51,11 +50,11 @@ Small type under the §5.2 title-page block. Proposed wording:
 
 ```
 Ra-Thor⚡️Living Thunder #1: The Gate.
-First published [DATE: Sherif to confirm] by [ENTITY: Sherif to confirm — AlphaProMega Media Inc. or Autonomicity Games Inc.].
+First published [DATE: Sherif to confirm] by AlphaProMega Media Inc.
 
-Copyright © [YEAR: Sherif to confirm] [ENTITY: Sherif to confirm — AlphaProMega Media Inc. or Autonomicity Games Inc.]. All rights reserved.
+Copyright © [YEAR: Sherif to confirm] AlphaProMega Media Inc. All rights reserved.
 
-Ra-Thor and all characters, devices and settings in this issue are the property of [ENTITY: Sherif to confirm — AlphaProMega Media Inc. or Autonomicity Games Inc.].
+Ra-Thor and all characters, devices and settings in this issue are the property of AlphaProMega Media Inc.
 
 No part of this publication may be copied, adapted, used to train any model, or reproduced in any form without written permission from the copyright holder, except for brief excerpts in reviews.
 
@@ -80,8 +79,9 @@ Kept off on purpose:
 
 ## 4. Open items
 
-1. Copyright holder: the placeholder above, and the possible `LICENSE` mismatch (§1).
-2. Credited roles and names (D8).
-3. Copyright year and first publication date.
-4. Trademark marking, if any.
-5. Back cover: still GAP (`ISSUE_01_PRODUCTION.md` §4).
+1. Credited roles and names (D8).
+2. Copyright year and first publication date.
+3. Trademark marking, if any.
+4. Back cover: still GAP (`ISSUE_01_PRODUCTION.md` §4).
+
+Closed: copyright holder and publisher, AlphaProMega Media Inc. (Sherif confirmed, 2026-10-14; §1).

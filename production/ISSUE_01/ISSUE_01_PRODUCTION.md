@@ -345,7 +345,7 @@ None of these is filled here.
 - **D5. The pass device's design** beyond "small honest device, one warm light". The seed said "walking"; the locked file does not. It must not be the R3 walker bot (`04` Q8).
 - **D6. P5 visor state.** The seed said "Eye-slit a fraction wider"; the locked file is silent.
 - **D7. Cover and title page.** Composition, issue-line wording and any publisher mark (§5). Audit §6: defining a cover is new canon.
-- **D8. Credits, indicia and back cover.** Not defined anywhere. Draft: `CREDITS_AND_INDICIA.md` (PROPOSED; entity placeholder).
+- **D8. Credits, indicia and back cover.** Not defined anywhere. Draft: `CREDITS_AND_INDICIA.md` (PROPOSED; copyright holder AlphaProMega Media Inc., Sherif confirmed 2026-10-14).
 - **D9. Print route** given printer page minimums (§10), and an age rating for store listings.
 - **D10. The `⚡️` in metadata** where a field strips it. Store copy, export and render checks: `STORE_LISTING_AND_EXPORT.md`, `LETTERING_SPEC.md`, `RENDER_CHECKLIST.md` (PROPOSED).
 - **D11. The seed prompts** (§2): restore them to E01 as owner text, or leave them in history.

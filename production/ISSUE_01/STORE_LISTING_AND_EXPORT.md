@@ -36,7 +36,7 @@ Each URL below was fetched on 2026-10-14 and the quoted rule read on the page.
 | Series number | `1` | Digits only |
 | Edition number | `1` | First publication |
 | Author / contributors | `[NAME: Sherif to confirm]` per role | KDP wants author or contributor info on the cover; the cover proposal has none yet (§5, S2) |
-| Publisher | `[ENTITY: Sherif to confirm — AlphaProMega Media Inc. or Autonomicity Games Inc.]` | Same placeholder as `CREDITS_AND_INDICIA.md` |
+| Publisher | `AlphaProMega Media Inc.` | Sherif confirmed, 2026-10-14; same holder as `CREDITS_AND_INDICIA.md` and `LICENSE` L3 |
 | Language | English | |
 | Sexually explicit images or title | No | `00_FIDELITY_PROTOCOL.md` rule 4: "No explicit acts" |
 | Reading age | GAP | Sherif's call (`ISSUE_01_PRODUCTION.md` §11 D9) |
@@ -109,7 +109,7 @@ Avoided: Superheroes (CGN004080), as an outside-genre frame the canon does not u
 
 - [ ] Marketing cover: 1600 × 2560 px (width × height), JPEG, RGB, 300 ppi, 5 MB or less. Crop from the cover master the same way as the pages.
 - [ ] The cover shows the title and author or contributor information. The text must match the detail page (§5, S1 and S2).
-- [ ] No placeholder left anywhere: no `[ENTITY: …]`, `[NAME: …]`, `[YEAR: …]` or `[DATE: …]`.
+- [ ] No placeholder left anywhere: no `[NAME: …]`, `[YEAR: …]` or `[DATE: …]`.
 - [ ] No price or promotion on the cover.
 - [ ] Internal cover (first page of the KPF) matches the marketing cover and fills at least 50% of its space. Do not add a second cover page.
 - [ ] The cover is dark, so the grey-border tip for light covers does not apply.
@@ -169,5 +169,5 @@ The alt text describes only what §6 of the production doc puts on each page and
 - **S2. Contributor on the cover.** KDP wants author or contributor info on the cover. `ISSUE_01_PRODUCTION.md` §5.1 has none.
 - **S3. KDP "too short" risk** (§1).
 - **S4. Reading age** (D9) and **AI-content answers**.
-- **S5. Copyright holder** (`CREDITS_AND_INDICIA.md` §1).
+- **S5. Copyright holder: CLOSED.** AlphaProMega Media Inc. (Sherif confirmed, 2026-10-14; `CREDITS_AND_INDICIA.md` §1).
 - **S6. Patreon visibility and access**, and whether the post is free and public. KDP disallows content freely available on the web unless you own the copyright, and may ask for more information before sale.
