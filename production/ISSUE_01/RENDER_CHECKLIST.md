@@ -10,7 +10,7 @@ Render in your image tool, then fill in this sheet. The repo stores no images (`
 
 ## 0. Style lock
 
-From Sherif's owner rulings of 2026-10-14 ET (8:35, 8:39, 8:42, 8:45, 8:49, 8:57, 8:58, 8:59, 9:04, 9:06 and 9:11 PM; the later ruling wins where two conflict), as set out in `ISSUE_01_PRODUCTION.md` §0 and §6 Style lock:
+From Sherif's owner rulings of 2026-10-14 ET (8:35, 8:39, 8:42, 8:45, 8:49, 8:57, 8:58, 8:59, 9:04, 9:06, 9:11 and 9:12 PM; the later ruling wins where two conflict), as set out in `ISSUE_01_PRODUCTION.md` §0 and §6 Style lock:
 
 - **Character-design reference (primary):** the Rathor.ai knight video, <https://x.com/AlphaProMega/status/2105480761168052314>. Draw Ra-Thor from scratch in the inked comic style; don't copy the rendered look. For an image input, use the rathor.ai hero image or the video's first frame (hammer head-down) for a head-down beat; R4 is a fallback. The hammer follows Sherif's 9:04 PM video (not in the repo).
 - **Rejects in the character reference:** the wingless shield eye; the shoulder without its emerald seal; the rendered look on a panel; the chest medallion's own design (the chest carries a compact gold sun disc with radiant rays, crossed by the app-icon bolt).
@@ -25,6 +25,7 @@ From Sherif's owner rulings of 2026-10-14 ET (8:35, 8:39, 8:42, 8:45, 8:49, 8:57
   - Shoulder seal: an emerald winged Eye of Horus, a flat emblem, not a bird.
   - Shield: gold kite shield whose only emblem is an emerald winged Eye of Horus.
   - Hammer: a polished gold hammer with a big stepped square block head bearing a gold Eye of Horus on its front face, a long thin engraved gold haft, and a glowing pointed gold spike at the base of the haft. Head-down with gold sparks or raised overhead with golden-yellow lightning, per beat; every issue #1 beat is head-down. Lightning never blue; never swung at anyone.
+  - Belt buckle: the Autonomicity Games Inc. logo, small, subtle, a hidden Easter egg (9:12 PM). Renders show a small, subtle, plain gold buckle with no mark; the logo is added in finishing from Sherif's file. Logo art is a GAP; never invent it. Fallback: Rathor.ai symbolism.
   - Cape: black.
   - Style: bold inks and dense hatching, with dramatic rim light and glow on the eyes, the chest emblem, the sparks, the hammer's base spike, golden-yellow lightning and the emerald seals only.
 
@@ -48,6 +49,7 @@ Before rendering, check the prompt:
 - [ ] Shoulder seal: an emerald winged Eye of Horus, flat on the pauldron; no bird.
 - [ ] Shield face gold with a gold rim; its only emblem an emerald winged Eye of Horus (with wings).
 - [ ] Hammer: polished gold; big stepped square block head with a gold Eye of Horus on its front face; long thin engraved gold haft; glowing pointed gold base spike. Issue #1: head-down, gold sparks at contact.
+- [ ] Belt buckle, where the waist is in frame: small, subtle, plain gold; no letters, logo or symbol drawn on it.
 - [ ] Lightning, wherever it appears, is golden-yellow: never blue, never green.
 - [ ] Emerald only on the two winged Eye of Horus motifs. The eyes, the hammer eye and the sun disc are gold; the chest bolt is rose-gold/copper with a black interior, the only rose-gold/copper on the figure. No other green: not in sparks, lightning or lights.
 - [ ] Glow only on the eyes, the chest emblem, the sparks, the hammer's base spike, golden-yellow lightning and the emerald seals.
@@ -64,6 +66,8 @@ One miss is a reject and a rerun (`00_FIDELITY_PROTOCOL.md` rule 7). Do not scor
 | Q3 Ink and palette | Bold black ink and dense cross-hatching as in the style post; gold and obsidian; dramatic rim light; glow only on the eyes, chest emblem, sparks, hammer spike, golden-yellow lightning and emerald seals; emerald only where the guards allow | Right style; hatching a little light, glow a little heavy, or palette slightly off, fixable in the colour pass | Painted or rendered modelling on a panel (`04` Q13), sparse hatching, glow spread across the figure, rainbow clutter, or extra green |
 | Q4 Lettering room | Clean space where §7 and `LETTERING_SPEC.md` put the text; keep-clear zones open | Space exists but bubble must shrink or shift | No room without covering a keep-clear zone |
 | Q5 Clean image | No garbled letters, watermark, logo, extra limbs, warped lattice or melted plate | One small artifact, fixable by hand | Artifact in a canon detail or anywhere it shows at print size |
+
+Q5 "logo" means a logo the tool drew. The Autonomicity Games Inc. buckle logo placed in finishing from Sherif's file is not a Q5 fault (`ISSUE_01_PRODUCTION.md` §6 Style lock; D24).
 
 **Pass bar: every line scores 4 or 5** (a 4–5/5 render), and the gate is passed. Any 3 or lower is a rerun. Q4 does not apply to the cover art (title goes in a planned band) or to panels with no text, so score those N/A.
 
@@ -130,5 +134,6 @@ Record for the council: render date, tool, attempt number, render size, referenc
 - [ ] All 18 panels and the cover pass. The title page passes its typeset check.
 - [ ] Same Ra-Thor on every page: great-helm, glowing eyes, winged halo ring, mosaic plate, chest emblem, shield and hammer consistent across renders and with the Rathor.ai knight (`00` rule 7).
 - [ ] Palette consistent page to page after the colour pass.
+- [ ] Belt-buckle logo: placed from Sherif's file only, small and subtle, the same on every panel where the buckle shows at print size; if no file has arrived, the buckle stays plain (D24).
 - [ ] Style consistent page to page: ink weight, hatching density, glow level, and the cream border on the page template (§0).
 - [ ] Lettering per `LETTERING_SPEC.md` §6, then the Kindle checks in `STORE_LISTING_AND_EXPORT.md` §3.
