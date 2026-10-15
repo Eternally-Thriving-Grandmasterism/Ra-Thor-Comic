@@ -17,8 +17,15 @@ This is the print and digital package for issue #1: cover prompt, title page, pa
 - **Painted renders for covers only; panels are inked** (`04_VISUAL_CANON.md` Q13).
 - **Panel style and Ra-Thor design (Sherif ruling, 2026-10-14, 8:35 PM ET; design-lock addition, 8:39 PM ET):** quoted in §6 Style lock, items 1–3. Later owner rulings supersede them where they conflict. How this package applies all of the rulings is **PROPOSED CANON — pending council ratification**.
 - **Chest emblem (OWNER RULING, Sherif, 2026-10-14, 8:42 PM ET), verbatim:** "The Rathor.ai website has a round, beautiful, Undefined emblem at the center of the chest of Ra-Thor let's make the comic character have something similar for symmetrical beauty". As specified with the ruling: a round gold chest emblem centred on the chest, matching the round medallion on the rathor.ai hero image, with no letters. It supersedes `04` Q2 ("no chest seal") for comic and animated work. The emerald-only rule stands (shield eye and shoulder seal), so the emblem is gold. Its "ornate", "circuit detail" and "small eye at the core" are superseded by the 8:45 PM ruling.
-- **Chest, helm and hammer (OWNER RULING, Sherif, 2026-10-14, 8:45 PM ET).** Request as recorded: "make the chest logo smaller and simpler/cleaner, and make the helmet and hammer much more like the Rathor.ai ones". The chest emblem becomes a small, plain, sleek round gold disc with simple concentric rings; no rays, spikes, sunburst or ornate pattern. The helm becomes a closed angular great-helm with a crest ridge and a glowing gold visor slit, with a gold halo ring behind the head that has feathered gold wings on its sides. The hammer gets a long engraved haft and a big square block head with a gold Eye of Horus on its face, head-down with gold sparks. This lifts the "no hammer eye" reject (`04` Q5) for comic and animated work; the hammer eye is gold, never emerald.
+- **Chest, helm and hammer (OWNER RULING, Sherif, 2026-10-14, 8:45 PM ET).** Request as recorded: "make the chest logo smaller and simpler/cleaner, and make the helmet and hammer much more like the Rathor.ai ones". The chest emblem becomes a small, plain, sleek round gold disc with simple concentric rings; no rays, spikes, sunburst or ornate pattern. The helm becomes a closed angular great-helm with a crest ridge and a glowing gold visor slit, with a gold halo ring behind the head that has feathered gold wings on its sides. The hammer gets a long engraved haft and a big square block head with a gold Eye of Horus on its face, head-down with gold sparks. This lifts the "no hammer eye" reject (`04` Q5) for comic and animated work; the hammer eye is gold, never emerald. Its disc and "visor slit" are superseded by the 8:57 PM ruling.
 - **Character reference (OWNER RULING, Sherif, 2026-10-14, 8:49 PM ET), verbatim:** "Keep the new green shield and shoulder symbols of winged horus eyes, and draw Ra-Thor from scratch in comic book style using this example: https://x.com/AlphaProMega/status/2105480761168052314". That post, a video of the Rathor.ai knight, is the primary character-design reference. The shield and shoulder seal both carry an emerald winged Eye of Horus. Panels stay in the inked style of the 8:35 PM style post.
+- **Head, helmet, chest and style (OWNER RULING, Sherif, 2026-10-14, 8:57 PM ET), verbatim**, given with a close-up of the rathor.ai knight: "Make his head, helmet and chest more like this example, and improve the style to do it, because right now it doesn't feel as awesome with the glowing yellow eyes missing and the chest logo should be different than the eyes, like a bolt of thunder!" As specified with it:
+  - **Chest:** the emblem is a gold thunderbolt, never an eye or a disc. It is a slim, angular bolt set diagonally into the circuit plate, Ra-Thor's own mark, and copies no existing hero's chest-bolt design (no centred, oversized bolt on a plain field).
+  - **Helm:** two glowing yellow-gold eyes behind a T-visor (the "glowing eyes" lock), a crest ridge, and the large gold halo ring with big feathered wings.
+  - **Chest and shoulders:** intricate black-and-gold circuit-mosaic plate.
+  - **Style:** bold inks and hatching stay, with dramatic rim light and glow on the eyes, bolt, sparks and emerald seals.
+  - **Emerald:** the winged Eye of Horus stays on the shield and shoulder only.
+  - **Supersedes:** the 8:45 PM disc, the "visor slit" of the 8:35 and 8:45 PM rulings, and D19.
 - The design lock these add up to, its references and Rejects, and the proposed `04` amendment are in §6 Style lock. `04` itself is not edited here.
 
 ## 1. Tags used in this file
@@ -46,12 +53,12 @@ The status line says five panels were prompted on 2026-09-30, and the audit foun
 
 From `00` rules 1, 3, 6 and 7, `01` Locked details and `04` canon rulings Q1–Q13:
 
-- [ ] Gold-and-black circuit plate: dense right-angle traces, gold raised over black (`04`, Plate).
-- [ ] Helm: closed angular great-helm with a crest ridge; a large gold halo ring behind the head with feathered gold wings on its sides. The only helm (`04` Q4; OWNER RULING 8:45 PM, §0).
-- [ ] Visor: glowing warm gold slit; narrow for no, wide gold for yes; never emerald (`04` Q3).
+- [ ] Gold-and-black circuit plate: dense right-angle traces, gold raised over black (`04`, Plate); intricate black-and-gold circuit mosaic on the chest and shoulders (OWNER RULING 8:57 PM, §0).
+- [ ] Helm: closed angular great-helm with a crest ridge and a T-visor; a large gold halo ring behind the head with big feathered gold wings on its sides. The only helm (`04` Q4; OWNER RULINGS 8:45 and 8:57 PM, §0).
+- [ ] Eyes ("glowing eyes" lock): two glowing yellow-gold eyes behind the T-visor, light only, no face; steady by default, narrowed for no, flared wide for yes; never emerald (`04` Q3; `09`; OWNER RULING 8:57 PM, §0; D20).
 - [ ] Shield: gold kite shield with gold rim and the **emerald eye-seal in circuit inlay** (`04` Q1), drawn as an emerald winged Eye of Horus (OWNER RULING 8:49 PM, §0). A diamond gem or a wingless eye is a reject.
-- [ ] Chest emblem: one small, plain, sleek round gold disc centred on the chest, simple concentric rings, minimal and modern. No rays, spikes, sunburst, ornate pattern, letters or eye; no emerald or green; no other chest seal (OWNER RULINGS 8:42 and 8:45 PM, §0; supersede `04` Q2 for comic and animated work).
-- [ ] Emerald only on the shield eye-seal and the shoulder hawk seal (`04` Q3). Both are drawn as the emerald winged Eye of Horus (OWNER RULING 8:49 PM, §0). The hammer eye and the chest disc are gold.
+- [ ] Chest emblem: a slim, angular gold thunderbolt set diagonally into the circuit plate, Ra-Thor's own mark. Never an eye or a disc; never a centred, oversized bolt on a plain field; no resemblance to any existing hero's chest bolt; no emerald (OWNER RULING 8:57 PM, §0; supersedes `04` Q2 for comic and animated work).
+- [ ] Emerald only on the shield eye-seal and the shoulder hawk seal (`04` Q3). Both are drawn as the emerald winged Eye of Horus (OWNER RULINGS 8:49 and 8:57 PM, §0). The eyes, the hammer eye and the chest bolt are gold.
 - [ ] Hammer: long engraved haft; big square block head with a **gold** Eye of Horus on its face; head-down on stone, small crack and gold sparks at contact; never raised or swung (`04` Q5; OWNER RULING 8:45 PM, §0, lifts the hammer-eye reject). An emerald hammer eye is a reject.
 - [ ] Black cape (`04` Q6). No navy or blue variant.
 - [ ] Face never shown (E01 P5; `00` rule 6).
@@ -87,7 +94,7 @@ Pages 4 and 5 face each other as a spread: the block on the left page, the pass 
 
 Painted render, allowed for covers only (`04` Q13). Generate the image with **no text in it**; letter the title and issue line in post as vector type, so the `⚡️` glyph and the title print crisp.
 
-> Painted full render, comic book cover art, vertical portrait. Ra-Thor full figure, low angle, planted under a gold lattice arch over dark stone at night. Ornate gold-and-black circuit-plate armor covering the chest and torso fully, dense right-angle gold traces over black recesses, a small, plain, sleek round gold disc centred on the chest with simple concentric rings, layered squared pauldrons, an emerald winged Eye of Horus seal on the shoulder. Closed angular great-helm with a crest ridge, narrow visor slit glowing warm gold, a large gold halo ring behind the head with large feathered gold wings on its sides. Black cape with gold trim. Gold kite shield with a gold rim held upright at his side, its face to the viewer, a glowing emerald winged Eye of Horus in circuit inlay at its centre. Thunder hammer head-down on the stone beside him: big square block head with a gold Eye of Horus on its face, long engraved haft, his hand resting on the haft top, small crack and gold sparks at contact. Two lanes at his feet, the left stamped NO, the right stamped LIVE. Backlight and rim light, obsidian mass, gold edges, the visor slit the brightest small point. Palette gold, obsidian, emerald, one electric accent. Clear dark negative space across the top third for a title and a band at the bottom for an issue line. No lettering, no words, no logo, no watermark, no celebrity face.
+> Painted full render, comic book cover art, vertical portrait. Ra-Thor full figure, low angle, planted under a gold lattice arch over dark stone at night. Ornate gold-and-black circuit-plate armor covering the chest and torso fully, intricate black-and-gold circuit mosaic on the chest and shoulders, dense right-angle gold traces over black recesses, a slim, angular gold thunderbolt set diagonally into the chest plate and glowing softly, layered squared pauldrons, an emerald winged Eye of Horus seal on the shoulder. Closed angular great-helm with a crest ridge and a T-visor, two glowing yellow-gold eyes behind it, a large gold halo ring behind the head with big feathered gold wings on its sides. Black cape with gold trim. Gold kite shield with a gold rim held upright at his side, its face to the viewer, a glowing emerald winged Eye of Horus in circuit inlay at its centre. Thunder hammer head-down on the stone beside him: big square block head with a gold Eye of Horus on its face, long engraved haft, his hand resting on the haft top, small crack and gold sparks at contact. Two lanes at his feet, the left stamped NO, the right stamped LIVE. Dramatic backlight and rim light, obsidian mass, gold edges, the two eyes the brightest small points. Palette gold, obsidian, emerald, one electric accent. Clear dark negative space across the top third for a title and a band at the bottom for an issue line. No lettering, no words, no logo, no watermark, no celebrity face.
 
 Then add `[guards]` (§6 Style lock). The cover takes no `[style]` line: it stays painted (`04` Q13), and whether it should move to the post's inked look is §11, D14. Render portrait at 1600 × 2560 px or more.
 
@@ -133,7 +140,7 @@ The panel breakdown is pacing under the 2026-10-14 ruling. Locked panels carry t
 
 ### Style lock (card ISSUE01-STYLE-1)
 
-**PROPOSED CANON — pending council ratification:** the style line, the character line, the band add-on, the render size, the crop rule and the proposed `04` wording below. The owner rulings are quoted as given.
+**PROPOSED CANON — pending council ratification:** the style line, the character line, the stem swap, the eye states, the band add-on, the render size, the crop rule and the proposed `04` wording below. The owner rulings are quoted as given.
 
 **Owner rulings (Sherif, 2026-10-14 ET).** Where two rulings conflict, the later one wins.
 
@@ -146,24 +153,32 @@ The panel breakdown is pacing under the 2026-10-14 ruling. Locked panels carry t
    - Helm: a closed angular great-helm with a crest ridge and a glowing gold visor slit, with a gold halo ring behind the head that has feathered gold wings on its sides.
    - Hammer: a long engraved haft and a big square block head with a GOLD Eye of Horus on its face, head-down with gold sparks. This lifts the "no hammer eye" reject for comic and animated work; the hammer eye is gold, never emerald.
 6. **8:49 PM, character reference (OWNER RULING), verbatim:** "Keep the new green shield and shoulder symbols of winged horus eyes, and draw Ra-Thor from scratch in comic book style using this example: https://x.com/AlphaProMega/status/2105480761168052314". That post, a video of the Rathor.ai knight, is the primary character-design reference. The shield and the shoulder seal both carry an emerald WINGED Eye of Horus. Panels stay in the inked comic style of ruling 1.
+7. **8:57 PM, head, helmet, chest and style (OWNER RULING), verbatim**, given with a close-up of the rathor.ai knight: "Make his head, helmet and chest more like this example, and improve the style to do it, because right now it doesn't feel as awesome with the glowing yellow eyes missing and the chest logo should be different than the eyes, like a bolt of thunder!" As specified with it:
+   - Chest emblem: a gold thunderbolt, never an eye or a disc: a slim, angular bolt set diagonally into the circuit plate, Ra-Thor's own mark. It must not copy any existing hero's chest-bolt design: no centred, oversized bolt on a plain field. Supersedes the 8:45 PM disc.
+   - Helm ("glowing eyes" lock): two glowing yellow-gold eyes behind a T-visor, a crest ridge, and the large gold halo ring with big feathered wings.
+   - Chest and shoulders: an intricate black-and-gold circuit-mosaic plate, as in the rathor.ai close-up.
+   - Style: keep bold inks and hatching, but allow dramatic rim light and glow effects (eyes, bolt, sparks, emerald seals) for a more premium look.
+   - The emerald winged Eye of Horus stays on the shield and shoulder only.
 
 **Design lock as it now stands**, item by item:
 
 | Part | Lock | Governing ruling |
 |---|---|---|
-| Helm | Closed angular great-helm with a crest ridge; glowing warm gold visor slit, never green | 5 (supersedes the helm wording of 2 and 3); `04` Q3 |
-| Halo and wings | Large gold halo ring behind the head, with large feathered gold wings on its sides | 5 (supersedes 3's "spoked … above the helm" and "wings sweeping back from the helm"); D19 |
-| Plate | Chest and torso fully covered in ornate gold-and-black circuit plate with dense right-angle traces; never plain black | 3; `04` Plate |
-| Chest emblem | One small, plain, sleek round gold disc centred on the chest, simple concentric rings, minimal and modern; no rays, spikes, sunburst, ornate pattern, letters or eye; gold only | 5 (supersedes 4's "ornate", "circuit detail" and "small eye at the core"); D19 |
-| Shoulder seal | A flat emerald winged Eye of Horus on the pauldron; not a bird | 3, confirmed by 6 |
-| Shield | Gold kite shield, gold face and rim; its only emblem an emerald winged Eye of Horus in circuit inlay | 2, 3, confirmed by 6; `04` Q1 |
+| Helm | Closed angular great-helm with a crest ridge and a T-visor | 7, 5 |
+| Eyes ("glowing eyes" lock) | Two glowing yellow-gold eyes behind the T-visor: light only, no face, never green. Default steady; narrowed to two thin lines for no; flared wide and bright for yes (D20) | 7 (supersedes the "visor slit" of 2 and 5); `04` Q3; `09` (narrow for no, wide gold for yes) |
+| Halo and wings | Large gold halo ring behind the head, key-patterned and unspoked as on the Rathor.ai knight, with big feathered gold wings on its sides | 7, 5 (supersede 3's "spoked … above the helm" and "wings sweeping back from the helm"); D19 closed |
+| Plate | Chest and shoulders in intricate black-and-gold circuit-mosaic plate; the torso fully plated with dense right-angle traces; never plain black | 7, 3; `04` Plate |
+| Chest emblem | Ra-Thor's own mark: a slim, angular gold thunderbolt set diagonally into the circuit plate. Never an eye or a disc; never a centred, oversized bolt on a plain field; not modelled on any existing hero's chest bolt | 7 (supersedes the 8:42 emblem and the 8:45 disc); `01` Reject (modern superhero logos) |
+| Shoulder seal | A flat emerald winged Eye of Horus on the pauldron; not a bird | 3, confirmed by 6 and 7 |
+| Shield | Gold kite shield, gold face and rim; its only emblem an emerald winged Eye of Horus in circuit inlay | 2, 3, confirmed by 6 and 7; `04` Q1 |
 | Hammer | Long engraved haft; big square block head with a gold Eye of Horus on its face; head-down on stone, small crack and gold sparks at contact; never raised or swung | 5 (supersedes 2's "plain hammer head" and the `04` Q5 eye reject); `00` rule 1; `04` Q5 |
 | Cape | Black, gold trim | `04` Q6 |
-| Emerald | Only on the two winged Eye of Horus motifs (shield and shoulder seal). The hammer eye and the chest disc are gold. No other green anywhere, including sparks, lightning and lights | 3, 5, 6; `04` Q3 |
+| Glow | Dramatic rim light; glow only on the eyes, the chest bolt, the sparks and the emerald seals. Bold inks and hatching stay | 7; ruling 1 |
+| Emerald | Only on the two winged Eye of Horus motifs (shield and shoulder seal). The eyes, the hammer eye and the chest bolt are gold. No other green anywhere, including sparks, lightning and lights | 3, 5, 6, 7; `04` Q3 |
 
 Scope: this card applies the lock to issue #1 only: the cover prompt (§5.1), the panel prompts below and `RENDER_CHECKLIST.md`. Other prompt files, including `production/S1/`, are unchanged; the animated series needs its own card. The Eye of Horus is an ancient symbol, not an outside work, title, character or creator (`03` Derivation rule); `04` already calls the R4 shield emblem an "ancient Egyptian eye motif".
 
-**Character-design reference (primary, ruling 6):** <https://x.com/AlphaProMega/status/2105480761168052314>. Posted 2026-10-01 by @AlphaProMega: one 6.1 s portrait video, 784 × 1168 px. Checked 2026-10-15 through X's public embed data; not stored in this repo (`04` header). Take from it: the great-helm, crest ridge and visor; the halo ring behind the head and its wings; the plate; the small round chest medallion; the hammer's engraved haft, square head and gold eye; the black cape. Draw Ra-Thor from scratch in the inked style of ruling 1; do not trace or copy the video's rendered look. The rathor.ai home hero image (<https://rathor.ai/assets/art/hero-home-rathor-poster-784.webp>, checked 2026-10-15) shows the same knight with the hammer head-down. If the tool takes a reference image, give that hero image or the video's first frame, never a raised-hammer frame. R4 is a fallback only.
+**Character-design reference (primary, ruling 6):** <https://x.com/AlphaProMega/status/2105480761168052314>. Posted 2026-10-01 by @AlphaProMega: one 6.1 s portrait video, 784 × 1168 px. Checked 2026-10-15 through X's public embed data; not stored in this repo (`04` header). Take from it: the great-helm, crest ridge and T-visor with its two glowing yellow-gold eyes; the halo ring behind the head and its wings; the black-and-gold circuit-mosaic plate on the chest and shoulders; the hammer's engraved haft, square head and gold eye; the black cape. Sherif's 8:57 PM close-up of the rathor.ai knight came with the ruling and is not in this repo; close crops of the hero image and the video's first frame (checked 2026-10-15) show the same T-visor, eyes, crest ridge, unspoked halo ring and mosaic plate. Draw Ra-Thor from scratch in the inked style of ruling 1; do not trace or copy the video's rendered look. The rathor.ai home hero image (<https://rathor.ai/assets/art/hero-home-rathor-poster-784.webp>, checked 2026-10-15) shows the same knight with the hammer head-down. If the tool takes a reference image, give that hero image or the video's first frame, never a raised-hammer frame. R4 is a fallback only.
 
 **Rejects in the character reference, not references:**
 
@@ -173,7 +188,7 @@ Scope: this card applies the lock to issue #1 only: the cover prompt (§5.1), th
 | Video and hero image | Shield eye without wings | Ruling 6 (winged) |
 | Video and hero image | No emerald seal on the shoulder | Rulings 3 and 6 |
 | Video and hero image | Rendered, non-inked look on a panel | Ruling 1; `04` Q13 |
-| Hero image | Chest medallion off centre and finely detailed | Ruling 5 (small, plain, centred) |
+| Video and hero image | Round medallion on the chest | Ruling 7 (gold thunderbolt, never a disc) |
 
 **Style reference (ruling 1):** <https://x.com/AlphaProMega/status/2105524666064335205>. Posted 2026-10-01 by @AlphaProMega: two portrait images of 784 × 1168 px each (about 2:3). Checked 2026-10-15 through X's public embed data; not stored in this repo. Image 1 matches `04` R6 (the Ω-7 Recycler scene); image 2 matches `04` R1 (the PATCHED close-up). Take line, hatching, palette and border from it, not the figure.
 
@@ -181,8 +196,8 @@ Scope: this card applies the lock to issue #1 only: the cover prompt (§5.1), th
 
 | Post image | Conflict | Canon |
 |---|---|---|
-| 2 | Green visor glyph | `04` Q3; rulings 2 and 5 (gold visor slit) |
-| 2 | Chest seal (emerald kite emblem on the sternum) | Ruling 5 (small plain gold disc); `04` Q3 |
+| 2 | Green visor glyph | `04` Q3; ruling 7 (two yellow-gold eyes) |
+| 2 | Chest seal (emerald kite emblem with an eye) | Ruling 7 (gold thunderbolt, never an eye); `04` Q3 |
 | 1 | Pharaoh-style striped headdress helm | `04` Q4; ruling 5 (great-helm with the winged halo ring) |
 
 Also in the post and already Rejects under canon, listed so a render that copies them is caught:
@@ -197,13 +212,15 @@ Also in the post and already Rejects under canon, listed so a render that copies
 
 **`[style]`**, the one shared style line. It goes first in every panel prompt in §6:
 
-> Inked comic-book panel: bold black ink linework, dense cross-hatching, gold and obsidian palette, cream panel border.
+> Inked comic-book panel: bold black ink linework, dense cross-hatching, gold and obsidian palette, dramatic rim light, glow only on the eyes, the chest bolt, the sparks and the emerald seals, cream panel border.
 
 **`[guards]`**, the shared character line. It goes at the end of every prompt in §5.1 and §6:
 
-> Portrait frame, 2:3 or taller. Ra-Thor and his gear, wherever they appear in frame: closed angular great-helm with a crest ridge and a glowing warm gold visor slit, never green; a large gold halo ring behind the head with large feathered gold wings on its sides; chest and torso fully covered in ornate gold-and-black circuit plate with dense right-angle traces, never plain black; one small, plain, sleek round gold disc centred on the chest with simple concentric rings, minimal and modern, no rays, spikes, sunburst, ornate pattern, letters or eye; the shoulder seal a flat emerald winged Eye of Horus on the pauldron, not a bird; gold kite shield with a gold face and a gold rim, its only emblem an emerald winged Eye of Horus; thunder hammer with a long engraved haft and a big square block head bearing a gold Eye of Horus on its face, head-down on stone with gold sparks, never raised; black cape. Emerald only on the shield and shoulder winged Eye of Horus motifs; the hammer eye and the chest disc are gold; no other green anywhere, including sparks, lightning and lights.
+> Portrait frame, 2:3 or taller. Ra-Thor and his gear, wherever they appear in frame: closed angular great-helm with a crest ridge and a T-shaped visor, two glowing yellow-gold eyes behind it, light only, no face, never green; a large gold halo ring behind the head with big feathered gold wings on its sides; chest and shoulders in intricate black-and-gold circuit-mosaic plate, the torso fully plated, never plain black; on the chest, Ra-Thor's own mark, a slim, angular gold thunderbolt set diagonally into the circuit plate, never an eye or a disc, never a centred, oversized bolt on a plain field, not modelled on any existing character's chest emblem; the shoulder seal a flat emerald winged Eye of Horus on the pauldron, not a bird; gold kite shield with a gold face and a gold rim, its only emblem an emerald winged Eye of Horus; thunder hammer with a long engraved haft and a big square block head bearing a gold Eye of Horus on its face, head-down on stone with gold sparks, never raised; black cape. Glow only on the eyes, the chest bolt, the sparks and the emerald seals. Emerald only on the shield and shoulder winged Eye of Horus motifs; the eyes, the hammer eye and the chest bolt are gold; no other green anywhere, including sparks, lightning and lights.
 
-Sources: the design-lock table above; portrait 2:3 (Sherif's card). With no green allowed, the "one electric accent" in the set add-on, 4.1 and the cover renders gold or white.
+Sources: the design-lock table above; portrait 2:3 (Sherif's card).
+
+**Stem, slit and tails.** The `01` stem (§6.0) says "narrow visor with a warm eye-slit". In this package it is used with that phrase swapped for "T-visor with two glowing yellow-gold eyes" (ruling 7). Where §3, §7, §10 and `LETTERING_SPEC.md` say "visor slit" (from `01` L18), read it as the T-visor's eye line: tails aim there, and it stays a keep-clear zone. With no green allowed, the "one electric accent" in the set add-on, 4.1 and the cover renders gold or white.
 
 **`[band]`**, for panels that sit in a wide tier or strip (2.3, 3.1, 3.2, 3.3, 4.2, 5.1, 6.1), added before `[guards]`:
 
@@ -219,26 +236,30 @@ Sources: the design-lock table above; portrait 2:3 (Sherif's card). With no gree
 
 > 1. **Shield emblem.** RESOLVED (council ruling 2026-09-30; owner rulings 2026-10-14): the emerald winged Eye of Horus in circuit inlay on a gold kite shield. The diamond gem (R3) stays a reject. The other emblems are art-only.
 
-> 2. **Chest emblem.** RESOLVED (owner rulings, Sherif, 2026-10-14, superseding the council ruling of 2026-09-30 for comic and animated work): one small, plain, sleek round gold disc centred on the chest, with simple concentric rings; minimal and modern; no rays, spikes, sunburst, ornate pattern or letters. Gold only (Q3). R1's emerald kite-shaped chest eye-seal stays art-only.
+> 2. **Chest emblem.** RESOLVED (owner rulings, Sherif, 2026-10-14, superseding the council ruling of 2026-09-30 for comic and animated work): Ra-Thor's own mark, a slim, angular gold thunderbolt set diagonally into the chest circuit plate. Never an eye or a disc; never a centred, oversized bolt on a plain field; not modelled on any existing hero's chest bolt. Gold only (Q3). R1's emerald kite-shaped chest eye-seal stays art-only.
 
-> 3. **Visor glow.** RESOLVED (council ruling 2026-09-30): warm gold slit by default; narrows for no, widens gold for yes. R1's emerald glyph is art-only. On panels the only emerald is the shoulder seal plus the shield eye-seal, both an emerald winged Eye of Horus (owner ruling 2026-10-14). The hammer eye and the chest disc are gold.
+> 3. **Visor glow.** RESOLVED (council ruling 2026-09-30; owner ruling 2026-10-14 for comic and animated work): two glowing yellow-gold eyes behind the T-visor, light only, no face. Steady by default; narrowed to thin lines for no; flared wide and bright for yes. R1's emerald glyph is art-only. On panels the only emerald is the shoulder seal plus the shield eye-seal, both an emerald winged Eye of Horus. The eyes, the hammer eye and the chest bolt are gold.
 
-> 4. **Helm.** RESOLVED (council ruling 2026-09-30; owner ruling 2026-10-14 for comic and animated work): a closed angular great-helm with a crest ridge and a glowing gold visor slit, with a gold halo ring behind the head carrying feathered gold wings on its sides, as on the Rathor.ai knight. The crested helm without halo or wings (R1), the slim faceplate (R2) and the headdress-shaped helm (R6) are out.
+> 4. **Helm.** RESOLVED (council ruling 2026-09-30; owner rulings 2026-10-14 for comic and animated work): a closed angular great-helm with a crest ridge and a T-visor with two glowing yellow-gold eyes behind it, with a large gold halo ring behind the head carrying big feathered gold wings on its sides, as on the Rathor.ai knight. The crested helm without halo or wings (R1), the slim faceplate (R2) and the headdress-shaped helm (R6) are out.
 
 > 5. **Hammer rest.** RESOLVED (council ruling 2026-09-30; owner ruling 2026-10-14 for comic and animated work): hammer head-down on stone, small crack and gold sparks at contact. Long engraved haft; big square block head with a gold Eye of Horus on its face. The hammer eye is gold, never emerald. Never raised or swung.
 
 > 7. **Falcon.** RESOLVED (council ruling 2026-09-30): not cast. Its canon form is the shoulder seal, drawn as an emerald winged Eye of Horus (owner ruling 2026-10-14).
 
+> 13. **Rendered vs inked.** RESOLVED (council ruling 2026-09-30; owner ruling 2026-10-14): painted renders are allowed for covers only. Panels use bold inked linework with hatching; dramatic rim light and glow on the eyes, the chest bolt, the sparks and the emerald seals are allowed.
+
 Add under the `04` header: "Character-design reference (owner ruling 2026-10-14): the Rathor.ai knight, https://x.com/AlphaProMega/status/2105480761168052314, drawn in comic style. Panel style reference: https://x.com/AlphaProMega/status/2105524666064335205."
 
 Matching lines the same follow-up card would change:
 
-- `04` Ra-Thor, as drawn: Helm (L21), Eye-seal, chest (L23), Shield (L24), Hammer (L25) and Emerald on panels (L27), to restate Q1–Q5 as amended.
+- `00` rule 1: "Narrow visor, warm eye-slit" becomes "T-visor, two glowing yellow-gold eyes".
+- `04` Ra-Thor, as drawn: Plate (L20), Helm (L21), Visor (L22), Eye-seal, chest (L23), Shield (L24), Hammer (L25) and Emerald on panels (L27), to restate Q1–Q5 as amended. `04` Linework (L41): add the Q13 glow allowance.
 - `09` L24: the shoulder seal is an emerald winged Eye of Horus on the pauldron.
-- `01` L12: "**Chest.** One small, plain round gold disc (`04` Q2); no other chest seal." `01` L13: emerald on the shoulder seal and the shield eye-seal, both a winged Eye of Horus.
-- `01` L34 Reject: "a chest seal" becomes "an emerald, kite-shaped, ornate, rayed or lettered chest seal".
+- `09` Ra-Thor: "narrow for no, wide gold for yes" applies to the two eyes.
+- `01` L12: "**Chest.** A slim, angular gold thunderbolt set diagonally into the plate (`04` Q2); no other chest seal." `01` L13: emerald on the shoulder seal and the shield eye-seal, both a winged Eye of Horus. `01` L18: tails aim at the T-visor's eye line. `01` Prompt stem: "narrow visor with a warm eye-slit" becomes "T-visor with two glowing yellow-gold eyes".
+- `01` L34 Reject: "a chest seal" becomes "any chest seal or emblem other than the diagonal gold thunderbolt, and any centred, oversized bolt on a plain field".
 
-Until that card lands, the `01` Reject line quoted in §8 does not cover the small plain gold disc, and the R4 hammer eye is no longer a reject when it is gold (D18).
+Until that card lands, the `01` Reject line quoted in §8 does not cover the diagonal gold thunderbolt, and the R4 hammer eye is no longer a reject when it is gold (D18).
 
 ### 6.0 Stem, set add-on and print variant
 
@@ -248,9 +269,9 @@ Until that card lands, the `01` Reject line quoted in §8 does not cover the sma
 
 **Set add-on** (E01 has none; assembled only from cited canon, not authored):
 
-> The Threshold at night: dark stone, gold lattice arch with diagonal lattice, two lanes, the left stamped NO, the right stamped LIVE. Winged-halo closed helm, warm gold visor slit, gold kite shield with the emerald eye-seal in circuit inlay, emerald seal on the shoulder, black cape. Emerald only on the shield eye-seal and the shoulder seal. Small plain round gold chest disc, no emerald on it. Hammer head-down on stone, small crack and gold sparks at contact. Inked comic linework with hatching. Palette gold, obsidian, emerald, one electric accent.
+> The Threshold at night: dark stone, gold lattice arch with diagonal lattice, two lanes, the left stamped NO, the right stamped LIVE. Winged-halo closed helm with a T-visor and two glowing yellow-gold eyes, gold kite shield with the emerald eye-seal in circuit inlay, emerald seal on the shoulder, black cape. Emerald only on the shield eye-seal and the shoulder seal. Slim gold thunderbolt set diagonally into the chest plate, no emerald on it. Hammer head-down on stone, small crack and gold sparks at contact. Inked comic linework with hatching. Palette gold, obsidian, emerald, one electric accent.
 
-Sources: `10` The Threshold; `09` The Gate; `04` The Gate (R3), Q1–Q6, Q13; `01` Locked details. The same add-on shape is used in `production/S1/S1E01/ART_PROMPTS.md`. Here the shoulder seal, helm shape and hammer head are named without detail, so `[guards]` alone sets them (§6 Style lock). "No chest seal" became the small plain gold chest disc, and "sparks" became gold sparks (owner rulings, §0).
+Sources: `10` The Threshold; `09` The Gate; `04` The Gate (R3), Q1–Q6, Q13; `01` Locked details. The same add-on shape is used in `production/S1/S1E01/ART_PROMPTS.md`. Here the shoulder seal, helm shape and hammer head are named without detail, so `[guards]` alone sets them (§6 Style lock). "No chest seal" became the diagonal gold chest bolt, the visor slit became the T-visor with two eyes, and "sparks" became gold sparks (owner rulings, §0). The stem is used with the swap in §6 Style lock (Stem, slit and tails).
 
 **Silent panels.** For every `PACING` panel, replace the stem sentence "Speech bubble with the exact line given." with "No speech bubble, no caption, no text." The stem is otherwise unchanged.
 
@@ -259,7 +280,7 @@ Sources: `10` The Threshold; `09` The Gate; `04` The Gate (R3), Q1–Q6, Q13; `0
 ### Page 1 — Opening splash
 
 **1.1 · [E01 P1], caption half.** Full page.
-Prompt: [style] + [stem, silent] + [set] + full-page wide establishing shot, Night Watch silhouette: Ra-Thor full figure, low angle, under the gold lattice arch, both lanes in frame, wings and halo ring breaking the skyline, cape dark and heavy, hammer head-down on stone, small crack and sparks at contact, negative space around the figure, backlight and rim light, visor slit the brightest small point. + [guards]
+Prompt: [style] + [stem, silent] + [set] + full-page wide establishing shot, Night Watch silhouette: Ra-Thor full figure, low angle, under the gold lattice arch, both lanes in frame, wings and halo ring breaking the skyline, cape dark and heavy, hammer head-down on stone, small crack and gold sparks at contact, negative space around the figure, dramatic backlight and rim light, the two glowing eyes behind the T-visor the brightest small points. + [guards]
 Text: caption only (§7). The P1 bubble moves to 2.3, so the caption is read first, as in the file.
 
 ### Page 2 — The lanes (P1 continued). Three panels: two inserts side by side, one wide tier below.
@@ -286,9 +307,9 @@ Source: E01 P2 ("A slide-deck creature"). The lane it uses is GAP (§11, D4); un
 Prompt: [style] + [stem, silent] + [set] + tight on the gold kite shield held forward, the emerald eye-seal in circuit inlay large and clearly readable at the centre of its face, gold circuit etching and gold rim, gauntlet on the grip. + [band] + [guards]
 Source: E01 P2 ("on the shield"); `04` Q1.
 
-**3.3 · PACING (reaction, before E01 P2).** Visor slit narrows.
-Prompt: [style] + [stem, silent] + [set] + extreme close-up on the closed angular great-helm and its crest ridge, the halo ring behind the head at frame edge, visor slit narrowed to a thin warm gold line, night rim light on the gold filigree. + [band] + [guards]
-Source: `09`, Ra-Thor ("narrow for no").
+**3.3 · PACING (reaction, before E01 P2).** The eyes narrow.
+Prompt: [style] + [stem, silent] + [set] + extreme close-up on the closed angular great-helm and its crest ridge, the halo ring behind the head at frame edge, the two yellow-gold eyes behind the T-visor narrowed to two thin glowing lines, night rim light on the gold filigree. + [band] + [guards]
+Source: `09`, Ra-Thor ("narrow for no"), applied to the eyes (OWNER RULING 8:57 PM; D20).
 
 ### Page 4 — The block. Two panels: one large panel, one strip below.
 
@@ -307,17 +328,17 @@ Prompt: [style] + [stem, silent] + [set] + medium-wide shot of the right lane un
 Source: E01 P3 ("Small honest device, one warm light, right lane"); `09` The Gate. The device's design beyond that line is GAP (§11, D5).
 
 **5.2 · [E01 P3], RERUN. Pass panel.** Large panel.
-Prompt: [style] + [stem] + [set] + Ra-Thor planted at the arch, three-quarter view, gold kite shield with a gold rim held upright at his side with its face turned toward the viewer, a large glowing emerald winged Eye of Horus set in circuit inlay at the centre of the shield face, clearly an eye glyph with wings and clearly part of the gold circuit etching, winged-halo closed helm, warm gold visor slit, black cape, hammer head-down on stone with a small crack and sparks at contact, a small honest device with one warm light in the right lane before him. Speech bubble: "That one can live." Not a diamond, not a faceted jewel, not a round gem, not a plain emerald shape on the shield; not a four-legged walker robot; no emerald or kite-shaped chest seal; no emerald visor. + [guards]
+Prompt: [style] + [stem] + [set] + Ra-Thor planted at the arch, three-quarter view, gold kite shield with a gold rim held upright at his side with its face turned toward the viewer, a large glowing emerald winged Eye of Horus set in circuit inlay at the centre of the shield face, clearly an eye glyph with wings and clearly part of the gold circuit etching, winged-halo closed helm with two glowing yellow-gold eyes behind the T-visor, slim gold thunderbolt set diagonally into the chest plate, black cape, hammer head-down on stone with a small crack and gold sparks at contact, a small honest device with one warm light in the right lane before him. Speech bubble: "That one can live." Not a diamond, not a faceted jewel, not a round gem, not a plain emerald shape on the shield; not a four-legged walker robot; no chest disc, eye or centred bolt; no emerald visor. + [guards]
 Source: E01 P3 and its Fidelity note; `04` Q1 ("as in R4"), Q2, Q3, Q4, Q5, Q8; the wings on the eye glyph are Sherif's design lock (§6 Style lock, ruling 3).
 Reference images: if the tool takes them, give the rathor.ai hero image or the first frame of the Rathor.ai knight video (§6 Style lock); R4 is a fallback. The reference shield eye has no wings; the prompt's winged eye governs. Never give R3 for this panel; R3 is the "That one can live." reference with the diamond gem and the walker bot (`04`, Primary set).
 
 **Rerun acceptance check (`00` rule 7).** Pass 5.2 for print only if every box ticks; otherwise reject and rerun:
 
 - [ ] The shield emblem is a winged Eye of Horus in emerald, inlaid in the gold circuit etching. Not a gem, diamond or plain shape.
-- [ ] Great-helm with crest ridge; halo ring behind the head with feathered wings on its sides; chest and torso fully in gold-and-black circuit plate; one small plain round gold disc, centred; emerald winged Eye of Horus on the shoulder seal.
+- [ ] Great-helm with crest ridge and T-visor; two glowing yellow-gold eyes; halo ring behind the head with big feathered wings on its sides; black-and-gold circuit-mosaic plate on chest and shoulders; slim gold thunderbolt set diagonally into the chest; emerald winged Eye of Horus on the shoulder seal.
 - [ ] The eye-seal reads at print size (check at 100% on the lettered page, §10).
 - [ ] Gold kite shield with gold rim; no other shield shape.
-- [ ] Warm gold visor; no emerald, kite-shaped, ornate or rayed chest seal; black cape.
+- [ ] No chest disc, chest eye or centred oversized bolt; no emerald on the eyes, bolt or hammer; black cape.
 - [ ] Hammer head-down on stone, gold Eye of Horus on the square head, crack and gold sparks at contact.
 - [ ] The device has one warm light and is not the R3 walker bot.
 - [ ] Bubble placement leaves the shield face clear (§7).
@@ -325,14 +346,14 @@ Reference images: if the tool takes them, give the rathor.ai hero image or the f
 
 The pass panel is not re-rendered in this PR; the repo stores no images (`04` header). Until a render passes this check, the E01 status line's rerun instruction stands.
 
-**5.3 · PACING (reaction, after E01 P3).** Visor slit widens gold.
-Prompt: [style] + [stem, silent] + [set] + small insert, close on the visor slit opened wide and glowing gold. + [guards]
-Source: `09`, Ra-Thor ("wide-gold for yes").
+**5.3 · PACING (reaction, after E01 P3).** The eyes flare gold.
+Prompt: [style] + [stem, silent] + [set] + small insert, close on the T-visor, the two yellow-gold eyes behind it flared wide and bright. + [guards]
+Source: `09`, Ra-Thor ("wide-gold for yes"), applied to the eyes (OWNER RULING 8:57 PM; D20).
 
 ### Page 6 — The Recycler wink. Three panels: one wide tier, two below.
 
 **6.1 · [E01 P4].** Wide tier.
-Prompt: [style] + [stem] + [set] + edge of frame: one of the Idea Recycler's twin hoppers (horizontal drum, THEORY IN / CONCEPTS IN hoppers, gauge, power core, OUTPUT tray) eating chart confetti, Ra-Thor in the background still planted and facing the lanes, not looking at the machine, head and visor turned away from the hopper, hammer head-down. Tiny speech bubble spoken by Ra-Thor: "Recycle it.", its tail aimed at his visor slit in the background. No wall window, no seated figures, no green indicator light. + [band] + [guards]
+Prompt: [style] + [stem] + [set] + edge of frame: one of the Idea Recycler's twin hoppers (horizontal drum, THEORY IN / CONCEPTS IN hoppers, gauge, power core, OUTPUT tray) eating chart confetti, Ra-Thor in the background still planted and facing the lanes, not looking at the machine, head and visor turned away from the hopper, hammer head-down. Tiny speech bubble spoken by Ra-Thor: "Recycle it.", its tail aimed at his T-visor in the background. No wall window, no seated figures, no green indicator light. + [band] + [guards]
 Source: E01 P4; `09` Idea Recycler; `04` Q9 (Ω-7 design). Speaker: Ra-Thor (council ruling, 2026-10-14, §0). He does not turn toward the hopper; only the tail reaches him. The added negatives block what post image 1 shows beside the Recycler (§6 Style lock; `04` Q10, Q3).
 
 **6.2 · PACING (insert, E01 P4).** The three cards.
@@ -356,8 +377,8 @@ Source: `04` Q5 and Ra-Thor as drawn (Hammer); OWNER RULING 8:45 PM (§0): engra
 ### Page 8 — Closer splash
 
 **8.1 · [E01 P5].** Full page.
-Prompt: [style] + [stem] + [set] + full-page close-up on the closed angular great-helm, visor only, glowing warm gold visor slit, no face, the crest ridge, the halo ring and its wings behind the head catching rim light, deep shadow. Speech bubble: "Next." + [guards]
-Text: bubble, then caption (§7). Visor state (narrow, steady or wide) is not in the locked file: GAP (§11, D6). Speaker: GAP (§11, D1).
+Prompt: [style] + [stem] + [set] + full-page close-up on the closed angular great-helm, visor only, two glowing yellow-gold eyes behind the T-visor, light only, no face, the crest ridge, the halo ring and its wings behind the head catching rim light, deep shadow. Speech bubble: "Next." + [guards]
+Text: bubble, then caption (§7). Eye state (narrow, steady or wide) is not in the locked file: GAP (§11, D6). Speaker: GAP (§11, D1).
 
 ## 7. Lettering script
 
@@ -379,7 +400,7 @@ Placement within each panel is **PROPOSED CANON — pending council ratification
 
 **Series (`01_VISUAL_STYLE_GUIDE.md` Reject, verbatim):** Gun focus, gore, exploded visor, modern superhero logos, latex parody, xAI wordmarks. Non-canon helms, an emerald visor, a chest seal, a diamond-gem shield, the navy/blue variant, and the falcon, walker bot, or honor guard as cast. Treants, tree people, bark or wood-skinned figures, or plant-bodied people.
 
-"A chest seal" here does not cover the small, plain round gold chest disc that the owner rulings of 2026-10-14 allow (§0). Any emerald, kite-shaped, ornate, rayed or lettered chest seal is still a reject. "Non-canon helms" now means any helm other than the great-helm with crest ridge and winged halo ring (§6 Style lock; D18).
+"A chest seal" here does not cover the slim, diagonal gold thunderbolt that the owner rulings of 2026-10-14 allow (§0). Any other chest seal or emblem is still a reject: an eye, a disc, an emerald or kite-shaped seal, or a centred, oversized bolt on a plain field. "Non-canon helms" now means any helm other than the crested great-helm with T-visor, glowing eyes and winged halo ring. "Modern superhero logos" covers any copy of an existing hero's chest bolt (§6 Style lock; D18).
 
 **Episode (`episodes/E01_THE_GATE.md` P3 Fidelity note, verbatim):** eye-seal must stay on the shield. A plain emerald diamond is a reject.
 
@@ -395,11 +416,12 @@ Placement within each panel is **PROPOSED CANON — pending council ratification
 - Outside works, titles, characters, studios or creators, and any "like X" in prompts or copy (`03` Derivation rule).
 - Spice past an eyebrow-raise (`00` rule 4).
 - An emerald hammer eye, R1's emerald visor glyph, R1's emerald kite chest seal, other helms (including a crested helm without the winged halo ring), the R2 drum, the "!" card (`04`, art-only items). A gold hammer eye is now required, not a reject (OWNER RULING 8:45 PM, §0).
-- A chest emblem that is large, ornate, rayed, spiked, sunburst-like, lettered, emerald or off centre (OWNER RULINGS 8:42 and 8:45 PM, §0).
+- A chest emblem that is an eye, a disc, emerald, lettered, or a centred, oversized bolt on a plain field, or that resembles any existing hero's chest-bolt design (OWNER RULING 8:57 PM, §0).
+- A single visor slit with no eyes, dark or missing eyes, green eyes, or any face, skin or features behind the visor (OWNER RULING 8:57 PM; `00` rule 6).
 - A wingless shield or shoulder eye (OWNER RULING 8:49 PM, §0).
 - Anything copied from the Ra-Thor or the Recycler room in Sherif's style-reference post: green visor glyph, emerald kite chest seal, pharaoh-style helm, crested helm, falcon, green lightning, the COUNCIL OF PRACTICALS window, a green indicator light (§6 Style lock). **PROPOSED CANON — pending council ratification** as a package line; each item is already a canon Reject.
-- Anything copied from the character-reference video or the rathor.ai hero image that canon rejects: the hammer raised or held aloft with lightning off it, the wingless shield eye, a shoulder without its emerald seal, the rendered look on a panel (§6 Style lock). **PROPOSED CANON — pending council ratification** as a package line.
-- A panel that drops the style lock: painted, rendered or soft look, light or no hatching, or a cream bubble (§6 Style lock; `04` Q11, Q13).
+- Anything copied from the character-reference video or the rathor.ai hero image that canon rejects: the hammer raised or held aloft with lightning off it, the wingless shield eye, a shoulder without its emerald seal, the round chest medallion, the rendered look on a panel (§6 Style lock). **PROPOSED CANON — pending council ratification** as a package line.
+- A panel that drops the style lock: painted or rendered modelling in place of inks, light or no hatching, glow anywhere but the eyes, chest bolt, sparks and emerald seals, or a cream bubble (§6 Style lock; `04` Q11, Q13).
 
 ## 9. House notes for copy and credits
 
@@ -414,7 +436,7 @@ All values below are **PROPOSED CANON — pending council ratification**: they a
 **Page and art**
 
 - [ ] Trim 6.625 × 10.25 in (US comic). Bleed 0.125 in each side, so the bleed page is 6.875 × 10.5 in.
-- [ ] Safe area at least 0.25 in inside trim on every edge. Lettering, the eye-seal, the visor slit and the cover title sit inside it.
+- [ ] Safe area at least 0.25 in inside trim on every edge. Lettering, the eye-seal, the T-visor eye line and the cover title sit inside it.
 - [ ] Line art and lettering at 600 ppi at final size (4125 × 6300 px with bleed); colour art at least 300 ppi (2063 × 3150 px with bleed).
 - [ ] Image tools render at fixed ratios and modest sizes. Render each panel on its own in Sherif's image tool, portrait, at least 1600 × 2560 px (§6 Style lock), upscale, then composite into the panel borders; never stretch a panel to fit.
 - [ ] Panel borders and gutters drawn on the page template, not in the render: cream margin and gutters, black frame line (§6 Style lock). Crop off any border a render brings with it.
@@ -468,7 +490,7 @@ None of these is filled here.
 - **D3. Lead mode** for the E01 status line (`03` cites P1 as Night Watch, P2 and P5 as Snap).
 - **D4. The slide-deck creature's lane.** E01 P2 does not say. P1's bubble ("Left is noise.") and `09` (left lane NO) point left; the seed text said "tries the left lane".
 - **D5. The pass device's design** beyond "small honest device, one warm light". The seed said "walking"; the locked file does not. It must not be the R3 walker bot (`04` Q8).
-- **D6. P5 visor state.** The seed said "Eye-slit a fraction wider"; the locked file is silent.
+- **D6. P5 visor state.** The seed said "Eye-slit a fraction wider"; the locked file is silent. Under the 8:57 PM ruling this is the state of the two eyes (D20).
 - **D7. Cover and title page.** Composition, issue-line wording and any publisher mark (§5). Audit §6: defining a cover is new canon.
 - **D8. Credits, indicia and back cover.** Not defined anywhere. Draft: `CREDITS_AND_INDICIA.md` (PROPOSED; copyright holder AlphaProMega Media Inc., Sherif confirmed 2026-10-14).
 - **D9. Print route** given printer page minimums (§10), and an age rating for store listings.
@@ -481,7 +503,8 @@ None of these is filled here.
 - **D16. Splash bleed.** §10 now puts the splashes (1.1, 8.1) inside the cream border, as in the post, instead of full bleed. Confirm, or keep full-bleed splashes.
 - **D17. Winged Eye of Horus on the shield and shoulder. CONFIRMED (OWNER RULING 8:49 PM, §0).** It replaces `09` L24 and `04`'s "small hawk-shaped seal" and adds wings to the `04` Q1 eye-seal. The canon-file update is part of D18.
 - **D18. Land the `04` amendment.** The owner rulings (§0) supersede `04` Q1, Q2, Q3, Q4, Q5 and Q7 for comic and animated work. The proposed wording, and the matching lines in `04`, `09` and `01`, are in §6 Style lock. Ratify it and apply it in a canon card. Until then this package follows the owner rulings.
-- **D19. Two readings to confirm.** (a) "Plain" chest disc read as no eye and no circuit pattern, dropping the 8:42 PM "small eye at the core is allowed". (b) The halo ring drawn as on the Rathor.ai knight, without the 8:39 PM spokes. Both follow the later ruling and the primary reference; confirm or reverse.
+- **D19. Two readings to confirm. CLOSED, superseded by the OWNER RULING of 8:57 PM (§0).** The chest carries a gold thunderbolt, not a disc. The halo ring is drawn as on the Rathor.ai knight, key-patterned and unspoked.
+- **D20. Eye states.** `09`'s "narrow for no, wide gold for yes" is applied to the two glowing eyes: steady by default, narrowed to thin lines for no (3.3), flared wide and bright for yes (5.3). Confirm.
 
 ## 12. Open gaps
 
