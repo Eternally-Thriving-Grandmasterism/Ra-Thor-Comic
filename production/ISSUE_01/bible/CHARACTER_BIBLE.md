@@ -10,9 +10,9 @@
 |---|---|
 | Master | `BIBLE_FINAL_master.png` (640 × 720 px) |
 | Source render | `real_v1.jpg` (640 × 720 px), kept unchanged as the provenance file |
-| Difference from the source | Only the issue seal (about x 518–633, y 2–117). Its rayed-sun seal was removed, the sky patched, and the Cinzel gold-coin `ISSUE: #1` seal placed. Every other pixel is identical to `real_v1.jpg` (checked pixel by pixel). |
+| Difference from the source | Two edits only, checked pixel by pixel. (1) The issue seal (about x 518–633, y 2–117): the rayed-sun seal was removed, the sky patched, and the Cinzel gold-coin `ISSUE: #1` seal placed. (2) A stray diamond sparkle above the T of THOR (about x 370–389, y 11–24) was removed at Sherif's request (2026-10-15, about 1:23 AM ET). Every other pixel is identical to `real_v1.jpg`. |
 | Print file | `RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg`: 2063 × 3150 px at 300 dpi (6.625 × 10.25 in trim plus 0.125 in bleed). The art fills the trim width. The dark storm is extended above and below by mirroring, blurring and darkening. There are no cream bands, nothing is stretched, and nothing is cropped from the sides. |
-| Checksums | `BIBLE_FINAL_SHA256.txt`. Its entries for the three image files in this folder verify with `sha256sum -c`; the entries for `BIBLE_FINAL_compare.jpg` and three build scripts refer to production-box files that are not in this repo. |
+| Checksums | `BIBLE_FINAL_SHA256.txt`. Its entries for the three image files in this folder verify with `sha256sum -c`; the entries for `BIBLE_FINAL_compare.jpg` and the four `real/` build scripts refer to production-box files that are not in this repo. |
 | Style | Realistic, highly detailed painted style. Chosen by Sherif on 2026-10-15 at 1:08 AM ET. As relayed: "we have the technology, why make only cartoons". |
 
 ## 2. The hero's look
@@ -33,7 +33,7 @@
 
 ## 4. Cover type and palette
 
-- **Title:** RA⚡THOR / LIVING THUNDER.
+- **Title:** RA⚡THOR / LIVING THUNDER. There is no ornament, sparkle or diamond over the T (or any other letter) of THOR.
 - **Seal:** the Cinzel gold-coin seal, reading `ISSUE:` over a large `#1`. It has a dark centre and an antique-gold ring, and its gold matches the title's metal.
 - **Palette:** obsidian, antique gold and white-hot gold. Rose gold is used ONLY for bolts (the buckle bolt, the hammer-face bolt and the title bolt).
 - **Avoid:** blue, navy and green, anywhere. The reason is distinctness from an existing third-party robot character with a similar name; per the `03` Derivation rule it is not named here.
@@ -59,6 +59,7 @@ Sherif's rulings on 2026-10-14/15. Times are ET. Times marked ~ are reconstructe
 | 1:08 AM | Switched to a realistic painted style; `real_v1` is the best render. | **Locked** |
 | ~1:09 AM | Asked for three edits on `real_v1`: a plain chest disc, a big sun disc and a new seal (REAL v2). | Plain chest and big sun withdrawn at 1:17 AM; the seal kept |
 | 1:17 AM | Final Bible: `real_v1` exactly as is, plus the Cinzel `ISSUE: #1` seal. The glowing chest disc is preferred. | **Locked** |
+| ~1:23 AM | Remove the stray sparkle dot above the T of THOR. | **Locked** (in the master) |
 
 ## 7. Credits proposal (OWNER TO CONFIRM)
 
