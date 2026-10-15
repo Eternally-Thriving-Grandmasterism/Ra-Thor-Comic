@@ -8,18 +8,21 @@
 
 | Item | Value |
 |---|---|
-| Master | `BIBLE_FINAL_master.png` (640 × 720 px) |
-| Source render | `real_v1.jpg` (640 × 720 px), kept unchanged as the provenance file |
-| Difference from the source | (Before ISSUE01-COVER-MARK-1.) Two edits only, checked pixel by pixel. (1) The issue seal (about x 518–633, y 2–117): the rayed-sun seal was removed, the sky patched, and the Cinzel gold-coin `ISSUE: #1` seal placed. (2) A stray diamond sparkle above the T of THOR (about x 370–389, y 11–24) was removed at Sherif's request (2026-10-15, about 1:23 AM ET). Every other pixel is identical to `real_v1.jpg`. ISSUE01-COVER-MARK-1 (2026-10-15) then added the winged-bolt cover mark (§4), the council artifact-sweep fixes and the tabard Easter egg (§8); before/after crops are in `cover_mark/`. |
-| Print file | `RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg`: 2063 × 3150 px at 300 dpi (6.625 × 10.25 in trim plus 0.125 in bleed). The art fills the trim width. The dark storm is extended above and below, and into the side bleed, with sky only (blurred reflected sky, plus sky-plate smoke, sparks and lightning). No figure part (shield, cape, hammer, legs) is ever mirrored into the extension. The art area is a straight upscale of the master. There are no cream bands, nothing is stretched, and nothing is cropped from the sides. |
-| Checksums | `BIBLE_FINAL_SHA256.txt`. Every image file in this folder and in `cover_mark/` verifies with `sha256sum -c --strict`; the pre-COVER-MARK-1 master and print hashes are kept as commented "superseded" lines. `BIBLE_FINAL_compare.jpg` and the four `real/*.py` build scripts are listed only as comment lines, marked "(held outside repo, in the bot store issue01_bible/)". |
+| Master | `BIBLE_FINAL_master.png` (640 × 720 px), the v10.1 titled master (ISSUE01-COVER-V10-1, Sherif's v10 lock 2026-10-15 4:31 AM ET) |
+| Hi-res master | `BIBLE_FINAL_master_hires.png` (2560 × 2880 px): a 4× AI upscale (4x-UltraSharp) of the v10.1 art, tone-locked back to the 640 × 720 master (its downscale matches the master; 100% crops in `wings_v10/hires_check_100pct.jpg`) |
+| Source render | `real_v1.jpg` (640 × 720 px), a Grok Imagine generation by Sherif, kept unchanged as the provenance file. Commercial-use terms for the generation are to be confirmed under Sherif's account. |
+| Later edits | Done in code, not by re-generation: compositing of generated wing, ring and bleed plates (graded, masked and mirror-fitted onto the master), and a 4x-UltraSharp AI upscale with a tone lock for the hi-res master. |
+| Colour | sRGB-embedded RGB in every file. Convert to CMYK (GRACoL2013 or FOGRA39, per the printer) only after the printer is picked; soft-proof the golds; total ink ≤ 300%. |
+| Difference from the source | (Before ISSUE01-COVER-MARK-1.) Two edits only, checked pixel by pixel. (1) The issue seal (about x 518–633, y 2–117): the rayed-sun seal was removed, the sky patched, and the Cinzel gold-coin `ISSUE: #1` seal placed. (2) A stray diamond sparkle above the T of THOR (about x 370–389, y 11–24) was removed at Sherif's request (2026-10-15, about 1:23 AM ET). Every other pixel is identical to `real_v1.jpg`. ISSUE01-COVER-MARK-1 (2026-10-15) then added the winged-bolt cover mark (§4), the council artifact-sweep fixes and the tabard Easter egg (§8); before/after crops are in `cover_mark/`. ISSUE01-COVER-V10-1 (2026-10-15) then replaced the helm wings with forged antique-gold plate wings (the original upswept shape and placement, mirror-symmetric), framed the sun disc with a thick engraved antique-gold ring, rolled the wing highlights off (council nit), and scaled the title band 0.965 so all type and the seal sit inside the 0.25 in safe area; before/after in `wings_v10/`. |
+| Print file | `RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg`: 2063 × 3150 px at 300 dpi (6.625 × 10.25 in trim plus 0.125 in bleed). The art fills the trim width. The storm above and below the art is PAINTED (ISSUE01-COVER-V10-1): generated sky and ground/mist plates (4x-UltraSharp), graded in colour, brightness and grain to the adjacent art rows, with no mirroring and no blur fill. Top: dark storm sky for the masthead, with the art's lightning continued across the seam. Bottom: low mist and embers with faint cracks and no ground line, fading darker toward the bottom bleed; a low-mist veil rises over the last 110 print rows of the art (legs only) so the legs run off into the mist. The side bleed shows plate sky only. No figure part (shield, cape, hammer, legs) is ever mirrored into the extension. Above that veil the art area is the hi-res master resampled to the trim width; there are no cream bands, nothing is stretched, and nothing is cropped from the sides. Guides: `wings_v10/print_v10_1_final_guides.jpg`; old vs new bands: `wings_v10/bleed_edges_compare.jpg`. |
+| Checksums | `BIBLE_FINAL_SHA256.txt`. Every image file in this folder and in `cover_mark/` verifies with `sha256sum -c --strict`; earlier master and print hashes are kept as commented "superseded" lines. `BIBLE_FINAL_compare.jpg`, the four `real/*.py` build scripts and the `v10_1/` build scripts are listed only as comment lines, marked "(held outside repo, in the bot store issue01_bible/)" (the repo has no place for build scripts). |
 | Style | Realistic, highly detailed painted style. Chosen by Sherif on 2026-10-15 at 1:08 AM ET. As relayed: "we have the technology, why make only cartoons". |
 
 ## 2. The hero's look
 
 - **Armor:** obsidian plate with dense antique-gold circuit filigree.
-- **Helm:** a gold great-helm with a T-visor, glowing gold eyes and compact gold wings.
-- **Sun:** a small glowing gold sun disc behind the helm. It is the ONLY sun in the image; there is no sun in the seal or anywhere else.
+- **Helm:** a gold great-helm with a T-visor, glowing gold eyes and forged antique-gold plate wings, mirror-symmetric, upswept.
+- **Sun and ring:** a thick engraved antique-gold ring (no spike, no light-halo) framing the single sun disc behind the helm. The glowing gold disc is the ONLY sun in the image; there is no sun in the seal or anywhere else. The ring is never a second sun and never holds an eye.
 - **Chest:** a GLOWING round gold chest disc, as on the master. Sherif preferred the glow over a plain metal disc (2026-10-15, 1:17 AM ET).
 - **Belt buckle:** a winged scarab with spread eagle wings and a small rose-gold bolt.
 - **Cape:** obsidian with a bronze-gold lining.
@@ -36,8 +39,12 @@
 - **Title:** RA⚡THOR / LIVING THUNDER. There is no ornament, sparkle or diamond over the T (or any other letter) of THOR.
 - **Seal:** the Cinzel gold-coin seal, reading `ISSUE:` over a large `#1`. It has a dark centre and an antique-gold ring, and its gold matches the title's metal.
 - **Cover mark:** the winged bolt (the app-icon rose-gold circuit Z bolt between two swept antique-gold wings, with no disc) is the standard mark, centred in the divider under RA-THOR on every cover. Size: about 1–1.2× the cap height of LIVING THUNDER; each wing at most 3× the bolt width. Reference: `cover_mark/winged_bolt_mark_large.png` (zoom: `cover_mark/mark_final_zoom.jpg`). Chosen by Sherif, 2026-10-15, 1:26 AM ET.
-- **Publisher logo:** the Autonomicity Games Inc. logo goes on the spine and the credits page in title gold. Its shape is trademarked and is never altered; only the colour is changed to gold. Reference: `cover_mark/agi_logo_gold_large.png`. Chosen by Sherif, 2026-10-15, 1:26 AM ET.
-- **Cover frame:** pillar border (2026-10-15) withdrawn; superseded by the fresh full-cover card ISSUE01-COVER-FRESH-1.
+- **Publisher logo:** the Autonomicity Games Inc. (AGi) logo goes on the spine and the credits page ONLY (never on the front cover), in title gold. Its shape is trademarked and is never altered; only the colour is changed to gold. Reference: `cover_mark/agi_logo_gold_large.png`. Chosen by Sherif, 2026-10-15, 1:26 AM ET.
+- **Cover frame:** pillar border (2026-10-15) withdrawn. The fresh full-cover card ISSUE01-COVER-FRESH-1 is itself superseded by Sherif's v10 lock (2026-10-15, 4:31 AM ET): the cover is the v10.1 master, with no frame.
+- **Print and safe area:** the print has painted storm extensions (§1). The title band is scaled 0.965 so all type and the seal sit at least 0.25 in inside the trim.
+- **Barcode:** an empty box about 1.75 × 1.0 in is reserved at the bottom-left, inside the safe area, for when the distributor is known. Never place a fake UPC.
+- **Credits line:** waits on Sherif (§7).
+- **Marks:** use ™ for the pending mark, never ®.
 - **Palette:** obsidian, antique gold and white-hot gold. Rose gold is used ONLY for bolts (the buckle bolt, the hammer-face bolt, the title bolt and the cover-mark bolt).
 - **Avoid:** blue, navy and green, anywhere. The reason is distinctness from an existing third-party robot character with a similar name; per the `03` Derivation rule it is not named here.
 
@@ -63,6 +70,9 @@ Sherif's rulings on 2026-10-14/15. Times are ET. Times marked ~ are reconstructe
 | ~1:09 AM | Asked for three edits on `real_v1`: a plain chest disc, a big sun disc and a new seal (REAL v2). | Plain chest and big sun withdrawn at 1:17 AM; the seal kept |
 | 1:17 AM | Final Bible: `real_v1` exactly as is, plus the Cinzel `ISSUE: #1` seal. The glowing chest disc is preferred. | **Locked** |
 | ~1:23 AM | Remove the stray sparkle dot above the T of THOR. | **Locked** (in the master) |
+| 4:24 AM | "Try the old wings being metallic golden like these new ones" (v10: original upswept wings, forged finish). | Applied |
+| 4:31 AM | "Seems best, lock this in for now, and have the Councils review..." (v10 lock; supersedes ISSUE01-COVER-FRESH-1). | **Locked** |
+| 4:34 AM | "Yes. Execute properly all" (v10.1 prep: highlight nit, hi-res, safe-area title, sRGB, painted bleed). | Applied in ISSUE01-COVER-V10-1 |
 
 ## 7. Credits proposal (OWNER TO CONFIRM)
 
@@ -98,10 +108,10 @@ Before/after crops at 4×: `cover_mark/before_after_1.jpg` … `before_after_6.j
 
 ## 9. Conflicts with standing canon (deferred to a follow-up card per 8 (d); not edited here)
 
-- **`00` rule 1** ("kite shield with an emerald eye-seal", "winged halo ring") and **`09`** (the Mercy-Security seal "lights emerald") conflict with sections 2–4: the tower shield, the gold eye, the small sun disc, and no green. Proposed amendment: follow this Bible.
+- **`00` rule 1** ("kite shield with an emerald eye-seal", "winged halo ring") and **`09`** (the Mercy-Security seal "lights emerald") conflict with sections 2–4: the tower shield, the gold eye, the sun disc in its engraved gold ring, and no green. Proposed amendment: follow this Bible.
 - **`ISSUE_01_PRODUCTION.md` rulings superseded by this Bible:**
   - C2: cream border, bottom title band, filigree frame. The master has no border and the title is at the top.
-  - C6: a slim EMPTY halo ring. Now a small glowing sun disc.
+  - C6: a slim EMPTY halo ring. Now a thick engraved antique-gold ring framing the single glowing sun disc.
   - C10, C13 and ruling 26: a plain chest disc with no rays. Now a glowing disc.
   - C11: a winged sun-disc buckle. Now a winged scarab with spread eagle wings and a rose-gold bolt.
   - Ruling 14 and the hammer lock: the hammer's "digital eye" and "crystal spike". Now no eye ever, and a glowing gold spike pommel.

@@ -1,8 +1,11 @@
-# 2026-10-15 2:43 AM ET: ISSUE01-COVER-MARK-1. Master and print replaced with the cover-mark + artifact-sweep + tabard v5 version
-# (winged bolt approved by Sherif 1:26 AM ET; tabard v5 'Excellent!' 2:10 AM ET). Filenames unchanged. cover_mark/ added.
+# 2026-10-15 4:58 AM ET: ISSUE01-COVER-V10-1. Master and print replaced with the v10.1 version (forged antique-gold upswept
+# wings + thick engraved ring, Sherif lock 4:31 AM ET; Wild highlight nit applied; title band scaled 0.965 into the 0.25in safe area;
+# painted storm bleed extensions). BIBLE_FINAL_master_hires.png (2560x2880, 4x-UltraSharp + tone lock) and wings_v10/ added.
+# All images are sRGB-ICC-tagged RGB. Filenames unchanged.
 # Verify from this folder: sha256sum -c --strict BIBLE_FINAL_SHA256.txt
-5d1ac9cc4beb3ddc41224cd0db89a6eece64e63df190a1e01921a45292558ecf  BIBLE_FINAL_master.png
-2f92504c03bb70f547561ef756782dd6a0bc2790b21c97b533d72130e9d3a3b6  RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg
+8bdd71906c180cf7e58b76970312e848763225e1bb565cd56ce0471ac97391fd  BIBLE_FINAL_master.png
+1e83aa5de6ca28189ed663608fc6039c6a7edbb84838535b23c062a2e300f1fe  BIBLE_FINAL_master_hires.png
+71b8d7c7a491fc256b1ed93bd167bb7ef93fc2778e2c9ae109d4b26fefe6bc3d  RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg
 f3c49896d6bc54bf143e2e90f75bc03d458b7249a2950bd59f3c464b1d5d9849  real_v1.jpg
 a84e9fe1b9619f2739bf8d2b38ef4e54945aaadd256231aac7d7d1234d4e3040  cover_mark/winged_bolt_mark_large.png
 c24ed13d93289c01843c03e0035879a191ee9aa9dc2f421ce37d0b89bb2929c8  cover_mark/agi_logo_gold_large.png
@@ -15,7 +18,15 @@ b0f46b67e6cbc98e4e4d269292e2fa4dc9bd3a4461648b82cb86ca200fb22c77  cover_mark/bef
 a01fe828c3a39f32e44ac1c7c2cdb88d33a19129d921419e61dcb694006c22ba  cover_mark/before_after_6.jpg
 f9edb390d04addf92d2e5a75e41eabb610cecb9db6e1268c260f96fa0ad73f35  cover_mark/cleanup_compare.jpg
 90d1ef887b38d92070e48b2f9c3a03546f174334ee1c551b59eafd9d2d8a3425  cover_mark/mark_final_zoom.jpg
+84cf9938c6609380db8530b93a9a0c297ee8d77a65ee72168ef875deb8fb8f5c  wings_v10/head_crop2x_before_v10_v10_1.jpg
+2201b727d48c0974c03e59776fad321a2debac40048c698fe8e9e3a019d31eb9  wings_v10/compare_master_before_after_v10_1.jpg
+76fef3d1d112559dc1967edce9d2580840259dab2b8ecf10625a2f122fd7a206  wings_v10/hires_check_100pct.jpg
+8722db15981d524bba2365df7227cb90fb6718c7fc53bf8b487fd702d13d89e1  wings_v10/print_v10_1_final_guides.jpg
+12417a3d99d99f031426800ddd5031882ed631f24437ca7290e508c9f56f815a  wings_v10/bleed_edges_compare.jpg
 #
+# superseded by ISSUE01-COVER-V10-1 (2026-10-15 4:58 AM ET; ISSUE01-COVER-MARK-1 versions, main 3db790e):
+# 5d1ac9cc4beb3ddc41224cd0db89a6eece64e63df190a1e01921a45292558ecf  BIBLE_FINAL_master.png  (superseded)
+# 2f92504c03bb70f547561ef756782dd6a0bc2790b21c97b533d72130e9d3a3b6  RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg  (superseded)
 # superseded (pre-COVER-MARK-1, 2026-10-15 1:23 AM ET):
 # 3a575283f4a1c76785cef38f54de99f4073b57983345679606e9dd34a2ba8275  BIBLE_FINAL_master.png  (superseded)
 # b237acb54cf47de30a68d8f63656876b6c5daf1ffe5656b6c901cc1c4137ed8d  RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg  (superseded)
@@ -30,3 +41,15 @@ f9edb390d04addf92d2e5a75e41eabb610cecb9db6e1268c260f96fa0ad73f35  cover_mark/cle
 # 6fd4b58c36f0bbc68da98e3d0ec38201ceb8738f0720afe61675837cdaa13023  real/build_real_v2.py  (held outside repo, in the bot store issue01_bible/)
 # faa9d78c505bc788162339c758f5ad7b4eb7c606eb9107d73f53e8ee62bafbb8  real/print_bible_final.py  (held outside repo, in the bot store issue01_bible/)
 # ef2340f0f9db5295c860c0e3885e804c246fe5b6318e74e9e16d9513234583ec  real/print_real_v2.py  (held outside repo, in the bot store issue01_bible/)
+#
+# held outside repo (new in ISSUE01-COVER-V10-1; build scripts, the repo has no place for code):
+# 5c762634ea46a9c4f9a4ca88c220b9cd32b8046a8fe37760aae62bddbac7ca8b  v10_1/build_wings_v10.py  (held outside repo, in the bot store issue01_bible/)
+# 05229c478f57fb0f76378f9b3cecbd83cc9a35f8be5d7555536c60cab218fb8b  v10_1/build_wings_v10_1.py  (held outside repo, in the bot store issue01_bible/)
+# 53853d83344b8e8f22c54c49b5118d9c5e336214838c4d25acd56135a72b866a  v10_1/consistency.py  (held outside repo, in the bot store issue01_bible/)
+# 451069cd7e85a0c7c62de8ab380e995e0076d5b55005313d04ca1a063aecbf31  v10_1/final_sheets.py  (held outside repo, in the bot store issue01_bible/)
+# aff5ff1d509f0b9da7146b6150eda2ef509b23a205d55f2a70a32b2aef318fee  v10_1/paint_bleed.py  (held outside repo, in the bot store issue01_bible/)
+# 07b94572ddb0f97adc92b656d266ae353632e889f691799bed548551650d35cf  v10_1/print_hires.py  (held outside repo, in the bot store issue01_bible/)
+# 986e1ac7865cb0cc22ee111ef09b2867f9ac54d39023df7b68b8a704f860ac1c  v10_1/print_v10_1_safe_preview.jpg  (held outside repo, in the bot store issue01_bible/)
+# 6163add790750271ebdcb4435b158d7cedfe8de3ddeba5250704d992c8d00ca5  v10_1/srgb.py  (held outside repo, in the bot store issue01_bible/)
+# 5f75aa04168be724a53a9f1d8f209b947ece0a19578526f3eee1e7ee8c2bd213  v10_1/title_safe.py  (held outside repo, in the bot store issue01_bible/)
+# b60940af824ad03fb3c2bc89c59167a9c2fbde8a5c5e5f34658558a214daaa94  v10_1/upscale.py  (held outside repo, in the bot store issue01_bible/)
