@@ -12,6 +12,7 @@
 | `[NAME: Sherif to confirm]` | A person's credited name |
 | `[YEAR: Sherif to confirm]` | Copyright year |
 | `[DATE: Sherif to confirm]` | First publication date |
+| `[TM LINE: Sherif to confirm]` | A whole line printed only if Sherif confirms it; otherwise removed |
 
 **Copyright holder and publisher: AlphaProMega Media Inc.** (Sherif confirmed, 2026-10-14). This matches `LICENSE` L3 ("Copyright © 2026 AlphaProMega Media Inc. (Canadian corporation)"), `README.md` L3 and the `ISSUE_01_PRODUCTION.md` §5.2 rights line, so no file disagrees.
 
@@ -54,6 +55,8 @@ First published [DATE: Sherif to confirm] by AlphaProMega Media Inc.
 
 Copyright © [YEAR: Sherif to confirm] AlphaProMega Media Inc. All rights reserved.
 
+[TM LINE: Sherif to confirm] Ra-Thor is a trademark of Autonomicity Games Inc., used with permission.
+
 Ra-Thor and all characters, devices and settings in this issue are the property of AlphaProMega Media Inc.
 
 No part of this publication may be copied, adapted, used to train any model, or reproduced in any form without written permission from the copyright holder, except for brief excerpts in reviews.
@@ -68,10 +71,12 @@ Sources:
 - "copy, adapt, train on" mirrors `LICENSE` L9–L10 ("No license is granted to copy, adapt, train on, merchandise, or produce derivative works except by written agreement."). The mirror is proposed; `LICENSE` is untouched.
 - The fiction line restates `00_FIDELITY_PROTOCOL.md` rule 5 ("They may not claim certification, affiliation, or legal authority.") and the `README.md` council decision ("Label them fiction.").
 - The contact line is `README.md` L6.
+- The trademark line is **PROPOSED for Sherif to confirm**. It follows his OWNER RULING of 2026-10-14, 9:12 PM ET (`ISSUE_01_PRODUCTION.md` §0), as relayed: AlphaProMega Media Inc. has a partnership with Autonomicity Games Inc. and permission to use Autonomicity Games Inc.'s Ra-Thor trademark. The same ruling puts a small Autonomicity Games Inc. logo on Ra-Thor's belt buckle as a hidden Easter egg (reference: <https://acitygames.com/images/logo-dark-512.webp>; D24).
+- If the trademark line goes in, the next line ("Ra-Thor and all characters … are the property of AlphaProMega Media Inc.") reads against it. One option for Sherif: "All characters, devices and settings in this issue are the property of AlphaProMega Media Inc." Not changed here; the wording of both lines is a legal call.
 
 Kept off on purpose:
 
-- **No ™ or ® marks.** No file records a trademark filing; claiming one is a legal call for Sherif.
+- **No ™ or ® symbols.** The proposed trademark line names the mark in words only. Whether to add a symbol, and which one, is a legal call for Sherif.
 - **No ISBN line.** KDP does not require an ISBN for eBooks (`STORE_LISTING_AND_EXPORT.md` §1).
 - **No Patreon or store link.** KDP disallows content that redirects readers elsewhere for the full work or exists mainly to solicit (`STORE_LISTING_AND_EXPORT.md` §1).
 - **No xAI independence line.** Any xAI mark is a package Reject on credits (`ISSUE_01_PRODUCTION.md` §8).
@@ -81,7 +86,7 @@ Kept off on purpose:
 
 1. Credited roles and names (D8).
 2. Copyright year and first publication date.
-3. Trademark marking, if any.
+3. Trademark line: confirm or remove `[TM LINE: Sherif to confirm]` and the matching property line (§3); symbol, if any.
 4. Back cover: still GAP (`ISSUE_01_PRODUCTION.md` §4).
 
 Closed: copyright holder and publisher, AlphaProMega Media Inc. (Sherif confirmed, 2026-10-14; §1).

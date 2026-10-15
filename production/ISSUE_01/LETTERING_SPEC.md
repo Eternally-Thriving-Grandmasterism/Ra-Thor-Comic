@@ -8,7 +8,7 @@
 ## 1. Canon this spec must keep
 
 - White oval bubbles, hard black outline, pointed tail (`04_VISUAL_CANON.md` L43; Q11 white fill).
-- Tail aimed at the visor slit even though the mouth is hidden (`01_VISUAL_STYLE_GUIDE.md` L18).
+- Tail aimed at the visor slit even though the mouth is hidden (`01_VISUAL_STYLE_GUIDE.md` L18). Under the 8:57 PM owner ruling of 2026-10-14 the helm has a T-visor with two glowing eyes; wherever this file says "visor slit", read the T-visor's eye line (`ISSUE_01_PRODUCTION.md` §6 Style lock).
 - Captions small, bottom-left, Quiet Board dossier voice (`01_VISUAL_STYLE_GUIDE.md` L19).
 - One bubble per panel; silent panels carry no text (`00_FIDELITY_PROTOCOL.md` rule 3; council ruling 2026-10-14).
 - Bold hand-lettering; all caps (R1, R2) or mixed-case italic (R3, R6) (`04_VISUAL_CANON.md` L43). Which one is unruled (`ISSUE_01_PRODUCTION.md` §11 D2). Until it is ruled, letter the file's case.
