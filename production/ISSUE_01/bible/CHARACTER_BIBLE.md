@@ -10,9 +10,9 @@
 |---|---|
 | Master | `BIBLE_FINAL_master.png` (640 × 720 px) |
 | Source render | `real_v1.jpg` (640 × 720 px), kept unchanged as the provenance file |
-| Difference from the source | Two edits only, checked pixel by pixel. (1) The issue seal (about x 518–633, y 2–117): the rayed-sun seal was removed, the sky patched, and the Cinzel gold-coin `ISSUE: #1` seal placed. (2) A stray diamond sparkle above the T of THOR (about x 370–389, y 11–24) was removed at Sherif's request (2026-10-15, about 1:23 AM ET). Every other pixel is identical to `real_v1.jpg`. |
-| Print file | `RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg`: 2063 × 3150 px at 300 dpi (6.625 × 10.25 in trim plus 0.125 in bleed). The art fills the trim width. The dark storm is extended above and below by mirroring, blurring and darkening. There are no cream bands, nothing is stretched, and nothing is cropped from the sides. |
-| Checksums | `BIBLE_FINAL_SHA256.txt`. The three image files in this folder verify with `sha256sum -c` (also with `--strict`). `BIBLE_FINAL_compare.jpg` and the four `real/*.py` build scripts are listed only as comment lines, marked "(held outside repo, in the bot store issue01_bible/)". |
+| Difference from the source | (Before ISSUE01-COVER-MARK-1.) Two edits only, checked pixel by pixel. (1) The issue seal (about x 518–633, y 2–117): the rayed-sun seal was removed, the sky patched, and the Cinzel gold-coin `ISSUE: #1` seal placed. (2) A stray diamond sparkle above the T of THOR (about x 370–389, y 11–24) was removed at Sherif's request (2026-10-15, about 1:23 AM ET). Every other pixel is identical to `real_v1.jpg`. ISSUE01-COVER-MARK-1 (2026-10-15) then added the winged-bolt cover mark (§4), the council artifact-sweep fixes and the tabard Easter egg (§8); before/after crops are in `cover_mark/`. |
+| Print file | `RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg`: 2063 × 3150 px at 300 dpi (6.625 × 10.25 in trim plus 0.125 in bleed). The art fills the trim width. The dark storm is extended above and below, and into the side bleed, with sky only (blurred reflected sky, plus sky-plate smoke, sparks and lightning). No figure part (shield, cape, hammer, legs) is ever mirrored into the extension. The art area is a straight upscale of the master. There are no cream bands, nothing is stretched, and nothing is cropped from the sides. |
+| Checksums | `BIBLE_FINAL_SHA256.txt`. Every image file in this folder and in `cover_mark/` verifies with `sha256sum -c --strict`; the pre-COVER-MARK-1 master and print hashes are kept as commented "superseded" lines. `BIBLE_FINAL_compare.jpg` and the four `real/*.py` build scripts are listed only as comment lines, marked "(held outside repo, in the bot store issue01_bible/)". |
 | Style | Realistic, highly detailed painted style. Chosen by Sherif on 2026-10-15 at 1:08 AM ET. As relayed: "we have the technology, why make only cartoons". |
 
 ## 2. The hero's look
@@ -35,7 +35,10 @@
 
 - **Title:** RA⚡THOR / LIVING THUNDER. There is no ornament, sparkle or diamond over the T (or any other letter) of THOR.
 - **Seal:** the Cinzel gold-coin seal, reading `ISSUE:` over a large `#1`. It has a dark centre and an antique-gold ring, and its gold matches the title's metal.
-- **Palette:** obsidian, antique gold and white-hot gold. Rose gold is used ONLY for bolts (the buckle bolt, the hammer-face bolt and the title bolt).
+- **Cover mark:** the winged bolt (the app-icon rose-gold circuit Z bolt between two swept antique-gold wings, with no disc) is the standard mark, centred in the divider under RA-THOR on every cover. Size: about 1–1.2× the cap height of LIVING THUNDER; each wing at most 3× the bolt width. Reference: `cover_mark/winged_bolt_mark_large.png` (zoom: `cover_mark/mark_final_zoom.jpg`). Chosen by Sherif, 2026-10-15, 1:26 AM ET.
+- **Publisher logo:** the Autonomicity Games Inc. logo goes on the spine and the credits page in title gold. Its shape is trademarked and is never altered; only the colour is changed to gold. Reference: `cover_mark/agi_logo_gold_large.png`. Chosen by Sherif, 2026-10-15, 1:26 AM ET.
+- **Cover frame:** pillar border (2026-10-15) withdrawn; superseded by the fresh full-cover card ISSUE01-COVER-FRESH-1.
+- **Palette:** obsidian, antique gold and white-hot gold. Rose gold is used ONLY for bolts (the buckle bolt, the hammer-face bolt, the title bolt and the cover-mark bolt).
 - **Avoid:** blue, navy and green, anywhere. The reason is distinctness from an existing third-party robot character with a similar name; per the `03` Derivation rule it is not named here.
 
 ## 5. The rule
@@ -75,6 +78,23 @@ Wild council AMEND ruling on PR #87, as relayed:
 - **(b) Shoulder seal.** The shoulder seal is dropped; the master shows none. This supersedes the 9:22 PM ruling (and D29's reading).
 - **(c) Images in the repo.** Images are allowed in the repo ONLY under `production/ISSUE_01/bible/`, as an exception to `04`'s "Images are not stored in this repo" header (D27). The v17 design reference (`production/ISSUE_01/art/cover_v17_reference.jpg`) was removed as superseded.
 - **(d) Deferred.** Fixing the conflicts in `00` rule 1, `09` and `ISSUE_01_PRODUCTION.md` (section 9) is deferred to a follow-up card.
+
+### Artifact-sweep rulings (council, applied in ISSUE01-COVER-MARK-1)
+
+Before/after crops at 4×: `cover_mark/before_after_1.jpg` … `before_after_6.jpg`; whole-cover comparison: `cover_mark/cleanup_compare.jpg`.
+
+- **Shield face:** clean. The gold Eye of Horus is its ONLY symbol. The trident spike and the glyph ladder are removed (`before_after_2`).
+- **Belt band:** shows plain lattice, with no symbols (`before_after_4`).
+- **Scarab:** carries a small rose-gold bolt (`before_after_5`).
+- **Hammer face:** its bolt is rose gold (`before_after_6`).
+- **Shield rim and tabard:** see the Easter egg below (`before_after_1`, `before_after_3`).
+
+### Easter egg: tabard and shield-rim cipher
+
+- **Tabard:** 8 icons: sun, Z-bolt, hex lattice node, stepped hammer, bar, wheat, open palm, sprout. Plus runes spelling **RATHOR**, with card-suit filler (hearts, diamonds, spades, clubs). All in lustrous gold, bending with the folds of the cloth. TOLC was dropped at this size (tabard v5, Sherif "Excellent!", 2026-10-15, 2:10 AM ET).
+- **Shield rim:** reads **[bolt] P O W R U S H [bolt]** in the same cipher.
+- **Decoder key:** `cover_mark/runes_key.png`. It is an invented angular rune alphabet in which every rune shares a centre stave. Its glyphs map, left to right, to R, A, T, H, O, L, C, P, W, U, S, and "." is the separator. The key lives in this Bible ONLY. It is never printed on the cover.
+- **Off-limits on the tabard, rim and belt:** the Eye of Horus (it appears on the shield face only), logos, readable Latin text, ™ or ® marks, and blue, navy or green.
 
 ## 9. Conflicts with standing canon (deferred to a follow-up card per 8 (d); not edited here)
 
