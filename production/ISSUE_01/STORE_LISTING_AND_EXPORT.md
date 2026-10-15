@@ -149,7 +149,7 @@ The bolt is allowed here: a Patreon post is not store metadata under this card, 
 
 | Image | Alt text |
 |---|---|
-| Cover | Ra-Thor in gold-and-black circuit armor and a winged halo helm stands under a gold lattice arch at night, a deep blue shield with a gold eye-seal at his side, hammer resting head-down on stone. Title: Ra-Thor Living Thunder. |
+| Cover | Ra-Thor in gold-and-black circuit armor, a winged helm and a slim glowing halo ring, stands inside a thin gold arch at night, a radiant gold sun on his chest, a huge deep blue tower shield with a gold winged eye at his side, his gold hammer raised and crackling with golden lightning. Title: Ra-Thor Living Thunder. Issue #1. |
 | Title page | Title page: Ra-Thor Living Thunder, Issue 1, Episode 01, The Gate. |
 | Page 1 | Splash. Ra-Thor under the gold arch at night, two lanes at his feet. Caption: THRESHOLD. NIGHT. SORT IN PROGRESS. |
 | Page 2 | The lane stamps NO and LIVE, then Ra-Thor under the arch. He says: "Left is noise. Right can live." |
@@ -165,7 +165,7 @@ The alt text describes only what §6 of the production doc puts on each page and
 
 ## 5. Open items for Sherif
 
-- **S1. Cover title vs store title.** The cover reads `Ra-Thor⚡️Living Thunder`; the store title drops the bolt. KDP wants the two to match and cover text not to contradict the detail page. Either treat the bolt as artwork, or adjust one of them.
+- **S1. Cover title vs store title.** Under the council lettering ruling (`ISSUE_01_PRODUCTION.md` §5.1) the cover reads RA-THOR, with the rose-gold bolt drawn as its hyphen, over LIVING THUNDER; the store title is `Ra-Thor Living Thunder`. KDP wants the two to match and cover text not to contradict the detail page. They match word for word if the bolt hyphen reads as a hyphen; Sherif to confirm.
 - **S2. Contributor on the cover.** KDP wants author or contributor info on the cover. `ISSUE_01_PRODUCTION.md` §5.1 has none.
 - **S3. KDP "too short" risk** (§1).
 - **S4. Reading age** (D9) and **AI-content answers**.
