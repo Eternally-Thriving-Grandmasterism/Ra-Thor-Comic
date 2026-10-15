@@ -12,7 +12,7 @@
 | Source render | `real_v1.jpg` (640 × 720 px), kept unchanged as the provenance file |
 | Difference from the source | Two edits only, checked pixel by pixel. (1) The issue seal (about x 518–633, y 2–117): the rayed-sun seal was removed, the sky patched, and the Cinzel gold-coin `ISSUE: #1` seal placed. (2) A stray diamond sparkle above the T of THOR (about x 370–389, y 11–24) was removed at Sherif's request (2026-10-15, about 1:23 AM ET). Every other pixel is identical to `real_v1.jpg`. |
 | Print file | `RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg`: 2063 × 3150 px at 300 dpi (6.625 × 10.25 in trim plus 0.125 in bleed). The art fills the trim width. The dark storm is extended above and below by mirroring, blurring and darkening. There are no cream bands, nothing is stretched, and nothing is cropped from the sides. |
-| Checksums | `BIBLE_FINAL_SHA256.txt`. Its entries for the three image files in this folder verify with `sha256sum -c`; the entries for `BIBLE_FINAL_compare.jpg` and the four `real/` build scripts refer to production-box files that are not in this repo. |
+| Checksums | `BIBLE_FINAL_SHA256.txt`. The three image files in this folder verify with `sha256sum -c` (also with `--strict`). `BIBLE_FINAL_compare.jpg` and the four `real/*.py` build scripts are listed only as comment lines, marked "(held outside repo, in the bot store issue01_bible/)". |
 | Style | Realistic, highly detailed painted style. Chosen by Sherif on 2026-10-15 at 1:08 AM ET. As relayed: "we have the technology, why make only cartoons". |
 
 ## 2. The hero's look
@@ -67,16 +67,24 @@ Sherif's rulings on 2026-10-14/15. Times are ET. Times marked ~ are reconstructe
 
 This is a proposal only. `CREDITS_AND_INDICIA.md` keeps its `[TM LINE: Sherif to confirm]` placeholder until Sherif confirms the exact wording.
 
-## 8. Conflicts with standing canon (to ratify; not edited here)
+## 8. Council rulings 2026-10-15 ~1:25 AM ET
+
+Wild council AMEND ruling on PR #87, as relayed:
+
+- **(a) Panel style.** Interior panels use the realistic painted style, per Sherif's 1:08 AM ruling, with clean, readable lettering. This supersedes the 8:35 PM inked-panel ruling (ruling 1) and `04` Q13 ("painted for covers only").
+- **(b) Shoulder seal.** The shoulder seal is dropped; the master shows none. This supersedes the 9:22 PM ruling (and D29's reading).
+- **(c) Images in the repo.** Images are allowed in the repo ONLY under `production/ISSUE_01/bible/`, as an exception to `04`'s "Images are not stored in this repo" header (D27). The v17 design reference (`production/ISSUE_01/art/cover_v17_reference.jpg`) was removed as superseded.
+- **(d) Deferred.** Fixing the conflicts in `00` rule 1, `09` and `ISSUE_01_PRODUCTION.md` (section 9) is deferred to a follow-up card.
+
+## 9. Conflicts with standing canon (deferred to a follow-up card per 8 (d); not edited here)
 
 - **`00` rule 1** ("kite shield with an emerald eye-seal", "winged halo ring") and **`09`** (the Mercy-Security seal "lights emerald") conflict with sections 2–4: the tower shield, the gold eye, the small sun disc, and no green. Proposed amendment: follow this Bible.
-- **`ISSUE_01_PRODUCTION.md` cover rulings superseded by this Bible:**
+- **`ISSUE_01_PRODUCTION.md` rulings superseded by this Bible:**
   - C2: cream border, bottom title band, filigree frame. The master has no border and the title is at the top.
   - C6: a slim EMPTY halo ring. Now a small glowing sun disc.
   - C10, C13 and ruling 26: a plain chest disc with no rays. Now a glowing disc.
   - C11: a winged sun-disc buckle. Now a winged scarab with spread eagle wings and a rose-gold bolt.
   - Ruling 14 and the hammer lock: the hammer's "digital eye" and "crystal spike". Now no eye ever, and a glowing gold spike pommel.
+  - Ruling 1, `04` Q13 and every "inked panel" or "bold ink, hatching" line in the panel prompts, `[style]` and the checklist: now painted, per 8 (a).
+  - The 9:22 PM shoulder seal, D29 and every shoulder-seal line in the locks, `[guards]` and the checklist: now dropped, per 8 (b).
   - Any remaining lapis, blue or emerald wording.
-- **Open — panel rendering style:** ruling 1 (8:35 PM, inked panels) and `04` Q13 (painted for covers only) vs the 1:08 AM painted-style ruling. Sherif to confirm whether interiors are now painted. Until then, panels follow this Bible's design whatever the renderer style.
-- **Open — shoulder seal** (9:22 PM ruling, D29): the master shows no pauldron seal and sections 2–4 do not call for one. Sherif to confirm whether it stays.
-- **Open — images in the repo** (D27): `04`'s header says images are not stored in this repo; this folder adds four binaries.
