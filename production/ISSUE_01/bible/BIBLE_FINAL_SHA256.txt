@@ -1,9 +1,30 @@
-# 2026-10-15 6:36 PM ET: ISSUE01-COVER-V17. Sherif chose a NEW cover render (Grok Imagine): the eye-of-source-light sigil replaces the
-# halo ring and sun orb; golden mercy thunder from the hammer. ONE true render, untouched: same pipeline (4x-UltraSharp + tone lock, one uniform
-# scale to 2063x3150 @ 300 dpi, 18/19 px centre crop, embedded sRGB). ONE separate type layer (v17/type_layer_final_v17.png) = the V16 clean
-# front (title band + TM, silver coin, silver-gold bolt, gold letters, title shadow), title at 0.70 scale. Print filename unchanged.
+# 2026-10-15 7:05 PM ET: ISSUE01-COVER-V18. Sherif chose a NEW cover render (Grok Imagine): a golden Eye of Horus (Wedjat) sigil above the
+# helm (replacing V17's almond eye-of-source-light) and a gold Norse Vegvisir on the shield (superseding the shield Eye of Horus). ONE true
+# render, untouched: same pipeline (4x-UltraSharp + tone lock, one uniform scale to 2063x3150 @ 300 dpi, 18/19 px centre crop, embedded sRGB).
+# ONE separate type layer (v18/type_layer_final_v18.png) = the V17 clean front, title at 0.70. Print filename unchanged.
 # Verify from this folder: sha256sum -c --strict BIBLE_FINAL_SHA256.txt
-e64a9a09e5636b68b585837e589f00c8c209ebba98d892aa9ad167e070f2619f  RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg
+f80d0e2616124b7ea210d97b8fdd54abf41bc1a9229e893f07f74ea6172f5bbd  RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg
+0241aeea5a5645f095835e8770271936814ebcd56b8d541ec3409088fd5b7329  RaThor_Issue01_Cover_V18_source_GrokImagine_1152x1728.jpg
+f10bdbec94f6a7547210f5479c77d887a423116ec3c2bfaa3c8294ac1f1ef08b  RaThor_Issue01_Cover_V18_art_notext_4x_4608x6912.png
+f2d295e70ae82cada6f675cd12be6e164b80ecafedfa96d94e91458b9128007a  v18/type_layer_final_v18.png
+c90ed1c172239aee1f01c0cc940e3ba0ca1d1c763084355c6097af931f455e80  v18/title_layer_v18.png
+59d520fb256dc09dff7f5bfdbd385d663e36bb362e6396fd8834d5fdea2d22b4  v18/print_final_guides.jpg
+7709a63553ae9ac5f6b306cafe83e6e9714807eabbc5c267b907213eb4d783ac  v18/preview_620.jpg
+43ff552da6e5640725ef25a492204287fe4fbb392cd32f61266c9013f8363e19  v18/compare_v17_v18_620.jpg
+001be782a4e1fd6c65d041405f898220546be78b50611d740097b58e0ee07ee8  v18/crops/top_100.jpg
+59372a945b39f4b8dd1bca2f1e05b1d5d19f2cd5b2c2374bc910c51e5a80abb3  v18/crops/top_trim_lines_100.jpg
+a701bd7b9195d9d5881ee1354002532b942f3641eacdb85ce3ca1a2b3e5466ba  v18/crops/title_100.jpg
+6ea63a32c268f418849949bccd4bf9e1a72dfa6f8feb6cb67330b65001af8eac  v18/crops/coin_100.jpg
+5292f00342324350dce79a72f4a2103c50466363407dcac0123382576e2a6664  v18/crops/face_eye_100.jpg
+d78e8ceada6ca20bb83f38800247b33fb9794b0c98522ae7b305a686c8a5c12e  v18/crops/shield_vegvisir_100.jpg
+d8ff4b81fb31ccd81fa58bbd4e7bf46b1d4628b0b648de7e4a798aef305edce0  v18/crops/hammer_100.jpg
+d3b31e0b57f20a52b05c5887385f5638fb162376ea81d097418a4b6ff71777f0  v18/crops/bottom_100.jpg
+2c01c44eff0994eed9e6f22b5fb7101303528974e60fb8cf7e7e62bb37c464bf  v18/build_v18.py
+25a037fd428d32398c34488764c1e3be3775c13d5677673848ee29fed628dc66  v18/build_final_v18.py
+b60940af824ad03fb3c2bc89c59167a9c2fbde8a5c5e5f34658558a214daaa94  v18/upscale.py
+53853d83344b8e8f22c54c49b5118d9c5e336214838c4d25acd56135a72b866a  v18/consistency.py
+#
+# retained unchanged for history (superseded by ISSUE01-COVER-V18; NOT the cover since 2026-10-15 7:05 PM ET):
 49d8f5f233712552c09b90ae51ae9eef815af5b545522e3327ae46cfd524c236  RaThor_Issue01_Cover_V17_source_GrokImagine_1152x1728.jpg
 85efb47d376f82b6d9d7989dfffc4561d8418b9ebd74a2d97c791abc4bcd72a3  RaThor_Issue01_Cover_V17_art_notext_4x_4608x6912.png
 f2d295e70ae82cada6f675cd12be6e164b80ecafedfa96d94e91458b9128007a  v17/type_layer_final_v17.png
@@ -71,6 +92,8 @@ a01fe828c3a39f32e44ac1c7c2cdb88d33a19129d921419e61dcb694006c22ba  cover_mark/bef
 f9edb390d04addf92d2e5a75e41eabb610cecb9db6e1268c260f96fa0ad73f35  cover_mark/cleanup_compare.jpg
 90d1ef887b38d92070e48b2f9c3a03546f174334ee1c551b59eafd9d2d8a3425  cover_mark/mark_final_zoom.jpg
 #
+# superseded by ISSUE01-COVER-V18 (2026-10-15 7:05 PM ET):
+# e64a9a09e5636b68b585837e589f00c8c209ebba98d892aa9ad167e070f2619f  RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg  (superseded: ISSUE01-COVER-V17 final print, eye-of-source-light render, clean front, title 0.70)
 # superseded by ISSUE01-COVER-V17 (2026-10-15 6:36 PM ET):
 # a31e5820dbc664824301303546ecc0243708867e040abbb619e903d00b37de2e  RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg  (superseded: ISSUE01-COVER-V16 final print, white-lightning render, clean front)
 # superseded within ISSUE01-COVER-V16 by the 5:03 PM ET front trim:
