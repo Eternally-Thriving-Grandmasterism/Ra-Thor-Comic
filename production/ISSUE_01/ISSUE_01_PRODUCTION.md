@@ -15,6 +15,7 @@ This is the print and digital package for issue #1: cover prompt, title page, pa
 - **Series title on packaging only** (council ruling, PR #27; `seasons/S2_SEASON_SHEET.md` §5 item 8): cover, intro/outro title card and credits. Never on a story page, panel or prop. In this package the full title `Ra-Thor⚡️Living Thunder` is placed on packaging only: cover, title page and credits.
 - **Production rules** (`production/README.md` rules 1–6): restate, never author; every line traceable; gaps flagged, never filled; prop counts in prompts only.
 - **Painted renders for covers only; panels are inked** (`04_VISUAL_CANON.md` Q13).
+- **Panel style and Ra-Thor design (Sherif ruling, 2026-10-14, 8:35 PM ET):** quoted in §6 Style lock. How this package applies it is **PROPOSED CANON — pending council ratification**.
 
 ## 1. Tags used in this file
 
@@ -84,6 +85,8 @@ Painted render, allowed for covers only (`04` Q13). Generate the image with **no
 
 > Painted full render, comic book cover art, vertical portrait. Ra-Thor full figure, low angle, planted under a gold lattice arch over dark stone at night. Gold-and-black circuit-plate armor, dense right-angle gold traces over black recesses, layered squared pauldrons, a small hawk-shaped seal on the shoulder. Winged-halo closed helm: gold feathered wings sweeping back from the helm, a gold halo ring above it etched with circuit pattern. Narrow visor slit glowing warm gold. Black cape with gold trim. Gold kite shield with a gold rim held upright at his side, its face to the viewer, a glowing emerald Egyptian-style eye-seal in circuit inlay at its centre. Thunder hammer head-down on the stone beside him, small crack and gold sparks at contact, his hand resting on the haft top. Two lanes at his feet, the left stamped NO, the right stamped LIVE. Backlight and rim light, obsidian mass, gold edges, the visor slit the brightest small point. Palette gold, obsidian, emerald, one electric accent. Clear dark negative space across the top third for a title and a band at the bottom for an issue line. No lettering, no words, no logo, no watermark, no celebrity face.
 
+Then add `[guards]` (§6 Style lock). The cover takes no `[style]` line: it stays painted (`04` Q13), and whether it should move to the post's inked look is §11, D14. Render portrait at 1600 × 2560 px or more.
+
 Sources: figure and armor (`04`, Ra-Thor as drawn; Q1–Q6), shoulder hawk seal (`09`, White-Hat Mercy-Security), set (`10`, The Threshold; `09`, The Gate), lighting and pose (`03`, Night Watch silhouette). The NO and LIVE stamps are set text, not story text.
 
 **Cover text (lettered in post):**
@@ -92,7 +95,7 @@ Sources: figure and armor (`04`, Ra-Thor as drawn; Q1–Q6), shoulder hawk seal 
 - Issue line, bottom band: `#1 · The Gate`. **PROPOSED CANON — pending council ratification** (the wording, and whether the story title appears on the cover).
 - Publisher or rights mark on the cover: GAP: not defined.
 
-**Cover rejects:** §8, plus: any letters or words generated inside the image (garbled text); the eye motif on the hammer head (`04` Q5, reference only); reference R3 or R5 used as an input image (R3 carries the diamond gem; R5 is the out-of-canon blue variant). If the tool takes reference images, use R4 for the armor and shield.
+**Cover rejects:** §8, plus: any letters or words generated inside the image (garbled text); the eye motif on the hammer head (`04` Q5, reference only); reference R3 or R5 used as an input image (R3 carries the diamond gem; R5 is the out-of-canon blue variant). If the tool takes reference images, use R4 for the armor and shield. R4's hammer carries an eye motif; that stays a reject. Sherif's post is the panel style reference, not a figure reference (§6 Style lock).
 
 ### 5.2 Title page (inside front cover)
 
@@ -124,6 +127,57 @@ Sources: full title (Sherif's naming rule, audit §6); "Episode 01 — The Gate"
 
 The panel breakdown is pacing under the 2026-10-14 ruling. Locked panels carry their E01 text; every `PACING` panel is silent and shows only what the cited locked panel and canon already show. Panel geometry (tiers, sizes) and framing choices (camera, light direction) are **PROPOSED CANON — pending council ratification**.
 
+### Style lock (card ISSUE01-STYLE-1)
+
+**PROPOSED CANON — pending council ratification:** the style line, the guards, the band add-on, the render size and the crop rule below. The ruling itself is quoted as given.
+
+**Sherif ruling, 2026-10-14, 8:35 PM ET:**
+
+1. The panel style for the comic and the animated series is the inked, hatched gold-and-obsidian comic look of his post <https://x.com/AlphaProMega/status/2105524666064335205>: bold black ink, dense cross-hatching, cream panel border.
+2. The Ra-Thor design is the winged-halo helm with large gold wings and a halo ring, a warm gold visor slit, gold circuit plate, a gold kite shield with only an emerald eye glyph, and a plain hammer head.
+
+The ruling agrees with `04` Q1–Q5 and with Q13 (panels inked). This card applies it to issue #1 only: the cover prompt (§5.1), the panel prompts below and `RENDER_CHECKLIST.md`. Other prompt files, including `production/S1/`, are unchanged; the animated series needs its own card.
+
+**Style reference: the post.** Posted 2026-10-01 by @AlphaProMega, two portrait images of 784 × 1168 px each (about 2:3). Checked 2026-10-15 through X's public embed data; the images are not stored in this repo (`04` header). Image 1 matches `04` R6 (the Ω-7 Recycler scene); image 2 matches `04` R1 (the PATCHED close-up). Take line, hatching, palette and border from the post. Do not take the figure: Ra-Thor's design comes from ruling 2, `04` Q1–Q6 and R4.
+
+**Rejects in the post, not references.** Named by Sherif:
+
+| Post image | Conflict | Canon |
+|---|---|---|
+| 2 | Green visor glyph | `04` Q3; ruling 2 (warm gold visor slit) |
+| 2 | Chest seal (emerald kite emblem on the sternum) | `04` Q2 |
+| 1 | Pharaoh-style striped headdress helm | `04` Q4; ruling 2 (winged-halo helm) |
+
+Also in the post and already Rejects under canon, listed so a render that copies them is caught:
+
+| Post image | Conflict | Canon |
+|---|---|---|
+| 2 | Crested helm with no wings or halo | `04` Q4 |
+| 2 | Falcon companion; green lightning | `04` Q7; Q3 |
+| 2 | The whole R1 line in one bubble | `04` Q12; `00` rule 3 |
+| 1 | COUNCIL OF PRACTICALS window | `04` Q10 (art-only) |
+| 1 | Green indicator light on the Recycler | `04` Q3 |
+
+**`[style]`**, the one shared style line. It goes first in every panel prompt in §6:
+
+> Inked comic-book panel: bold black ink linework, dense cross-hatching, gold and obsidian palette, cream panel border.
+
+**`[guards]`**, added at the end of every prompt in §5.1 and §6:
+
+> Portrait frame, 2:3 or taller. Wherever they appear in frame: gold kite shield with a gold face and a gold rim, its only emblem an emerald eye glyph; emerald only on the shield eye and the shoulder hawk seal, and no other green anywhere, including sparks, lightning and lights; warm gold visor slit, never green; closed helm with large gold feathered wings and a gold halo ring; plain hammer head with no eye, no seal and no green; no chest emblem.
+
+Guard sources: portrait 2:3 (Sherif's card); shield, visor, helm and hammer (ruling 2; `04` Q1, Q3, Q4, Q5); emerald (`04` Q3); chest (`04` Q2). With no green allowed, the "one electric accent" in the set add-on, 4.1 and the cover renders gold or white.
+
+**`[band]`**, for panels that sit in a wide tier or strip (2.3, 3.1, 3.2, 3.3, 4.2, 5.1, 6.1), added before `[guards]`:
+
+> Keep the subject, and the open space for any lettering, inside the middle third of the frame height; the top and bottom thirds are plain background.
+
+**Prompt order:** `[style] + [stem] + [set] + panel text + [band] (wide tiers only) + [guards]`. The cover takes `[guards]` but not `[style]`: it stays a painted render (`04` Q13; D14). The §2 seed prompts are reference only and get neither.
+
+**Render size and crop.** Make every render in Sherif's image tool, portrait, at least 1600 × 2560 px (KDP's cover size, `STORE_LISTING_AND_EXPORT.md` §1). That is a floor: upscale for the Kindle export (2400 × 3840, `STORE_LISTING_AND_EXPORT.md` §3) and for print masters (§10). Panels 1.1 and 8.1 and the cover use the whole frame. Every other panel is cut from its portrait render into its window on the page; `[band]` keeps the subject inside a wide-tier crop.
+
+**Cream border.** In the post, a black panel frame line sits inside a cream margin. On the page, the template draws it: cream margin and gutters, black frame line (§10). If a render comes back with its own border, crop it off before compositing so borders do not double. Bubbles stay white (`04` Q11); a cream bubble is a reject.
+
 ### 6.0 Stem, set add-on and print variant
 
 **Stem** (`01_VISUAL_STYLE_GUIDE.md`, Prompt stem; E01 has no stem of its own):
@@ -143,55 +197,55 @@ Sources: `10` The Threshold; `09` The Gate; `04` The Gate (R3), Q1–Q6, Q13; `0
 ### Page 1 — Opening splash
 
 **1.1 · [E01 P1], caption half.** Full page.
-Prompt: [stem, silent] + [set] + full-page wide establishing shot, Night Watch silhouette: Ra-Thor full figure, low angle, under the gold lattice arch, both lanes in frame, wings and halo ring breaking the skyline, cape dark and heavy, hammer head-down on stone, small crack and sparks at contact, negative space around the figure, backlight and rim light, visor slit the brightest small point.
+Prompt: [style] + [stem, silent] + [set] + full-page wide establishing shot, Night Watch silhouette: Ra-Thor full figure, low angle, under the gold lattice arch, both lanes in frame, wings and halo ring breaking the skyline, cape dark and heavy, hammer head-down on stone, small crack and sparks at contact, negative space around the figure, backlight and rim light, visor slit the brightest small point. + [guards]
 Text: caption only (§7). The P1 bubble moves to 2.3, so the caption is read first, as in the file.
 
 ### Page 2 — The lanes (P1 continued). Three panels: two inserts side by side, one wide tier below.
 
 **2.1 · PACING (holds E01 P1).** Insert on the left lane's NO stamp in dark stone, gold lattice shadow across it.
-Prompt: [stem, silent] + [set] + tight insert on the stamped word NO set into the dark stone of the left lane, diagonal gold lattice shadow falling across it, Ra-Thor out of frame.
+Prompt: [style] + [stem, silent] + [set] + tight insert on the stamped word NO set into the dark stone of the left lane, diagonal gold lattice shadow falling across it, Ra-Thor out of frame. + [guards]
 Source: `09`, The Gate (left lane stamped NO).
 
 **2.2 · PACING (holds E01 P1).** Insert on the right lane's LIVE stamp.
-Prompt: [stem, silent] + [set] + tight insert on the stamped word LIVE set into the dark stone of the right lane, warm gold light across it, Ra-Thor out of frame.
+Prompt: [style] + [stem, silent] + [set] + tight insert on the stamped word LIVE set into the dark stone of the right lane, warm gold light across it, Ra-Thor out of frame. + [guards]
 Source: `09`, The Gate (right lane stamped LIVE).
 
 **2.3 · [E01 P1], bubble half.** Wide tier.
-Prompt: [stem] + [set] + three-quarter low-angle shot of Ra-Thor planted under the arch, both lanes leading away from him, shield upright with the emerald eye-seal facing out, hammer head-down on stone, small crack and sparks at contact. Speech bubble: "Left is noise. Right can live."
+Prompt: [style] + [stem] + [set] + three-quarter low-angle shot of Ra-Thor planted under the arch, both lanes leading away from him, shield upright with the emerald eye-seal facing out, hammer head-down on stone, small crack and sparks at contact. Speech bubble: "Left is noise. Right can live." + [band] + [guards]
 Source: E01 P1; `03` Night Watch (full figure or three-quarter).
 
 ### Page 3 — Block lead-in (silent). Three tiers; the last panel sits at the page turn.
 
 **3.1 · PACING (lead-in to E01 P2).** The slide-deck creature, whole, before it reaches the shield.
-Prompt: [stem, silent] + [set] + medium shot down a lane toward Ra-Thor, a cartoon slide-deck creature made of slides and charts in the foreground, intact, no face, Ra-Thor planted beyond it under the arch, hammer head-down.
+Prompt: [style] + [stem, silent] + [set] + medium shot down a lane toward Ra-Thor, a cartoon slide-deck creature made of slides and charts in the foreground, intact, no face, Ra-Thor planted beyond it under the arch, hammer head-down. + [band] + [guards]
 Source: E01 P2 ("A slide-deck creature"). The lane it uses is GAP (§11, D4); until ruled, frame it so the lane stamp does not read.
 
 **3.2 · PACING (lead-in to E01 P2).** The shield, eye-seal out.
-Prompt: [stem, silent] + [set] + tight on the gold kite shield held forward, the emerald eye-seal in circuit inlay large and clearly readable at the centre of its face, gold circuit etching and gold rim, gauntlet on the grip.
+Prompt: [style] + [stem, silent] + [set] + tight on the gold kite shield held forward, the emerald eye-seal in circuit inlay large and clearly readable at the centre of its face, gold circuit etching and gold rim, gauntlet on the grip. + [band] + [guards]
 Source: E01 P2 ("on the shield"); `04` Q1.
 
 **3.3 · PACING (reaction, before E01 P2).** Visor slit narrows.
-Prompt: [stem, silent] + [set] + extreme close-up on the winged-halo closed helm, visor slit narrowed to a thin warm gold line, night rim light on the gold filigree.
+Prompt: [style] + [stem, silent] + [set] + extreme close-up on the winged-halo closed helm, visor slit narrowed to a thin warm gold line, night rim light on the gold filigree. + [band] + [guards]
 Source: `09`, Ra-Thor ("narrow for no").
 
 ### Page 4 — The block. Two panels: one large panel, one strip below.
 
 **4.1 · [E01 P2], keeper frame.** About two-thirds of the page.
-Prompt: [stem] + [set] + Ra-Thor planted, shield forward with the emerald eye-seal in circuit inlay clearly readable on its face, a cartoon slide-deck creature crumpling into a burst of chart confetti against the shield, paper and charts only, nobody hurt, hammer head-down on stone, small crack and sparks at contact, one electric accent on the impact. Speech bubble: "Blocked."
+Prompt: [style] + [stem] + [set] + Ra-Thor planted, shield forward with the emerald eye-seal in circuit inlay clearly readable on its face, a cartoon slide-deck creature crumpling into a burst of chart confetti against the shield, paper and charts only, nobody hurt, hammer head-down on stone, small crack and sparks at contact, one electric accent on the impact. Speech bubble: "Blocked." + [guards]
 Fidelity: eye-seal must read on the shield face; a plain emerald gem is a reject (as E01 P3, and `04` Q1).
 
 **4.2 · PACING (reaction, after E01 P2).** The confetti settles.
-Prompt: [stem, silent] + [set] + low strip panel at stone level, chart confetti settling on the dark stone at the foot of the shield, the hammer head-down beside it, small crack and sparks at contact.
+Prompt: [style] + [stem, silent] + [set] + low strip panel at stone level, chart confetti settling on the dark stone at the foot of the shield, the hammer head-down beside it, small crack and sparks at contact. + [band] + [guards]
 Source: E01 P2 (chart confetti) and E01 P4 (the confetti is still there to be recycled).
 
 ### Page 5 — The pass (the eye-seal rerun). Three panels: one wide tier, one large panel, one small insert.
 
 **5.1 · PACING (lead-in to E01 P3).** The device in the right lane.
-Prompt: [stem, silent] + [set] + medium-wide shot of the right lane under the arch, a small honest device with one warm light in the lane, the LIVE stamp readable on the stone beside it, Ra-Thor at frame edge, hammer head-down.
+Prompt: [style] + [stem, silent] + [set] + medium-wide shot of the right lane under the arch, a small honest device with one warm light in the lane, the LIVE stamp readable on the stone beside it, Ra-Thor at frame edge, hammer head-down. + [band] + [guards]
 Source: E01 P3 ("Small honest device, one warm light, right lane"); `09` The Gate. The device's design beyond that line is GAP (§11, D5).
 
 **5.2 · [E01 P3], RERUN. Pass panel.** Large panel.
-Prompt: [stem] + [set] + Ra-Thor planted at the arch, three-quarter view, gold kite shield with a gold rim held upright at his side with its face turned toward the viewer, a large glowing emerald Egyptian-style eye-seal set in circuit inlay at the centre of the shield face, clearly an eye glyph and clearly part of the gold circuit etching, winged-halo closed helm, warm gold visor slit, black cape, hammer head-down on stone with a small crack and sparks at contact, a small honest device with one warm light in the right lane before him. Speech bubble: "That one can live." Not a diamond, not a faceted jewel, not a round gem, not a plain emerald shape on the shield; not a four-legged walker robot; no chest seal; no emerald visor.
+Prompt: [style] + [stem] + [set] + Ra-Thor planted at the arch, three-quarter view, gold kite shield with a gold rim held upright at his side with its face turned toward the viewer, a large glowing emerald Egyptian-style eye-seal set in circuit inlay at the centre of the shield face, clearly an eye glyph and clearly part of the gold circuit etching, winged-halo closed helm, warm gold visor slit, black cape, hammer head-down on stone with a small crack and sparks at contact, a small honest device with one warm light in the right lane before him. Speech bubble: "That one can live." Not a diamond, not a faceted jewel, not a round gem, not a plain emerald shape on the shield; not a four-legged walker robot; no chest seal; no emerald visor. + [guards]
 Source: E01 P3 and its Fidelity note; `04` Q1 ("as in R4"), Q2, Q3, Q4, Q5, Q8.
 Reference images: if the tool takes them, give R4 (shield and armor). Never give R3 for this panel; R3 is the "That one can live." reference with the diamond gem and the walker bot (`04`, Primary set).
 
@@ -204,41 +258,42 @@ Reference images: if the tool takes them, give R4 (shield and armor). Never give
 - [ ] Hammer head-down on stone, crack and sparks at contact.
 - [ ] The device has one warm light and is not the R3 walker bot.
 - [ ] Bubble placement leaves the shield face clear (§7).
+- [ ] Style lock: inked and densely hatched; the guards hold (gold shield face, no green beyond the eye glyph and shoulder seal, plain hammer head); portrait, at least 1600 × 2560 px (§6 Style lock).
 
 The pass panel is not re-rendered in this PR; the repo stores no images (`04` header). Until a render passes this check, the E01 status line's rerun instruction stands.
 
 **5.3 · PACING (reaction, after E01 P3).** Visor slit widens gold.
-Prompt: [stem, silent] + [set] + small insert, close on the visor slit opened wide and glowing gold.
+Prompt: [style] + [stem, silent] + [set] + small insert, close on the visor slit opened wide and glowing gold. + [guards]
 Source: `09`, Ra-Thor ("wide-gold for yes").
 
 ### Page 6 — The Recycler wink. Three panels: one wide tier, two below.
 
 **6.1 · [E01 P4].** Wide tier.
-Prompt: [stem] + [set] + edge of frame: one of the Idea Recycler's twin hoppers (horizontal drum, THEORY IN / CONCEPTS IN hoppers, gauge, power core, OUTPUT tray) eating chart confetti, Ra-Thor in the background still planted and facing the lanes, not looking at the machine, head and visor turned away from the hopper, hammer head-down. Tiny speech bubble spoken by Ra-Thor: "Recycle it.", its tail aimed at his visor slit in the background.
-Source: E01 P4; `09` Idea Recycler; `04` Q9 (Ω-7 design). Speaker: Ra-Thor (council ruling, 2026-10-14, §0). He does not turn toward the hopper; only the tail reaches him.
+Prompt: [style] + [stem] + [set] + edge of frame: one of the Idea Recycler's twin hoppers (horizontal drum, THEORY IN / CONCEPTS IN hoppers, gauge, power core, OUTPUT tray) eating chart confetti, Ra-Thor in the background still planted and facing the lanes, not looking at the machine, head and visor turned away from the hopper, hammer head-down. Tiny speech bubble spoken by Ra-Thor: "Recycle it.", its tail aimed at his visor slit in the background. No wall window, no seated figures, no green indicator light. + [band] + [guards]
+Source: E01 P4; `09` Idea Recycler; `04` Q9 (Ω-7 design). Speaker: Ra-Thor (council ruling, 2026-10-14, §0). He does not turn toward the hopper; only the tail reaches him. The added negatives block what post image 1 shows beside the Recycler (§6 Style lock; `04` Q10, Q3).
 
 **6.2 · PACING (insert, E01 P4).** The three cards.
-Prompt: [stem, silent] + [set] + tight insert on the Recycler's OUTPUT tray, three cards labeled OBVIOUS (lightbulb), FERAL (wolf), CLEAN (cut gem), labels only, no other words on the cards.
+Prompt: [style] + [stem, silent] + [set] + tight insert on the Recycler's OUTPUT tray, three cards labeled OBVIOUS (lightbulb), FERAL (wolf), CLEAN (cut gem), labels only, no other words on the cards. + [guards]
 Prop counts: three cards (E01 P4). Source: E01 P4; `04` R6 card art; `09`. CLEAN card text: GAP (§11, D12).
 
 **6.3 · PACING (reaction, E01 P4).** Ra-Thor does not look.
-Prompt: [stem, silent] + [set] + Ra-Thor from behind and to one side, still facing the lanes, the Recycler and its cards behind him out of focus, hammer head-down on stone.
+Prompt: [style] + [stem, silent] + [set] + Ra-Thor from behind and to one side, still facing the lanes, the Recycler and its cards behind him out of focus, hammer head-down on stone. + [guards]
 Source: E01 P4 ("Ra-Thor does not look").
 
 ### Page 7 — Closer lead-in (silent). Two panels; the last sits at the page turn.
 
 **7.1 · PACING (establishing, before E01 P5).** Pull back.
-Prompt: [stem, silent] + [set] + wide pull-back of the Threshold at night, Ra-Thor small in frame, planted under the gold lattice arch, both lanes in frame, backlight and rim light, negative space.
+Prompt: [style] + [stem, silent] + [set] + wide pull-back of the Threshold at night, Ra-Thor small in frame, planted under the gold lattice arch, both lanes in frame, backlight and rim light, negative space. + [guards]
 Source: `10` The Threshold; `03` Night Watch silhouette (closer use).
 
 **7.2 · PACING (insert, before E01 P5).** The hammer.
-Prompt: [stem, silent] + [set] + tight insert on the thunder hammer head-down on dark stone, rectangular block head etched with circuit maze, gauntlet resting on the haft top, small crack and sparks at contact.
-Source: `04` Q5 and Ra-Thor as drawn (Hammer); sets up the P5 caption.
+Prompt: [style] + [stem, silent] + [set] + tight insert on the thunder hammer head-down on dark stone, plain rectangular block head with no emblem, gauntlet resting on the haft top, small crack and sparks at contact. + [guards]
+Source: `04` Q5 and Ra-Thor as drawn (Hammer); Sherif ruling 2 ("plain hammer head", §6 Style lock), which replaces the earlier "etched with circuit maze" here. Whether fine circuit etching may stay on a plain head: §11, D15. Sets up the P5 caption.
 
 ### Page 8 — Closer splash
 
 **8.1 · [E01 P5].** Full page.
-Prompt: [stem] + [set] + full-page close-up on the winged-halo closed helm, visor only, warm gold visor slit, no face, gold filigree and halo ring catching rim light, deep shadow. Speech bubble: "Next."
+Prompt: [style] + [stem] + [set] + full-page close-up on the winged-halo closed helm, visor only, warm gold visor slit, no face, gold filigree and halo ring catching rim light, deep shadow. Speech bubble: "Next." + [guards]
 Text: bubble, then caption (§7). Visor state (narrow, steady or wide) is not in the locked file: GAP (§11, D6). Speaker: GAP (§11, D1).
 
 ## 7. Lettering script
@@ -275,6 +330,8 @@ Placement within each panel is **PROPOSED CANON — pending council ratification
 - Outside works, titles, characters, studios or creators, and any "like X" in prompts or copy (`03` Derivation rule).
 - Spice past an eyebrow-raise (`00` rule 4).
 - The hammer eye motif, R1's emerald visor glyph, the chest seal, other helms, the R2 drum, the "!" card (`04`, art-only items).
+- Anything copied from the Ra-Thor or the Recycler room in Sherif's style-reference post: green visor glyph, chest seal, pharaoh-style helm, crested helm, falcon, green lightning, the COUNCIL OF PRACTICALS window, a green indicator light (§6 Style lock). **PROPOSED CANON — pending council ratification** as a package line; each item is already a canon Reject.
+- A panel that drops the style lock: painted or soft rendering, light or no hatching, or a cream bubble (§6 Style lock; `04` Q11, Q13).
 
 ## 9. House notes for copy and credits
 
@@ -291,9 +348,9 @@ All values below are **PROPOSED CANON — pending council ratification**: they a
 - [ ] Trim 6.625 × 10.25 in (US comic). Bleed 0.125 in each side, so the bleed page is 6.875 × 10.5 in.
 - [ ] Safe area at least 0.25 in inside trim on every edge. Lettering, the eye-seal, the visor slit and the cover title sit inside it.
 - [ ] Line art and lettering at 600 ppi at final size (4125 × 6300 px with bleed); colour art at least 300 ppi (2063 × 3150 px with bleed).
-- [ ] Image tools render at fixed ratios and modest sizes. Render each panel on its own, upscale, then composite into the panel borders; never stretch a panel to fit.
-- [ ] Panel borders and gutters drawn on the page template, not in the render.
-- [ ] Splash pages (1.1, 8.1) and the cover bleed to all edges.
+- [ ] Image tools render at fixed ratios and modest sizes. Render each panel on its own in Sherif's image tool, portrait, at least 1600 × 2560 px (§6 Style lock), upscale, then composite into the panel borders; never stretch a panel to fit.
+- [ ] Panel borders and gutters drawn on the page template, not in the render: cream margin and gutters, black frame line (§6 Style lock). Crop off any border a render brings with it.
+- [ ] The cover bleeds to all edges. Splash pages (1.1, 8.1) sit inside the cream border like the post, with the cream running into the bleed (§11, D16).
 
 **Colour**
 
@@ -351,6 +408,9 @@ None of these is filled here.
 - **D11. The seed prompts** (§2): restore them to E01 as owner text, or leave them in history.
 - **D12. CLEAN card text.** E01 gives none; the card prints its label only.
 - **D13. The E01 status line.** Once 5.2 passes, the status line still says "Rerun the pass with the eye-seal before print". It is canon text; updating it needs a card.
+- **D14. Cover style.** Sherif's ruling names the panel style; `04` Q13 allows a painted cover, so §5.1 stays painted with `[guards]`. Whether the cover moves to the post's inked, hatched look is Sherif's call.
+- **D15. Hammer head etching.** Ruling 2 says "plain hammer head". §6 panel 7.2 now reads "plain rectangular block head with no emblem" and drops the circuit-maze etching from `04` (Ra-Thor as drawn). Whether fine etching may stay is open.
+- **D16. Splash bleed.** §10 now puts the splashes (1.1, 8.1) inside the cream border, as in the post, instead of full bleed. Confirm, or keep full-bleed splashes.
 
 ## 12. Open gaps
 
