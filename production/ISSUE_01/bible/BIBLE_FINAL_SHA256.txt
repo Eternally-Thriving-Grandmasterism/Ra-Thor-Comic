@@ -1,8 +1,28 @@
-# 2026-10-15 4:40 PM ET: ISSUE01-COVER-V15 (council GO). The cover is now ONE true Grok Imagine render by Sherif, untouched:
-# 4x-UltraSharp + tone lock, one uniform scale to 2063x3150 @ 300 dpi, centre crop, embedded sRGB. The locked title band + ISSUE #1
-# seal is a separate layer (v15/title_layer_v15.png). Print filename unchanged. v10.1 / v11 / v12 composites superseded (no-composites ruling).
+# 2026-10-15 4:56 PM ET: ISSUE01-COVER-V16 Mock A (Sherif chose the silver variant ~4:50 PM ET and Mock A at 4:56 PM ET).
+# ONE true Grok Imagine render by Sherif (white lightning), untouched: same V15 pipeline (4x-UltraSharp + tone lock, one uniform scale
+# to 2063x3150 @ 300 dpi, centre crop, embedded sRGB). Everything added sits on ONE separate type layer (v16/type_layer_final_v16_mockA.png):
+# silver coin, silver-gold title bolt, gold letters, title shadow, TM (pending), THE GATE, Autonomicity logo symbol. Print filename unchanged.
 # Verify from this folder: sha256sum -c --strict BIBLE_FINAL_SHA256.txt
-eac4057c4d6690ddebfe7dcbec5ea428135f1d67507a0f25a99bb139254614f9  RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg
+a569094f2c225d64f98a510ad264cf5c2e9a9a851bbb4c7b66c2bb5ca4e73002  RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg
+0919297d48dbc51299bf6577a7fbd36334f235cf37811d13fdf47a897ecb8620  RaThor_Issue01_Cover_V16_source_GrokImagine_1152x1728.jpg
+3fba07fde72e0a272462c5874505c9c003348dfaab114740098f290f0154e406  RaThor_Issue01_Cover_V16_art_notext_4x_4608x6912.png
+e37e851b5907dc623cc3d82a0a593f507158f08c24916c2f55bd750f1a72b365  v16/type_layer_final_v16_mockA.png
+486daa86286d06806d09156fc4090193e75d6639a3240dae69130e5dbdd371c6  v16/title_layer_v16.png
+c49e2ebf23964e092a4574adf42a27a620b391039622ff2878e270f900df23ca  v16/print_final_guides.jpg
+5722730523fa3f2cb7ea89fdf2b73edf0c5325db5119549e0e8deecef05cd1e8  v16/preview_620.jpg
+133fea5ee523981c7496831bcbbc213c9ea78ad4ad0876d16acde316445975a7  v16/compare_v16_A_B_620.jpg
+8d5cb75e487ab3826129fc714d8884f727f6428f47ec80ce886473fcb9dd6cfb  v16/crops/top_100.jpg
+bfcd9f68a91ea7c5d3568c414fa2bf6615972891a891f21748bbc1ad251a9430  v16/crops/bottom_100.jpg
+c6e0f1dde699025039bf0a33583716a22932832c9c3172315f2a903534c4217d  v16/crops/coin_100.jpg
+ab45814f5f17c2d6732752a72ad2d54d144cf8a749b090d260a5e627b9ba261c  v16/crops/face_100.jpg
+2756c6d2084fbf3a1406b3a4b25c0f445a7be93db1f91ad388b83f96aa43c31b  v16/crops/hammer_top_trim_100.jpg
+648152443c1b8fb5ad660ee8f9d17ebda81d49a7fb9a02085be8e6202b93ed72  v16/build_final_v16.py
+b8be55e59affad9cb8fc0e6ea09acf0d0b3ae4d1fb5d99ceab02d87035717ca5  v16/build_v16.py
+4986b5ad27da902cb8c0b87b9e006892b08d3dc9d3afcbad7ba32b9804145b64  v16/recolor_title_v16.py
+b60940af824ad03fb3c2bc89c59167a9c2fbde8a5c5e5f34658558a214daaa94  v16/upscale.py
+53853d83344b8e8f22c54c49b5118d9c5e336214838c4d25acd56135a72b866a  v16/consistency.py
+#
+# retained unchanged for history (superseded by ISSUE01-COVER-V16; NOT the cover since 2026-10-15 4:56 PM ET):
 dfcda4d06e51aff055dbc470246c6087848574b9e82755b5d41824710933c06c  RaThor_Issue01_Cover_V15_source_GrokImagine_1152x1728.jpg
 a84ef02f1cf230795afa7c267989fd3ce27b67df854f7bd3c8bb3f536e10abe1  RaThor_Issue01_Cover_V15_art_notext_4x_4608x6912.png
 c292c71efc1da8fc97d2fb02ece577d26c19d36533e62a011532d357bef476e9  v15/print_v15_guides.jpg
@@ -32,6 +52,8 @@ a01fe828c3a39f32e44ac1c7c2cdb88d33a19129d921419e61dcb694006c22ba  cover_mark/bef
 f9edb390d04addf92d2e5a75e41eabb610cecb9db6e1268c260f96fa0ad73f35  cover_mark/cleanup_compare.jpg
 90d1ef887b38d92070e48b2f9c3a03546f174334ee1c551b59eafd9d2d8a3425  cover_mark/mark_final_zoom.jpg
 #
+# superseded by ISSUE01-COVER-V16 (2026-10-15 4:56 PM ET):
+# eac4057c4d6690ddebfe7dcbec5ea428135f1d67507a0f25a99bb139254614f9  RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg  (superseded: ISSUE01-COVER-V15 print, golden-lightning render, gold coin)
 # superseded by ISSUE01-COVER-V15 (2026-10-15 4:40 PM ET):
 # 2f92504c03bb70f547561ef756782dd6a0bc2790b21c97b533d72130e9d3a3b6  RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg  (superseded: ISSUE01-COVER-MARK-1 composite print)
 # superseded (pre-COVER-MARK-1, 2026-10-15 1:23 AM ET):
