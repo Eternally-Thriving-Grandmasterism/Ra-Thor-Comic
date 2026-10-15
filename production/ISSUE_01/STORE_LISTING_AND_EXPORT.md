@@ -149,11 +149,11 @@ The bolt is allowed here: a Patreon post is not store metadata under this card, 
 
 | Image | Alt text |
 |---|---|
-| Cover | Ra-Thor in gold-and-black circuit armor, a winged helm and a slim glowing halo ring, stands inside a thin gold arch at night, a radiant gold sun on his chest, a huge deep blue tower shield with a gold winged eye at his side, his gold hammer raised and crackling with golden lightning. Title: Ra-Thor Living Thunder. Issue #1. |
+| Cover | Ra-Thor in obsidian-black and gold circuit armor, a winged helm and a slim glowing halo ring, stands inside a thin gold arch at night, a plain gold disc on his chest, a huge black-and-gold tower shield with a gold winged eye rising over his shoulder, his gold hammer raised and crackling with golden lightning. Title: Ra-Thor Living Thunder. Issue #1. |
 | Title page | Title page: Ra-Thor Living Thunder, Issue 1, Episode 01, The Gate. |
 | Page 1 | Splash. Ra-Thor under the gold arch at night, two lanes at his feet. Caption: THRESHOLD. NIGHT. SORT IN PROGRESS. |
 | Page 2 | The lane stamps NO and LIVE, then Ra-Thor under the arch. He says: "Left is noise. Right can live." |
-| Page 3 | Silent. A creature made of slides and charts approaches; the blue shield with its gold eye-seal; the visor narrows. |
+| Page 3 | Silent. A creature made of slides and charts approaches; the black-and-gold shield with its gold eye-seal; the visor narrows. |
 | Page 4 | The creature crumples into chart confetti against the shield. Ra-Thor: "Blocked." Confetti settles at the shield's foot. |
 | Page 5 | A small device with one warm light in the LIVE lane. Ra-Thor: "That one can live." His visor widens gold. |
 | Page 6 | A recycler hopper eats the confetti. Ra-Thor, not looking: "Recycle it." Three cards: OBVIOUS, FERAL, CLEAN. |
