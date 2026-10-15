@@ -1,11 +1,12 @@
-# 2026-10-15 4:58 AM ET: ISSUE01-COVER-V10-1. Master and print replaced with the v10.1 version (forged antique-gold upswept
-# wings + thick engraved ring, Sherif lock 4:31 AM ET; Wild highlight nit applied; title band scaled 0.965 into the 0.25in safe area;
-# painted storm bleed extensions). BIBLE_FINAL_master_hires.png (2560x2880, 4x-UltraSharp + tone lock) and wings_v10/ added.
-# All images are sRGB-ICC-tagged RGB. Filenames unchanged.
+# 2026-10-15: ISSUE01-COVER-V12. Print replaced with the full-length plate (locked v10.1 figure, title and seal
+# shifted up, not stretched; legs, boots and cracked obsidian ground painted on; sky continued to the edges;
+# lightning held off the trim). Master files are unchanged. v12/ holds the guides, before/after, 100% crops,
+# the v10.1 print copy, the generated plates and the build scripts.
+# All images are sRGB-ICC-tagged RGB.
 # Verify from this folder: sha256sum -c --strict BIBLE_FINAL_SHA256.txt
 8bdd71906c180cf7e58b76970312e848763225e1bb565cd56ce0471ac97391fd  BIBLE_FINAL_master.png
 1e83aa5de6ca28189ed663608fc6039c6a7edbb84838535b23c062a2e300f1fe  BIBLE_FINAL_master_hires.png
-71b8d7c7a491fc256b1ed93bd167bb7ef93fc2778e2c9ae109d4b26fefe6bc3d  RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg
+c51dc86185f89741bcef4376a0f3ea7e146bdf770c36006e740a734a76289ad4  RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg
 f3c49896d6bc54bf143e2e90f75bc03d458b7249a2950bd59f3c464b1d5d9849  real_v1.jpg
 a84e9fe1b9619f2739bf8d2b38ef4e54945aaadd256231aac7d7d1234d4e3040  cover_mark/winged_bolt_mark_large.png
 c24ed13d93289c01843c03e0035879a191ee9aa9dc2f421ce37d0b89bb2929c8  cover_mark/agi_logo_gold_large.png
@@ -23,7 +24,22 @@ f9edb390d04addf92d2e5a75e41eabb610cecb9db6e1268c260f96fa0ad73f35  cover_mark/cle
 76fef3d1d112559dc1967edce9d2580840259dab2b8ecf10625a2f122fd7a206  wings_v10/hires_check_100pct.jpg
 8722db15981d524bba2365df7227cb90fb6718c7fc53bf8b487fd702d13d89e1  wings_v10/print_v10_1_final_guides.jpg
 12417a3d99d99f031426800ddd5031882ed631f24437ca7290e508c9f56f815a  wings_v10/bleed_edges_compare.jpg
+76f71d2925532580f515d19257cb80703c70c3a6adcbc7cc1fce8b3de90218b8  v12/before_after_v10_1_v12.jpg
+5f7c2d3d784d5f2f9305bba9a2cc59e9be0fb00676a88183f37fef9bfce84acc  v12/print_v12_guides.jpg
+71b8d7c7a491fc256b1ed93bd167bb7ef93fc2778e2c9ae109d4b26fefe6bc3d  v12/v10_1_print.jpg
+cb64f63f0f78c1dc634a1e332d6965d26cd0a1b8c3f4fe470ce71f3bcf47f65c  v12/plates/ground_plate.jpg
+f692a85d6d42a2499d16846441c8985f8e5c5612dbfa2f64f7fde4d34605498d  v12/plates/legs_plate.jpg
+4f502d98c431e2c5248e3df5beac18c713efc6288e8cbfb63ccf1637b8bbba53  v12/crops/top_edge_100.png
+08cac9eb376f3c08a61ed4a41cb989e07d80ff67e1e9b958d30a154cbbeb52e5  v12/crops/bottom_edge_100.png
+10e0564657624b5187b2be6b96d28cd0e844b77ff92325c7cecd1d5ecb67a623  v12/crops/side_left_100.png
+91b17cab815562fd990d04bdccf12d9acf369e13342b5c1e30a57aab97040515  v12/crops/side_right_100.png
+6e362ec3409ccafee83dba3921e6d9c74ceaf822eb05750781203520314c6ed1  v12/crops/hammer_100.png
+03af350d95b77579d6cbc62583e57dfe03b6073069f9f2431c93a65cc01bff13  v12/build_cover_v12.py
+e876f0cc519b86668bb2b7fa46d758dd489e4a3fd26ff2b4de661b27df2dcfc0  v12/make_sheets.py
+87729ff0735e1041aa5651fc1df11c95b3b10da17c8beb3d471366302a28f537  v12/srgb.py
 #
+# superseded by ISSUE01-COVER-V12 (2026-10-15; the v10.1 print, kept as v12/v10_1_print.jpg):
+# 71b8d7c7a491fc256b1ed93bd167bb7ef93fc2778e2c9ae109d4b26fefe6bc3d  RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg  (superseded)
 # superseded by ISSUE01-COVER-V10-1 (2026-10-15 4:58 AM ET; ISSUE01-COVER-MARK-1 versions, main 3db790e):
 # 5d1ac9cc4beb3ddc41224cd0db89a6eece64e63df190a1e01921a45292558ecf  BIBLE_FINAL_master.png  (superseded)
 # 2f92504c03bb70f547561ef756782dd6a0bc2790b21c97b533d72130e9d3a3b6  RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg  (superseded)
