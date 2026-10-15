@@ -1,4 +1,5 @@
-# ISSUE01-COVER-V16 FINAL (Mock A, chosen by Sherif 2026-10-15 4:56 PM ET). Art untouched; everything below is extra type/graphic layers over
+# ISSUE01-COVER-V16 FINAL2 (Mock A minus THE GATE and the logo symbol, per Sherif 2026-10-15 5:03 PM ET):
+# front = RA-THOR / LIVING THUNDER band + TM, silver ISSUE #1 coin, darker title shadow. Built from the V16 R&D mock-up code. Art untouched; everything below is extra type/graphic layers over
 # ../art_v16_print_notext.png + ../title_layer_v16.png. Placeholder wording is flagged in the report.
 import cv2, numpy as np, sys
 from PIL import Image, ImageDraw, ImageFont
@@ -89,19 +90,17 @@ def story(lay, ybase=2948):
     return x, y, w, h
 
 # =================== MOCK A: "minimal premium" (recommended) ===================
-MA = Layer()
-story(MA)
-logo(MA, 118, SAFE + 6, FH - SAFE - 118 - 6)                                   # bottom-left publisher corner
+MA = Layer()   # Sherif 2026-10-15 5:03 PM ET: no story title and no company logo on the front (company logos go on the back cover)
 OA = comp(A, V, TITLE, TM, MA)
 
 # =================== FINAL OUTPUTS ===================
-F = D + 'final/'; import os; os.makedirs(F + 'crops', exist_ok=True)
+F = D + 'final2/'; import os; os.makedirs(F + 'crops', exist_ok=True)
 # combined type layer = veil + title + TM + Mock A graphics, one RGBA (straight alpha), 'over' composited
 Lrgb = np.zeros((FH, FW, 3), np.float32); La = np.zeros((FH, FW, 1), np.float32)
 for l in (V, TITLE, TM, MA):
     Lrgb = l.rgb * l.a + Lrgb * (1 - l.a); La = l.a + La * (1 - l.a)          # premultiplied accumulation
 Ls = Lrgb / np.maximum(La, 1e-6)
-cv2.imwrite(F + 'type_layer_final_v16_mockA.png', np.dstack([np.clip(Ls + .5, 0, 255), np.clip(La * 255 + .5, 0, 255)]).astype(np.uint8))
+cv2.imwrite(F + 'type_layer_final2_v16.png', np.dstack([np.clip(Ls + .5, 0, 255), np.clip(La * 255 + .5, 0, 255)]).astype(np.uint8))
 O8 = np.clip(OA + .5, 0, 255).astype(np.uint8)
 chk = np.abs(np.clip(A * (1 - La) + Lrgb + .5, 0, 255).astype(np.uint8).astype(int) - O8).max(); print('art+type_layer == print (max diff %d)' % chk)
 srgb.save(F + 'RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg', O8, dpi=300, quality=97)
