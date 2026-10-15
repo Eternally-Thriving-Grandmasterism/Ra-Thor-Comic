@@ -10,11 +10,11 @@ Render in your image tool, then fill in this sheet. The repo stores no images (`
 
 ## 0. Style lock
 
-From Sherif's ruling of 2026-10-14, 8:35 PM ET, and his design-lock addition at 8:39 PM ET, as set out in `ISSUE_01_PRODUCTION.md` §6 Style lock:
+From Sherif's ruling of 2026-10-14, 8:35 PM ET, his design-lock addition at 8:39 PM ET, and his chest-emblem OWNER RULING at 8:42 PM ET, as set out in `ISSUE_01_PRODUCTION.md` §6 Style lock:
 
 - **Style reference:** Sherif's post <https://x.com/AlphaProMega/status/2105524666064335205>, for line, hatching, palette and border only: bold black ink, dense cross-hatching, gold and obsidian, cream panel border.
-- **Rejects in the post, not references:** the green visor glyph and the chest seal in image 2; the pharaoh-style helm in image 1. Also in the post and already canon Rejects: image 2's crested helm, falcon, green lightning, and the whole R1 line in one bubble; image 1's COUNCIL OF PRACTICALS window and green indicator light.
-- **Design:** winged-halo closed helm with large gold feathered wings sweeping back and a large spoked, circuit-etched gold halo ring above; warm gold visor slit; chest and torso fully covered in ornate gold-and-black circuit plate with dense right-angle traces, not plain black, no emblem; the emerald winged Eye of Horus on the shoulder seal (a flat emblem, not a bird) and as the shield's only emblem on a gold kite shield; plain hammer head.
+- **Rejects in the post, not references:** the green visor glyph and the emerald kite chest seal in image 2; the pharaoh-style helm in image 1. Also in the post and already canon Rejects: image 2's crested helm, falcon, green lightning, and the whole R1 line in one bubble; image 1's COUNCIL OF PRACTICALS window and green indicator light.
+- **Design:** winged-halo closed helm with large gold feathered wings sweeping back and a large spoked, circuit-etched gold halo ring above; warm gold visor slit; chest and torso fully covered in ornate gold-and-black circuit plate with dense right-angle traces, not plain black; one round, ornate gold emblem centred on the chest (concentric rings, circuit detail, no letters, a small gold eye at the core allowed; owner ruling, 8:42 PM ET); the emerald winged Eye of Horus on the shoulder seal (a flat emblem, not a bird) and as the shield's only emblem on a gold kite shield; plain hammer head.
 
 Before rendering, check the prompt:
 
@@ -33,7 +33,8 @@ Before rendering, check the prompt:
 - [ ] Emerald only on those two winged Eye of Horus motifs. No other green: not in sparks, lightning, lights or the visor.
 - [ ] Gold visor slit.
 - [ ] Large gold feathered wings sweeping back from the closed helm; a large spoked, circuit-etched gold halo ring above it.
-- [ ] Chest and torso fully covered in ornate gold-and-black circuit plate with dense right-angle traces; not plain black; no chest emblem.
+- [ ] Chest and torso fully covered in ornate gold-and-black circuit plate with dense right-angle traces; not plain black.
+- [ ] One round, ornate gold chest emblem, centred: concentric rings and circuit detail, no letters, at most a small gold eye at the core, no emerald or green. No other chest seal.
 - [ ] Hammer head plain: no eye, no seal, no green.
 - [ ] Nothing from the post's Rejects (§0).
 
@@ -43,7 +44,7 @@ One miss is a reject and a rerun (`00_FIDELITY_PROTOCOL.md` rule 7). Do not scor
 
 | Line | 5 | 4 | 3 or lower (rerun) |
 |---|---|---|---|
-| Q1 Canon read | Armor, helm, wings, spoked halo, visor, both winged Eye of Horus motifs and hammer read at a glance at print size | All read; one needs a second look | Any canon detail unclear at print size |
+| Q1 Canon read | Armor, helm, wings, spoked halo, visor, round gold chest emblem, both winged Eye of Horus motifs and hammer read at a glance at print size | All read; one needs a second look | Any canon detail unclear at print size |
 | Q2 Staging | Does exactly what the prompt's E01 or `PACING` line says, nothing more | Matches, with a small extra that adds no story (a stray spark) | Adds an object, figure, event or text the prompt does not have |
 | Q3 Ink and palette | Matches the post's look: bold black ink, dense cross-hatching, gold and obsidian, emerald only where the guards allow, accent gold or white | Right style; hatching a little light or palette slightly off, fixable in the colour pass | Painted or soft look on a panel (`04` Q13), sparse hatching, rainbow clutter, or extra green |
 | Q4 Lettering room | Clean space where §7 and `LETTERING_SPEC.md` put the text; keep-clear zones open | Space exists but bubble must shrink or shift | No room without covering a keep-clear zone |
@@ -63,7 +64,7 @@ Status column: `—` not rendered · `R` rejected at the gate · `S` scored. Fil
 
 | ID | Prompt | What it must show | Item-specific checks | Status | Q1/Q2/Q3/Q4/Q5 | Pass |
 |---|---|---|---|---|---|---|
-| COVER | `ISSUE_01_PRODUCTION.md` §5.1 | Painted full figure under the arch, NO and LIVE lanes, title band top, issue band bottom | Painted is allowed here only (`04` Q13). Shield glyph and shoulder seal are emerald winged Eyes of Horus, not gems. Spoked halo; chest and torso in circuit plate, no emblem. Hammer head plain. Gold shield face; no other green. No text generated in the image. Prompt ends with `[guards]`, no `[style]` | — | _/_/_/N/A/_ | ☐ |
+| COVER | `ISSUE_01_PRODUCTION.md` §5.1 | Painted full figure under the arch, NO and LIVE lanes, title band top, issue band bottom | Painted is allowed here only (`04` Q13). Shield glyph and shoulder seal are emerald winged Eyes of Horus, not gems. Spoked halo; chest and torso in circuit plate with one centred round gold emblem. Hammer head plain. Gold shield face; no other green. No text generated in the image. Prompt ends with `[guards]`, no `[style]` | — | _/_/_/N/A/_ | ☐ |
 | TITLE | `ISSUE_01_PRODUCTION.md` §5.2 | Text-only page, typeset, no render | Title exactly `Ra-Thor⚡️Living Thunder`, bolt as vector art; indicia per `CREDITS_AND_INDICIA.md` §3; no placeholder left | — | Typeset check only | ☐ |
 
 ### Story pages (18 panels)
@@ -96,10 +97,10 @@ Count check: 18 panel rows (6 with text, 12 `PACING`), plus the cover and the ti
 This is the panel the E01 status line names: "Rerun the pass with the eye-seal before print." Pass it only if every box ticks (from `ISSUE_01_PRODUCTION.md` §6, panel 5.2):
 
 - [ ] The shield emblem is a winged Eye of Horus in emerald, inlaid in the gold circuit etching. Not a gem, diamond or plain shape.
-- [ ] Halo ring large, spoked and circuit-etched; chest and torso fully in gold-and-black circuit plate, no emblem; emerald winged Eye of Horus on the shoulder seal.
+- [ ] Halo ring large, spoked and circuit-etched; chest and torso fully in gold-and-black circuit plate; one round gold chest emblem, centred, no letters, no emerald; emerald winged Eye of Horus on the shoulder seal.
 - [ ] The eye-seal reads at print size (check at 100% on the lettered page).
 - [ ] Gold kite shield with gold rim; no other shield shape.
-- [ ] Winged-halo closed helm; warm gold visor; no chest seal; black cape.
+- [ ] Winged-halo closed helm; warm gold visor; no emerald or kite-shaped chest seal; black cape.
 - [ ] Hammer head-down on stone, crack and sparks at contact.
 - [ ] The device has one warm light and is not the R3 walker bot.
 - [ ] Bubble placement leaves the shield face clear.
