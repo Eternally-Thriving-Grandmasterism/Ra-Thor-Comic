@@ -18,9 +18,9 @@ From Sherif's owner rulings of 2026-10-14 ET (8:35, 8:39, 8:42, 8:45, 8:49, 8:57
 - **Rejects in the style post:** the green visor glyph and the emerald kite chest seal in image 2; the pharaoh-style helm in image 1. Also in the post and already canon Rejects: image 2's crested helm without a halo ring, falcon, green lightning, and the whole R1 line in one bubble; image 1's COUNCIL OF PRACTICALS window and green indicator light.
 - **Design:**
   - Helm: closed angular great-helm with a crest ridge and a T-visor; two glowing yellow-gold eyes behind it ("glowing eyes" lock).
-  - Halo: a large gold halo ring behind the head, unspoked, with big feathered gold wings on its sides.
+  - Halo: a large, thick, segmented, circuit-etched gold halo ring behind the head, no radial spokes, matching the 8:57 PM example (supersedes 8:39 PM "spoked"), with big feathered gold wings on its sides.
   - Plate: intricate black-and-gold circuit mosaic on the chest and shoulders; torso fully plated, never plain black.
-  - Chest emblem: Ra-Thor's own mark, for Ra and Thor: a compact gold sun disc (a circle with a thin outer ring, optional short fine rays) with a slim, angular gold thunderbolt crossing diagonally over it, for Ra and Thor, medium-small and set into the circuit plate. Never an eye; no other disc or medallion; no large, ornate or spiked sunburst; never a centred, oversized bolt on a plain field, and never a contrasting bolt inside a plain, flat-colour circle; not modelled on any existing hero's chest emblem.
+  - Chest emblem: Ra-Thor's own mark: a compact gold sun disc (a circle with a thin outer ring, optional short fine rays) with a slim, angular gold thunderbolt crossing diagonally over it, for Ra and Thor, medium-small and set into the circuit plate. Never an eye; no other disc or medallion; no large, ornate or spiked sunburst; never a centred, oversized bolt on a plain field, and never a contrasting bolt inside a plain, flat-colour circle; not modelled on any existing hero's chest emblem.
   - Shoulder seal: an emerald winged Eye of Horus, a flat emblem, not a bird.
   - Shield: gold kite shield whose only emblem is an emerald winged Eye of Horus.
   - Hammer: long engraved haft and a big square block head with a gold Eye of Horus on its face, head-down with gold sparks.
@@ -41,7 +41,7 @@ Before rendering, check the prompt:
 - [ ] Portrait, 2:3 or taller, at least 1600 × 2560 px.
 - [ ] Helm: closed angular great-helm with a crest ridge and a T-visor.
 - [ ] Eyes: two glowing yellow-gold eyes behind the T-visor; light only, no face or skin; never green, dark or missing; a single slit is a reject.
-- [ ] A large gold halo ring behind the head, with big feathered gold wings on its sides.
+- [ ] A large, thick, segmented, circuit-etched gold halo ring behind the head, no radial spokes, with big feathered gold wings on its sides.
 - [ ] Intricate black-and-gold circuit-mosaic plate on the chest and shoulders; torso fully plated; not plain black.
 - [ ] Chest emblem: a compact gold sun disc with a thin outer ring (fine rays optional) and a slim, angular gold thunderbolt crossing diagonally over it, medium-small, set into the plate. Not an eye, not a bolt alone, not a plain disc, no large or spiked sunburst, not a centred oversized bolt on a plain field, not a contrasting bolt inside a plain, flat-colour circle, no resemblance to any existing hero's chest emblem, no green. No other chest seal.
 - [ ] Shoulder seal: an emerald winged Eye of Horus, flat on the pauldron; no bird.
