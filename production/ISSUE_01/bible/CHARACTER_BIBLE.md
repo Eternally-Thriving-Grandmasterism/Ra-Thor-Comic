@@ -11,7 +11,7 @@
 | Master | `BIBLE_FINAL_master.png` (640 × 720 px) |
 | Source render | `real_v1.jpg` (640 × 720 px), kept unchanged as the provenance file |
 | Difference from the source | (Before ISSUE01-COVER-MARK-1.) Two edits only, checked pixel by pixel. (1) The issue seal (about x 518–633, y 2–117): the rayed-sun seal was removed, the sky patched, and the Cinzel gold-coin `ISSUE: #1` seal placed. (2) A stray diamond sparkle above the T of THOR (about x 370–389, y 11–24) was removed at Sherif's request (2026-10-15, about 1:23 AM ET). Every other pixel is identical to `real_v1.jpg`. ISSUE01-COVER-MARK-1 (2026-10-15) then added the winged-bolt cover mark (§4), the council artifact-sweep fixes and the tabard Easter egg (§8); before/after crops are in `cover_mark/`. |
-| Print file | `RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg`: 2063 × 3150 px at 300 dpi (6.625 × 10.25 in trim plus 0.125 in bleed). The art fills the trim width. The dark storm is extended above and below with sky only (blurred reflected sky, plus sky-plate smoke, sparks and lightning). No figure part (shield, cape, hammer, legs) is ever mirrored into the extension. The art area is a straight upscale of the master, except where the cover frame (§4) covers it. The frame is two lotus-capital columns and a bottom lintel; preview: `cover_mark/pillars_print_preview.jpg`. There are no cream bands, nothing is stretched, and nothing is cropped from the sides. |
+| Print file | `RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg`: 2063 × 3150 px at 300 dpi (6.625 × 10.25 in trim plus 0.125 in bleed). The art fills the trim width. The dark storm is extended above and below, and into the side bleed, with sky only (blurred reflected sky, plus sky-plate smoke, sparks and lightning). No figure part (shield, cape, hammer, legs) is ever mirrored into the extension. The art area is a straight upscale of the master. There are no cream bands, nothing is stretched, and nothing is cropped from the sides. |
 | Checksums | `BIBLE_FINAL_SHA256.txt`. Every image file in this folder and in `cover_mark/` verifies with `sha256sum -c --strict`; the pre-COVER-MARK-1 master and print hashes are kept as commented "superseded" lines. `BIBLE_FINAL_compare.jpg` and the four `real/*.py` build scripts are listed only as comment lines, marked "(held outside repo, in the bot store issue01_bible/)". |
 | Style | Realistic, highly detailed painted style. Chosen by Sherif on 2026-10-15 at 1:08 AM ET. As relayed: "we have the technology, why make only cartoons". |
 
@@ -37,23 +37,7 @@
 - **Seal:** the Cinzel gold-coin seal, reading `ISSUE:` over a large `#1`. It has a dark centre and an antique-gold ring, and its gold matches the title's metal.
 - **Cover mark:** the winged bolt (the app-icon rose-gold circuit Z bolt between two swept antique-gold wings, with no disc) is the standard mark, centred in the divider under RA-THOR on every cover. Size: about 1–1.2× the cap height of LIVING THUNDER; each wing at most 3× the bolt width. Reference: `cover_mark/winged_bolt_mark_large.png` (zoom: `cover_mark/mark_final_zoom.jpg`). Chosen by Sherif, 2026-10-15, 1:26 AM ET.
 - **Publisher logo:** the Autonomicity Games Inc. logo goes on the spine and the credits page in title gold. Its shape is trademarked and is never altered; only the colour is changed to gold. Reference: `cover_mark/agi_logo_gold_large.png`. Chosen by Sherif, 2026-10-15, 1:26 AM ET.
-- **Cover frame (print file only):**
-  - **Columns:** two antique-gold, lotus-capital Egyptian columns, one at each side edge.
-    - The visible shaft is about 6–7% of the trim width (about 122 px of 1988), with the outer edge running into the 0.125 in bleed.
-    - The capitals sit in the top storm extension and the stepped bases sit in the bottom extension.
-    - Both columns use the same body, but each carries its own carving, so they are not mirror copies.
-  - **Bottom lintel:** a slim gold frieze bar joining the column bases.
-  - **Top:** left open under the title band. The top seam of the storm extension is feathered, so there is no hard line.
-  - **Layering:** the shield is in front of the right column. The hammer haft and its glowing pommel spike are in front of the left column. The ISSUE #1 seal stays fully visible, in front of the right column. The lightning glow lies over the left column.
-  - **Lighting and colour:** warm light from the upper left, matching the hammer lightning, graded to the title gold.
-  - **Carving:** the cartouches are carved (recessed grooves, not drawn strokes) and read top to bottom.
-    - **Left column:** sun disc, ankh, **ᚱᚨ·ᚦᛟᚱ** (RA·THOR), djed pillar, scarab.
-    - **Right column:** lotus, **ᛚᛁᚢᛁᛜ·ᚦᚢᚾᛞᛖᚱ** (LIVING THUNDER), wing pair, Z-bolt, was-sceptre.
-    - The seal and the shield hide parts of the right shaft, so each sign is placed in a visible stretch.
-  - **Exception:** the columns are the only place where authentic Elder Futhark words are allowed. The tabard and shield-rim cipher (§8) stays the invented rune alphabet.
-  - **Never on the columns:** the Eye of Horus, readable Latin text, logos, ™ or ® marks, and blue, navy or green.
-  - **Master:** the master PNG never carries the frame.
-  - Wild council ruling, 2026-10-15, about 2:56 AM ET.
+- **Cover frame:** pillar border (2026-10-15) withdrawn; superseded by the fresh full-cover card ISSUE01-COVER-FRESH-1.
 - **Palette:** obsidian, antique gold and white-hot gold. Rose gold is used ONLY for bolts (the buckle bolt, the hammer-face bolt, the title bolt and the cover-mark bolt).
 - **Avoid:** blue, navy and green, anywhere. The reason is distinctness from an existing third-party robot character with a similar name; per the `03` Derivation rule it is not named here.
 
@@ -111,28 +95,6 @@ Before/after crops at 4×: `cover_mark/before_after_1.jpg` … `before_after_6.j
 - **Shield rim:** reads **[bolt] P O W R U S H [bolt]** in the same cipher.
 - **Decoder key:** `cover_mark/runes_key.png`. It is an invented angular rune alphabet in which every rune shares a centre stave. Its glyphs map, left to right, to R, A, T, H, O, L, C, P, W, U, S, and "." is the separator. The key lives in this Bible ONLY. It is never printed on the cover.
 - **Off-limits on the tabard, rim and belt:** the Eye of Horus (it appears on the shield face only), logos, readable Latin text, ™ or ® marks, and blue, navy or green.
-
-### Easter egg: pillar decoder (print file only)
-
-- **Left column**, top to bottom:
-  - Sun disc.
-  - Ankh.
-  - **ᚱ ᚨ · ᚦ ᛟ ᚱ** = R, A, ·, TH, O, R, read as **RA·THOR**. The runes are Elder Futhark: raidō, ansuz, then a word divider, then thurisaz, ōthala and raidō.
-  - Djed pillar.
-  - Scarab.
-- **Right column**, top to bottom:
-  - Lotus.
-  - **ᛚ ᛁ ᚢ ᛁ ᛜ** = L, I, U/V, I, NG, read as **LIVING**. The runes are laguz, isa, uruz, isa and ingwaz.
-  - Word divider (·).
-  - **ᚦ ᚢ ᚾ ᛞ ᛖ ᚱ** = TH, U, N, D, E, R, read as **THUNDER**. The runes are thurisaz, uruz, naudiz, dagaz, ehwaz and raidō.
-  - Wing pair.
-  - Z-bolt.
-  - Was-sceptre.
-  - The seal covers the right shaft between LIVI and NG. The shield covers it between the wing pair and the Z-bolt.
-- **Fonts:** the glyphs are cut from Noto Sans Runic and Noto Sans Egyptian Hieroglyphs (SIL Open Font License 1.1). The Z-bolt is the app-icon bolt.
-- **Avoided:** no sowilo pairs, no winged or serifed othala, no hate-symbol arrangements, and no Eye of Horus.
-- **Scope:** this decoder lives in the Bible only. It is never printed on the cover.
-- **Crops:** `cover_mark/pillars_crop2x_left_column_hammer.jpg`, `pillars_crop2x_right_column_shield.jpg` and `pillars_crop2x_top_capitals.jpg`.
 
 ## 9. Conflicts with standing canon (deferred to a follow-up card per 8 (d); not edited here)
 
