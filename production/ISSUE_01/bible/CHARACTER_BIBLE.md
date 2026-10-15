@@ -12,7 +12,7 @@
 | Source render | `real_v1.jpg` (640 × 720 px), kept unchanged as the provenance file |
 | Difference from the source | Only the issue seal (about x 518–633, y 2–117). Its rayed-sun seal was removed, the sky patched, and the Cinzel gold-coin `ISSUE: #1` seal placed. Every other pixel is identical to `real_v1.jpg` (checked pixel by pixel). |
 | Print file | `RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg`: 2063 × 3150 px at 300 dpi (6.625 × 10.25 in trim plus 0.125 in bleed). The art fills the trim width. The dark storm is extended above and below by mirroring, blurring and darkening. There are no cream bands, nothing is stretched, and nothing is cropped from the sides. |
-| Checksums | `BIBLE_FINAL_SHA256.txt`. Its entries for the four image files in this folder verify with `sha256sum -c`; the entries for `BIBLE_FINAL_compare.jpg` and three build scripts refer to production-box files that are not in this repo. |
+| Checksums | `BIBLE_FINAL_SHA256.txt`. Its entries for the three image files in this folder verify with `sha256sum -c`; the entries for `BIBLE_FINAL_compare.jpg` and three build scripts refer to production-box files that are not in this repo. |
 | Style | Realistic, highly detailed painted style. Chosen by Sherif on 2026-10-15 at 1:08 AM ET. As relayed: "we have the technology, why make only cartoons". |
 
 ## 2. The hero's look
