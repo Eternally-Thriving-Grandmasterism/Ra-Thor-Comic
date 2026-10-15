@@ -2,7 +2,7 @@
 # (winged bolt approved by Sherif 1:26 AM ET; tabard v5 'Excellent!' 2:10 AM ET). Filenames unchanged. cover_mark/ added.
 # Verify from this folder: sha256sum -c --strict BIBLE_FINAL_SHA256.txt
 5d1ac9cc4beb3ddc41224cd0db89a6eece64e63df190a1e01921a45292558ecf  BIBLE_FINAL_master.png
-68d5d6bdab0724265b27bea83bb36fba7e53d3312736e43bd5547aba5758e11c  RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg
+2f92504c03bb70f547561ef756782dd6a0bc2790b21c97b533d72130e9d3a3b6  RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg
 f3c49896d6bc54bf143e2e90f75bc03d458b7249a2950bd59f3c464b1d5d9849  real_v1.jpg
 a84e9fe1b9619f2739bf8d2b38ef4e54945aaadd256231aac7d7d1234d4e3040  cover_mark/winged_bolt_mark_large.png
 c24ed13d93289c01843c03e0035879a191ee9aa9dc2f421ce37d0b89bb2929c8  cover_mark/agi_logo_gold_large.png
