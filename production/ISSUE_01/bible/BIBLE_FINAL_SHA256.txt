@@ -1,8 +1,24 @@
-# 2026-10-15 2:43 AM ET: ISSUE01-COVER-MARK-1. Master and print replaced with the cover-mark + artifact-sweep + tabard v5 version
-# (winged bolt approved by Sherif 1:26 AM ET; tabard v5 'Excellent!' 2:10 AM ET). Filenames unchanged. cover_mark/ added.
+# 2026-10-15 4:40 PM ET: ISSUE01-COVER-V15 (council GO). The cover is now ONE true Grok Imagine render by Sherif, untouched:
+# 4x-UltraSharp + tone lock, one uniform scale to 2063x3150 @ 300 dpi, centre crop, embedded sRGB. The locked title band + ISSUE #1
+# seal is a separate layer (v15/title_layer_v15.png). Print filename unchanged. v10.1 / v11 / v12 composites superseded (no-composites ruling).
 # Verify from this folder: sha256sum -c --strict BIBLE_FINAL_SHA256.txt
+eac4057c4d6690ddebfe7dcbec5ea428135f1d67507a0f25a99bb139254614f9  RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg
+dfcda4d06e51aff055dbc470246c6087848574b9e82755b5d41824710933c06c  RaThor_Issue01_Cover_V15_source_GrokImagine_1152x1728.jpg
+a84ef02f1cf230795afa7c267989fd3ce27b67df854f7bd3c8bb3f536e10abe1  RaThor_Issue01_Cover_V15_art_notext_4x_4608x6912.png
+c292c71efc1da8fc97d2fb02ece577d26c19d36533e62a011532d357bef476e9  v15/print_v15_guides.jpg
+07c73550498a8bac00f11c7f36fe1c61b0903d5ed0ed116e81d50fb351b3973d  v15/preview_620.jpg
+4f9c3417d20dec185a94c3ed20c50c230b47808a9a8bbe42b1ec50f840e94439  v15/title_layer_v15.png
+8a131f5af1e058eb210909c1bb1a72e2daafd0f04b6a8bdea1f4ddbcef1b76dd  v15/crops/face_helm_100.png
+849b5e24f12c82395dc3befeb7c33a65e3ce08c4372ec5244bf69f9dbccda315  v15/crops/hammer_top_trim_100.png
+870d42366ee7d58444e99a0e879aa9b6a859f73589019bdb4b8a526d2434122f  v15/crops/boots_100.png
+8985495d596401717c2a1e3074525a8eddd0c04b02a263f464df146b1b6ed495  v15/crops/title_100.png
+81f85eed4ea02a4c435826814170277787220143d232a5616e1a3bf552779395  v15/build_v15.py
+e5ffef53f7007a5f7ccfcd2c1aa21f2a18f6689b141593d6854d57f8a1747bcf  v15/clean_title.py
+b60940af824ad03fb3c2bc89c59167a9c2fbde8a5c5e5f34658558a214daaa94  v15/upscale.py
+53853d83344b8e8f22c54c49b5118d9c5e336214838c4d25acd56135a72b866a  v15/consistency.py
+#
+# retained unchanged for history (superseded design; NOT the cover since ISSUE01-COVER-V15):
 5d1ac9cc4beb3ddc41224cd0db89a6eece64e63df190a1e01921a45292558ecf  BIBLE_FINAL_master.png
-2f92504c03bb70f547561ef756782dd6a0bc2790b21c97b533d72130e9d3a3b6  RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg
 f3c49896d6bc54bf143e2e90f75bc03d458b7249a2950bd59f3c464b1d5d9849  real_v1.jpg
 a84e9fe1b9619f2739bf8d2b38ef4e54945aaadd256231aac7d7d1234d4e3040  cover_mark/winged_bolt_mark_large.png
 c24ed13d93289c01843c03e0035879a191ee9aa9dc2f421ce37d0b89bb2929c8  cover_mark/agi_logo_gold_large.png
@@ -16,6 +32,8 @@ a01fe828c3a39f32e44ac1c7c2cdb88d33a19129d921419e61dcb694006c22ba  cover_mark/bef
 f9edb390d04addf92d2e5a75e41eabb610cecb9db6e1268c260f96fa0ad73f35  cover_mark/cleanup_compare.jpg
 90d1ef887b38d92070e48b2f9c3a03546f174334ee1c551b59eafd9d2d8a3425  cover_mark/mark_final_zoom.jpg
 #
+# superseded by ISSUE01-COVER-V15 (2026-10-15 4:40 PM ET):
+# 2f92504c03bb70f547561ef756782dd6a0bc2790b21c97b533d72130e9d3a3b6  RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg  (superseded: ISSUE01-COVER-MARK-1 composite print)
 # superseded (pre-COVER-MARK-1, 2026-10-15 1:23 AM ET):
 # 3a575283f4a1c76785cef38f54de99f4073b57983345679606e9dd34a2ba8275  BIBLE_FINAL_master.png  (superseded)
 # b237acb54cf47de30a68d8f63656876b6c5daf1ffe5656b6c901cc1c4137ed8d  RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg  (superseded)

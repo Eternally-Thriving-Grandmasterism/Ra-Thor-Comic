@@ -1,18 +1,33 @@
 # Issue 01 — Ra-Thor Character Bible (locked master)
 
-**Status:** owner-locked master (Sherif, 2026-10-15, 1:17 AM ET). How this repo applies it is tagged **PROPOSED CANON — pending council ratification**, under `00_FIDELITY_PROTOCOL.md`. `00`, `01`, `04` and `09` are not edited by this file; where they disagree, see "Conflicts with standing canon" below.
+**Status:** owner-locked cover (ISSUE01-COVER-V15, council GO, 2026-10-15 ~4:23 PM ET): a single true Grok Imagine render by Sherif (§0). The 1:17 AM ET master and the v10.1 / v11 / v12 composites are superseded (§6). How this repo applies it is tagged **PROPOSED CANON — pending council ratification**, under `00_FIDELITY_PROTOCOL.md`. `00`, `01`, `04` and `09` are not edited by this file; where they disagree, see "Conflicts with standing canon" below.
 
 **Precedence:** this written spec wins over the image wherever the two disagree. The image shows the look; the text sets the rules.
 
-## 1. Locked master
+## 0. Final cover: ISSUE01-COVER-V15
 
 | Item | Value |
 |---|---|
-| Master | `BIBLE_FINAL_master.png` (640 × 720 px) |
+| Art | ONE true render by Sherif, untouched: `RaThor_Issue01_Cover_V15_source_GrokImagine_1152x1728.jpg` (1152 × 1728 px, byte-identical to the render). No inpainting, outpainting, extension, pasted parts or repainting, per Sherif's no-composites ruling. |
+| Provenance | Grok Imagine in the Grok app, 2026-10-15, made from council-written prompts. |
+| Hi-res art (no text) | `RaThor_Issue01_Cover_V15_art_notext_4x_4608x6912.png`: 4x-UltraSharp (spandrel, CPU) plus a tone lock (back-projection, so the 4x shrunk back to 1x matches the render: mean abs. difference 0.65/255, against 2.58 without the lock). Embedded sRGB. |
+| Print file (superseded) | Until ISSUE01-COVER-V15 this filename held the composite print: 2063 × 3150 px at 300 dpi, embedded sRGB (6.625 × 10.25 in trim plus 0.125 in bleed). The hi-res art gets ONE uniform scale (×0.4557, fit to height) and an 18 / 19 px centre crop of the sides. Nothing is stretched, extended or repainted. |
+| Type layer | `v15/title_layer_v15.png` (full-sheet RGBA): the locked RA⚡THOR / LIVING THUNDER band, the winged-bolt mark in its divider and the Cinzel `ISSUE: #1` seal, with their soft shadow. These are the v10.1 pixels, uniformly scaled to 0.80 of their v10.1 print size (947 × 295 px). They sit in the top-right sky at x 1000–1946, y 116–410: glyphs and seal at least 84 px (0.28 in) inside trim, and clear of the hammer head, halo, wings and their glow. The only change to the layer is lettering cleanup: two stray gold flecks were removed, one left of LIVING THUNDER and one under the seal. |
+| Proofs | `v15/print_v15_guides.jpg` (trim, bleed and safe lines; no barcode box), `v15/preview_620.jpg`, and 100% crops in `v15/crops/`: face/helm, hammer top with the trim and safe lines, boots, title. |
+| Build | `v15/build_v15.py`, with `v15/upscale.py`, `v15/consistency.py` and `v15/clean_title.py`. The base title layer comes from the production box (`issue01/v11/title_layer.py`). |
+| Barcode | No front barcode on KDP (KDP prints its barcode on the back cover). A front-barcode variant is needed only for the direct market, if that channel is chosen. |
+
+**Final design (as rendered):** a godly stance on an obsidian peak with glowing gold fissures. Symmetrical gold helm with wings. A thick forged-metal halo ring framing a glowing sun sphere, behind the head. The head is tilted down, eyes glowing gold. Obsidian armour with gold filigree and a glowing round chest disc. A black cape. A black-and-gold tower shield with a gold Eye of Horus. The stepped gold hammer is raised high, and golden lightning fills a dark storm sky. Where §1–§4 below describe the superseded master differently (small sun disc, compact wings, bronze-lined cape, gothic skyline, tabard and rim cipher, rose-gold bolts), the V15 render is the cover reference. The §5 rule still applies to any further change.
+
+## 1. Previous master (superseded by §0; kept for history)
+
+| Item | Value |
+|---|---|
+| Master | `BIBLE_FINAL_master.png` (640 × 720 px). Kept in the folder for history; no longer the cover since ISSUE01-COVER-V15. |
 | Source render | `real_v1.jpg` (640 × 720 px), kept unchanged as the provenance file |
 | Difference from the source | (Before ISSUE01-COVER-MARK-1.) Two edits only, checked pixel by pixel. (1) The issue seal (about x 518–633, y 2–117): the rayed-sun seal was removed, the sky patched, and the Cinzel gold-coin `ISSUE: #1` seal placed. (2) A stray diamond sparkle above the T of THOR (about x 370–389, y 11–24) was removed at Sherif's request (2026-10-15, about 1:23 AM ET). Every other pixel is identical to `real_v1.jpg`. ISSUE01-COVER-MARK-1 (2026-10-15) then added the winged-bolt cover mark (§4), the council artifact-sweep fixes and the tabard Easter egg (§8); before/after crops are in `cover_mark/`. |
 | Print file | `RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg`: 2063 × 3150 px at 300 dpi (6.625 × 10.25 in trim plus 0.125 in bleed). The art fills the trim width. The dark storm is extended above and below, and into the side bleed, with sky only (blurred reflected sky, plus sky-plate smoke, sparks and lightning). No figure part (shield, cape, hammer, legs) is ever mirrored into the extension. The art area is a straight upscale of the master. There are no cream bands, nothing is stretched, and nothing is cropped from the sides. |
-| Checksums | `BIBLE_FINAL_SHA256.txt`. Every image file in this folder and in `cover_mark/` verifies with `sha256sum -c --strict`; the pre-COVER-MARK-1 master and print hashes are kept as commented "superseded" lines. `BIBLE_FINAL_compare.jpg` and the four `real/*.py` build scripts are listed only as comment lines, marked "(held outside repo, in the bot store issue01_bible/)". |
+| Checksums | `BIBLE_FINAL_SHA256.txt`. Every file in this folder (except this .md and the checksum file itself), in `v15/` and in `cover_mark/` verifies with `sha256sum -c --strict`. The ISSUE01-COVER-MARK-1 print hash is kept as a commented "superseded" line, as are the pre-COVER-MARK-1 master and print hashes. `BIBLE_FINAL_compare.jpg` and the four `real/*.py` build scripts are listed only as comment lines, marked "(held outside repo, in the bot store issue01_bible/)". |
 | Style | Realistic, highly detailed painted style. Chosen by Sherif on 2026-10-15 at 1:08 AM ET. As relayed: "we have the technology, why make only cartoons". |
 
 ## 2. The hero's look
@@ -48,7 +63,7 @@
 
 ## 6. History
 
-Superseded: the v21 composite, the "A" cover pipeline, the comic-ink style, the pyramid hammer, the plain (unlit) chest disc, and every blue, navy or green element (lapis shield, emerald seals, blue tabard).
+Superseded: the v10.1, v11 and v12 cover composites (PRs #89 and #90, closed). Sherif ruled no composites: the cover must be one true render, with no inpainting, outpainting, extensions, pasted parts or repainting. Also superseded: the ISSUE01-COVER-MARK-1 composite print, the v21 composite, the "A" cover pipeline, the comic-ink style, the pyramid hammer, the plain (unlit) chest disc, and every blue, navy or green element (lapis shield, emerald seals, blue tabard).
 
 Sherif's rulings on 2026-10-14/15. Times are ET. Times marked ~ are reconstructed from file times on the production box; the rest are as relayed.
 
@@ -62,7 +77,9 @@ Sherif's rulings on 2026-10-14/15. Times are ET. Times marked ~ are reconstructe
 | 1:08 AM | Switched to a realistic painted style; `real_v1` is the best render. | **Locked** |
 | ~1:09 AM | Asked for three edits on `real_v1`: a plain chest disc, a big sun disc and a new seal (REAL v2). | Plain chest and big sun withdrawn at 1:17 AM; the seal kept |
 | 1:17 AM | Final Bible: `real_v1` exactly as is, plus the Cinzel `ISSUE: #1` seal. The glowing chest disc is preferred. | **Locked** |
-| ~1:23 AM | Remove the stray sparkle dot above the T of THOR. | **Locked** (in the master) |
+| ~1:23 AM | Remove the stray sparkle dot above the T of THOR. | Superseded with the master (the V15 title layer has no sparkle) |
+| Oct 15, afternoon | No composites: the cover must be ONE true render, with no inpainting, outpainting, extension, pasting or repainting. The v10.1, v11 and v12 composites are superseded. | **Locked** |
+| ~4:23 PM | Council GO, ISSUE01-COVER-V15: Sherif's Grok Imagine render (Grok app, 2026-10-15, made from council-written prompts), upscaled and fitted untouched, with the locked title band and seal as a separate layer. No front barcode on KDP. | **Locked** |
 
 ## 7. Credits proposal (OWNER TO CONFIRM)
 
