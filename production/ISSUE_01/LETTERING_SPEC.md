@@ -35,7 +35,7 @@ Rules:
 - [ ] Re-check the licence URL on the day of export; record the date beside the files.
 - [ ] No other font enters the book without its own row in this table.
 
-The `⚡️` in the title is drawn as vector art, not taken from an emoji font (`ISSUE_01_PRODUCTION.md` §10). Neither font above is used for it.
+The `⚡️` in the title is drawn as vector art, not taken from an emoji font (`ISSUE_01_PRODUCTION.md` §10). Neither font above is used for it. On the cover, the bolt is the rose-gold Ra-Thor app-icon bolt set as RA-THOR's hyphen (council lettering ruling, `ISSUE_01_PRODUCTION.md` §5.1).
 
 ## 3. Sizes
 
@@ -46,7 +46,8 @@ Sizes are at print size on the 6.625 × 10.25 in trim (`ISSUE_01_PRODUCTION.md` 
 | Bubble text (2.3, 4.1, 5.2, 8.1) | 10 pt on 11.5 pt | File case (D2) | Comic Neue Bold |
 | Tiny bubble (6.1, "Recycle it.") | 8 pt on 9 pt | File case (D2) | "Tiny" is locked text (E01 P4); the balloon and type are smaller than the rest |
 | Caption text (1.1, 8.1) | 10 pt on 11.5 pt | All caps, as written | Comic Neue Bold |
-| Cover title | Fit to the top-third band | As written | Cinzel; the bolt as art |
+| Cover title | Fit to the bottom title band (council frame ruling, `ISSUE_01_PRODUCTION.md` §0) | RA-THOR over LIVING THUNDER (council lettering ruling) | Cinzel with a gold-foil bevel look; the hyphen is the rose-gold app-icon bolt as vector art, no emoji; LIVING THUNDER in spaced caps |
+| Cover medallion | Fit to the medallion in the title band | `ISSUE: #1`, exactly | Cinzel; no other cover text, no tagline |
 | Title page title | 28–36 pt | As written | Cinzel |
 | Credits and indicia | 7–8 pt | As written | Comic Neue Bold or Regular |
 

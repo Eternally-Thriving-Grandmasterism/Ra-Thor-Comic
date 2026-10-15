@@ -71,7 +71,8 @@ Sources:
 - "copy, adapt, train on" mirrors `LICENSE` L9–L10 ("No license is granted to copy, adapt, train on, merchandise, or produce derivative works except by written agreement."). The mirror is proposed; `LICENSE` is untouched.
 - The fiction line restates `00_FIDELITY_PROTOCOL.md` rule 5 ("They may not claim certification, affiliation, or legal authority.") and the `README.md` council decision ("Label them fiction.").
 - The contact line is `README.md` L6.
-- The trademark line is **PROPOSED for Sherif to confirm**. It follows his OWNER RULING of 2026-10-14, 9:12 PM ET (`ISSUE_01_PRODUCTION.md` §0), as relayed: AlphaProMega Media Inc. has a partnership with Autonomicity Games Inc. and permission to use Autonomicity Games Inc.'s Ra-Thor trademark. The same ruling puts a small Autonomicity Games Inc. logo on Ra-Thor's belt buckle as a hidden Easter egg (reference: <https://acitygames.com/images/logo-dark-512.webp>; D24).
+- The trademark line is **PROPOSED for Sherif to confirm**. It follows his OWNER RULING of 2026-10-14, 9:12 PM ET (`ISSUE_01_PRODUCTION.md` §0), as relayed: AlphaProMega Media Inc. has a partnership with Autonomicity Games Inc. and permission to use Autonomicity Games Inc.'s Ra-Thor trademark. The same ruling put a small Autonomicity Games Inc. logo on Ra-Thor's belt buckle as a hidden Easter egg (reference: <https://acitygames.com/images/logo-dark-512.webp>; D24). That buckle is superseded by the council buckle lock (a gold winged sun disc with a small rose-gold bolt; `ISSUE_01_PRODUCTION.md` §0). The trademark line does not depend on the buckle and stays open.
+- **Trademark status (owner report, as relayed with card ISSUE01-COVER-STYLE-1, not verbatim):** RA-THOR is filed as a trademark under Autonomicity Games Inc., status pending. Keep the `[TM LINE: Sherif to confirm]` placeholder and its proposed wording until Sherif supplies the exact wording; this file records the report only, not the filing. A pending filing is not a registration, so the ® symbol does not apply while it is pending (see "No ™ or ® symbols", below).
 - If the trademark line goes in, the next line ("Ra-Thor and all characters … are the property of AlphaProMega Media Inc.") reads against it. One option for Sherif: "All characters, devices and settings in this issue are the property of AlphaProMega Media Inc." Not changed here; the wording of both lines is a legal call.
 
 Kept off on purpose:
@@ -86,7 +87,7 @@ Kept off on purpose:
 
 1. Credited roles and names (D8).
 2. Copyright year and first publication date.
-3. Trademark line: confirm or remove `[TM LINE: Sherif to confirm]` and the matching property line (§3); symbol, if any.
+3. Trademark line: confirm or remove `[TM LINE: Sherif to confirm]` and the matching property line (§3); symbol, if any. Sherif reports RA-THOR is filed under Autonomicity Games Inc., status pending (§3 notes); the placeholder stays until he supplies the exact wording.
 4. Back cover: still GAP (`ISSUE_01_PRODUCTION.md` §4).
 
 Closed: copyright holder and publisher, AlphaProMega Media Inc. (Sherif confirmed, 2026-10-14; §1).
