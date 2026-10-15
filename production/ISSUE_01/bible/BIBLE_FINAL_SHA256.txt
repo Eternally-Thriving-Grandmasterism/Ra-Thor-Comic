@@ -2,7 +2,7 @@
 # (winged bolt approved by Sherif 1:26 AM ET; tabard v5 'Excellent!' 2:10 AM ET). Filenames unchanged. cover_mark/ added.
 # Verify from this folder: sha256sum -c --strict BIBLE_FINAL_SHA256.txt
 5d1ac9cc4beb3ddc41224cd0db89a6eece64e63df190a1e01921a45292558ecf  BIBLE_FINAL_master.png
-2f92504c03bb70f547561ef756782dd6a0bc2790b21c97b533d72130e9d3a3b6  RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg
+35bd699f0ecf10cfbbc87499fffcfa03fccd05f1acc04c06ecbe77e58f146f91  RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg
 f3c49896d6bc54bf143e2e90f75bc03d458b7249a2950bd59f3c464b1d5d9849  real_v1.jpg
 a84e9fe1b9619f2739bf8d2b38ef4e54945aaadd256231aac7d7d1234d4e3040  cover_mark/winged_bolt_mark_large.png
 c24ed13d93289c01843c03e0035879a191ee9aa9dc2f421ce37d0b89bb2929c8  cover_mark/agi_logo_gold_large.png
@@ -15,10 +15,17 @@ b0f46b67e6cbc98e4e4d269292e2fa4dc9bd3a4461648b82cb86ca200fb22c77  cover_mark/bef
 a01fe828c3a39f32e44ac1c7c2cdb88d33a19129d921419e61dcb694006c22ba  cover_mark/before_after_6.jpg
 f9edb390d04addf92d2e5a75e41eabb610cecb9db6e1268c260f96fa0ad73f35  cover_mark/cleanup_compare.jpg
 90d1ef887b38d92070e48b2f9c3a03546f174334ee1c551b59eafd9d2d8a3425  cover_mark/mark_final_zoom.jpg
+146d759ce6c7fbbdde0d8265d1ed6dc0e4ad9c30d4b6fa05c76f5adf031222ec  cover_mark/pillars_print_preview.jpg
+11a2b05ccd86a64929b377c976807ec0f1b785ec68041cf7c3776a5efae8f23a  cover_mark/pillars_crop2x_right_column_shield.jpg
+a2dad3628c923cb2b9ef8a118bc72411d26c0e7227394194983fbd3d470ef27b  cover_mark/pillars_crop2x_left_column_hammer.jpg
+8bc18e870adf9ad0e03f5c08b562267971ff3d9bb08802ec43ddd5ddd8190637  cover_mark/pillars_crop2x_top_capitals.jpg
 #
 # superseded (pre-COVER-MARK-1, 2026-10-15 1:23 AM ET):
 # 3a575283f4a1c76785cef38f54de99f4073b57983345679606e9dd34a2ba8275  BIBLE_FINAL_master.png  (superseded)
 # b237acb54cf47de30a68d8f63656876b6c5daf1ffe5656b6c901cc1c4137ed8d  RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg  (superseded)
+# superseded within ISSUE01-COVER-MARK-1 (2026-10-15):
+# 68d5d6bdab0724265b27bea83bb36fba7e53d3312736e43bd5547aba5758e11c  RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg  (superseded: mirrored shield in the bleed)
+# 2f92504c03bb70f547561ef756782dd6a0bc2790b21c97b533d72130e9d3a3b6  RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg  (superseded: sky-only bleed read as a cut-off edge; replaced by the pillar frame)
 #
 # held outside repo (unchanged):
 # 9a5ee2d24b573502b20e59ac22e6f63fe4e6cf9b805be1474ddca464c9677bd7  BIBLE_FINAL_compare.jpg  (held outside repo, in the bot store issue01_bible/)
