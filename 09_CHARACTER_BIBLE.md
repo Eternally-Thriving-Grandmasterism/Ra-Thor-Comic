@@ -13,7 +13,7 @@ Catch lines, rotate, do not stack:
 
 ## The TOLC
 
-Not a character. A threshold drawn as a gold lattice arch. Left lane stamped NO. Right lane stamped LIVE.
+Not a character. A threshold drawn as a gold lattice arch. Left lane stamped NO. Right lane stamped LIVE. Things come to the TOLC and are weighed; the Mercy Pathways (Ra-Thor's mercy checks, one name, never numbered on the page) are how they are weighed (`05_LORE_BIBLE.md` §1).
 
 ## Idea Recycler
 
