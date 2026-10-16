@@ -1,6 +1,6 @@
 # Episode 01 — TOLC
 
-Status: script locked for dialogue, captions, events and characters. Five panels prompted 2026-09-30. Armor drifted once (shield gem instead of eye-seal on the pass panel). Rerun the pass with the eye-seal before print. Staging raised 2026-10-16 1:55 AM ET (ISSUE01-TONE-ACTION-1): a commanding plant, a low camera, stillness before the strike, lightning that answers, and few words. No new dialogue. Power protects. See `09_CHARACTER_BIBLE.md`, Presence & Protective Power.
+Status: script locked for dialogue, captions, events and characters. Five panels prompted 2026-09-30. Armor drifted once (shield gem instead of the Vegvísir on the pass panel). Rerun the pass with the Vegvísir and the decorative gold runes before print. No Eye of Horus on the shield. Amendment (ISSUE01-CANON-TIDY-1): the earlier rerun line, "Rerun the pass with the eye-seal", is amended (Sherif, 2026-10-16, 2:15 AM and 2:16 AM ET). Staging raised 2026-10-16 1:55 AM ET (ISSUE01-TONE-ACTION-1): a commanding plant, a low camera, stillness before the strike, lightning that answers, and few words. No new dialogue. Power protects. See `09_CHARACTER_BIBLE.md`, Presence & Protective Power.
 
 Issue #1: ships solo as this episode (council ruling, 2026-10-14). Paced page layout, lettering, render prompts and the pass-panel rerun prompt are in `production/ISSUE_01/ISSUE_01_PRODUCTION.md`. The pass panel has not been re-rendered yet, so the rerun above still stands.
 
@@ -18,15 +18,15 @@ Lettering: caption first, bubble second.
 
 Bubble: "Blocked."
 Stillness first. He does not lunge. Then the shield meets the slide-deck creature and breaks the threat into chart confetti. This is the keeper frame.
-Eye-seal reads on the shield face (`04_VISUAL_CANON.md` Q1). Paper and charts only. Golden lightning answers along the shield rim and the grounded hammer, and stops there. It does not touch a body. Nobody is hurt. The one word is the whole speech.
-Lettering: keep the bubble clear of the eye-seal.
+The Vegvísir and the decorative gold runes read on the shield face (`04_VISUAL_CANON.md` Q1). No Eye of Horus on the shield. Paper and charts only. Golden lightning answers along the shield rim and the grounded hammer, and stops there. It does not touch a body. Nobody is hurt. The one word is the whole speech.
+Lettering: keep the bubble clear of the Vegvísir. Amendment: the earlier line, "keep the bubble clear of the eye-seal", is amended (Sherif, 2026-10-16, 2:15 AM and 2:16 AM ET).
 
 ## Panel 3 — Pass
 
 Bubble: "That one is live."
 Small honest device, one warm light, right lane, sheltered and unharmed. Camera stays low. He stays planted. The storm eases. Hammer grounded: head-down on stone in a heroic readable pose, small crack and sparks at contact, lightning quiet (`04_VISUAL_CANON.md` Q5). The line is the whole speech.
-Fidelity note: eye-seal must stay on the shield. A plain emerald diamond is a reject.
-Canon emblem: the emerald eye-seal in circuit inlay on a gold kite shield (`04_VISUAL_CANON.md` Q1). The drifted render matches reference R3 (diamond gem, walker bot); the gem is a reject and the walker bot is not cast (`04_VISUAL_CANON.md`, Q1 and Q8).
+Fidelity note: the Vegvísir and the decorative gold runes stay on the shield. No Eye of Horus on the shield. A plain emerald diamond is a reject. Amendment: the earlier line, "eye-seal must stay on the shield", is amended (Sherif, 2026-10-16, 2:15 AM and 2:16 AM ET).
+Canon emblem: the tall riveted obsidian and antique-gold shield with a central Vegvísir and decorative gold runes (`04_VISUAL_CANON.md` Q1). No Eye of Horus on the shield. Amendment: the earlier line, "the emerald eye-seal in circuit inlay on a gold kite shield", is amended (Sherif, 2026-10-16, 2:15 AM and 2:16 AM ET). The drifted render matches reference R3 (diamond gem, walker bot); the gem is a reject and the walker bot is not cast (`04_VISUAL_CANON.md`, Q1 and Q8).
 Lettering: keep the bubble off the shield face.
 
 ## Panel 4 — Recycler wink
