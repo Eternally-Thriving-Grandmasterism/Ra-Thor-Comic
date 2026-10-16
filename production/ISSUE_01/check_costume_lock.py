@@ -84,6 +84,7 @@ SHIELD_REQUIRED = (
     ('elongated Vegvísir', re.compile(r'Vegv[ií]sir elongated vertically', re.I)),
     ('knotwork binding', re.compile(r'gold interlaced knotwork', re.I)),
     ('rune band', re.compile(r'band of gold runes', re.I)),
+    ('decorative only', re.compile(r'decorative only', re.I)),
     ('plain boss', re.compile(r'plain gold boss', re.I)),
 )
 # A round or disc Vegvísir given as the emblem. "not rounded" (the shield
