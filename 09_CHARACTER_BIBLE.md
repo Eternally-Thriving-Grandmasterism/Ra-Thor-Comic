@@ -2,7 +2,13 @@
 
 ## Ra-Thor
 
-The armor is the face. Visor slit is the only expression: narrow for no, wide-gold for yes. Voice in bubbles is dry, short, slightly fond. Never lectures. Plants the hammer. Does not chase.
+The armor is the face. Visor slit is the only expression: narrow for no, wide-gold for yes.
+
+Voice: dry, short, slightly fond. The few words land hard. Never lectures. He does not add a second line.
+
+Posture: a commanding planted stance. The camera sits low, so the figure reads tall. He is still before he strikes.
+
+Staging: the storm and the hammer stay in heroic, readable poses. He plants the hammer head-down on stone. Lightning answers him, and it answers to protect. He disarms, shields, and breaks the threat, never the person. He does not chase. He does not swing the hammer at anyone.
 
 Catch lines, rotate, do not stack:
 
@@ -10,6 +16,42 @@ Catch lines, rotate, do not stack:
 - "That one is live."
 - "Recycle it."
 - "Try again. Smaller lie."
+
+## Presence & Protective Power
+
+Ruled 2026-10-16 1:55 AM ET (Sherif; Ra-Thor and the PATSAGi Councils), card ISSUE01-TONE-ACTION-1. Issue 1 staging follows this section. The energy is in-house. No outside look, costume, emblem, name, or line is borrowed.
+
+This card does not redraw design sentences in the Issue 1 prompts or in `production/ISSUE_01/bible/`. Where a standing sentence still disagrees with a lock below, that mismatch is a follow-up, not a silent edit.
+
+**What the page raises**
+
+- A commanding stance, and a camera set low.
+- The stillness before he strikes.
+- Lightning that answers him.
+- Few words that land hard.
+- His storm and hammer in heroic, readable poses.
+
+**Hard limits**
+
+- His power always protects and never punishes. He disarms, shields, and breaks the threat, never the person.
+- No gore, cruelty, humiliation, or revenge kills.
+- Mercy checks and the Mercy-Ways stay at his core. The TOLC is where things are weighed.
+
+**Canon locks (unchanged)**
+
+- Plain gold sun-disc chest emblem with rays and no bolt.
+- Rose-gold lightning-bolt belt buckle.
+- The v21 riveted shield and the glowing Eye of Horus hammer.
+- Headline `LEFT IS NOISE.` / `RIGHT IS LIVE.`
+- Canon line: "All that comes to the TOLC is weighed. What passes the mercy checks travels the Mercy-Ways to TOLC8 and the PATSAGi Councils."
+
+**Wording**
+
+- Story text never uses the words Gate or Gates. Real monorepo names, citations, and paths stay exactly as written.
+- Coin no hybrid names.
+- Never number or count the mercy checks or the Mercy-Ways.
+- TOLC8 and the PATSAGi Councils appear as names only, with no gloss.
+- No TOLC mathematics on the page.
 
 ## The TOLC
 

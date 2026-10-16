@@ -259,6 +259,8 @@ This is a work of fiction. Contact: info@Rathor.ai
 
 The panel breakdown is pacing under the 2026-10-14 ruling. Locked panels carry their E01 text; every `PACING` panel is silent and shows only what the cited locked panel and canon already show. Panel geometry (tiers, sizes) and framing choices (camera, light direction) are **PROPOSED CANON — pending council ratification**.
 
+**Tone (ISSUE01-TONE-ACTION-1, Sherif 2026-10-16 1:55 AM ET; ruled by Ra-Thor and the PATSAGi Councils).** Staging only. Dialogue, captions, events and characters stay the locked E01 text. The pages raise a commanding plant and a low camera, the stillness before the strike, lightning that answers and then stops, few words, and a heroic readable hammer that stays head-down. The strike breaks the threat (paper and charts). It never lands on a person. Rules: `09_CHARACTER_BIBLE.md`, Presence & Protective Power. Design sentences in this file (chest disc, buckle, shield, hammer) are not rewritten here.
+
 ### Style lock (card ISSUE01-STYLE-1)
 
 **PROPOSED CANON — pending council ratification:** the style line, the character line, the stem swap, the eye states, the band add-on, the render size, the crop rule and the proposed `04` wording below. The owner rulings are quoted as given.
@@ -467,7 +469,7 @@ Sources: `10` The Threshold; `09` The TOLC; `04` The TOLC threshold (R3), Q1–Q
 ### Page 1 — Opening splash
 
 **1.1 · [E01 P1], caption half.** Full page.
-Prompt: [style] + [stem, silent] + [set] + full-page wide establishing shot, Night Watch silhouette: Ra-Thor full figure, low angle, under the gold lattice arch, both lanes in frame, the helm's up-swept wings and the slim halo ring breaking the skyline, cape dark and heavy, hammer head-down on stone, small crack and gold sparks at contact, negative space around the figure, dramatic backlight and rim light, the two glowing eyes behind the T-visor the brightest small points. + [guards]
+Prompt: [style] + [stem, silent] + [set] + full-page wide establishing shot, Night Watch silhouette: Ra-Thor full figure in a commanding planted stance, camera low under him so he reads tall, storm held still behind the arch, under the gold lattice arch, both lanes in frame, the helm's up-swept wings and the slim halo ring breaking the skyline, cape dark and heavy, hammer head-down on stone in a heroic readable plant, small crack and gold sparks at contact, lightning quiet in the cloud, negative space around the figure, dramatic backlight and rim light, the two glowing eyes behind the T-visor the brightest small points. + [guards]
 Text: caption only (§7). The P1 bubble moves to 2.3, so the caption is read first, as in the file.
 
 ### Page 2 — The lanes (P1 continued). Three panels: two inserts side by side, one wide tier below.
@@ -481,41 +483,41 @@ Prompt: [style] + [stem, silent] + [set] + tight insert on the stamped word LIVE
 Source: `09`, The TOLC (right lane stamped LIVE).
 
 **2.3 · [E01 P1], bubble half.** Wide tier.
-Prompt: [style] + [stem] + [set] + three-quarter low-angle shot of Ra-Thor planted under the arch, both lanes leading away from him, shield upright, rising above his shoulder, its obsidian field and gold eye-seal facing out, hammer head-down on stone, small crack and sparks at contact. Speech bubble: "Left is noise. Right is live." + [band] + [guards]
+Prompt: [style] + [stem] + [set] + three-quarter low-angle shot of Ra-Thor in a commanding plant under the arch, still before any strike, both lanes leading away from him, shield upright, rising above his shoulder, its obsidian field and gold eye-seal facing out, hammer head-down on stone in a heroic readable pose, small crack and sparks at contact, the storm waiting. Speech bubble: "Left is noise. Right is live." + [band] + [guards]
 Source: E01 P1; `03` Night Watch (full figure or three-quarter).
 
 ### Page 3 — Block lead-in (silent). Three tiers; the last panel sits at the page turn.
 
 **3.1 · PACING (lead-in to E01 P2).** The slide-deck creature, whole, before it reaches the shield.
-Prompt: [style] + [stem, silent] + [set] + medium shot down a lane toward Ra-Thor, a cartoon slide-deck creature made of slides and charts in the foreground, intact, no face, Ra-Thor planted beyond it under the arch, hammer head-down. + [band] + [guards]
+Prompt: [style] + [stem, silent] + [set] + medium shot down a lane toward Ra-Thor, a cartoon slide-deck creature made of slides and charts in the foreground, intact, no face, Ra-Thor planted beyond it under the arch and utterly still, the beat before he strikes, hammer head-down, no lunge. + [band] + [guards]
 Source: E01 P2 ("A slide-deck creature"). The lane it uses is GAP (§11, D4); until ruled, frame it so the lane stamp does not read.
 
 **3.2 · PACING (lead-in to E01 P2).** The shield, eye-seal out.
-Prompt: [style] + [stem, silent] + [set] + tight on the huge riveted tower shield held forward, its obsidian field with a faint etched lattice and a thick, riveted antique-gold rim, the large gold winged Eye of Horus eye-seal clearly readable at its centre, gauntlet on the grip. + [band] + [guards]
+Prompt: [style] + [stem, silent] + [set] + tight on the huge riveted tower shield held forward in a readable heroic guard, its obsidian field with a faint etched lattice and a thick, riveted antique-gold rim, the large gold winged Eye of Horus eye-seal clearly readable at its centre, gauntlet on the grip, the arm still. + [band] + [guards]
 Source: E01 P2 ("on the shield"); `04` Q1; OWNER RULINGS 9:20 and 10:46 PM (shield) and the council palette ruling, §0.
 
 **3.3 · PACING (reaction, before E01 P2).** The eyes narrow.
-Prompt: [style] + [stem, silent] + [set] + extreme close-up on the closed angular great-helm and its crest ridge, the helm's compact up-swept wings, the slim, empty halo ring behind the head at frame edge, the two white-hot gold eyes behind the T-visor narrowed to two thin glowing lines, night rim light on the gold filigree. + [band] + [guards]
+Prompt: [style] + [stem, silent] + [set] + extreme close-up on the closed angular great-helm and its crest ridge, the helm's compact up-swept wings, the slim, empty halo ring behind the head at frame edge, the two white-hot gold eyes behind the T-visor narrowed to two thin glowing lines, night rim light on the gold filigree, stillness, he has not struck. + [band] + [guards]
 Source: `09`, Ra-Thor ("narrow for no"), applied to the eyes (OWNER RULING 8:57 PM; D20).
 
 ### Page 4 — The block. Two panels: one large panel, one strip below.
 
 **4.1 · [E01 P2], keeper frame.** About two-thirds of the page.
-Prompt: [style] + [stem] + [set] + Ra-Thor planted, shield forward with the large gold winged Eye of Horus clearly readable on its obsidian field, a cartoon slide-deck creature crumpling into a burst of chart confetti against the shield, paper and charts only, nobody hurt, hammer head-down on stone, small crack and sparks at contact, one electric accent on the impact. Speech bubble: "Blocked." + [guards]
+Prompt: [style] + [stem] + [set] + after the stillness, Ra-Thor planted, shield forward with the large gold winged Eye of Horus clearly readable on its obsidian field, the shield breaks the threat: a cartoon slide-deck creature crumpling into a burst of chart confetti against the shield, paper and charts only, nobody hurt, no body struck, golden lightning with a white core answers along the shield rim and the grounded hammer and stops there, hammer head-down on stone in a heroic readable pose, small crack and sparks at contact. Speech bubble: "Blocked." + [guards]
 Fidelity: eye-seal must read on the shield face; a plain gem of any colour, emerald included, is a reject (as E01 P3, and `04` Q1 as amended by the 9:20 PM ruling).
 
 **4.2 · PACING (reaction, after E01 P2).** The confetti settles.
-Prompt: [style] + [stem, silent] + [set] + low strip panel at stone level, chart confetti settling on the dark stone at the foot of the shield, the hammer head-down beside it, small crack and sparks at contact. + [band] + [guards]
+Prompt: [style] + [stem, silent] + [set] + low strip panel at stone level, chart confetti settling on the dark stone at the foot of the shield, the hammer head-down beside it in a readable plant, small crack and sparks at contact, the answering lightning gone quiet, paper only, no one harmed. + [band] + [guards]
 Source: E01 P2 (chart confetti) and E01 P4 (the confetti is still there to be recycled).
 
 ### Page 5 — The pass (the eye-seal rerun). Three panels: one wide tier, one large panel, one small insert.
 
 **5.1 · PACING (lead-in to E01 P3).** The device in the right lane.
-Prompt: [style] + [stem, silent] + [set] + medium-wide shot of the right lane under the arch, a small honest device with one warm light in the lane, the LIVE stamp readable on the stone beside it, Ra-Thor at frame edge, hammer head-down. + [band] + [guards]
+Prompt: [style] + [stem, silent] + [set] + medium-wide shot of the right lane under the arch, camera low, a small honest device with one warm light sheltered in the lane and unharmed, the LIVE stamp readable on the stone beside it, Ra-Thor at frame edge still planted, the storm eased, hammer head-down. + [band] + [guards]
 Source: E01 P3 ("Small honest device, one warm light, right lane"); `09` The TOLC. The device's design beyond that line is GAP (§11, D5).
 
 **5.2 · [E01 P3], RERUN. Pass panel.** Large panel.
-Prompt: [style] + [stem] + [set] + Ra-Thor planted at the arch, three-quarter view, huge riveted tower shield held upright at his side, its top rising above his shoulder and its pointed base at mid-shin, clear of the chest disc, its face turned toward the viewer, an obsidian field with a faint etched lattice and a thick, riveted antique-gold rim, a large glowing gold winged Eye of Horus at the centre of the shield face, clearly an eye glyph with wings, set into the faint lattice, closed helm with compact up-swept gold wings and two eyes glowing white-hot gold behind the T-visor, a slim, empty halo ring glowing white-hot gold behind the head, on the chest plate a plain round compact gold sun disc with no rays and no bolt over it, a gold winged sun-disc belt buckle with a small rose-gold bolt at its centre, obsidian cape with a burnished bronze-gold lining, polished antique-gold hammer head-down on stone with a small crack and gold sparks at contact, a small honest device with one warm light in the right lane before him. Speech bubble: "That one is live." Not a diamond, not a faceted jewel, not a round gem, not a plain shape of any colour on the shield, no emerald on the shield; not a four-legged walker robot; no chest eye, no other chest disc or medallion, no bolt on the chest; no emerald visor; no blue anywhere, no rays on the chest. + [guards]
+Prompt: [style] + [stem] + [set] + Ra-Thor in a commanding planted stance at the arch, camera low, three-quarter view, huge riveted tower shield held upright at his side, its top rising above his shoulder and its pointed base at mid-shin, clear of the chest disc, its face turned toward the viewer, an obsidian field with a faint etched lattice and a thick, riveted antique-gold rim, a large glowing gold winged Eye of Horus at the centre of the shield face, clearly an eye glyph with wings, set into the faint lattice, closed helm with compact up-swept gold wings and two eyes glowing white-hot gold behind the T-visor, a slim, empty halo ring glowing white-hot gold behind the head, on the chest plate a plain round compact gold sun disc with no rays and no bolt over it, a gold winged sun-disc belt buckle with a small rose-gold bolt at its centre, obsidian cape with a burnished bronze-gold lining, polished antique-gold hammer head-down on stone in a heroic readable pose with a small crack and gold sparks at contact, the storm eased, golden lightning quiet, a small honest device with one warm light sheltered and unharmed in the right lane before him, the line is the whole speech. Speech bubble: "That one is live." Not a diamond, not a faceted jewel, not a round gem, not a plain shape of any colour on the shield, no emerald on the shield; not a four-legged walker robot; no chest eye, no other chest disc or medallion, no bolt on the chest; no emerald visor; no blue anywhere, no rays on the chest. + [guards]
 Source: E01 P3 and its Fidelity note; `04` Q1 ("as in R4"), Q2, Q3, Q4, Q5, Q8; the wings on the eye glyph are Sherif's design lock (§6 Style lock, ruling 3).
 Reference images: if the tool takes them, give the rathor.ai hero image or the first frame of the Rathor.ai knight video (§6 Style lock); R4 is a fallback. The reference shield has a gold face and its eye has no wings; the prompt's tower shape, obsidian field, antique-gold rim and winged gold eye govern. Never give R3 for this panel; R3 is the "That one can live." reference with the diamond gem and the walker bot (`04`, Primary set).
 
@@ -534,13 +536,13 @@ Reference images: if the tool takes them, give the rathor.ai hero image or the f
 The pass panel is not re-rendered in this PR. Apart from the cover design reference (§5.1; D27), the repo stores no images (`04` header). Until a render passes this check, the E01 status line's rerun instruction stands.
 
 **5.3 · PACING (reaction, after E01 P3).** The eyes flare gold.
-Prompt: [style] + [stem, silent] + [set] + small insert, close on the T-visor, the two eyes behind it flared wide, bright and white-hot gold. + [guards]
+Prompt: [style] + [stem, silent] + [set] + small insert, close on the T-visor, the two eyes behind it flared wide, bright and white-hot gold, the yes in the eyes, no extra words. + [guards]
 Source: `09`, Ra-Thor ("wide-gold for yes"), applied to the eyes (OWNER RULING 8:57 PM; D20).
 
 ### Page 6 — The Recycler wink. Three panels: one wide tier, two below.
 
 **6.1 · [E01 P4].** Wide tier.
-Prompt: [style] + [stem] + [set] + edge of frame: one of the Idea Recycler's twin hoppers (horizontal drum, THEORY IN / CONCEPTS IN hoppers, gauge, power core, OUTPUT tray) eating chart confetti, Ra-Thor in the background still planted and facing the lanes, not looking at the machine, head and visor turned away from the hopper, hammer head-down. Tiny speech bubble spoken by Ra-Thor: "Recycle it.", its tail aimed at his T-visor in the background. No wall window, no seated figures, no green indicator light, no blue or cyan lights. + [band] + [guards]
+Prompt: [style] + [stem] + [set] + edge of frame: one of the Idea Recycler's twin hoppers (horizontal drum, THEORY IN / CONCEPTS IN hoppers, gauge, power core, OUTPUT tray) eating chart confetti, Ra-Thor in the background still planted and facing the lanes, not looking at the machine, head and visor turned away from the hopper, stillness holding, hammer head-down in a readable plant. Tiny speech bubble spoken by Ra-Thor: "Recycle it.", its tail aimed at his T-visor in the background, the tiny line lands and he adds nothing. No wall window, no seated figures, no green indicator light, no blue or cyan lights. + [band] + [guards]
 Source: E01 P4; `09` Idea Recycler; `04` Q9 (Ω-7 design). Speaker: Ra-Thor (council ruling, 2026-10-14, §0). He does not turn toward the hopper; only the tail reaches him. The added negatives block what post image 1 shows beside the Recycler (§6 Style lock; `04` Q10, Q3).
 
 **6.2 · PACING (insert, E01 P4).** The three cards.
@@ -548,23 +550,23 @@ Prompt: [style] + [stem, silent] + [set] + tight insert on the Recycler's OUTPUT
 Prop counts: three cards (E01 P4). Source: E01 P4; `04` R6 card art; `09`. CLEAN card text: GAP (§11, D12).
 
 **6.3 · PACING (reaction, E01 P4).** Ra-Thor does not look.
-Prompt: [style] + [stem, silent] + [set] + Ra-Thor from behind and to one side, still facing the lanes, the Recycler and its cards behind him out of focus, hammer head-down on stone. + [guards]
+Prompt: [style] + [stem, silent] + [set] + low angle on Ra-Thor from behind and to one side, still facing the lanes, commanding even at rest, the Recycler and its cards behind him out of focus, hammer head-down on stone. + [guards]
 Source: E01 P4 ("Ra-Thor does not look").
 
 ### Page 7 — Closer lead-in (silent). Two panels; the last sits at the page turn.
 
 **7.1 · PACING (establishing, before E01 P5).** Pull back.
-Prompt: [style] + [stem, silent] + [set] + wide pull-back of the Threshold at night, Ra-Thor small in frame, planted under the gold lattice arch, both lanes in frame, backlight and rim light, negative space. + [guards]
+Prompt: [style] + [stem, silent] + [set] + low wide pull-back of the Threshold at night, Ra-Thor small in frame and still commanding, planted under the gold lattice arch, both lanes in frame, the storm quiet, backlight and rim light, negative space. + [guards]
 Source: `10` The Threshold; `03` Night Watch silhouette (closer use).
 
 **7.2 · PACING (insert, before E01 P5).** The hammer.
-Prompt: [style] + [stem, silent] + [set] + tight insert on the polished antique-gold thunder hammer head-down on dark stone, its own cross-shaped stepped head, tiered blocks either side of a raised square centre boss bearing a glowing digital gold Eye of Horus, the long engraved gold haft carved with rune knotwork rising out of frame toward the gauntlet and the glowing gold crystal spike at its base, small crack and gold sparks at contact, not a plain rectangular block. + [guards]
+Prompt: [style] + [stem, silent] + [set] + tight insert on the polished antique-gold thunder hammer head-down on dark stone in a heroic readable pose, its own cross-shaped stepped head, tiered blocks either side of a raised square centre boss bearing a glowing digital gold Eye of Horus, the long engraved gold haft carved with rune knotwork rising out of frame toward the gauntlet and the glowing gold crystal spike at its base, small crack and gold sparks at contact, golden lightning with a white core answering at the stone and going nowhere else, not a plain rectangular block, not swung. + [guards]
 Source: `04` Q5 and Ra-Thor as drawn (Hammer); OWNER RULINGS 8:45 PM (gold Eye of Horus), 9:04 PM (polished gold, poses) and 9:20 PM (cross-shaped stepped head, digital eye on the centre boss, engraved gold haft, crystal spike), 10:18 PM (the owner's hammer reference), §0; council proportions and symbols rulings (head about helm size, rune knotwork). They supersede ruling 2's "plain hammer head" (D15 closed). Head-down, as E01 keeps the hammer grounded. Sets up the P5 caption.
 
 ### Page 8 — Closer splash
 
 **8.1 · [E01 P5].** Full page.
-Prompt: [style] + [stem] + [set] + full-page close-up on the closed angular great-helm, visor only, two eyes glowing white-hot gold behind the T-visor, light only, no face, the crest ridge and the helm's compact up-swept wings, the slim, empty halo ring behind the head catching rim light, deep shadow. Speech bubble: "Next." + [guards]
+Prompt: [style] + [stem] + [set] + full-page low commanding close on the closed angular great-helm, visor only, two eyes glowing white-hot gold behind the T-visor, light only, no face, the crest ridge and the helm's compact up-swept wings, the slim, empty halo ring behind the head catching rim light, deep shadow, the storm answered and gone quiet. Speech bubble: "Next." + [guards]
 Text: bubble, then caption (§7). Eye state (narrow, steady or wide) is not in the locked file: GAP (§11, D6). Speaker: GAP (§11, D1).
 
 ## 7. Lettering script
@@ -617,6 +619,14 @@ Placement within each panel is **PROPOSED CANON — pending council ratification
 - Anything copied from the Ra-Thor or the Recycler room in Sherif's style-reference post: green visor glyph, emerald kite chest seal, pharaoh-style helm, crested helm, falcon, green lightning, the COUNCIL OF PRACTICALS window, a green indicator light (§6 Style lock). **PROPOSED CANON — pending council ratification** as a package line; each item is already a canon Reject.
 - Anything copied from the character-reference video or the rathor.ai hero image that canon rejects: the wingless shield eye, the gold shield face, the square block hammer head, a shoulder without its seal, the round chest medallion, the thick halo ring and its big wings, the rendered look on a panel (§6 Style lock). **PROPOSED CANON — pending council ratification** as a package line.
 - A panel that drops the style lock: painted or rendered modelling in place of inks, light or no hatching, glow anywhere but the eyes, halo ring, chest sun disc, shield eye, hammer eye, sparks, hammer spike, golden lightning and shoulder-seal eye, or a cream bubble (§6 Style lock; `04` Q11, Q13).
+
+**Tone rejects (ISSUE01-TONE-ACTION-1):**
+
+- A lunge, a chase, or a strike that lands on a person. The block breaks paper and charts. It does not break a body.
+- Lightning used to punish, burn, or hit anyone. It answers along the shield and the grounded hammer, and it stops there.
+- Gore, cruelty, humiliation, or a revenge kill.
+- Extra words beyond the locked bubble on that panel.
+- The hammer raised or swung in an issue #1 story beat (E01: "hammer still grounded").
 
 ## 9. House notes for copy and credits
 
