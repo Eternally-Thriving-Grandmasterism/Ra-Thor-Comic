@@ -10,7 +10,7 @@ Score and cues for Ra-Thor⚡️Living Thunder (comic motion and trailer use, an
 
 | Layer | Use |
 |---|---|
-| **Synthwave (lead)** | Analog-style polysynth pads, gated drums, arpeggiated bass, warm saw leads. The default sound of the series. |
+| **Synthwave (lead)** | Analog-style polysynth pads, clipped drums, arpeggiated bass, warm saw leads. The default sound of the series. |
 | **Darksynth (siege only)** | Driven bass, distortion, harder kicks. Only for siege cues, matching "Obsidian fortress plate appears only when the TOLC is under siege" (`01_VISUAL_STYLE_GUIDE.md`). |
 | **Ambient drone beds** | Long pads, sub drones, slow filter motion. |
 | **Choir swell (sparing)** | Choir pads and low brass-style synth for the one big moment per episode, at most. Wordless in episodes (see §5, Sung words). |
@@ -29,7 +29,7 @@ One cue style per mode. Mode names match `03_TONE_SPECS.md`.
 
 | Mode | Cue style | Tempo | Instrumentation | Do not |
 |---|---|---|---|---|
-| **Snap mode** | Bright, punchy synthwave. The full kit enters on panel 1 and **hard-stops** on the reversal. The button is the "Blocked." or "That one is live." stinger. | 112–124 BPM, 4/4 | Gated snare, octave bass arp, bright saw lead, one electric FX hit on the impact frame | Frantic build-ups, drops, "beat-down" hits |
+| **Snap mode** | Bright, punchy synthwave. The full kit enters on panel 1 and **hard-stops** on the reversal. The button is the "Blocked." or "That one is live." stinger. | 112–124 BPM, 4/4 | Tight, short-tail snare, octave bass arp, bright saw lead, one electric FX hit on the impact frame | Frantic build-ups, drops, "beat-down" hits |
 | **Lab Night mode** | Cartoon-lab groove: a loop that **hiccups** (tape-stop, stutter, skipped beat) and then resumes. Three card stingers for OBVIOUS / FERAL / CLEAN: a plain chime, a growly detuned blip, and a clean major bloom. Optional chiptune blips. | 100–112 BPM, swung | Bubbly analog bass, square-wave blips, steam-noise sweeps, the twelve-mask blip ring | Real-science sound design (no lab-equipment foley presented as a procedure) |
 | **Night Watch silhouette** | **Beatless.** A wide pad with the held 543 Hz top over the 108 Hz sub drone. A single gold bell tone when the visor slit glows. The Grounded motif played once, slowly. | Free time | 108 Hz sub drone, 432-tuned pad with the 543 Hz top, long reverb | Menace stabs, heroic fanfare (no fight pose in sound either) |
 | **Quiet Board mode** | A minimal **dossier pulse**: a muted synth tick, one sustained pad, and a low heartbeat-style kick that **drops out on the decision panel** (silence is deliberation). The block resolves to a soft major chord, smaller than expected. | 72–84 BPM | Muted pluck, sine pad, sub kick, one detuned "wrong tile" tone in the electric accent | Surveillance or hacking clichés (no modem or keyboard foley), paranoia drones |

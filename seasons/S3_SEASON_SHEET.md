@@ -133,7 +133,7 @@ Rule (not printed): **Jacque Fresco.** Cited as Sherif's named inspiration in do
 - **Q7, Powrush-MMO on the page. OPEN.** Its line stays out of every panel (council ruling, PR #31 review).
 - **Q8, owner and work names. OPEN.** Nothing in S3 names an owner, studio, game, product or work.
 - **`06_MUSIC_SPEC.md` §6. OPEN.** Item 1 (synthwave sub-flavor) and item 3 (who composes) carry forward and did not block S3 (council ruling, PR #31 review). Item 2 (vocals) is answered.
-- **TOLC.** Not used in any S3 caption or bubble; never defined, the Mercy-Ways never numbered.
+- **TOLC.** Not used in any S3 caption or bubble; never defined, the mercy checks and the Mercy-Ways never numbered.
 - **Season unlocks (`05_LORE_BIBLE.md`, Season arcs).** All three arcs in 05 are now used: S1 = A, S2 = C, S3 = B. 05 names no further arc.
 
 ## 9. Discrepancies noted across the season

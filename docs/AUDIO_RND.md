@@ -137,7 +137,7 @@ This reads the open question against rulings that are already locked, and does n
 
 | Already locked | What it decides |
 |---|---|
-| Synthwave lead: analog-style pads, gated drums, arpeggiated bass, warm saw leads (`06` §1) | The series color is warm, not a cold industrial default. |
+| Synthwave lead: analog-style pads, clipped drums, arpeggiated bass, warm saw leads (`06` §1) | The series color is warm, not a cold industrial default. |
 | Darksynth only for siege (`06` §1) | Driven bass, distortion, and harder kicks stay inside siege. That is the "dark and driving" option, and it is already fenced. |
 | Suave Hour: slow-burn, nocturnal, 84–96 BPM (`06` §2) | The trailer episode is this mode, at 88 BPM (`screen/S1E01/SCORE_PLAN.md`). Nocturnal, not sunny. |
 | A colder, minor-tinged color only if the offer has strings (`06` §2, ruling 4) | S1E01 uses that tinge inside the A-major bed (F#m, C#m). It is not a series-wide dark flavor, and it is not darksynth. |

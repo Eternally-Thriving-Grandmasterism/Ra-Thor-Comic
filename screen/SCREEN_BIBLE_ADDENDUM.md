@@ -42,7 +42,7 @@ The **comic stays bound** by rule 3. Every comic panel, bubble and caption keeps
 - **S-D5 (CARRIED).** Catch lines are not stacked: `09_CHARACTER_BIBLE.md` L7 reads "Catch lines, rotate, do not stack:". One catch line per scene at most. (Per-scene reading: PROPOSED)
 - **S-D6 (CARRIED).** The councils speak only in four-word lines: `09_CHARACTER_BIBLE.md` L28 reads "They murmur in four-word bubbles. They do not outvote the TOLC."
 - **S-D7 (CARRIED).** The Founder never speaks: `05_LORE_BIBLE.md` L24 reads "Never on panel and never in a bubble." On screen this means no Founder voice, voice-over or line. (Screen reading: PROPOSED)
-- **S-D8 (PROPOSED).** Strategy that the comic puts in captions goes into on-screen dossier title cards, never into speeches. Title cards follow the caption rules: TOLC only (`05_LORE_BIBLE.md` L35, "Captions and bubbles say"), and the Mercy-Ways are never numbered.
+- **S-D8 (PROPOSED).** Strategy that the comic puts in captions goes into on-screen dossier title cards, never into speeches. Title cards follow the caption rules: TOLC only (`05_LORE_BIBLE.md` L35, "Captions and bubbles say"), and the mercy checks and the Mercy-Ways are never numbered.
 - **S-D9 (CARRIED).** The armor is the face, so there is no lip-sync and no mouth. `09_CHARACTER_BIBLE.md` L5 reads "The armor is the face. Visor slit is the only expression". Dialogue is staged on the visor slit, as `01_VISUAL_STYLE_GUIDE.md` L18 does for the comic: "tail aimed at the visor slit even though the mouth is hidden". (Screen staging: PROPOSED)
 
 ## 2. What stays verbatim from canon

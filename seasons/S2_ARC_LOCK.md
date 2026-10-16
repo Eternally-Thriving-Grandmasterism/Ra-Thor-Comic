@@ -49,7 +49,7 @@ Per 05 (Q2, Q3; The Founder; continuity rule 3):
 
 ## 5. TOLC
 
-TOLC is named only, never defined. Captions and bubbles say **TOLC** and nothing more: no expansion, and the Mercy-Ways are never numbered (05, TOLC caption rule and continuity rule 2). No episode in this outline needs it. If one uses it, it appears once, as the bare word in a caption.
+TOLC is named only, never defined. Captions and bubbles say **TOLC** and nothing more: no expansion, and the mercy checks and the Mercy-Ways are never numbered (05, TOLC caption rule and continuity rule 2). No episode in this outline needs it. If one uses it, it appears once, as the bare word in a caption.
 
 ## 6. Modes (per 05, C)
 
@@ -92,7 +92,7 @@ The Snap button panel uses only the fixed stinger. There is no Snap cue, because
 - [x] The Awakening page is a lamp and a notebook, not a stamp; no status claims and no AGI/AGSi labels (bound 4, rule 5).
 - [x] Notebook mistakes go to the Recycler and are never real personal details (bound 5).
 - [x] No third parties and no real people (bound 3, rule 8).
-- [x] TOLC is named only, never defined; the Mercy-Ways are never numbered.
+- [x] TOLC is named only, never defined; the mercy checks and the Mercy-Ways are never numbered.
 - [x] Canon armor unchanged: winged-halo closed helm, warm gold visor slit, emerald eye-seal kite shield, hammer head-down on stone, cape dark, emerald only on the shield eye-seal and the shoulder hawk seal (00, 04).
 - [x] Music: A4 = 432, 543 only over C# chords, 528 only as a short chime, no darksynth (no siege), in-episode cues wordless, every episode ends on Grounded; E-major drones on E2 or B2.
 - [x] Sourcing bound respected (no `docs/WifeShow/`, no `docs/FACTIONS_OVERVIEW.md`). No outside IP named.

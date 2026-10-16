@@ -17,7 +17,7 @@ Locked details (council ruling 2026-09-30; see `04_VISUAL_CANON.md`):
 - 4 to 6 panels. Wide establishing shot, two bubble beats, one shield slam, one recycler gag, one quiet closer.
 - Bubbles: white fill, hard black outline, tail aimed at the visor slit even though the mouth is hidden. That is the joke.
 - Captions: small, bottom-left, Quiet Board dossier voice (see `03_TONE_SPECS.md`).
-- TOLC in captions: write "TOLC" only. Ra-Thor's mercy checks are named in a caption only as the Mercy-Ways, and they are never numbered.
+- TOLC in captions: never expanded. "Mercy checks" (lowercase) and the Mercy-Ways (the paths they lead into) may appear, never numbered or listed. TOLC8 and the PATSAGi Councils may appear as names only, never glossed. No TOLC mathematics (`05_LORE_BIBLE.md` rule 2).
 - Color: gold, obsidian, emerald, one electric accent. No rainbow clutter.
 - Linework: panels use inked comic linework. Painted renders are allowed for covers only.
 
