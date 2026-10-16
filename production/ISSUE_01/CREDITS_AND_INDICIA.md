@@ -55,7 +55,7 @@ First published [DATE: Sherif to confirm] by AlphaProMega Media Inc.
 
 Copyright © [YEAR: Sherif to confirm] AlphaProMega Media Inc. All rights reserved.
 
-[TM LINE: Sherif to confirm] Ra-Thor is a trademark of Autonomicity Games Inc., used with permission.
+Ra-Thor™ is a trademark of Autonomicity Games Inc. (application pending), used with permission.
 
 Ra-Thor and all characters, devices and settings in this issue are the property of AlphaProMega Media Inc.
 
@@ -77,7 +77,7 @@ Sources:
 
 Kept off on purpose:
 
-- **No ™ or ® symbols.** The proposed trademark line names the mark in words only. Whether to add a symbol, and which one, is a legal call for Sherif.
+- No ™ or ® symbols except the single Ra-Thor™ trademark line in the fine print.
 - **No ISBN line.** KDP does not require an ISBN for eBooks (`STORE_LISTING_AND_EXPORT.md` §1).
 - **No Patreon or store link.** KDP disallows content that redirects readers elsewhere for the full work or exists mainly to solicit (`STORE_LISTING_AND_EXPORT.md` §1).
 - **No xAI independence line.** Any xAI mark is a package Reject on credits (`ISSUE_01_PRODUCTION.md` §8).
@@ -87,7 +87,7 @@ Kept off on purpose:
 
 1. Credited roles and names (D8).
 2. Copyright year and first publication date.
-3. Trademark line: confirm or remove `[TM LINE: Sherif to confirm]` and the matching property line (§3); symbol, if any. Sherif reports RA-THOR is filed under Autonomicity Games Inc., status pending (§3 notes); the placeholder stays until he supplies the exact wording.
-4. Back cover: still GAP (`ISSUE_01_PRODUCTION.md` §4).
+3. ~~Trademark line~~ **Closed** (Sherif ruling, 2026-10-15 9:37 PM ET, via Wild): the `[TM LINE]` placeholder is set to "Ra-Thor™ is a trademark of Autonomicity Games Inc. (application pending), used with permission." (§3), the same line as the back-cover fine print. The matching property line (§3) is unchanged.
+4. Back cover: defined in `ISSUE_01_PRODUCTION.md` §5.4 (ISSUE01-BACK-COVER-V2; Sherif OK 2026-10-15, 9:31 PM ET). Its fine print uses this file's §3 wording, including the trademark line closed in item 3.
 
 Closed: copyright holder and publisher, AlphaProMega Media Inc. (Sherif confirmed, 2026-10-14; §1).
