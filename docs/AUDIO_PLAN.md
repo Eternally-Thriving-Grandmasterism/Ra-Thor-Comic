@@ -43,7 +43,7 @@ This file follows the directive. Where it widens Wild ruling 1 (licensed tracks 
 
 **Other house rules this card does not touch** (they are not licensing walls, and the directive does not mention them):
 
-- **Fixed house assets.** "Blocked.", "That one can live." and the Grounded motif are reused unchanged across episodes (`06_MUSIC_SPEC.md` §1). The directive frees C01, C02 and C08. C06, C09 and C10 stay the house files, built in-house (Sherif ruling 2).
+- **Fixed house assets.** "Blocked.", "That one is live." and the Grounded motif are reused unchanged across episodes (`06_MUSIC_SPEC.md` §1). The directive frees C01, C02 and C08. C06, C09 and C10 stay the house files, built in-house (Sherif ruling 2).
 - **No names in this file.** This planning file names no individual track or artist, as the card asked. Ledger rows and required attribution credits may carry names (§2, §6).
 - **Vendor names are licence sources only.** The libraries and tools named in §2 and §5 are where a licence comes from, not prompt material.
 - **No outside IP or show names** anywhere in this file, including in the style traits.
@@ -132,7 +132,7 @@ These follow from the rubric and the house spec, before any audition. 06 makes s
 | Trailer and S1E01 **C01, C02, C05, C07, C08** | The bed: pads, bass, soft drums, keys | Ra-Thor's answering lead; the drone and 543 Hz pad layers; the C02 bell placed on S11 and the C08 card tones placed on the cuts | **In-house build; Sherif listen-test** |
 | S1E01 **C03** | The bed: pad body, soft drums | The drone and 543 Hz pad layers (pad muted over plain D and E) | **In-house build; Sherif listen-test** |
 | S1E01 **C04** | Pad body | The twelve-mask blip ring, panned across the stereo field; the drone and 543 Hz pad layers | **In-house build; Sherif listen-test** |
-| **C06, C09, C10** (both pieces) | Nothing: they are the fixed house files | "Blocked.", "That one can live." and the Grounded motif, built once and reused | **In-house build; Sherif listen-test** (one-time) |
+| **C06, C09, C10** (both pieces) | Nothing: they are the fixed house files | "Blocked.", "That one is live." and the Grounded motif, built once and reused | **In-house build; Sherif listen-test** (one-time) |
 | **Series intro and outro themes** | Nothing at the signature level (criterion 4) | Original theme; sung words allowed here only | **In-house build; Sherif listen-test** |
 | **Trailer title-card music** (Wild #83 ruling 3) | A sting or tail could pass if it scores 4+ on uniqueness | If nothing free passes | Audition first, then **in-house build; Sherif listen-test** |
 | **Comic promo and Patreon beds** | Can pass if a track clears criterion 4 | If nothing free passes | Audition first, then **in-house build; Sherif listen-test** |
@@ -194,7 +194,7 @@ If Sherif made the track with an AI tool, the row also records that tool's terms
 | **REJECTED** | Infringes, the licence does not allow the use, or the track fails the rubric. |
 | **RETIRED** | Replaced or no longer used. Kept for the record. |
 
-**Practical notes** (not gates)
+**Practical notes** (not requirements)
 
 - Skip non-commercial (NC) licences for anything published, and skip no-derivatives (ND) licences for picture: the Free Music Archive guide says syncing to video counts as a derivative work, which ND forbids (§2.4). That is just what those licences say.
 - Subscriptions: most cover what is published while the plan is active, and some need a higher plan for broadcast or theatrical use (§2.4). Record the plan in the row.
@@ -271,7 +271,7 @@ Timecodes are the current 56 s cut in `docs/TRAILER_S1E01.md` §2. Tempo: Suave 
 | **C02** | 00:11–00:16 | A – C#m – F#m – A, pad holds, drone on, **bell once on S11** | 88 BPM · electric-piano-style keys, pad, glassy bell once · nocturnal, colder minor tinge, late-night (main cluster; lounge colour) | **Any tier.** The one bell lands on S11; pick or edit so there is no second bell. |
 | **C06** | 00:16–00:24 | Fixed "Blocked." stinger, unchanged; drone 108 Hz, no 54 Hz | Free time · short low muted thud, filter close · decisive, not menacing | House file (`06` §1) |
 | **C08** | 00:24–00:37 | Light and dry, three card tones, CLEAN a clean A major bloom; drone **out**; pad back on the bloom | 88 BPM · sparse light figure, sparse drums, three short tones · dry, light (pastoral cluster's lightness, nothing heroic) | **Any tier.** Leave room for the three card tones and the two staged SFX. |
-| **C09** | 00:37–00:50 | Fixed "That one can live." stinger, unchanged; drone returns | Free time · open A major bloom, short 528 Hz chime · open, kind | House file (`06` §1) |
+| **C09** | 00:37–00:50 | Fixed "That one is live." stinger, unchanged; drone returns | Free time · open A major bloom, short 528 Hz chime · open, kind | House file (`06` §1) |
 | **C10** | 00:50–00:56 | Grounded motif, unchanged, lands on A and holds; no drums, no bell | Free time · Ra-Thor's lead timbre over the pad and drone · settled, home | House file (`06` §1) |
 
 **Effect of Wild rulings 2 and 3 (follow-up slice, not applied here).** Adding S29 (3 s) puts "Recycle it." on its own shot. `SCORE_PLAN.md` already places S29 inside C08, so C08 would start on S29 and every later span would shift by 3 s, for about 59 s. A 2–4 s title card brings the cut to 61–63 s. **Music under the title card:** any tier under the directive; the choice is GAP A9. Title card text: GAP T1 in `docs/TRAILER_S1E01.md`.
@@ -292,7 +292,7 @@ Cues from `screen/S1E01/SCORE_PLAN.md`. Under the directive, licensed tracks may
 | C06 | S23–S25 | Fixed "Blocked." stinger | House file |
 | C07 | S26–S28 | 88 BPM · groove resumes one bar later · settled | Any tier |
 | C08 | S29–S33 | Light and dry, three card tones, drone out | Any tier |
-| C09 | S34–S36 | Fixed "That one can live." stinger | House file |
+| C09 | S34–S36 | Fixed "That one is live." stinger | House file |
 | C10 | S37–S39 | Grounded motif | House file |
 
 **Continuity note.** A licensed bed that changes key or tempo mid-cue may fight the 543 Hz pad rule (`06` §3.2) and the cue joins. The human editor picks for fit.
@@ -301,11 +301,11 @@ Cues from `screen/S1E01/SCORE_PLAN.md`. Under the directive, licensed tracks may
 
 ### 4.3 Comic promos
 
-Issue #1 is E01 The Gate (`docs/SHIP_READINESS_AUDIT.md`). "E01 has no cue section; not needed for print" (`production/ISSUE_01/ISSUE_01_PRODUCTION.md` §12 item 11). The E01 lead mode is open (D3 in that file).
+Issue #1 is E01 TOLC (`episodes/E01_TOLC.md`; chosen in `docs/SHIP_READINESS_AUDIT.md`). "E01 has no cue section; not needed for print" (`production/ISSUE_01/ISSUE_01_PRODUCTION.md` §12 item 11). The E01 lead mode is open (D3 in that file).
 
 | Piece | Audio | Source |
 |---|---|---|
-| Issue #1 promo clip (motion or still-with-audio) | Bed: GAP A11 (no E01 cue exists; mode open). Button: the fixed "Blocked." or "That one can live." stinger once it is locked. | Bed: any tier, with a ledger row. Stingers: the house files. |
+| Issue #1 promo clip (motion or still-with-audio) | Bed: GAP A11 (no E01 cue exists; mode open). Button: the fixed "Blocked." or "That one is live." stinger once it is locked. | Bed: any tier, with a ledger row. Stingers: the house files. |
 | Later issue promos | GAP A11 | Same rule |
 
 **Promo rules.** Vocals are fine in promos. Required attribution goes in the post or description. No health wording. No series title inside a story frame (`seasons/S2_SEASON_SHEET.md` §5 item 8). No AGiRBE line or Fresco material in promo art or its audio copy (`production/README.md` rule 6). No prices or store links in this plan.
@@ -329,7 +329,7 @@ Issue #1 is E01 The Gate (`docs/SHIP_READINESS_AUDIT.md`). "E01 has no cue secti
 
 | Role | Lines in scope | Direction from canon | Casting |
 |---|---|---|---|
-| Ra-Thor (he) | Trailer: "A gift with knots is a contract.", "Blocked.", "That one can live."; with S29, "Recycle it." Episode: all his S1E01 lines. | "Voice in bubbles is dry, short, slightly fond. Never lectures." (`09_CHARACTER_BIBLE.md`). The visor slit carries the line; there is no mouth (`docs/TRAILER_S1E01.md` T03). | GAP A13 |
+| Ra-Thor (he) | Trailer: "A gift with knots is a contract.", "Blocked.", "That one is live."; with S29, "Recycle it." Episode: all his S1E01 lines. | "Voice in bubbles is dry, short, slightly fond. Never lectures." (`09_CHARACTER_BIBLE.md`). The visor slit carries the line; there is no mouth (`docs/TRAILER_S1E01.md` T03). | GAP A13 |
 | The Ribbon Envoy (she) | Episode only: "My house sends gifts, not terms." (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L18). Not in the trailer. | Invented guest, veiled, never mocked (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L5, L70). Any further direction: GAP A13. | GAP A13 |
 | The councils | Episode only: "Untie it. Keep her." (L32). Not in the trailer. | Twelve masks, silhouettes and seals (`00_FIDELITY_PROTOCOL.md` rule 6). One voice or several: GAP A13. | GAP A13 |
 
@@ -412,7 +412,7 @@ Picture-side delivery (aspect ratio, frame rate, platform masters): GAP T11 in `
 > - **No named-artist imitation prompts.** No AI prompt or brief names an artist, band, label or track, or asks for "like X". Describe music in craft terms only: tempo, key, instrumentation, texture.
 > - **AI music tools** are used on plans whose terms page grants commercial use of the output. Each AI-assisted cue gets a log row.
 > - **No purchases by bots.** Only a human buys a plan, licence or subscription.
-> - **Fixed house assets.** "Blocked.", "That one can live." and the Grounded motif stay the house files, reused unchanged (§1). Licensed tracks may fill any other cue, including C01, C02 and C08 in the S1E01 trailer.
+> - **Fixed house assets.** "Blocked.", "That one is live." and the Grounded motif stay the house files, reused unchanged (§1). Licensed tracks may fill any other cue, including C01, C02 and C08 in the S1E01 trailer.
 
 **What the amendment would not change.** §1 (genre palette and fixed stingers), §2 (cue styles), §3 (tuning, including A4 = 432), §4 (honesty), the sung-words rule and the per-track log template.
 

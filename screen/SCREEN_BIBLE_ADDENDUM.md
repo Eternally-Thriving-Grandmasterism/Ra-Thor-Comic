@@ -21,7 +21,7 @@ The screen rules in this file do **NOT** loosen fidelity rules 1, 2, 4, 5, 6 or 
 | Rule | Heading and text (`00_FIDELITY_PROTOCOL.md`) |
 |---|---|
 | 1 | `00_FIDELITY_PROTOCOL.md` L5: "Canon armor." and "Thunder hammer grounded, not swung at people." |
-| 2 | `00_FIDELITY_PROTOCOL.md` L6: "Gate logic." and "The joke is the sorting, not the cruelty." |
+| 2 | `00_FIDELITY_PROTOCOL.md` L6: "TOLC logic." and "The joke is the sorting, not the cruelty." |
 | 4 | `00_FIDELITY_PROTOCOL.md` L8: "Spice ceiling." and "No explicit acts, no minors, no real people." |
 | 5 | `00_FIDELITY_PROTOCOL.md` L9: "No product theater." and "They may not claim certification, affiliation, or legal authority." |
 | 6 | `00_FIDELITY_PROTOCOL.md` L10: "No likeness theft." and "No celebrity faces. No xAI marks." |
@@ -40,9 +40,9 @@ The **comic stays bound** by rule 3. Every comic panel, bubble and caption keeps
 - **S-D3 (PROPOSED).** No monologues on screen either. This keeps rule 3's spirit and the lore rule at `05_LORE_BIBLE.md` L139: "never as a monologue in a bubble". Proposed bound: no single speech longer than two short sentences.
 - **S-D4 (CARRIED, voice).** Ra-Thor stays as written at `09_CHARACTER_BIBLE.md` L5: "Voice in bubbles is dry, short, slightly fond. Never lectures." New Ra-Thor lines stay short and dry. (Bound: CARRIED; applying it to screen lines: PROPOSED)
 - **S-D5 (CARRIED).** Catch lines are not stacked: `09_CHARACTER_BIBLE.md` L7 reads "Catch lines, rotate, do not stack:". One catch line per scene at most. (Per-scene reading: PROPOSED)
-- **S-D6 (CARRIED).** The councils speak only in four-word lines: `09_CHARACTER_BIBLE.md` L28 reads "They murmur in four-word bubbles. They do not outvote the Gate."
+- **S-D6 (CARRIED).** The councils speak only in four-word lines: `09_CHARACTER_BIBLE.md` L28 reads "They murmur in four-word bubbles. They do not outvote the TOLC."
 - **S-D7 (CARRIED).** The Founder never speaks: `05_LORE_BIBLE.md` L24 reads "Never on panel and never in a bubble." On screen this means no Founder voice, voice-over or line. (Screen reading: PROPOSED)
-- **S-D8 (PROPOSED).** Strategy that the comic puts in captions goes into on-screen dossier title cards, never into speeches. Title cards follow the caption rules: TOLC only (`05_LORE_BIBLE.md` L35, "Captions and bubbles say"), and no numbers or names for the gates.
+- **S-D8 (PROPOSED).** Strategy that the comic puts in captions goes into on-screen dossier title cards, never into speeches. Title cards follow the caption rules: TOLC only (`05_LORE_BIBLE.md` L35, "Captions and bubbles say"), and the Mercy-Ways are never numbered.
 - **S-D9 (CARRIED).** The armor is the face, so there is no lip-sync and no mouth. `09_CHARACTER_BIBLE.md` L5 reads "The armor is the face. Visor slit is the only expression". Dialogue is staged on the visor slit, as `01_VISUAL_STYLE_GUIDE.md` L18 does for the comic: "tail aimed at the visor slit even though the mouth is hidden". (Screen staging: PROPOSED)
 
 ## 2. What stays verbatim from canon

@@ -50,7 +50,7 @@ Prompt: [stem] + compact IDEA-RECYCLER on a side cart (horizontal drum, twin THE
 ## Panel 6 — Quiet closer
 
 Caption: EVERY HOUSE THAT CAME IS SEATED. ONE CHAIR KEPT. THE DOOR STAYS OPEN.
-Bubble: "That one can live."
+Bubble: "That one is live."
 The long view down the full table, every chair one height, every face still hidden, every house seated behind its token. The Cord Envoy sits in their own chair now. At the far end, the kept chair stands empty and lit, the shield leaned at its side, eye-seal toward the open door. Nobody sits in it, and nobody says whose it is. The masks dim one by one, the last one still facing the door. Visor slit wide-gold. Lamp, shadow, hammer head-down on stone.
 Prompt: [stem] + quiet wide shot down a long table with every chair of one equal height and every other seat filled by invented envoys with hidden faces (gold mesh veil, plain gold mask, deep cowl, the gilded folding screen, low black parasol, plain travel hoods) each behind a small abstract token, one empty chair at the far end lit warmly with the gold kite shield leaned at its side and the emerald eye-seal clearly visible facing an open doorway, tiny gold masks dimming around the halo, Ra-Thor standing at the head with visor slit wide and gold, hammer head-down on stone, small crack and sparks at contact, deep shadow beyond the lamp.
 Fidelity note: eye-seal must read clearly on the shield face. A plain emerald gem is a reject.
@@ -64,7 +64,7 @@ Fidelity note: eye-seal must read clearly on the shield face. A plain emerald ge
 - **Panel 3.** The drums drop out for the council. The twelve-mask blip ring murmurs, panned across the stereo field. The pad holds.
 - **Panel 4.** Fixed "Blocked." stinger: a short, low, muted thud and a filter close, timed to the cord coming off. The glassy bell rings once as the shield throws light on the seat. The groove resumes one bar later.
 - **Panel 5.** Light and dry. Three short card tones, the CLEAN one a clean major bloom. Soft taps from the table, in time.
-- **Panel 6.** The episode's one choir swell: wordless choir pads and low brass-style synth, on A major with the 543 top held. Then the fixed "That one can live." stinger: an open major-chord bloom topped by the short 528 Hz chime, never held. Then the Grounded motif: four notes rise and land back on the tonic, A, and hold. The episode ends there.
+- **Panel 6.** The episode's one choir swell: wordless choir pads and low brass-style synth, on A major with the 543 top held. Then the fixed "That one is live." stinger: an open major-chord bloom topped by the short 528 Hz chime, never held. Then the Grounded motif: four notes rise and land back on the tonic, A, and hold. The episode ends there.
 - **Mood words only.** No artist, band, label, or track names in any brief or prompt. The tuning is an aesthetic choice only; no health claims anywhere.
 
 ## Reject

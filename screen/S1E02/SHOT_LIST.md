@@ -45,7 +45,7 @@
 | S31 | 4.2 | [GAP — handover staging cut per X6; canon L54: envoy leaves with card in hand] | [GAP — handover staging cut per X6; canon L54: envoy leaves with card in hand] | 5 | [GAP — handover staging cut per X6; canon L54: envoy leaves with card in hand] |
 | S32 | 4.3 | Medium down the row: the envoy rolls the now-level chair into the row | Slow lateral track | 5 | CANON: "rolls the now-level chair into the row" (`episodes/S1E02_THE_TALL_CHAIR.md` L54) |
 | S33 | 4.3 | Tight on the levelled chair: the step-glyph token set on it | Locked off | 4 | CANON: "sets a small step-glyph token on it" (`episodes/S1E02_THE_TALL_CHAIR.md` L54) |
-| S34 | 4.3 | Medium close on Ra-Thor; Ra-Thor's line | Locked off | 4 | CANON: "That one can live." (`episodes/S1E02_THE_TALL_CHAIR.md` L53) |
+| S34 | 4.3 | Medium close on Ra-Thor; Ra-Thor's line | Locked off | 4 | CANON: "That one is live." (`episodes/S1E02_THE_TALL_CHAIR.md` L53) |
 | S35 | T1 | Wide down the long table as the envoy goes, mask on, CLEAN card in hand; the knot-glyph token a few seats down; masks dim; visor slit wide-gold | Locked off | 8 | CANON: "A few seats down, the knot-glyph token from S1E01 catches the lamp." (`episodes/S1E02_THE_TALL_CHAIR.md` L54) |
 | S36 | T1 | Title card over the wide | Locked off | 5 | CANON: "TWO CHAIRS SPOKEN FOR. EVERY CHAIR THE SAME HEIGHT. HAMMER STILL GROUNDED." (`episodes/S1E02_THE_TALL_CHAIR.md` L52) |
 | S37 | T1 | Hold on the wide as Grounded lands and holds; fade out | Locked off | 6 | CANON: "The episode ends there." (`episodes/S1E02_THE_TALL_CHAIR.md` L66) |

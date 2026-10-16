@@ -1,6 +1,6 @@
 # Season 1, Episode 04 — The Sideways Glass
 
-Status: draft. Six panels scripted, not yet prompted. Season 1, arc A, The Long Table. Suave Hour mode (lead). The fourth envoy brings a fair offer and one bad rider: an hourglass, already running. The offer passes the Gate, the pressure is blocked, the envoy leaves with a CLEAN card, and the hammer never moves.
+Status: draft. Six panels scripted, not yet prompted. Season 1, arc A, The Long Table. Suave Hour mode (lead). The fourth envoy brings a fair offer and one bad rider: an hourglass, already running. The offer passes the TOLC, the pressure is blocked, the envoy leaves with a CLEAN card, and the hammer never moves.
 
 Guest: the Glass Envoy, from [HOUSE-D] of the Ninefold Houses (placeholder; Q9 resolved). Invented. Speaks from behind a tall gilded folding screen that they carry and set up wherever they stand; only their gloved hands ever come around its edge. The face is never seen. House sign is an abstract hinge glyph, not a flag. No real name, no celebrity face, no logo, no real place or culture.
 
@@ -22,7 +22,7 @@ Prompt: [stem] + wide establishing shot down a long table, single lamp, Ra-Thor 
 ## Panel 2 — The pass
 
 Caption: OFFER: OPEN ROADS, BOTH WAYS. THE TERMS: CLEAN. THE RIDER: THE CLOCK.
-Bubble: "That one can live."
+Bubble: "That one is live."
 Tight on a single page in a gloved hand, held out around the screen: short, plain terms, no strings, no tricks. The visor slit goes wide-gold for the offer. The hourglass keeps falling at the edge of the frame.
 Prompt: [stem] + close-up of a gloved hand holding out a single short page with no readable words from behind the edge of a gilded folding screen, Ra-Thor's visor slit wide and gold, a gold hourglass with falling sand at the edge of the frame, hammer grounded at frame edge.
 
@@ -59,7 +59,7 @@ Prompt: [stem] + quiet shot down the long table, a gilded folding screen being c
 - **Lead cue: Suave Hour mode.** Slow-burn, nocturnal synthwave at 94 BPM (inside 84–96). Smooth electric-piano-style chords, soft drums, sine bass, a lead melody that answers phrases rather than starting them. All tonal material at A4 = 432. No darksynth anywhere; there is no siege.
 - **Key and drone.** A-major bed over the 108 Hz drone (A as the tonic). The 543 Hz top pad is held only over chords that contain C#: in this cue, A major, F# minor, C# minor and E6. It is muted over chords without C# (D major, B minor and E major triads) and always over any C natural.
 - **The clock.** From Panel 1, a dry ticking hi-hat runs on top of the groove, a beat faster than feels comfortable.
-- **Panel 2.** Fixed "That one can live." stinger for the offer: an open major-chord bloom topped by the short 528 Hz chime, never held. The ticking keeps going under it.
+- **Panel 2.** Fixed "That one is live." stinger for the offer: an open major-chord bloom topped by the short 528 Hz chime, never held. The ticking keeps going under it.
 - **Panel 3.** The drums drop out for the council. The ticking stays, alone with the twelve-mask blip ring.
 - **Panel 4.** The ticking stops dead as the glass is laid down. One beat of silence, then the fixed "Blocked." stinger: a short, low, muted thud and a filter close. The groove comes back at its own easy pace, with no tick.
 - **Panel 5.** Light and dry. Three short card tones, the CLEAN one a clean major bloom.

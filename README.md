@@ -32,7 +32,7 @@ PATSAGi on the live lattice, Odyssey pattern checked:
 - **Approve** a separate Media repo. Do not add this series to `Cargo.toml` members.
 - **Approve** AlphaProMega Media Inc. as rights holder, same posture as Odyssey.
 - **Approve** gold circuit plate (winged halo, eye-seal shield, grounded thunder hammer) as series canon. Obsidian fortress plate is siege-mode only.
-- **Approve** story devices named after real lattice ideas: the Gate, Idea Recycler, White-Hat Mercy-Security. Label them fiction. Do not depict them as certified, legal, or medical products.
+- **Approve** story devices named after real lattice ideas: the TOLC, Idea Recycler, White-Hat Mercy-Security. Label them fiction. Do not depict them as certified, legal, or medical products.
 - **Hold** explicit panels out of the public bible.
 - **Hold** celebrity likenesses, xAI logos, and real-person caricatures.
 

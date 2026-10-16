@@ -33,7 +33,7 @@ Earlier set (lower priority, kept only where it adds something): a "Blocked." th
 - **Honor guard (R2).** Four helmeted figures in dark-and-gold armor, gold faceplates, standing silent behind the Recycler. **Not cast (council ruling 2026-09-30).** Art-only.
 - **Idea-Recycler, drum version (R2).** Upright black drum with a gold band reading IDEA-RECYCLER, open top hopper, white steam puffing from both sides, a warning plate "⚠ HICCUPPING... PLEASE STAND BY", a lightning panel and a gauge. Cards out the bottom: OBVIOUS (lightbulb), FERAL (snarling wolf), and a third card showing only "!". The "!" is art-only; the canon third card is CLEAN (Q9 card, council ruling 2026-09-30). This drum design is art-only (Q9 drum, council ruling 2026-09-30).
 - **Idea-Recycler, Ω-7 version (R6).** Horizontal drum labeled IDEA-RECYCLER / MODEL: Ω-7. Two hoppers labeled THEORY IN and CONCEPTS IN, with paper, charts, and scraps pouring in. A wall window labeled COUNCIL OF PRACTICALS shows three seated silhouettes. A side panel with three indicator lights, a dial, and a POWER CORE lever. Output tray with OBVIOUS (lightbulb), FERAL (wolf), CLEAN (cut gem). Plaque: "OUTPUT: REFINED / ONE IDEA. THREE PATHS." Canon (Q9 drum, council ruling 2026-09-30): this is the canon Recycler look (twin THEORY IN / CONCEPTS IN hoppers, gauge, power core, OUTPUT tray). "Ω-7" is a comic-only name. OBVIOUS / FERAL / CLEAN cards are locked. The COUNCIL OF PRACTICALS window is art-only (Q10). "HICCUPPING... PLEASE STAND BY" is a gag used only when a script calls for it.
-- **The TOLC threshold (R3, earlier "Blocked.").** Gold lattice arch over dark stone, diagonal lattice. The earlier panel adds a gold winged emblem at the crown of the arch.
+- **The TOLC threshold (R3, earlier "Blocked.").** Gold lattice arch over dark stone, diagonal lattice. The earlier panel adds a gold winged emblem at the crown of the arch. New art also follows TOLC visuals at the end of this file.
 - **Nonsense and thanks (R1).** A folded paper plane scrawled "nonsense / blather / yadda yadda / etc. etc." bursts against the armor with a white impact star. Below, a folded card with a smiley, "THANK YOU!", and a small heart. Matches E03.
 
 ## Linework, palette, lettering
@@ -71,3 +71,14 @@ All thirteen questions are resolved by council rulings of 2026-09-30.
 11. **Bubble fill.** RESOLVED (council ruling 2026-09-30): bubbles are white-filled. Style guide, E04, and E06 updated from cream.
 12. **Multi-line bubble.** RESOLVED (council ruling 2026-09-30): R1's long line is split into the bubble "Patched." and the caption DARK THRESHOLD. HAMMER STILL GROUNDED. The one-line bubble rule stands.
 13. **Rendered vs inked.** RESOLVED (council ruling 2026-09-30): painted renders are allowed for covers only. Panels use inked linework.
+
+## TOLC visuals (council ruling 2026-10-15; new art only)
+
+Wild's ruling for the councils (2026-10-15, 9:58 PM ET; lore in `05_LORE_BIBLE.md`, TOLC visuals). New art only: the reference images above and finished Issue 1 art are not redrawn. This section sits at the end of the file so that existing line citations into 04 do not move.
+
+- **V3, concentric rings (adopted).** On the lattice arch, a fixed inner ring, with fainter outer growth around it. Do not draw a set count of outer rings.
+- **V4, the Mercy-Ways as paths of light (adopted).** When something is weighed at the TOLC, thin gold paths of light run through the lattice behind it and converge on the LIVE lane. Unlabelled and uncounted; never draw a countable set of paths.
+- **V5, geometry as texture (adopted).** Faint convergence linework (orbits, curves settling to a centre, a converging spiral) etched into the arch stone, as texture only.
+- **Prompt add-on (new art at the TOLC):** "gold lattice arch with a fixed inner ring and fainter outer growth, thin unlabelled gold paths of light converging on the LIVE lane, faint converging-orbit linework etched into the arch stone as texture, no numbers, no text, no equations".
+- **Reject:** V1 (a ring of countable light points) and V2 (an eight-sided keystone), because both are numbering nods. Any number, label, plaque or icon for the Mercy-Ways. Equations or written symbols on the arch. TOLC8 or TOLC mathematics anywhere on the page.
+- **Held:** V6 (a single source light above or behind the arch). Not drawn unless the councils rule on it.

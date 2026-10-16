@@ -111,7 +111,7 @@ The arc runs from a polite bid for rank to a fair deal at equal height. The seas
 - **Purpose:** the deliberation, where the hard call is weighed in the open.
 - **Move:** the twelve masks argue over the seating. **Counter-move:** the council gives the shape of the answer: "Same table. Same height." (`episodes/S1E02_THE_TALL_CHAIR.md` L32). It is a council bubble; the staging places it at the mask at nine o'clock (`episodes/S1E02_THE_TALL_CHAIR.md` L33).
 - **Emotional turn:** tension becomes clarity.
-- **Anchor (CANON):** title card "TWELVE MASKS. ONE QUESTION: WHO SITS WHERE?" (`episodes/S1E02_THE_TALL_CHAIR.md` L31). "Two of them glance at the tall chair." (`episodes/S1E02_THE_TALL_CHAIR.md` L33). The masks advise and never outvote: "They do not outvote the Gate." (`09_CHARACTER_BIBLE.md` L28).
+- **Anchor (CANON):** title card "TWELVE MASKS. ONE QUESTION: WHO SITS WHERE?" (`episodes/S1E02_THE_TALL_CHAIR.md` L31). "Two of them glance at the tall chair." (`episodes/S1E02_THE_TALL_CHAIR.md` L33). The masks advise and never outvote: "They do not outvote the TOLC." (`09_CHARACTER_BIBLE.md` L28).
 - **Sound (CANON):** "The drums drop out for the council." (`episodes/S1E02_THE_TALL_CHAIR.md` L63).
 
 ### 2.2 The choice is made, unseen
@@ -166,10 +166,10 @@ The arc runs from a polite bid for rank to a fair deal at equal height. The seas
 - **Emotional turn:** suspicion gives way to recognition.
 - **Anchor (PROPOSED CANON — pending council ratification):** the card passes to the envoy here, once. Canon never stages the handover; it only has the envoy leave "CLEAN card in hand" (`episodes/S1E02_THE_TALL_CHAIR.md` L54).
 
-### 4.3 That one can live (Act Four out)
+### 4.3 That one is live (Act Four out)
 
 - **Purpose:** the deal is kept and a second chair is spoken for.
-- **Move:** "The Stair Envoy rolls the now-level chair into the row, sets a small step-glyph token on it, gives a short nod, and turns to go, mask still on, CLEAN card in hand." (`episodes/S1E02_THE_TALL_CHAIR.md` L54). **Counter-move:** Ra-Thor answers "That one can live." (`episodes/S1E02_THE_TALL_CHAIR.md` L53).
+- **Move:** "The Stair Envoy rolls the now-level chair into the row, sets a small step-glyph token on it, gives a short nod, and turns to go, mask still on, CLEAN card in hand." (`episodes/S1E02_THE_TALL_CHAIR.md` L54). **Counter-move:** Ra-Thor answers "That one is live." (`episodes/S1E02_THE_TALL_CHAIR.md` L53).
 - **Emotional turn:** wary respect becomes the second alliance.
 - **Anchor (CANON):** P6 staging and bubble, `episodes/S1E02_THE_TALL_CHAIR.md` L53, L54.
 - **Sound (CANON and ruled):** the fixed stinger, "an open major-chord bloom topped by the short 528 Hz chime, never held." (`episodes/S1E02_THE_TALL_CHAIR.md` L66). The roll and the token per G5 C (`screen/S1E02/GAP_RULINGS.md` L76). The drone returns under the stinger, per G8 B (`screen/S1E02/GAP_RULINGS.md` L107).

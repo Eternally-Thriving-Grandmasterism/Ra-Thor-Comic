@@ -1,6 +1,6 @@
 # S2E02 — The Whole Map · SCRIPT
 
-- **Episode:** S2E02, The Whole Map (Season 2, arc C, The Lamp Before the Gate)
+- **Episode:** S2E02, The Whole Map (Season 2, arc C, The Lamp Before the TOLC)
 - **Source file:** `episodes/S2E02_THE_WHOLE_MAP.md`
 - **Built from main:** `56eddb504ee15d46eabf13e5f08d6a4042138b6e`
 - **Lead mode:** Quiet Board, with a Night Watch object-flashback opener (S2E02 Status; 03 Mixing modes)
@@ -46,7 +46,7 @@ Guests (invented, no house, no faction, no glyph, no real name, no celebrity fac
 - **SFX:** none in file. Music: the kick drops out for the decision; the twelve-mask blip ring murmurs; the pad holds on Dmaj7 (S2E02 Music cues, Panel 3).
 - **Continuity:** masks are the canon twelve (04 Q10). The decision panel is slower than the action panel (S2E02 P3; 03 Quiet Board mode). Hammer grounded at frame edge (S2E02 P3 prompt).
 
-## Panel 4 — The block, at the Gate
+## Panel 4 — The block, at the TOLC
 
 - **Location:** Threshold, at the gold lattice arch, on the line of the LIVE lane (S2E02 P4; S2E02 Set; 10 The Threshold)
 - **Action / staging:** Ra-Thor stands at the Threshold. He sets the shield upright on the line of the LIVE lane, eye-seal facing the oncoming parade. The cart stops against the shield's rim, and the tall painted flats tip gently backward and lie down flat on the cart bed. What is left is one small cart and one Herald, unharmed, trumpet still raised in front of the face, banner drooping. Hammer head-down on stone, untouched. (S2E02 P4)
@@ -69,8 +69,8 @@ Guests (invented, no house, no faction, no glyph, no real name, no celebrity fac
 - **Location:** Threshold, at the arch and the LIVE lane (S2E02 P6; S2E02 Set)
 - **Action / staging:** The Tinker steps out of the shadow and walks the small brass pin down the LIVE lane. The lattice lets it through, and the Tinker sets the pin into the gap; the arch reads whole again. The one real cart waits its turn behind them, banner down. Ra-Thor stands planted at the arch, the notebook under his arm, shield upright with the eye-seal out. The masks dim one by one. Visor slit wide-gold. Hammer head-down on stone. (S2E02 P6)
 - **Caption:** EVERY LANE READ. ONE GAP CLOSED. HAMMER STILL GROUNDED. (S2E02 P6)
-- **Bubble (Ra-Thor, canon catch line, 09):** "That one can live." (S2E02 P6)
-- **SFX:** the fixed "That one can live." stinger, an open major-chord bloom topped by the short 528 Hz chime; the button is the stinger only, no Snap cue (S2E02 Music cues, Panel 6; 06 §1; S2 sheet §5 item 1).
+- **Bubble (Ra-Thor, canon catch line, 09):** "That one is live." (S2E02 P6)
+- **SFX:** the fixed "That one is live." stinger, an open major-chord bloom topped by the short 528 Hz chime; the button is the stinger only, no Snap cue (S2E02 Music cues, Panel 6; 06 §1; S2 sheet §5 item 1).
 - **Continuity:** Fidelity note: eye-seal must read clearly on the shield face. A plain emerald gem is a reject. (S2E02 P6). The pin closes the gap; the arch reads whole again (S2E02 P6; S2E02 Set). Episode ends with the hammer grounded (S2E02 P6; 00 rule 1).
 
 ## Recycler items and CLEAN card

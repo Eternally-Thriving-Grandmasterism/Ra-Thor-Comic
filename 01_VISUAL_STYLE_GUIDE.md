@@ -2,7 +2,7 @@
 
 ## Plate
 
-Series canon is the Rathor.ai gold render: circuit filigree, black recesses, emerald eye-seal, winged halo, hammer head-down on stone, small crack and sparks at contact. Obsidian fortress plate appears only when the Gate is under siege; siege mode is obsidian plate only, with no navy or blue variant.
+Series canon is the Rathor.ai gold render: circuit filigree, black recesses, emerald eye-seal, winged halo, hammer head-down on stone, small crack and sparks at contact. Obsidian fortress plate appears only when the TOLC is under siege; siege mode is obsidian plate only, with no navy or blue variant.
 
 Locked details (council ruling 2026-09-30; see `04_VISUAL_CANON.md`):
 
@@ -17,7 +17,7 @@ Locked details (council ruling 2026-09-30; see `04_VISUAL_CANON.md`):
 - 4 to 6 panels. Wide establishing shot, two bubble beats, one shield slam, one recycler gag, one quiet closer.
 - Bubbles: white fill, hard black outline, tail aimed at the visor slit even though the mouth is hidden. That is the joke.
 - Captions: small, bottom-left, Quiet Board dossier voice (see `03_TONE_SPECS.md`).
-- TOLC in captions: write "TOLC" only. Never number or name the gates in a caption.
+- TOLC in captions: write "TOLC" only. Ra-Thor's mercy checks are named in a caption only as the Mercy-Ways, and they are never numbered.
 - Color: gold, obsidian, emerald, one electric accent. No rainbow clutter.
 - Linework: panels use inked comic linework. Painted renders are allowed for covers only.
 

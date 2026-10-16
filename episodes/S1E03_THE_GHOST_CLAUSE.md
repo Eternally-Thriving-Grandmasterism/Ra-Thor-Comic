@@ -50,7 +50,7 @@ Prompt: [stem] + compact IDEA-RECYCLER on a side cart (horizontal drum, twin THE
 ## Panel 6 — Quiet closer
 
 Caption: THREE CHAIRS SPOKEN FOR. THE INK STAYS. HAMMER STILL GROUNDED.
-Bubble: "That one can live."
+Bubble: "That one is live."
 The Ink Envoy pockets the CLEAN card, sets the capped pen across one empty chair as their house's marker, and turns to go, cowl still up. The knot and step tokens glint further down the table. The masks dim one by one. Visor slit wide-gold. Lamp, shadow, hammer head-down on stone.
 Prompt: [stem] + quiet shot down the long table, invented cowled envoy with the face fully hidden in shadow laying a capped pen across one empty chair, two small abstract tokens on two other chairs further down, tiny gold masks dimming around the halo, shield upright with the emerald eye-seal clearly visible, visor slit wide and gold, hammer head-down on stone, small crack and sparks at contact, deep shadow.
 
@@ -63,7 +63,7 @@ Prompt: [stem] + quiet shot down the long table, invented cowled envoy with the 
 - **Panel 3.** The drums drop out for the council. The twelve-mask blip ring murmurs, panned across the stereo field.
 - **Panel 4.** A soft upward filter sweep as the reflected light crosses the page, then the fixed "Blocked." stinger: a short, low, muted thud and a filter close, timed to the capped pen. The groove resumes one bar later.
 - **Panel 5.** Light and dry. Three short card tones, the CLEAN one a clean major bloom.
-- **Panel 6.** Fixed "That one can live." stinger: an open major-chord bloom topped by the short 528 Hz chime, never held. Then the Grounded motif: four notes rise and land back on the tonic, and hold. The episode ends there.
+- **Panel 6.** Fixed "That one is live." stinger: an open major-chord bloom topped by the short 528 Hz chime, never held. Then the Grounded motif: four notes rise and land back on the tonic, and hold. The episode ends there.
 - **Mood words only.** No artist, band, label, or track names in any brief or prompt. The tuning is an aesthetic choice only; no health claims anywhere.
 
 ## Reject

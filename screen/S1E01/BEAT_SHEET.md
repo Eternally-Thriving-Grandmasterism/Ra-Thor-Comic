@@ -112,7 +112,7 @@ The arc runs from courtesy under pressure to a fair deal kept in the open. The s
 - **Purpose:** the deliberation, where the hard call is weighed in the open.
 - **Move:** the twelve masks argue over how hard to block. **Counter-move:** one mask offers the shape of the answer: "Untie it. Keep her." (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L32).
 - **Emotional turn:** tension becomes clarity.
-- **Anchor (CANON):** title card "TWELVE MASKS. TOLC ON THE TABLE. HOW HARD?" (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L31). "Below them, Ra-Thor has not moved." (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L33). The masks advise and never outvote: "They do not outvote the Gate." (`09_CHARACTER_BIBLE.md` L28).
+- **Anchor (CANON):** title card "TWELVE MASKS. TOLC ON THE TABLE. HOW HARD?" (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L31). "Below them, Ra-Thor has not moved." (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L33). The masks advise and never outvote: "They do not outvote the TOLC." (`09_CHARACTER_BIBLE.md` L28).
 - **Sound (CANON):** "The drums drop out for the council." (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L62).
 
 ### 2.2 The choice is made, unseen
@@ -166,10 +166,10 @@ The arc runs from courtesy under pressure to a fair deal kept in the open. The s
 - **Emotional turn:** suspicion gives way to recognition.
 - **Anchor:** [GAP — card slide cut per X6; canon L54: envoy takes the CLEAN card once]
 
-### 4.3 That one can live (Act Four out)
+### 4.3 That one is live (Act Four out)
 
 - **Purpose:** the deal is kept and a chair is spoken for.
-- **Move:** the envoy takes the CLEAN card, veil still down, and gives the smallest bow. She sets her knot-glyph token on one empty chair (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L54). **Counter-move:** Ra-Thor answers "That one can live." (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L53).
+- **Move:** the envoy takes the CLEAN card, veil still down, and gives the smallest bow. She sets her knot-glyph token on one empty chair (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L54). **Counter-move:** Ra-Thor answers "That one is live." (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L53).
 - **Emotional turn:** wary respect becomes the first alliance.
 - **Anchor (CANON):** P6 staging and bubble, `episodes/S1E01_THE_RIBBON_CLAUSE.md` L53, L54.
 - **Sound (CANON):** the fixed stinger, "an open major-chord bloom topped by the short 528 Hz chime" (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L65). The drone returns under it, per G10 B (`screen/S1E01/GAP_RULINGS.md` L115).

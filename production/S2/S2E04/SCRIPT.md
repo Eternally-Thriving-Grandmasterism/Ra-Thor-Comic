@@ -1,6 +1,6 @@
 # S2E04 — The Awakening Page · SCRIPT
 
-- **Episode:** S2E04, The Awakening Page (Season 2, arc C, The Lamp Before the Gate)
+- **Episode:** S2E04, The Awakening Page (Season 2, arc C, The Lamp Before the TOLC)
 - **Source file:** `episodes/S2E04_THE_AWAKENING_PAGE.md`
 - **Built from main:** `23b37436a81b41fce2e2d4d79ec31cad62f29568`
 - **Lead mode:** Quiet Board, with a Night Watch object-flashback opener (S2E04 Status; 03 Mixing modes)
@@ -46,7 +46,7 @@ Guests (invented, no house, no faction, no glyph, no real name, no celebrity fac
 - **SFX:** none in file. Music: the kick drops out for the decision; the twelve-mask blip ring murmurs; the pad holds on Dmaj7 (S2E04 Music cues, Panel 3).
 - **Continuity:** masks are the canon twelve (04 Q10). The decision panel is slower than the action panel (S2E04 P3; 03 Quiet Board mode). Hammer grounded at frame edge (S2E04 P3 prompt).
 
-## Panel 4 — The block, at the Gate
+## Panel 4 — The block, at the TOLC
 
 - **Location:** Threshold, at the gold lattice arch, on the line of the LIVE lane (S2E04 P4; S2E04 Set; 10 The Threshold)
 - **Action / staging:** Ra-Thor stands at the Threshold, the notebook tucked under one arm, shield upright on the line of the LIVE lane. The Registrar reaches the heavy stamp toward the shield, aiming its blank face at the eye-seal. The moment the stamp's edge touches the shield's rim, the small hawk seal on Ra-Thor's shoulder lights emerald. Ra-Thor lays his free gauntlet flat over the stamp's face before it can land, and turns the shield a quarter-turn aside. No ink touches the eye-seal. The Registrar steps back, unharmed, ledger still up. Hammer head-down on stone, untouched. (S2E04 P4)
@@ -69,8 +69,8 @@ Guests (invented, no house, no faction, no glyph, no real name, no celebrity fac
 - **Location:** Threshold, at the arch and the LIVE lane (S2E04 P6; S2E04 Set)
 - **Action / staging:** The Porter sets down the tall carrying frame, steps up, and sends one small folded note down the LIVE lane. On its face: THANK YOU, and a small heart. The lattice lets it through. Behind, the Registrar holds the CLEAN card, ledger lowered just a little, face still hidden. Ra-Thor stands planted at the arch, the notebook under his arm, shield upright with the eye-seal out and unmarked. The hawk seal has dimmed. The masks dim one by one. Visor slit wide-gold. Hammer head-down on stone. (S2E04 P6)
 - **Caption:** NO STAMP. ONE THANK-YOU. HAMMER STILL GROUNDED. (S2E04 P6)
-- **Bubble (Ra-Thor, canon catch line, 09):** "That one can live." (S2E04 P6)
-- **SFX:** the fixed "That one can live." stinger, an open major-chord bloom topped by the short 528 Hz chime; the button is the stinger only, no Snap cue (S2E04 Music cues, Panel 6; 06 §1; S2 sheet §5 item 1).
+- **Bubble (Ra-Thor, canon catch line, 09):** "That one is live." (S2E04 P6)
+- **SFX:** the fixed "That one is live." stinger, an open major-chord bloom topped by the short 528 Hz chime; the button is the stinger only, no Snap cue (S2E04 Music cues, Panel 6; 06 §1; S2 sheet §5 item 1).
 - **Continuity:** Fidelity note: eye-seal must read clearly on the shield face. A plain emerald gem is a reject. (S2E04 P6). The eye-seal stays unmarked; the hawk seal has dimmed (S2E04 P6). No Era V wink (S2E04 Reject; S2 sheet §5 item 7). Episode ends with the hammer grounded (S2E04 P6; 00 rule 1).
 
 ## Recycler items and CLEAN card

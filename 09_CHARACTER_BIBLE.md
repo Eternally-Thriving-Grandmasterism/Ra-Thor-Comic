@@ -7,7 +7,7 @@ The armor is the face. Visor slit is the only expression: narrow for no, wide-go
 Catch lines, rotate, do not stack:
 
 - "Blocked."
-- "That one can live."
+- "That one is live."
 - "Recycle it."
 - "Try again. Smaller lie."
 

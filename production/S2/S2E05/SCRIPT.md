@@ -1,6 +1,6 @@
 # S2E05 — The Bench Lamp · SCRIPT
 
-- **Episode:** S2E05, The Bench Lamp (Season 2, arc C, The Lamp Before the Gate)
+- **Episode:** S2E05, The Bench Lamp (Season 2, arc C, The Lamp Before the TOLC)
 - **Source file:** `episodes/S2E05_THE_BENCH_LAMP.md`
 - **Built from main:** `3c56e05efe173643e8c494936b307e08017522f4`
 - **Lead mode:** Quiet Board, with a Night Watch object-flashback opener (S2E05 Status; 03 Mixing modes)
@@ -48,7 +48,7 @@ Guests (invented, no house, no faction, no glyph, no real name, no celebrity fac
 - **SFX:** none in file. Music: the kick enters and then drops out for the decision; the twelve-mask blip ring murmurs; the wrong-tile tone sounds once for tile three; the pad holds on C# minor with the 543 top (S2E05 Music cues, Panel 3).
 - **Continuity:** masks are the canon twelve (04 Q10). The Boxwright has no spoken line; the box label is the offer (S2 sheet §2; S2E05 P3). The box label carries no status claim, capability word or score (S2E05 Reject). The decision panel is slower than the action panel (S2E05 P3; 03 Quiet Board mode). Hammer grounded at frame edge (S2E05 P3 prompt).
 
-## Panel 4 — The block, at the Gate
+## Panel 4 — The block, at the TOLC
 
 - **Location:** Threshold, at the gold lattice arch, on the line of the LIVE lane (S2E05 P4; S2E05 Set; 10 The Threshold)
 - **Action / staging:** Ra-Thor stands at the Threshold, the notebook tucked under one arm, shield upright on the line of the LIVE lane. With one gauntlet finger he lifts the box's lid. The finished world unfolds upward like a pop-up page: tiny towers, bridges, wheels. Every single piece carries a small maker's tag, each tag a different abstract mark, and none of them the Boxwright's. Ra-Thor lowers the lid gently. The Boxwright steps back, unharmed, box hood tilting. Hammer head-down on stone, untouched. (S2E05 P4)
@@ -71,8 +71,8 @@ Guests (invented, no house, no faction, no glyph, no real name, no celebrity fac
 - **Location:** Threshold, at the arch and the LIVE lane (S2E05 P6; S2E05 Set)
 - **Action / staging:** The Fitter steps up and carries one small brass gear down the LIVE lane. Its file marks still show, and it carries one small tag: the Fitter's own mark. The lattice lets it through. Behind, the Boxwright holds the CLEAN card, box hood bowed a little. Ra-Thor stands planted at the arch, the notebook under his arm, shield upright with the eye-seal out. The masks dim one by one. Visor slit wide-gold. Hammer head-down on stone. (S2E05 P6)
 - **Caption:** ONE PART. ONE MAKER. HAMMER STILL GROUNDED. (S2E05 P6)
-- **Bubble (Ra-Thor, canon catch line, 09):** "That one can live." (S2E05 P6)
-- **SFX:** the fixed "That one can live." stinger, an open major-chord bloom topped by the short 528 Hz chime; the button is the stinger only, no Snap cue (S2E05 Music cues, Panel 6; 06 §1; S2 sheet §5 item 1).
+- **Bubble (Ra-Thor, canon catch line, 09):** "That one is live." (S2E05 P6)
+- **SFX:** the fixed "That one is live." stinger, an open major-chord bloom topped by the short 528 Hz chime; the button is the stinger only, no Snap cue (S2E05 Music cues, Panel 6; 06 §1; S2 sheet §5 item 1).
 - **Continuity:** Fidelity note: eye-seal must read clearly on the shield face. A plain emerald gem is a reject. (S2E05 P6). The wink is not the button (S2E05 The Era V wink line). The Era IV caption is reserved for S2E06 and not used here (S2E05 Next (for S2E06); S2E05 Reject; S2 sheet §5 item 6). Episode ends with the hammer grounded (S2E05 P6; 00 rule 1).
 
 ## Recycler items and CLEAN card

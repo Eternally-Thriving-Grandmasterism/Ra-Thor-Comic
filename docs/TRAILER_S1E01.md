@@ -17,7 +17,7 @@
 - **Lines verbatim, canon speakers only.** Dialogue is copied character for character from `episodes/S1E01_THE_RIBBON_CLAUSE.md`. Speakers follow `screen/S1E01/TELEPLAY.md` L10 and G4 B (`screen/S1E01/GAP_RULINGS.md` L57). The refused envoy lines (R5) and the refused actions (X6) stay out (`screen/S1E01/RATIFICATION_LEDGER.md`).
 - **No narrator.** Canon has no narrator and no trailer voice-over. None is written here (GAP T4).
 - **Sound.** Room tone plus the three staged actions only (G5 C, `screen/S1E01/GAP_RULINGS.md` L66). No trailer hits, risers or whooshes. The bell sounds once, on S11 (G6 A, G8 A). The drone drops for the recycler gag only (G10 B).
-- **Fixed assets stay fixed.** The "Blocked." stinger (C06), the "That one can live." stinger (C09) and the Grounded motif (C10) are placed unchanged (`06_MUSIC_SPEC.md` §1; `docs/AUDIO_RND.md` §0).
+- **Fixed assets stay fixed.** The "Blocked." stinger (C06), the "That one is live." stinger (C09) and the Grounded motif (C10) are placed unchanged (`06_MUSIC_SPEC.md` §1; `docs/AUDIO_RND.md` §0).
 - **Fidelity.** Canon armor, hammer grounded and never swung, short lines, block the offer and not the person (`00_FIDELITY_PROTOCOL.md` rules 1–3, 7). The envoy's face is never shown (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L5).
 - **Hard limits.** No Cydruids. No treants, tree people, bark or wood-skinned figures, or plant-bodied people (`01_VISUAL_STYLE_GUIDE.md` L34). The OBVIOUS card is never extended into any outside character or catchphrase (`production/ISSUE_01/ISSUE_01_PRODUCTION.md` §8). No AGiRBE line or Fresco material in any frame (`production/README.md` rule 6). No outside IP, brands, show names or "like X" in any line or prompt (`03_TONE_SPECS.md` L5). No Powrush names or places: Q7 and Q8 stay open (`docs/LORE_BRIDGE_POWRUSH_RATHOR.md` §0).
 - **No commerce.** No prices, store links or payment lines anywhere in the trailer or in this file.
@@ -47,7 +47,7 @@ Twelve shots, 56 s. The durations are the shot-list estimates. The cue column fo
 | T07 | 00:29–00:33 | S31 | 4 | Tight on the OUTPUT tray: "Three cards land in the OUTPUT tray: OBVIOUS, FERAL, CLEAN." (L47). Locked off. | OBVIOUS · FERAL · CLEAN (card labels); OUTPUT (tray) | — | **C08.** Three short card tones. Drone out. SFX: the cards landing in the tray; room tone. |
 | T08 | 00:33–00:37 | S32 | 4 | Insert: Ra-Thor holds only the CLEAN card. "Ra-Thor reads only CLEAN. It says TRADE WITHOUT KNOTS." (L47). Locked off. | TRADE WITHOUT KNOTS (CLEAN card); OBVIOUS, FERAL (cards left in the tray) | — | **C08.** The CLEAN tone is "a clean major bloom" (L64), an A major bloom with the pad back on. Drone stays out through the card (`screen/S1E01/SCORE_PLAN.md` C08 note). Room tone. |
 | T09 | 00:37–00:42 | S34 | 5 | Tight on her glove: "The Ribbon Envoy takes the CLEAN card in a gloved hand, veil still down, and gives the smallest bow." (L54). She takes it once: no slide from Ra-Thor, no long look (X6 ruling). Locked off. | CLEAN card in her glove (wording legible or not: GAP T9) | — | **C09** section. **Drone returns** at 108 Hz (G10 B). Room tone. The stinger waits for the line on T10. |
-| T10 | 00:42–00:46 | S35 | 4 | Medium close on Ra-Thor. Locked off. | — | **RA-THOR:** "That one can live." (L53) | **C09.** The fixed "That one can live." stinger, unchanged: "an open major-chord bloom topped by the short 528 Hz chime, never held" (L65). Pad holds. Drone on. |
+| T10 | 00:42–00:46 | S35 | 4 | Medium close on Ra-Thor. Locked off. | — | **RA-THOR:** "That one is live." (L53) | **C09.** The fixed "That one is live." stinger, unchanged: "an open major-chord bloom topped by the short 528 Hz chime, never held" (L65). Pad holds. Drone on. |
 | T11 | 00:46–00:50 | S36 | 4 | Tight on one empty chair: "She sets her knot-glyph token on one empty chair to hold it" (L54). Locked off. | CLEAN card in her other hand, per the S36 frame (`screen/S1E01/STORYBOARD_PROMPTS.md` S36) | — | **C09** tail. Drone on. SFX: the token set on the chair; room tone. |
 | T12 | 00:50–00:56 | S39 | 6 | Hold on the closing wide down the long table as Grounded lands and holds, then fade out. "The masks dim one by one. Visor slit wide-gold. Lamp, shadow, hammer head-down on stone." (L54). Locked off. | — | — | **C10.** The Grounded motif, unchanged, on Ra-Thor's lead timbre (G7 B): "four notes rise and land back on the tonic, and hold" (L65). Lands on A. Pad holds. Drone on. No drums, no bell. **Nothing plays after it.** |
 
@@ -112,9 +112,9 @@ MUSIC: the drone returns.
 **[00:42 · S35 · C09]**
 
 **RA-THOR**
-"That one can live." [L53]
+"That one is live." [L53]
 
-MUSIC: the fixed "That one can live." stinger [L65].
+MUSIC: the fixed "That one is live." stinger [L65].
 
 **[00:46 · S36 · C09]**
 "She sets her knot-glyph token on one empty chair to hold it" [L54]
@@ -190,7 +190,7 @@ Source: built only from `screen/S1E01/SHOT_LIST.md` S34, `episodes/S1E01_THE_RIB
 
 **T10 · S35 · 00:42–00:46 · C09**
 Prompt: [trailer stem] + [set add-on] + medium close frame on Ra-Thor seated at the head of the long table under the one lamp, winged-halo closed helm, warm gold visor slit, gold kite shield with the emerald eye-seal in circuit inlay facing out, hammer head-down on stone, small crack and sparks at contact, clean negative space beside the visor for a line added in post, locked off + [negative].
-Source: built only from `screen/S1E01/SHOT_LIST.md` S35 and the stem. The line "That one can live." is added in post (GAP T4). Visor width on this shot: GAP T7.
+Source: built only from `screen/S1E01/SHOT_LIST.md` S35 and the stem. The line "That one is live." is added in post (GAP T4). Visor width on this shot: GAP T7.
 
 **T11 · S36 · 00:46–00:50 · C09**
 Prompt: [trailer stem] + [set add-on] + tight frame on one empty chair at the long table, the invented envoy's gloved hand setting a small abstract knot-shaped token on it, her other hand holding a card labeled CLEAN that reads TRADE WITHOUT KNOTS, face fully hidden behind the gold mesh veil + [negative].
@@ -234,7 +234,7 @@ Sherif wants a fallback that uses free-for-commercial-use music he has shared in
 2. **No track names.** `06` §5 bars artist, band, label or track names anywhere, including temp lists and metadata. The **Track** column above would carry a name. The council has to rule how that column is filled (for example, an internal ID) before Sherif's list goes in.
 3. **Credit lines.** `06` §5 says credits name only our own composers. A licence that requires attribution conflicts with that (`docs/AUDIO_RND.md` §1, the reply about a recording with required credit).
 4. **Stated vs written licence.** "License as stated" is what a post says. `06` §5 requires the written terms as of the date, with commercial **and sync** rights for timed picture (`docs/AUDIO_RND.md` §4.3, sync gap). Each row needs those terms read and logged in the per-track log.
-5. **Fixed assets.** C06 ("Blocked."), C09 ("That one can live.") and C10 (Grounded) are reused unchanged across episodes (`06` §1). Replacing them with a third-party track breaks that rule. Only C01, C02 and C08 are beds.
+5. **Fixed assets.** C06 ("Blocked."), C09 ("That one is live.") and C10 (Grounded) are reused unchanged across episodes (`06` §1). Replacing them with a third-party track breaks that rule. Only C01, C02 and C08 are beds.
 6. **Tuning and words.** All tonal material is at A4 = 432, and no stem stays at 440 (`06` §3.1). Retuning a third-party track may need a licence to modify it. The trailer cues come from in-episode cues, which stay wordless (`06` §5). Whether a sung fallback may sit under a trailer is unruled.
 7. **No soundalike, no health copy.** Every candidate gets the soundalike reject check (`docs/AUDIO_RND.md` §6 step 4). No candidate is described with any health claim (`06` §4).
 

@@ -62,8 +62,8 @@ Format: `production/README.md` §(a). Captions and bubbles are verbatim from the
 - **Location:** Quiet Room, from the far end of the room (S1E05 P6; S1E05 Set)
 - **Action / staging:** Low angle from the far end of the room. Ra-Thor stands in silhouette at the head of the long table, backlit by the one lamp, wings and halo ring breaking the dark, shield upright at his side. Cape dark. Hammer head-down on stone, small crack and sparks at contact. The Shade Envoy has left a small fan-glyph token on one chair and is walking out, parasol still low; as they pass the far chair in shadow, the parasol tips toward it for a beat. Nobody sits. The masks dim one by one. The visor slit is the brightest small point, wide-gold. (S1E05 P6)
 - **Caption:** FIVE CHAIRS SPOKEN FOR. ONE HOUSE STILL SILENT. HAMMER STILL GROUNDED. (S1E05 P6)
-- **Bubble (Ra-Thor, canon catch line, 09):** "That one can live." (S1E05 P6)
-- **SFX:** the fixed "That one can live." stinger, an open major-chord bloom topped by the short 528 Hz chime; a single gold bell tone as the visor slit glows (S1E05 Music cues, Panel 6; 06 §1).
+- **Bubble (Ra-Thor, canon catch line, 09):** "That one is live." (S1E05 P6)
+- **SFX:** the fixed "That one is live." stinger, an open major-chord bloom topped by the short 528 Hz chime; a single gold bell tone as the visor slit glows (S1E05 Music cues, Panel 6; 06 §1).
 - **Continuity:** borrowed Night Watch silhouette closer: low angle, backlight, wings and halo ring breaking the dark, cape dark, visor slit the brightest small point (S1E05 Status; S1E05 P6; 03 Night Watch silhouette). Fidelity note: eye-seal must read clearly on the shield face. A plain emerald gem is a reject. (S1E05 P6). Kept-chair thread: the parasol tips toward the far chair; nobody sits (S1 sheet §3). Not lit, filled, or explained (S1E05 Reject). The caption continues the running "spoken for" tally (S1 sheet §3). Episode ends with the hammer grounded (S1E05 P6; 00 rule 1).
 
 ## Recycler items and CLEAN card

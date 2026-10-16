@@ -71,8 +71,8 @@ Guests (invented, faces always hidden, no glyph, no emblem, no house, no real na
 - **Location:** Threshold, the LIVE lane (S3E02 P6; S3 sheet §5 item 2)
 - **Action / staging:** Snap framing: flat, high-key gold against obsidian, bold silhouettes, medium-wide, slight low angle. The Mender and the Latchwright carry a plain upright tool wall down the LIVE lane: one wooden board with a long row of plain hooks, the wrench hanging on one of them. Waiting hands reach in from the frame edge, each toward its own hook. Ra-Thor stands planted at the arch, shield upright with the eye-seal out. Hammer head-down on stone. (S3E02 P6)
 - **Caption:** ONE BOARD. A HOOK FOR EVERY HAND. HAMMER STILL GROUNDED. (S3E02 P6)
-- **Bubble (Ra-Thor, canon catch line, 09):** "That one can live." (S3E02 P6)
-- **SFX:** the fixed "That one can live." stinger, an open major-chord bloom topped by the short 528 Hz chime; no Snap cue, the Snap panel takes the stinger only (S3E02 Music cues, Panel 6; 06 §1; S3 sheet §5 item 1).
+- **Bubble (Ra-Thor, canon catch line, 09):** "That one is live." (S3E02 P6)
+- **SFX:** the fixed "That one is live." stinger, an open major-chord bloom topped by the short 528 Hz chime; no Snap cue, the Snap panel takes the stinger only (S3E02 Music cues, Panel 6; 06 §1; S3 sheet §5 item 1).
 - **Continuity:** Fidelity note: eye-seal must read clearly on the shield face. A plain emerald gem is a reject. The tool wall carries no glyph, emblem, name, number or text, and the hooks are never counted. Shown, not explained: no capability, supply or pricing claim. (S3E02 P6). Snap framing per 03 Snap mode (S3E02 P6). The Snap panel's house spot is the Threshold's LIVE lane (S3 sheet §5 item 2). Caption number words are grandfathered (S3 sheet §9 items 1 and 7). Episode ends with the hammer grounded (S3E02 P6; 00 rule 1).
 
 ## Recycler items and CLEAN card
