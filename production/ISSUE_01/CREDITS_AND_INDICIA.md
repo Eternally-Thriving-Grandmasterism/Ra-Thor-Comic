@@ -77,7 +77,7 @@ Sources:
 
 Kept off on purpose:
 
-- **No ™ or ® symbols.** The proposed trademark line names the mark in words only. Whether to add a symbol, and which one, is a legal call for Sherif.
+- No ™ or ® symbols except the single Ra-Thor™ trademark line in the fine print.
 - **No ISBN line.** KDP does not require an ISBN for eBooks (`STORE_LISTING_AND_EXPORT.md` §1).
 - **No Patreon or store link.** KDP disallows content that redirects readers elsewhere for the full work or exists mainly to solicit (`STORE_LISTING_AND_EXPORT.md` §1).
 - **No xAI independence line.** Any xAI mark is a package Reject on credits (`ISSUE_01_PRODUCTION.md` §8).
