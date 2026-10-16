@@ -2,7 +2,7 @@
 
 - **Card:** ISSUE01-FINISH-1 (e). Docs only.
 - **Built from main:** `1ad0ae04c73254ee6eadfdca2fda43d16b1b9c43`.
-- **Status:** **PROPOSED CANON — pending council ratification** (the rubric and the pass bar). The fidelity gate restates canon.
+- **Status:** **PROPOSED CANON — pending council ratification** (the rubric and the pass bar). The fidelity check restates canon.
 - **Prompts:** every prompt ID below is a heading in `ISSUE_01_PRODUCTION.md` (§5.1 cover, §6 panels). This file adds no prompt text.
 - **Style lock:** cards ISSUE01-STYLE-1 and ISSUE01-COVER-STYLE-1 (§0 below). **PROPOSED CANON — pending council ratification.**
 
@@ -44,7 +44,7 @@ Before rendering, check the prompt:
 
 ## 1. How to judge a render
 
-**Step 1, fidelity gate (pass or fail).** Every box in `ISSUE_01_PRODUCTION.md` §3 must tick for every figure and object in frame, and so must every guard:
+**Step 1, fidelity check (pass or fail).** Every box in `ISSUE_01_PRODUCTION.md` §3 must tick for every figure and object in frame, and so must every guard:
 
 - [ ] Portrait, 2:3 or taller, at least 1600 × 2560 px (cover: the art window above the title band, at least 300 ppi at final size).
 - [ ] Helm: closed angular great-helm with a crest ridge and a T-visor, and compact, angular, up-swept gold wings no wider than the shoulders.
@@ -63,7 +63,7 @@ Before rendering, check the prompt:
 - [ ] Glow only on the eyes and the halo ring (white-hot gold), the chest sun disc, the shield's gold eye, the hammer's digital eye, the sparks, the hammer's crystal spike, the golden lightning and its white core, and the shoulder seal's gold eye.
 - [ ] Nothing from the Rejects in either reference (§0).
 
-One miss is a reject and a rerun (`00_FIDELITY_PROTOCOL.md` rule 7). Do not score a render that fails the gate.
+One miss is a reject and a rerun (`00_FIDELITY_PROTOCOL.md` rule 7). Do not score a render that fails the check.
 
 **Step 2, quality rubric (1–5 on each line).**
 
@@ -77,7 +77,7 @@ One miss is a reject and a rerun (`00_FIDELITY_PROTOCOL.md` rule 7). Do not scor
 
 Q5 "logo" means any logo or brand mark. The buckle's winged sun disc with its small rose-gold bolt is required, not a Q5 fault; text on the buckle, a logo on it, or a garbled buckle that shows at print size, is (`ISSUE_01_PRODUCTION.md` §6 Style lock).
 
-**Pass bar: every line scores 4 or 5** (a 4–5/5 render), and the gate is passed. Any 3 or lower is a rerun. Q4 does not apply to the cover art (the title goes in the planned bottom band) or to panels with no text, so score those N/A.
+**Pass bar: every line scores 4 or 5** (a 4–5/5 render), and the check is passed. Any 3 or lower is a rerun. Q4 does not apply to the cover art (the title goes in the planned bottom band) or to panels with no text, so score those N/A.
 
 **Reference images.** If the tool takes them, give the rathor.ai hero image or the first frame of the Rathor.ai knight video (hammer head-down); R4 is a fallback. Give a raised-hammer frame only for a raised beat; issue #1 has none. The references' gold shield face, wingless shield eye, square hammer head, thick winged halo and missing shoulder seal do not override the prompt. The style post is a style reference only: its Ra-Thor is not the design. Never give R3 (diamond gem, walker bot) or R5 (out-of-canon blue variant) (`ISSUE_01_PRODUCTION.md` §5.1, §6 Style lock, §6 panel 5.2).
 
@@ -85,7 +85,7 @@ Q5 "logo" means any logo or brand mark. The buckle's winged sun disc with its sm
 
 ## 2. Sheet
 
-Status column: `—` not rendered · `R` rejected at the gate · `S` scored. Fill the scores as Q1/Q2/Q3/Q4/Q5.
+Status column: `—` not rendered · `R` rejected at the check · `S` scored. Fill the scores as Q1/Q2/Q3/Q4/Q5.
 
 ### Packaging
 

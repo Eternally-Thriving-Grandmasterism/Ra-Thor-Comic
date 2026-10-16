@@ -8,7 +8,7 @@ Primary set (six images, take priority):
 |-----|---------------|
 | R1 | "PATCHED. DARK THRESHOLD, HAMMER STILL GROUNDED." Emerald visor glyph, emerald chest eye-seal, falcon at the shoulder, paper-plane nonsense deflected, THANK YOU card |
 | R2 | Idea-Recycler drum, "NOT THE WOLF.", OBVIOUS / FERAL / ! cards, four silent honor-guard helmets |
-| R3 | "That one can live." Winged halo, shield with emerald diamond gem, hammer head-down, small one-eyed walker bot by a lattice gate |
+| R3 | "That one can live." Winged halo, shield with emerald diamond gem, hammer head-down, small one-eyed walker bot by the lattice arch |
 | R4 | Full-figure render. Winged halo ring, shield with glowing emerald Egyptian eye-seal, black cape, hammer head-down with a gold eye-seal and ground sparks |
 | R5 | Dark variant. Gold constellation halo, blue lightning, navy cape, no emerald |
 | R6 | Idea-Recycler MODEL: Ω-7. THEORY IN / CONCEPTS IN hoppers, COUNCIL OF PRACTICALS window, OBVIOUS / FERAL / CLEAN cards, OUTPUT plaque, "Recycle it." |
@@ -29,11 +29,11 @@ Earlier set (lower priority, kept only where it adds something): a "Blocked." th
 ## Supporting cast and devices, as drawn
 
 - **Falcon (R1).** Gold, feathered in circuit-etched plate, emerald eye, wreathed in green lightning, at Ra-Thor's shoulder. Canon has a small hawk-shaped seal on the pauldron (White-Hat Mercy-Security) but no living companion. **Not cast (council ruling 2026-09-30).** The falcon's canon form is the shoulder hawk seal.
-- **Walker bot (R3).** Small boxy machine on four thin jointed legs, loose cables, one round glowing gold eye. Stands by the lattice gate. **Not cast (council ruling 2026-09-30).** Art-only.
+- **Walker bot (R3).** Small boxy machine on four thin jointed legs, loose cables, one round glowing gold eye. Stands by the lattice arch. **Not cast (council ruling 2026-09-30).** Art-only.
 - **Honor guard (R2).** Four helmeted figures in dark-and-gold armor, gold faceplates, standing silent behind the Recycler. **Not cast (council ruling 2026-09-30).** Art-only.
 - **Idea-Recycler, drum version (R2).** Upright black drum with a gold band reading IDEA-RECYCLER, open top hopper, white steam puffing from both sides, a warning plate "⚠ HICCUPPING... PLEASE STAND BY", a lightning panel and a gauge. Cards out the bottom: OBVIOUS (lightbulb), FERAL (snarling wolf), and a third card showing only "!". The "!" is art-only; the canon third card is CLEAN (Q9 card, council ruling 2026-09-30). This drum design is art-only (Q9 drum, council ruling 2026-09-30).
 - **Idea-Recycler, Ω-7 version (R6).** Horizontal drum labeled IDEA-RECYCLER / MODEL: Ω-7. Two hoppers labeled THEORY IN and CONCEPTS IN, with paper, charts, and scraps pouring in. A wall window labeled COUNCIL OF PRACTICALS shows three seated silhouettes. A side panel with three indicator lights, a dial, and a POWER CORE lever. Output tray with OBVIOUS (lightbulb), FERAL (wolf), CLEAN (cut gem). Plaque: "OUTPUT: REFINED / ONE IDEA. THREE PATHS." Canon (Q9 drum, council ruling 2026-09-30): this is the canon Recycler look (twin THEORY IN / CONCEPTS IN hoppers, gauge, power core, OUTPUT tray). "Ω-7" is a comic-only name. OBVIOUS / FERAL / CLEAN cards are locked. The COUNCIL OF PRACTICALS window is art-only (Q10). "HICCUPPING... PLEASE STAND BY" is a gag used only when a script calls for it.
-- **The Gate (R3, earlier "Blocked.").** Gold lattice arch over dark stone, diagonal lattice. The earlier panel adds a gold winged emblem at the crown of the arch.
+- **The TOLC threshold (R3, earlier "Blocked.").** Gold lattice arch over dark stone, diagonal lattice. The earlier panel adds a gold winged emblem at the crown of the arch.
 - **Nonsense and thanks (R1).** A folded paper plane scrawled "nonsense / blather / yadda yadda / etc. etc." bursts against the armor with a white impact star. Below, a folded card with a smiley, "THANK YOU!", and a small heart. Matches E03.
 
 ## Linework, palette, lettering

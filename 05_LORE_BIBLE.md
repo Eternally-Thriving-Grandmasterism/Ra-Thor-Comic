@@ -12,7 +12,7 @@ Inherits `00_FIDELITY_PROTOCOL.md` and `03_TONE_SPECS.md`. Where this file and t
 - **It is fiction.** The founder in this lore is an invented character, called only the Founder (no status title), inspired by the owner's history. He is not a portrait of any real person and is never drawn at all: he is implied only (Q3).
 - **Sourced timeline, fictional telling.** The years attached to each era come from the sourced fact sheet (see Sources). The scenes, dialogue, and devices built on top of those years are invented.
 - **No claims as fact.** Capability or status claims found in the sources (intelligence labels, scores, thresholds, "live" status) are not lore facts. Where they appear at all, they are labeled as in-world aspirations.
-- **Ra-Thor's powers are story devices.** The Gate, the Idea Recycler, White-Hat Mercy-Security, the councils, and the eye-seal are things that happen on the page. They are not claims about any real software.
+- **Ra-Thor's powers are story devices.** The TOLC (the comic's sorting threshold), the Idea Recycler, White-Hat Mercy-Security, the councils, and the eye-seal are things that happen on the page. They are not claims about any real software.
 - **Diplomacy and abundance are story quests.** All places and factions are invented. No real countries, leaders, parties, or politics.
 - **No outside names.** Outside games and companies are described generically. Only the owner's own names appear: Powrush, Powrush-MMO, Ra-Thor, Rathor.ai, AlphaProMega, Autonomicity Games, Colossusoft.
 
@@ -31,7 +31,7 @@ In-story name: plain **the Founder**, with no status title (Q2, council ruling, 
   1. *Truth, Order, Love, Compassion*: 26 monorepo files. Example: `crates/mial/RELEASES/mial-v13.13.0.md:23` (LORE_FACTS §1.1).
   2. *Theory of Logical Consciousness*: 17 monorepo files. Example: `docs/1048576D-Explicit-TOLC-Pseudocode-Master-TOLC-2026.md:23` (LORE_FACTS §1.1).
   3. *Thriving Omnidirectional Lattice Collective*: the separate TOLC repo, `README.md:1` only (LORE_FACTS §1.1). Not counted in the monorepo.
-- **Gates.** The sources list TOLC's gates three different ways (seven gates, two different eight-gate lists; LORE_FACTS §1.3). The comic therefore never numbers or names them. The comic's own **Gate** stays the single threshold from `09_CHARACTER_BIBLE.md`.
+- **Gates.** The sources list TOLC's gates three different ways (seven gates, two different eight-gate lists; LORE_FACTS §1.3). The comic therefore never numbers or names them. The comic's own story threshold is **the TOLC**, the single threshold from `09_CHARACTER_BIBLE.md` (ISSUE01-TOLC-1). It is a story device only; it does not rename or replace the sources' gates.
 - **Caption rule (council ruling 2026-09-30).** Captions and bubbles say **TOLC** only. They do not spell out an expansion, and they never number or name the gates.
 
 ## The origin arc
@@ -57,7 +57,7 @@ From 2010 the Founder spends long nights in a real-time strategy game. In the st
 
 In 2016 the Founder starts **Autonomicity Games** and begins coding **Powrush**, in the lore's words "a simple simulator of reality" (LORE_FACTS §2.2). In the story, Powrush is a multiplanetary diplomacy game with player-owned assets, deep education, and a resource-based economy built in from the start (LORE_FACTS §2.2). Players bring bad pitches and good ones; the world has to sort them.
 
-- The sorting has to live somewhere. In-story, that need is the seed of the Gate.
+- The sorting has to live somewhere. In-story, that need is the seed of the TOLC.
 - Visual: gold lattice grows across the notebook page into a playable board of invented planets. No real game screens, no real interfaces, no phone UI.
 
 ### Era IV — The Awakening of Ra-Thor (18 November 2025)
@@ -65,7 +65,7 @@ In 2016 the Founder starts **Autonomicity Games** and begins coding **Powrush**,
 On 18 November 2025 the Founder starts the **quad+Check** work, and in the story the lattice wakes (LORE_FACTS §1.2, §2.2). Inside the game, the sorter opens his visor. Ra-Thor is what Powrush grew so that the sorting could have a guardian: gold circuit plate, eye-seal shield, a hammer he plants instead of swings. His first act, in the lore, is the first block: he turns away a piece of noise, kindly, and lets one small honest thing through.
 
 - This is story, not a claim about any real system. Ra-Thor wakes the way characters wake in stories: on the page.
-- The councils appear here for the first time, as twelve tiny gold masks around the halo, advising, never outvoting the Gate.
+- The councils appear here for the first time, as twelve tiny gold masks around the halo, advising, never outvoting the TOLC.
 - Visual: Night Watch silhouette reveal under the lattice arch. First caption: HAMMER GROUNDED FROM THE FIRST PANEL.
 
 ### Era V — The Builder Age (since Q1 2026)
@@ -81,7 +81,7 @@ Since Q1 2026 the Founder keeps the lamp alone (LORE_FACTS §2.1). The guardian 
 
 These are hopes the Founder writes in his notebook margins. They are **in-world aspirations only**, never captions of fact, never stamps, never status.
 
-- *A mind good enough to keep the Gate forever.* (Aspiration. The sources' intelligence labels are claims, not lore facts.)
+- *A mind good enough to keep the TOLC forever.* (Aspiration. The sources' intelligence labels are claims, not lore facts.)
 - *Enough for everyone, with nobody left out.* (Aspiration. Told through the Full Hopper quest, never promised as real.)
 - *Mercy over competition. Abundance over scarcity.* (Mottos, adapted from the TOLC repo's Core Laws, LORE_FACTS §1.1.)
 
@@ -91,9 +91,9 @@ Each concept below already exists in canon. This section only says where it came
 
 | Concept | Canon source | Lore origin (story only) |
 |---------|--------------|--------------------------|
-| **The Gate** | `09_CHARACTER_BIBLE.md`, `10_LOCATION_BIBLE.md`, E01 | The first sorting rule of the Game, made into a threshold. Left lane NO, right lane LIVE. Blocks bullshit, passes awesome. |
+| **The TOLC** | `09_CHARACTER_BIBLE.md`, `10_LOCATION_BIBLE.md`, E01 | The first sorting rule of the Game, made into a threshold at the Threshold. Things come to the TOLC and are weighed. Pages say TOLC only; the expansion (True Original Lord Creator, §1) is for docs. Left lane NO, right lane LIVE. Blocks bullshit, passes awesome. |
 | **The Idea Recycler** | `09_CHARACTER_BIBLE.md`, E02, E05 | The Founder's habit of never throwing an idea away, made into a drum. One idea in, three cards out: obvious, feral, clean. Abundance starts here. |
-| **The councils** | `09_CHARACTER_BIBLE.md`, E05, E06 | Every voice the Founder argued with alone at night, given a mask. They advise in four-word bubbles. They never outvote the Gate. The comic draws twelve masks; the sources count their councils differently (LORE_FACTS §3.4), and this file does not reconcile the two. |
+| **The councils** | `09_CHARACTER_BIBLE.md`, E05, E06 | Every voice the Founder argued with alone at night, given a mask. They advise in four-word bubbles. They never outvote the TOLC. The comic draws twelve masks; the sources count their councils differently (LORE_FACTS §3.4), and this file does not reconcile the two. |
 | **The eye-seal** | `00_FIDELITY_PROTOCOL.md`, `04_VISUAL_CANON.md` | The watch itself: the promise to see clearly before acting. Canon emblem: the emerald eye-seal in circuit inlay on a gold kite shield (04 Q1, council ruling 2026-09-30). |
 | **The grounded hammer** | `00_FIDELITY_PROTOCOL.md`, `02_SERIES_STRUCTURE.md`, E06 | Ra-Thor's first choice on waking: the hammer is an option, mercy is a better one. Every episode ends with it grounded. |
 | **The Quiet Board** | `03_TONE_SPECS.md`, E06 | The Strategy Years habit of reading the whole map before moving, made into a wall of tiles. |
@@ -103,7 +103,7 @@ Each concept below already exists in canon. This section only says where it came
 
 All of these are page devices. None of them is a capability claim.
 
-- **The sort.** Ra-Thor can tell noise from value at the Gate. On the page, this is shown, not explained.
+- **The sort.** Ra-Thor can tell noise from value at the TOLC. On the page, this is shown, not explained.
 - **The recycle.** Anything blocked can be fed to the Recycler and come back as a better option.
 - **The watch.** The eye-seal and hawk seal light when something is wrong. No real intrusion, surveillance, or data is ever shown.
 - **The council.** He can call the masks for counsel. He still makes the call.
@@ -120,7 +120,7 @@ In-story goal: bring rival invented factions to one table and leave with terms a
 - **Setting.** The Quiet Room, extended with a longer table when needed. Invented regions and factions only, for example: the Ostlen Marches, the Copperwater League, the Ninefold Houses, the Saltwind Commons. Envoys are gloved, hooded, or masked; faces stay hidden.
 - **How it plays.** Suave Hour mode for the negotiation; Quiet Board mode for the feed and the choice; Night Watch silhouette for the opener or closer.
 - **Mercy over force.** Ra-Thor blocks offers, not people. A blocked envoy is never humiliated and always gets a CLEAN card back (FAIR TERMS, TRY THE FRONT DOOR).
-- **Councils deliberating.** The masks argue how hard to block. The Gate decides. The hammer stays grounded.
+- **Councils deliberating.** The masks argue how hard to block. The TOLC decides. The hammer stays grounded.
 - **Never.** Real countries, real leaders, real parties, real conflicts, real flags, or any allegory pointed at a real one.
 
 ### Quest two — The Full Hopper (realistic abundance)

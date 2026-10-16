@@ -1,10 +1,10 @@
-# Episode 01 — The Gate
+# Episode 01 — TOLC
 
 Status: script locked. Five panels prompted 2026-09-30. Armor drifted once (shield gem instead of eye-seal on the pass panel). Rerun the pass with the eye-seal before print.
 
 Issue #1: ships solo as this episode (council ruling, 2026-10-14). Paced page layout, lettering, render prompts and the pass-panel rerun prompt are in `production/ISSUE_01/ISSUE_01_PRODUCTION.md`. The pass panel has not been re-rendered yet, so the rerun above still stands.
 
-Set: the Threshold. Dark stone, gold lattice arch, two lanes; left lane stamped NO, right lane stamped LIVE (`10_LOCATION_BIBLE.md`; `09_CHARACTER_BIBLE.md`, The Gate).
+Set: the Threshold. Dark stone, gold lattice arch, two lanes; left lane stamped NO, right lane stamped LIVE (`10_LOCATION_BIBLE.md`; `09_CHARACTER_BIBLE.md`, The TOLC).
 Lettering, every panel: letter the text exactly as written below, case and punctuation included. White bubbles, hard black outline, tail aimed at the visor slit; captions small, bottom-left (`01_VISUAL_STYLE_GUIDE.md`, Page grammar). One bubble per panel (`00_FIDELITY_PROTOCOL.md` rule 3).
 
 ## Panel 1 — Establishing

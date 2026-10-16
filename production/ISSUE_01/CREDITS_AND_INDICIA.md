@@ -23,7 +23,7 @@ Position from `ISSUE_01_PRODUCTION.md` §4. The series title is allowed here: cr
 ```
 Ra-Thor⚡️Living Thunder
 
-#1 · The Gate
+#1 · TOLC
 
 Created by        [NAME: Sherif to confirm]
 Story             [NAME: Sherif to confirm]
@@ -42,7 +42,7 @@ Notes:
 - The role list is proposed. Which roles exist, and who fills them, is a GAP until Sherif names them (`ISSUE_01_PRODUCTION.md` §11 D8).
 - "No crawl defined" is a production note, not printed text; the printed page carries no crawl.
 - No third-party tool or app name appears on this page (`ISSUE_01_PRODUCTION.md` §8, package Rejects). If the art is made with an image tool, how to credit the art is Sherif's call. KDP's AI disclosure is a setup question, not a printed credit (`STORE_LISTING_AND_EXPORT.md` §1).
-- The issue line `#1 · The Gate` matches the cover proposal (`ISSUE_01_PRODUCTION.md` §5.1).
+- The issue line `#1 · TOLC` matches the cover proposal (`ISSUE_01_PRODUCTION.md` §5.1).
 - The `⚡️` is set as vector art, not as an emoji-font glyph (`ISSUE_01_PRODUCTION.md` §10).
 
 ## 3. Indicia (bottom of the title page, inside front cover)
@@ -50,7 +50,7 @@ Notes:
 Small type under the §5.2 title-page block. Proposed wording:
 
 ```
-Ra-Thor⚡️Living Thunder #1: The Gate.
+Ra-Thor⚡️Living Thunder #1: TOLC.
 First published [DATE: Sherif to confirm] by AlphaProMega Media Inc.
 
 Copyright © [YEAR: Sherif to confirm] AlphaProMega Media Inc. All rights reserved.
@@ -61,7 +61,7 @@ Ra-Thor and all characters, devices and settings in this issue are the property 
 
 No part of this publication may be copied, adapted, used to train any model, or reproduced in any form without written permission from the copyright holder, except for brief excerpts in reviews.
 
-This is a work of fiction. Any resemblance to actual persons, living or dead, or to actual events, is coincidental. The Gate and the Idea Recycler are story devices. No product, certification or affiliation is claimed.
+This is a work of fiction. Any resemblance to actual persons, living or dead, or to actual events, is coincidental. The TOLC and the Idea Recycler are story devices. No product, certification or affiliation is claimed.
 
 Contact: info@Rathor.ai
 ```

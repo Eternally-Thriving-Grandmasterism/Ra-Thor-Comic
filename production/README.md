@@ -23,7 +23,7 @@ production/S1/S1E01/{SCRIPT,ART_PROMPTS,MUSIC_CUES}.md … production/S1/S1E06/
 production/S2/S2E01/…  production/S3/S3E01/…
 ```
 
-Season 0 folders use the episode file's own IDs (`E01`–`E06`, from `episodes/E01_THE_GATE.md` etc.). Each file opens with a header: episode ID, title, source file path, main commit it was built from, lead mode (03), and status (`draft` until council review).
+Season 0 folders use the episode file's own IDs (`E01`–`E06`, from `episodes/E01_TOLC.md` etc.). Each file opens with a header: episode ID, title, source file path, main commit it was built from, lead mode (03), and status (`draft` until council review).
 
 ## (a) SCRIPT.md — panel-by-panel
 

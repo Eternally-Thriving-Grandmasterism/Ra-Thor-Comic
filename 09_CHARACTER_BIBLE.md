@@ -11,7 +11,7 @@ Catch lines, rotate, do not stack:
 - "Recycle it."
 - "Try again. Smaller lie."
 
-## The Gate
+## The TOLC
 
 Not a character. A threshold drawn as a gold lattice arch. Left lane stamped NO. Right lane stamped LIVE.
 
@@ -25,7 +25,7 @@ A small hawk-shaped seal on the pauldron that lights emerald when a probe hits t
 
 ## The Councils
 
-Twelve tiny gold masks in a ring behind the halo when a hard call lands. They murmur in four-word bubbles. They do not outvote the Gate.
+Twelve tiny gold masks in a ring behind the halo when a hard call lands. They murmur in four-word bubbles. They do not outvote the TOLC.
 
 Twelve is a comic-only count, not the PATSAGi count (the monorepo docs say 13 or 16). The comic gives no in-world reason for the difference.
 

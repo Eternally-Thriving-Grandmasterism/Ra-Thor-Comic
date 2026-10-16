@@ -3,7 +3,7 @@
 - **Card:** ISSUE01-FINISH-1 (c). Docs only.
 - **Built from main:** `1ad0ae04c73254ee6eadfdca2fda43d16b1b9c43`.
 - **Status:** **PROPOSED CANON — pending council ratification**, except where a line cites canon.
-- **Text source:** `ISSUE_01_PRODUCTION.md` §7 lettering script, which is verbatim from `episodes/E01_THE_GATE.md`. This spec changes no words, no case and no punctuation.
+- **Text source:** `ISSUE_01_PRODUCTION.md` §7 lettering script, which is verbatim from `episodes/E01_TOLC.md`. This spec changes no words, no case and no punctuation.
 
 ## 1. Canon this spec must keep
 
@@ -78,13 +78,13 @@ Sizes are at print size on the 6.625 × 10.25 in trim (`ISSUE_01_PRODUCTION.md` 
 
 Do these steps in order, on the print master first.
 
-1. **Lock the render.** Only renders that pass `RENDER_CHECKLIST.md` (fidelity gate plus 4–5/5) are lettered.
+1. **Lock the render.** Only renders that pass `RENDER_CHECKLIST.md` (fidelity check plus 4–5/5) are lettered.
 2. **Place art in the page template** at final size, with bleed. Panel borders and gutters live on the template, not in the render (`ISSUE_01_PRODUCTION.md` §10).
 3. **Mark keep-clear zones** on a guide layer: eye-seal, visor slit, lane stamps, cards, hammer contact, safe area.
 4. **Place captions** (1.1, then 8.1), bottom-left.
 5. **Place bubbles in reading order:** 2.3, 4.1, 5.2, 6.1, 8.1. Within 8.1, the bubble sits higher or further left than the caption, so the caption reads second.
 6. **Draw tails last**, to the visor slit, checking the keep-clear zones.
-7. **Proof every line** character for character against `episodes/E01_THE_GATE.md`.
+7. **Proof every line** character for character against `episodes/E01_TOLC.md`.
 8. **Keep the vector layers** in the print master. Flatten only the digital exports (JPEG pages for Kindle Create, which has no text tools: https://kdp.amazon.com/help/topic/G201217140).
 9. **Run the legibility check** (§3) in the Kindle Create Previewer.
 

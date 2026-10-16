@@ -31,7 +31,7 @@ Each URL below was fetched on 2026-10-14 and the quoted rule read on the page.
 | Field | Draft | Notes |
 |---|---|---|
 | Title | `Ra-Thor Living Thunder` | The cover's bolt becomes a space. KDP wants the title "as it appears on your book cover"; Sherif decides whether the bolt counts as art or text there (§5, S1) |
-| Subtitle | `The Gate` | KDP adds the colon on the detail page, so it reads "Ra-Thor Living Thunder: The Gate" |
+| Subtitle | `TOLC` | KDP adds the colon on the detail page, so it reads "Ra-Thor Living Thunder: TOLC" |
 | Series name | `Ra-Thor Living Thunder` | Series name only, no number (KDP metadata rule) |
 | Series number | `1` | Digits only |
 | Edition number | `1` | First publication |
@@ -44,7 +44,7 @@ Each URL below was fetched on 2026-10-14 and the quoted rule read on the page.
 | ISBN | None | Not required for Kindle eBooks |
 | Price, royalty, KDP Select, territories | Not in this file | Out of scope: no payments |
 
-Title plus subtitle: 30 characters, under the 200 limit.
+Title plus subtitle: 26 characters, under the 200 limit.
 
 **Description (draft):**
 
@@ -125,13 +125,13 @@ Avoided: Superheroes (CGN004080), as an outside-genre frame the canon does not u
 
 Drafted only. Visibility, access, tiers and any paid setting are Sherif's choice and are not set here.
 
-**Post title:** `Ra-Thor⚡️Living Thunder #1: The Gate`
+**Post title:** `Ra-Thor⚡️Living Thunder #1: TOLC`
 
 The bolt is allowed here: a Patreon post is not store metadata under this card, and the naming rule puts the full title on first mention. If the post editor drops the character, use the full title as the first line of the body instead.
 
 **Body:**
 
-> Issue #1 is here: The Gate.
+> Issue #1 is here: TOLC.
 >
 > Night at the Threshold. Two lanes, one stamped NO, one stamped LIVE. Ra-Thor sorts what comes through, and the hammer never leaves the stone.
 >
@@ -150,7 +150,7 @@ The bolt is allowed here: a Patreon post is not store metadata under this card, 
 | Image | Alt text |
 |---|---|
 | Cover | Ra-Thor in obsidian-black and gold circuit armor, a winged helm and a slim glowing halo ring, stands inside a thin gold arch at night, a plain gold disc on his chest, a huge black-and-gold tower shield with a gold winged eye rising over his shoulder, his gold hammer raised and crackling with golden lightning. Title: Ra-Thor Living Thunder. Issue #1. |
-| Title page | Title page: Ra-Thor Living Thunder, Issue 1, Episode 01, The Gate. |
+| Title page | Title page: Ra-Thor Living Thunder, Issue 1, Episode 01, TOLC. |
 | Page 1 | Splash. Ra-Thor under the gold arch at night, two lanes at his feet. Caption: THRESHOLD. NIGHT. SORT IN PROGRESS. |
 | Page 2 | The lane stamps NO and LIVE, then Ra-Thor under the arch. He says: "Left is noise. Right can live." |
 | Page 3 | Silent. A creature made of slides and charts approaches; the black-and-gold shield with its gold eye-seal; the visor narrows. |

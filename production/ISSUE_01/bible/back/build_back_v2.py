@@ -15,7 +15,7 @@ HEADLINE = ['LEFT IS NOISE.', 'RIGHT CAN LIVE.']                    # E01 Panel 
 # (two lines so it fits the measure); lines 2-3 in the body serif.
 BLURB_KICKER = ['RA-THOR STANDS WATCH', 'WHERE THE SUN MEETS THE STORM.']   # silver Cinzel caps; [] to drop
 BLURB_BODY = [                                                         # EB Garamond paragraphs; each auto-wraps at BODY_MAXW
-    'All that comes to the Gate is weighed.',
+    'All that comes to the TOLC is weighed.',                            # TOLC: Sherif 9:45 PM ET + Wild ruling (ISSUE01-TOLC-1)
     'What is noise falls away. What can live is let through.',
 ]
 BLURB_CLOSER = 'What gets blocked is recycled, not wasted.'            # italic closing line (Sherif: keep exactly)
@@ -203,9 +203,9 @@ if __name__ == '__main__':
     fTM = F(CINZEL, 20, 600)
     put_line(T, 'TM', fTM, 20, None, x=TX + (1660 - tx0), y=TY + (352 - 116) + (116 - ty0) - 12, metal_ramp=GOLD, sh=(2, .9, 1))
 
-    # 2. issue line under the logo:  #1 · THE GATE  between silver hairline rules
+    # 2. issue line under the logo:  #1 · TOLC  between silver hairline rules (ISSUE01-TOLC-1)
     fIss = F(CINZEL, 60, 700)
-    x, y, w, h = put_line(T, '#1 · THE GATE', fIss, 60, None, cx=CX, y=TY + 330, anchor='c', track=0.14, metal_ramp=GOLD, sh=(6, .95, 3))
+    x, y, w, h = put_line(T, '#1 · TOLC', fIss, 60, None, cx=CX, y=TY + 330, anchor='c', track=0.14, metal_ramp=GOLD, sh=(6, .95, 3))
     for side in (-1, 1):
         Lr = 170; xs = (x - 36 - Lr) if side < 0 else (x + w + 36); yy = y + h // 2 - 4
         m = np.zeros((9, Lr), np.float32); m[3:6] = (np.linspace(0, 1, Lr) if side < 0 else np.linspace(1, 0, Lr))[None]
@@ -261,7 +261,7 @@ if __name__ == '__main__':
 
     FP = 30; fF = F(GARA, FP, 450); lh = 39
     fine = [
-        'Ra-Thor⚡Living Thunder #1: The Gate. Published by AlphaProMega Media Inc.',
+        'Ra-Thor⚡Living Thunder #1: TOLC. Published by AlphaProMega Media Inc.',
         'Copyright © 2026 AlphaProMega Media Inc. All rights reserved.',
         'Ra-Thor™ is a trademark of Autonomicity Games Inc. (application pending), used with permission.',   # Sherif 2026-10-15 9:37 PM ET
         'This is a work of fiction. Contact: info@Rathor.ai',
