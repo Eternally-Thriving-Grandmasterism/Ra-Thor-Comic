@@ -23,8 +23,6 @@ This repository is **fiction and media IP**. It is not the research lattice.
 | Homer visual bible (pattern) | [Odyssey](https://github.com/Eternally-Thriving-Grandmasterism/Odyssey) |
 | Site | [Rathor.ai](https://rathor.ai) |
 
-Ra-Thor software is independent of xAI. Not affiliated, not sponsored, not an xAI product. Optional Grok use here is an image tool, not a product claim.
-
 ## Council decision — 2026-09-30
 
 PATSAGi on the live lattice, Odyssey pattern checked:
