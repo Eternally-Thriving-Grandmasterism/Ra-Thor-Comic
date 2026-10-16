@@ -45,6 +45,26 @@ f179f29647f5e5ea065d1d6e3598e601f1adf7e82cbb7463bb99556b0a7fd4af  back/apm_extra
 8ddd13631a3a43e0c99d9abfe473600ca15571abc9d817e08ce003041a0f0dd4  cover_mark/agi_logo_3d_transparent.png
 15213e1f83ab89b3aadfe132f93238dbb6350a7779478510459a2845d961613e  cover_mark/apm_logo_transparent.png
 #
+# 2026-10-15 11:01 PM ET (council rulings, Wild): ISSUE01-KDP-WRAP-1. KDP paperback wraparound (back | blank spine | front) from the
+# unchanged #91 front and #92 back layers: 24 pages (proposed), white paper + Premium Color ink, spine 0.056328 in, 13.556328 x 10.5 in;
+# RGB PDF = upload candidate; GRACoL 2013 CRPC6 soft proof; CMYK PDF = FLAGGED FALLBACK only. See kdp/README.md.
+7e33aa9b71c60122f8b847021c8c58f2a69ad821070880d371fcc8154683888f  kdp/README.md
+6efa3df55f4c19088c4729a396ba373887475f3266477465921c33366c97f7a1  kdp/build_wrap.py
+82d42a572cce5a39c6315e629e574682840faf654632e96a983d137a33321bbf  kdp/cmyk_fallback.py
+4ebbfad6bc9cfc033fdafdd8ac5df8159208932cb16d9a6596d349ae7ab50443  kdp/icc/GRACoL2013_CRPC6.icc
+f9dcf022a1a2cae94ca2476be9f55f60d8d53d85e840ee2f07383c84aa067d72  kdp/out/RaThor_Issue01_KDPwrap_24p_premium-color.jpg
+742a2e65a08e97c62252aa1572fea78f8e41e03ba8c437624f6f976bcc567efc  kdp/out/RaThor_Issue01_KDPwrap_24p_premium-color.pdf
+4a085ea3348b54e0f385013d8f3b5850f7e1d275e509d9106fc1f74ac2696a37  kdp/out/RaThor_Issue01_KDPwrap_24p_premium-color_FALLBACK_CMYK_GRACoL2013_CRPC6.pdf
+4d77a812adcc955e959462812758226aac68d9c3105fca6b0e6042eb5144445c  kdp/out/RaThor_Issue01_KDPwrap_24p_premium-color_guides.jpg
+311aa200c6c690f3d61206daa8100baaaef8ed0ee5851fe93b39413994c0b780  kdp/out/RaThor_Issue01_KDPwrap_24p_premium-color_guides_620.jpg
+c892320644019c44f458b56cb2e0dfdf0b893241c21ded893898feea5619824f  kdp/out/RaThor_Issue01_KDPwrap_24p_premium-color_spine_text_layer.png
+b5fa8bd0000f76e034560892c5075eae88b07f729eb108718028f95f0e2b8164  kdp/out/RaThor_Issue01_KDPwrap_24p_premium-color_type_layer.png
+e41f086f685b5bc9e0898a6a9e72bc72f8240bf6fbb241f210f4d011d967ad9f  kdp/out/softproof_GRACoL2013_CRPC6_relative.json
+71a2c41885404230e44f60fc96ed2f5e970822d0e301c7f86583e1c0235d49c8  kdp/out/softproof_GRACoL2013_CRPC6_relative_crops.jpg
+c8ceb0e8fee8713eb6c9f1ef90c7d6c1d22bacdb4a40f042e8a7db74aa11ca5c  kdp/out/softproof_GRACoL2013_CRPC6_relative_side_by_side.jpg
+476edfc6f9ebea8af872a65fe1847c3a889046203edf5db838285821bec4c35c  kdp/out/spec_24p_premium-color.json
+5c40d00d5cf52c9ee1f20c7017df085d09559777363c1faff4b07d4e9504dc90  kdp/softproof.py
+#
 # retained unchanged for history (superseded by ISSUE01-COVER-V18; NOT the cover since 2026-10-15 7:05 PM ET):
 49d8f5f233712552c09b90ae51ae9eef815af5b545522e3327ae46cfd524c236  RaThor_Issue01_Cover_V17_source_GrokImagine_1152x1728.jpg
 85efb47d376f82b6d9d7989dfffc4561d8418b9ebd74a2d97c791abc4bcd72a3  RaThor_Issue01_Cover_V17_art_notext_4x_4608x6912.png
