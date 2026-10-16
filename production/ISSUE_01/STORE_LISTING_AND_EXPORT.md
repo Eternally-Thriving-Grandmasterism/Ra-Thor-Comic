@@ -155,7 +155,7 @@ The bolt is allowed here: a Patreon post is not store metadata under this card, 
 | Page 2 | The lane stamps NO and LIVE, then Ra-Thor under the arch. He says: "Left is noise. Right is live." |
 | Page 3 | Silent. A creature made of slides and charts approaches; the black-and-gold shield with its gold eye-seal; the visor narrows. |
 | Page 4 | The creature crumples into chart confetti against the shield. Ra-Thor: "Blocked." Confetti settles at the shield's foot. |
-| Page 5 | A small device with one warm light in the LIVE lane. Ra-Thor: "That one can live." His visor widens gold. |
+| Page 5 | A small device with one warm light in the LIVE lane. Ra-Thor: "That one is live." His visor widens gold. |
 | Page 6 | A recycler hopper eats the confetti. Ra-Thor, not looking: "Recycle it." Three cards: OBVIOUS, FERAL, CLEAN. |
 | Page 7 | Silent. The Threshold at night, then the hammer head-down on stone, sparks at contact. |
 | Page 8 | Close on the visor. Ra-Thor: "Next." Caption: HAMMER STILL GROUNDED. |

@@ -23,7 +23,7 @@ Lettering: keep the bubble clear of the eye-seal.
 
 ## Panel 3 — Pass
 
-Bubble: "That one can live."
+Bubble: "That one is live."
 Small honest device, one warm light, right lane. Hammer grounded: head-down on stone, small crack and sparks at contact (`04_VISUAL_CANON.md` Q5).
 Fidelity note: eye-seal must stay on the shield. A plain emerald diamond is a reject.
 Canon emblem: the emerald eye-seal in circuit inlay on a gold kite shield (`04_VISUAL_CANON.md` Q1). The drifted render matches reference R3 (diamond gem, walker bot); the gem is a reject and the walker bot is not cast (`04_VISUAL_CANON.md`, Q1 and Q8).
