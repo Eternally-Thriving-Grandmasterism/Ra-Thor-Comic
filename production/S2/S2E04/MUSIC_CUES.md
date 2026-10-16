@@ -1,6 +1,6 @@
 # S2E04 — The Awakening Page · MUSIC CUES
 
-- **Episode:** S2E04, The Awakening Page (Season 2, arc C, The Lamp Before the Gate)
+- **Episode:** S2E04, The Awakening Page (Season 2, arc C, The Lamp Before the TOLC)
 - **Source file:** `episodes/S2E04_THE_AWAKENING_PAGE.md` (Music cues)
 - **Built from main:** `23b37436a81b41fce2e2d4d79ec31cad62f29568`
 - **Lead mode:** Quiet Board, with a Night Watch object-flashback opener (S2E04 Status; 03)
@@ -25,7 +25,7 @@ Episode-wide (S2E04 Music cues): all tonal material at A4 = 432; no darksynth an
 | P3 | The kick drops out for the decision (silence is deliberation). The twelve-mask blip ring murmurs, panned across the stereo field. The pad holds on Dmaj7. | D major / 72 | on, 108 Hz (episode-wide) | the held pad chord, Dmaj7, is on the file's 543 list; other P3 chords GAP | no | none | no |
 | P4 | The tick stops for one beat as the hawk seal lights. No new sound is added for it. Then the fixed "Blocked." stinger: a short, low, muted thud and a filter close, timed to the gauntlet covering the stamp. The block resolves to a soft D-major chord, smaller than expected, with the 543 pad muted. The pulse resumes one bar later. | D major / 72 | on, 108 Hz (episode-wide); no 54 Hz (no siege, S2E04; 06 §3.3) | muted on the D-major resolve (S2E04 P4 cue); other P4 chords GAP | no | "Blocked.": a short, low, muted thud and a filter close (S2E04; 06 §1) | no |
 | P5 | Light and dry. Three short card tones, the CLEAN one a clean major bloom. | D major / 72 | on, 108 Hz (episode-wide) | only over C# chords; chords GAP | no | three card tones; CLEAN = clean major bloom | no |
-| P6 | Fixed "That one can live." stinger: an open major-chord bloom topped by the short 528 Hz chime, never held. This is the button; no Snap cue, the stinger only. Then the Grounded motif: four notes rise and land back on the tonic, D, and hold. The episode ends there. | D major / 72 | on, 108 Hz (episode-wide) | only over C# chords; chords GAP | short chime on top of the bloom, never held (S2E04; 06 §3.2) | "That one can live.": an open major-chord bloom topped by the short 528 Hz chime (S2E04; 06 §1) | no |
+| P6 | Fixed "That one is live." stinger: an open major-chord bloom topped by the short 528 Hz chime, never held. This is the button; no Snap cue, the stinger only. Then the Grounded motif: four notes rise and land back on the tonic, D, and hold. The episode ends there. | D major / 72 | on, 108 Hz (episode-wide) | only over C# chords; chords GAP | short chime on top of the bloom, never held (S2E04; 06 §3.2) | "That one is live.": an open major-chord bloom topped by the short 528 Hz chime (S2E04; 06 §1) | no |
 
 **Choir:** no. The file says "There is no choir swell in this episode (the arc lock saves it for S2E06)." (S2E04 Music cues, Wordless). S2's one wordless choir swell is in S2E06 only (S2 sheet §5 item 9; S2 sheet §4).
 

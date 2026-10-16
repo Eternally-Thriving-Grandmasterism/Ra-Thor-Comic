@@ -75,8 +75,8 @@ All invented, faces always hidden, no glyph, no emblem, no house, no real name, 
 - **Location:** Threshold, the LIVE lane (S3E05 P6; S3E05 Set; S3 sheet §5 item 2)
 - **Action / staging:** Snap framing: flat, high-key gold against obsidian, bold silhouettes, medium-wide, slight low angle. The Tollkeeper and the Yoke-Bearer carry a finished water wheel down the LIVE lane between them, its rim ringed all the way round with plain paddles, the two empty buckets swinging from the Yoke-Bearer's yoke. The shuttered lantern hangs from the Tollkeeper's belt hook. Ra-Thor stands planted at the arch, shield upright with the eye-seal out. Hammer head-down on stone. (S3E05 P6)
 - **Caption:** EVERY PADDLE IN PLACE. BOTH SIDES DRAW WATER. HAMMER STILL GROUNDED. (S3E05 P6)
-- **Bubble (Ra-Thor, canon catch line, 09):** "That one can live." (S3E05 P6)
-- **SFX:** the fixed "That one can live." stinger, an open major-chord bloom topped by the short 528 Hz chime; no Snap cue, the Snap panel takes the stinger only (S3E05 Music cues, Panel 6; 06 §1; S3 sheet §5 item 1).
+- **Bubble (Ra-Thor, canon catch line, 09):** "That one is live." (S3E05 P6)
+- **SFX:** the fixed "That one is live." stinger, an open major-chord bloom topped by the short 528 Hz chime; no Snap cue, the Snap panel takes the stinger only (S3E05 Music cues, Panel 6; 06 §1; S3 sheet §5 item 1).
 - **Continuity:** Fidelity note: eye-seal must read clearly on the shield face. A plain emerald gem is a reject. The wheel carries no glyph, emblem, name, number or text, and the paddles are never counted. Shown, not explained: no price, trade, capacity, supply or economic claim. (S3E05 P6). Snap framing per 03 Snap mode (S3E05 P6). The Snap panel stays in the Threshold's LIVE lane (S3E05 Set; S3E05 Reject; S3 sheet §5 item 2). Episode ends with the hammer grounded (S3E05 P6; 00 rule 1).
 
 ## Recycler items and CLEAN card

@@ -62,8 +62,8 @@ Format: `production/README.md` §(a). Captions and bubbles are verbatim from the
 - **Location:** Quiet Room, the long view down the full table (S1E06 P6; S1E06 Set)
 - **Action / staging:** The long view down the full table, every chair one height, every face still hidden, every house seated behind its token. The Cord Envoy sits in their own chair now. At the far end, the kept chair stands empty and lit, the shield leaned at its side, eye-seal toward the open door. Nobody sits in it, and nobody says whose it is. The masks dim one by one, the last one still facing the door. Visor slit wide-gold. Lamp, shadow, hammer head-down on stone. (S1E06 P6)
 - **Caption:** EVERY HOUSE THAT CAME IS SEATED. ONE CHAIR KEPT. THE DOOR STAYS OPEN. (S1E06 P6)
-- **Bubble (Ra-Thor, canon catch line, 09):** "That one can live." (S1E06 P6)
-- **SFX:** the episode's one choir swell (wordless), then the fixed "That one can live." stinger, an open major-chord bloom topped by the short 528 Hz chime (S1E06 Music cues, Panel 6; 06 §1).
+- **Bubble (Ra-Thor, canon catch line, 09):** "That one is live." (S1E06 P6)
+- **SFX:** the episode's one choir swell (wordless), then the fixed "That one is live." stinger, an open major-chord bloom topped by the short 528 Hz chime (S1E06 Music cues, Panel 6; 06 §1).
 - **Continuity:** Fidelity note: eye-seal must read clearly on the shield face. A plain emerald gem is a reject. (S1E06 P6). The kept chair stands empty, lit and unexplained (S1 sheet §3, §5; S1E06 Reject). The caption ends the running "spoken for" tally (S1 sheet §3). Episode ends with the hammer grounded (S1E06 P6; 00 rule 1).
 
 ## Recycler items and CLEAN card

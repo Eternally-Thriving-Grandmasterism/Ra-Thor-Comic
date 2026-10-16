@@ -2,7 +2,7 @@
 
 ## The Threshold
 
-Dark stone, gold lattice arch, two lanes. Default set for episodes 01 and 06.
+Dark stone, gold lattice arch, two lanes: left NO, right LIVE. The TOLC stands here: all that comes to the TOLC is weighed, and what passes the mercy checks travels the Mercy-Ways to TOLC8 and the PATSAGi Councils. Default set for episodes 01 and 06.
 
 ## Recycler Bay
 

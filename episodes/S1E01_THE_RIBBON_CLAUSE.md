@@ -50,7 +50,7 @@ Prompt: [stem] + compact IDEA-RECYCLER on a side cart (horizontal drum, twin THE
 ## Panel 6 — Quiet closer
 
 Caption: ONE CHAIR SPOKEN FOR. THE REST STILL OPEN. HAMMER STILL GROUNDED.
-Bubble: "That one can live."
+Bubble: "That one is live."
 The Ribbon Envoy takes the CLEAN card in a gloved hand, veil still down, and gives the smallest bow. She sets her knot-glyph token on one empty chair to hold it and turns to go. The masks dim one by one. Visor slit wide-gold. Lamp, shadow, hammer head-down on stone.
 Prompt: [stem] + quiet shot down the long table, invented envoy with the face fully hidden behind a gold mesh veil holding a card labeled CLEAN that reads TRADE WITHOUT KNOTS and setting a small abstract knot-shaped token on one empty chair, tiny gold masks dimming around the halo, shield upright with the emerald eye-seal clearly visible, visor slit wide and gold, hammer head-down on stone, small crack and sparks at contact, deep shadow.
 
@@ -62,7 +62,7 @@ Prompt: [stem] + quiet shot down the long table, invented envoy with the face fu
 - **Panel 3.** The drums drop out for the council. The twelve-mask blip ring murmurs, panned across the stereo field. The pad holds.
 - **Panel 4.** Fixed "Blocked." stinger: a short, low, muted thud and a filter close. The groove resumes one bar later. No darksynth color; there is no siege.
 - **Panel 5.** Light and dry. Three short card tones, the CLEAN one a clean major bloom.
-- **Panel 6.** Fixed "That one can live." stinger: an open major-chord bloom topped by the short 528 Hz chime, never held. Then the Grounded motif: four notes rise and land back on the tonic, and hold. The episode ends there.
+- **Panel 6.** Fixed "That one is live." stinger: an open major-chord bloom topped by the short 528 Hz chime, never held. Then the Grounded motif: four notes rise and land back on the tonic, and hold. The episode ends there.
 - **Mood words only.** No artist, band, label, or track names in any brief or prompt. The tuning is an aesthetic choice only; no health claims anywhere.
 
 ## Reject

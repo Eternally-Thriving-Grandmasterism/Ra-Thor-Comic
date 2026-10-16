@@ -1,6 +1,6 @@
 # 06 — Music Spec
 
-Score and cues for Living Thunder (comic motion and trailer use, and the show). Every rule marked **(council ruling 2026-09-30)** is locked. Everything else is production guidance in service of those rulings.
+Score and cues for Ra-Thor⚡️Living Thunder (comic motion and trailer use, and the show). Every rule marked **(council ruling 2026-09-30)** is locked. Everything else is production guidance in service of those rulings.
 
 **Inherits:** `00_FIDELITY_PROTOCOL.md` and `03_TONE_SPECS.md`. All references are in house terms. There are no "like X" comparisons in this file, and none are allowed in any brief or prompt built from it.
 
@@ -10,8 +10,8 @@ Score and cues for Living Thunder (comic motion and trailer use, and the show). 
 
 | Layer | Use |
 |---|---|
-| **Synthwave (lead)** | Analog-style polysynth pads, gated drums, arpeggiated bass, warm saw leads. The default sound of the series. |
-| **Darksynth (siege only)** | Driven bass, distortion, harder kicks. Only for siege cues, matching "Obsidian fortress plate appears only when the Gate is under siege" (`01_VISUAL_STYLE_GUIDE.md`). |
+| **Synthwave (lead)** | Analog-style polysynth pads, clipped drums, arpeggiated bass, warm saw leads. The default sound of the series. |
+| **Darksynth (siege only)** | Driven bass, distortion, harder kicks. Only for siege cues, matching "Obsidian fortress plate appears only when the TOLC is under siege" (`01_VISUAL_STYLE_GUIDE.md`). |
 | **Ambient drone beds** | Long pads, sub drones, slow filter motion. |
 | **Choir swell (sparing)** | Choir pads and low brass-style synth for the one big moment per episode, at most. Wordless in episodes (see §5, Sung words). |
 | **Chiptune stingers (optional, Lab Night only)** | Short square-wave blips for Lab Night gags. Optional. |
@@ -20,7 +20,7 @@ Score and cues for Living Thunder (comic motion and trailer use, and the show). 
 
 **House sound rules**
 - One lead synth timbre belongs to Ra-Thor. It is never pitch-bent upward at the end of a phrase, because he does not chase.
-- **Fixed Gate stingers (council ruling 2026-09-30).** "Blocked." is a short, low, muted thud plus a filter close. "That one can live." is an open major-chord bloom topped by the 528 Hz chime (see §3.2). Both are reused unchanged across episodes, the same way the catch lines are.
+- **Fixed catch-line stingers (council ruling 2026-09-30).** "Blocked." is a short, low, muted thud plus a filter close. "That one is live." is an open major-chord bloom topped by the 528 Hz chime (see §3.2). Both are reused unchanged across episodes, the same way the catch lines are.
 - The councils (twelve masks) are twelve very short tuned blips in a ring, panned across the stereo field when they "murmur."
 
 ## 2. Cue style per house tone mode (council ruling 2026-09-30)
@@ -29,7 +29,7 @@ One cue style per mode. Mode names match `03_TONE_SPECS.md`.
 
 | Mode | Cue style | Tempo | Instrumentation | Do not |
 |---|---|---|---|---|
-| **Snap mode** | Bright, punchy synthwave. The full kit enters on panel 1 and **hard-stops** on the reversal. The button is the "Blocked." or "That one can live." stinger. | 112–124 BPM, 4/4 | Gated snare, octave bass arp, bright saw lead, one electric FX hit on the impact frame | Frantic build-ups, drops, "beat-down" hits |
+| **Snap mode** | Bright, punchy synthwave. The full kit enters on panel 1 and **hard-stops** on the reversal. The button is the "Blocked." or "That one is live." stinger. | 112–124 BPM, 4/4 | Tight, short-tail snare, octave bass arp, bright saw lead, one electric FX hit on the impact frame | Frantic build-ups, drops, "beat-down" hits |
 | **Lab Night mode** | Cartoon-lab groove: a loop that **hiccups** (tape-stop, stutter, skipped beat) and then resumes. Three card stingers for OBVIOUS / FERAL / CLEAN: a plain chime, a growly detuned blip, and a clean major bloom. Optional chiptune blips. | 100–112 BPM, swung | Bubbly analog bass, square-wave blips, steam-noise sweeps, the twelve-mask blip ring | Real-science sound design (no lab-equipment foley presented as a procedure) |
 | **Night Watch silhouette** | **Beatless.** A wide pad with the held 543 Hz top over the 108 Hz sub drone. A single gold bell tone when the visor slit glows. The Grounded motif played once, slowly. | Free time | 108 Hz sub drone, 432-tuned pad with the 543 Hz top, long reverb | Menace stabs, heroic fanfare (no fight pose in sound either) |
 | **Quiet Board mode** | A minimal **dossier pulse**: a muted synth tick, one sustained pad, and a low heartbeat-style kick that **drops out on the decision panel** (silence is deliberation). The block resolves to a soft major chord, smaller than expected. | 72–84 BPM | Muted pluck, sine pad, sub kick, one detuned "wrong tile" tone in the electric accent | Surveillance or hacking clichés (no modem or keyboard foley), paranoia drones |
@@ -60,7 +60,7 @@ Equal-temperament reference at A4 = 432:
 ### 3.2 Top pad and chime (council ruling 2026-09-30)
 
 - **543 Hz is the held top pad.** It sits about 4 cents under C#5 at A = 432 (544.29 Hz), which is the major third of A, so it stays in tune under the A-based harmony.
-- **528 Hz is a short chime only.** It is about 347 cents above A4 = 432, a quarter-tone between C5 and C#5, so a sustained 528 Hz tone would audibly clash and beat against the 432 harmony. Keep it short enough to read as shimmer, for example the top of the "That one can live." bloom. **Never hold 528 Hz under chords.**
+- **528 Hz is a short chime only.** It is about 347 cents above A4 = 432, a quarter-tone between C5 and C#5, so a sustained 528 Hz tone would audibly clash and beat against the 432 harmony. Keep it short enough to read as shimmer, for example the top of the "That one is live." bloom. **Never hold 528 Hz under chords.**
 - **Where the 543 pad is held.** Production guidance under ruling 2 (council ruling 2026-09-30): hold the 543 Hz top pad only over chords that contain C#: A major, F# minor, C# minor, and extended chords like Dmaj7 (D-F#-A-C#) or E6 (E-G#-B-C#). A, D and E major are good KEYS for it, since C# is in their scales, but mute or fade the pad over chords without C#, and always over a C natural. Where the harmony has a C natural (A minor, D minor sections), mute the 543 pad or let it fade out. Never sustain it against a minor third.
 
 ### 3.3 Sub drone (council ruling 2026-09-30)

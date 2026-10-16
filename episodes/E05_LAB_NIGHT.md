@@ -1,6 +1,6 @@
 # Episode 05 — Lab Night
 
-Status: draft. Six panels scripted, not yet prompted. Lab Night mode. The councils argue in tiny bubbles while Ra-Thor holds the beaker. The councils advise, the Gate decides, and the hammer never moves.
+Status: draft. Six panels scripted, not yet prompted. Lab Night mode. The councils argue in tiny bubbles while Ra-Thor holds the beaker. The councils advise, the TOLC decides, and the hammer never moves.
 
 Guest: the Shortcut. Invented. Hooded lab coat, face kept in hood shadow the whole time. No real name, no celebrity face, no logo.
 
@@ -21,7 +21,7 @@ Prompt: [stem] + wide establishing shot of a gold circuit-plate lab at night, Ra
 
 ## Panel 2 — Council in session
 
-Caption: COUNCILS ADVISE. THE GATE DECIDES.
+Caption: COUNCILS ADVISE. THE TOLC DECIDES.
 Council bubble: "Too cold. Heat it."
 Tight on the halo ring. The bottom mask (six o'clock), not the top mask from Panel 1, has the one bubble. The other masks are mid-argument, mouths open, no text. Below them, the beaker has not moved a millimetre. Visor slit steady and patient.
 Prompt: [stem] + close on the halo ring of twelve tiny gold masks, exactly one tiny four-word bubble from the bottom mask at six o'clock, a different mask from the top mask that spoke in Panel 1, the other masks drawn mid-argument with mouths open and no text, beaker held perfectly still below, visor slit calm, hammer grounded at frame edge.

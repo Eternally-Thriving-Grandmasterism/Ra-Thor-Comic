@@ -1,0 +1,224 @@
+# 2026-10-15 7:05 PM ET: ISSUE01-COVER-V18. Sherif chose a NEW cover render (Grok Imagine): a golden Eye of Horus (Wedjat) sigil above the
+# helm (replacing V17's almond eye-of-source-light) and a gold Norse Vegvisir on the shield (superseding the shield Eye of Horus). ONE true
+# render, untouched: same pipeline (4x-UltraSharp + tone lock, one uniform scale to 2063x3150 @ 300 dpi, 18/19 px centre crop, embedded sRGB).
+# ONE separate type layer (v18/type_layer_final_v18.png) = the V17 clean front, title at 0.70. Print filename unchanged.
+# Verify from this folder: sha256sum -c --strict BIBLE_FINAL_SHA256.txt
+# f80d0e2616124b7ea210d97b8fdd54abf41bc1a9229e893f07f74ea6172f5bbd  RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, type shift / rebuild)
+0241aeea5a5645f095835e8770271936814ebcd56b8d541ec3409088fd5b7329  RaThor_Issue01_Cover_V18_source_GrokImagine_1152x1728.jpg
+f10bdbec94f6a7547210f5479c77d887a423116ec3c2bfaa3c8294ac1f1ef08b  RaThor_Issue01_Cover_V18_art_notext_4x_4608x6912.png
+# f2d295e70ae82cada6f675cd12be6e164b80ecafedfa96d94e91458b9128007a  v18/type_layer_final_v18.png  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, type shift / rebuild)
+c90ed1c172239aee1f01c0cc940e3ba0ca1d1c763084355c6097af931f455e80  v18/title_layer_v18.png
+# 59d520fb256dc09dff7f5bfdbd385d663e36bb362e6396fd8834d5fdea2d22b4  v18/print_final_guides.jpg  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, type shift / rebuild)
+# 7709a63553ae9ac5f6b306cafe83e6e9714807eabbc5c267b907213eb4d783ac  v18/preview_620.jpg  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, type shift / rebuild)
+# 43ff552da6e5640725ef25a492204287fe4fbb392cd32f61266c9013f8363e19  v18/compare_v17_v18_620.jpg  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, type shift / rebuild)
+# 001be782a4e1fd6c65d041405f898220546be78b50611d740097b58e0ee07ee8  v18/crops/top_100.jpg  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, type shift / rebuild)
+# 59372a945b39f4b8dd1bca2f1e05b1d5d19f2cd5b2c2374bc910c51e5a80abb3  v18/crops/top_trim_lines_100.jpg  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, type shift / rebuild)
+# a701bd7b9195d9d5881ee1354002532b942f3641eacdb85ce3ca1a2b3e5466ba  v18/crops/title_100.jpg  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, type shift / rebuild)
+# 6ea63a32c268f418849949bccd4bf9e1a72dfa6f8feb6cb67330b65001af8eac  v18/crops/coin_100.jpg  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, type shift / rebuild)
+# 5292f00342324350dce79a72f4a2103c50466363407dcac0123382576e2a6664  v18/crops/face_eye_100.jpg  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, type shift / rebuild)
+d78e8ceada6ca20bb83f38800247b33fb9794b0c98522ae7b305a686c8a5c12e  v18/crops/shield_vegvisir_100.jpg
+d8ff4b81fb31ccd81fa58bbd4e7bf46b1d4628b0b648de7e4a798aef305edce0  v18/crops/hammer_100.jpg
+d3b31e0b57f20a52b05c5887385f5638fb162376ea81d097418a4b6ff71777f0  v18/crops/bottom_100.jpg
+2c01c44eff0994eed9e6f22b5fb7101303528974e60fb8cf7e7e62bb37c464bf  v18/build_v18.py
+578a973abb78ef6ed3bfe7a4b04de39c5cfac100a3cc88538eb4c2674d84b750  v18/build_final_v18.py
+b60940af824ad03fb3c2bc89c59167a9c2fbde8a5c5e5f34658558a214daaa94  v18/upscale.py
+53853d83344b8e8f22c54c49b5118d9c5e336214838c4d25acd56135a72b866a  v18/consistency.py
+#
+# 2026-10-15 9:31 PM ET (layout OK) / 9:32 PM ET (copy, option C): ISSUE01-BACK-COVER-V2. Back cover at the front's print spec
+# (2063x3150 @ 300 dpi, embedded sRGB). Art layer back/back_art_v2.png + ONE type layer back/back_type_layer_v2.png. Company logos:
+# Autonomicity Games Inc. 3D crest (acitygames.com/images/logo-dark-1024.webp, untouched) + AlphaProMega Media Inc. (cut out, 4x).
+# The flat-crest fallback print (back_type_layer_v2_flatAGI) is held outside repo, in the bot store issue01_bible/back/.
+# 2026-10-15 9:45 PM ET: ISSUE01-TOLC-1. Issue line, copy line 2 and fine-print line 1 now name TOLC; the back-cover print, type layer, guides,
+# previews and the changed crops rebuilt at the same filenames (old print hashes kept below as superseded lines).
+e9c2603d488d71dcfe53207a30b9e4f4bd31deee8ecb5f383ffc13f14a68f756  RaThor_Issue01_BackCover_v2_6.625x10.25_bleed_300dpi.jpg
+e14e740f9204f0edcf86818df6aa00ed1be0d9bccb1cf3b9cf627bc9c0b6b3e0  back/back_art_v2.png
+0d820ad84a73f6ddfda343e6ff6e11c9b36cdede86e40f334eaf1af9480d6240  back/back_type_layer_v2.png
+e1878375d62dd7323b4787d936ba8407c4f805bcdded94388228dad92532f259  back/RaThor_Issue01_BackCover_v2_guides.jpg
+d832c57b67a4b17e687710960f12b9a86a3c76398a14d2495339677f09160664  back/back_preview_620_v2.jpg
+# 1e754f9b61e05b9ce02d504b0bcefc73fd1c161b25bd8e7a96b32fdd2b8bd18c  back/front_back_620_v2.jpg  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, type shift / rebuild)
+24d80928603f5432e11e8a4f2ce8dd5f215cb47b32ee805f245ea40b2d192b32  back/crops/top_logo_v2.jpg
+111dad1d0d60598868aa9962601320922e0473476296100004464f9e544cadd6  back/crops/headline_blurb_v2.jpg
+ddad9ab76880396efc6bc94fbd6492f69f85de89c96791bc1984612a40fd8065  back/crops/bottom_block_v2.jpg
+e95f22d7e50dcdcfbbe0bb350e09ea3c90e27c9a88cbfd081a1de8ccdee24a70  back/crops/logos_200_v2.jpg
+bf6f6adc2bf0882b2411f001d74029479f4306118ed3daa23e01c85fbf089e62  back/build_back_v2.py
+f179f29647f5e5ea065d1d6e3598e601f1adf7e82cbb7463bb99556b0a7fd4af  back/apm_extract.py
+8ddd13631a3a43e0c99d9abfe473600ca15571abc9d817e08ce003041a0f0dd4  cover_mark/agi_logo_3d_transparent.png
+15213e1f83ab89b3aadfe132f93238dbb6350a7779478510459a2845d961613e  cover_mark/apm_logo_transparent.png
+#
+# 2026-10-15 11:01 PM ET (council rulings, Wild): ISSUE01-KDP-WRAP-1. KDP paperback wraparound (back | blank spine | front) from the
+# unchanged #91 front and #92 back layers: 24 pages (proposed), white paper + Premium Color ink, spine 0.056328 in, 13.556328 x 10.5 in;
+# RGB PDF = upload candidate; GRACoL 2013 CRPC6 soft proof; CMYK PDF = FLAGGED FALLBACK only. See kdp/README.md.
+# 7e33aa9b71c60122f8b847021c8c58f2a69ad821070880d371fcc8154683888f  kdp/README.md  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, type shift / rebuild)
+6efa3df55f4c19088c4729a396ba373887475f3266477465921c33366c97f7a1  kdp/build_wrap.py
+82d42a572cce5a39c6315e629e574682840faf654632e96a983d137a33321bbf  kdp/cmyk_fallback.py
+4ebbfad6bc9cfc033fdafdd8ac5df8159208932cb16d9a6596d349ae7ab50443  kdp/icc/GRACoL2013_CRPC6.icc
+# f9dcf022a1a2cae94ca2476be9f55f60d8d53d85e840ee2f07383c84aa067d72  kdp/out/RaThor_Issue01_KDPwrap_24p_premium-color.jpg  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, type shift / rebuild)
+# 742a2e65a08e97c62252aa1572fea78f8e41e03ba8c437624f6f976bcc567efc  kdp/out/RaThor_Issue01_KDPwrap_24p_premium-color.pdf  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, type shift / rebuild)
+# 4a085ea3348b54e0f385013d8f3b5850f7e1d275e509d9106fc1f74ac2696a37  kdp/out/RaThor_Issue01_KDPwrap_24p_premium-color_FALLBACK_CMYK_GRACoL2013_CRPC6.pdf  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, type shift / rebuild)
+# 4d77a812adcc955e959462812758226aac68d9c3105fca6b0e6042eb5144445c  kdp/out/RaThor_Issue01_KDPwrap_24p_premium-color_guides.jpg  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, type shift / rebuild)
+# 311aa200c6c690f3d61206daa8100baaaef8ed0ee5851fe93b39413994c0b780  kdp/out/RaThor_Issue01_KDPwrap_24p_premium-color_guides_620.jpg  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, type shift / rebuild)
+c892320644019c44f458b56cb2e0dfdf0b893241c21ded893898feea5619824f  kdp/out/RaThor_Issue01_KDPwrap_24p_premium-color_spine_text_layer.png
+# b5fa8bd0000f76e034560892c5075eae88b07f729eb108718028f95f0e2b8164  kdp/out/RaThor_Issue01_KDPwrap_24p_premium-color_type_layer.png  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, type shift / rebuild)
+# e41f086f685b5bc9e0898a6a9e72bc72f8240bf6fbb241f210f4d011d967ad9f  kdp/out/softproof_GRACoL2013_CRPC6_relative.json  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, type shift / rebuild)
+# 71a2c41885404230e44f60fc96ed2f5e970822d0e301c7f86583e1c0235d49c8  kdp/out/softproof_GRACoL2013_CRPC6_relative_crops.jpg  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, type shift / rebuild)
+# c8ceb0e8fee8713eb6c9f1ef90c7d6c1d22bacdb4a40f042e8a7db74aa11ca5c  kdp/out/softproof_GRACoL2013_CRPC6_relative_side_by_side.jpg  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, type shift / rebuild)
+# 476edfc6f9ebea8af872a65fe1847c3a889046203edf5db838285821bec4c35c  kdp/out/spec_24p_premium-color.json  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, type shift / rebuild)
+5c40d00d5cf52c9ee1f20c7017df085d09559777363c1faff4b07d4e9504dc90  kdp/softproof.py
+#
+# retained unchanged for history (superseded by ISSUE01-COVER-V18; NOT the cover since 2026-10-15 7:05 PM ET):
+49d8f5f233712552c09b90ae51ae9eef815af5b545522e3327ae46cfd524c236  RaThor_Issue01_Cover_V17_source_GrokImagine_1152x1728.jpg
+85efb47d376f82b6d9d7989dfffc4561d8418b9ebd74a2d97c791abc4bcd72a3  RaThor_Issue01_Cover_V17_art_notext_4x_4608x6912.png
+f2d295e70ae82cada6f675cd12be6e164b80ecafedfa96d94e91458b9128007a  v17/type_layer_final_v17.png
+c90ed1c172239aee1f01c0cc940e3ba0ca1d1c763084355c6097af931f455e80  v17/title_layer_v17.png
+5ed5b2a1dd5e9e888302f4abe1c4419bca81d7496b75bb17575bc4a0e4512adc  v17/print_final_guides.jpg
+1f66b5253d3c7144163b4d3ccb266125d113ad324f35dee96fb466bff500b68a  v17/preview_620.jpg
+f59d1448a7c18dd2136348f639af76dd1864453e1bd87a6368d4f6a5cda41458  v17/compare_v16_v17_620.jpg
+a4a05e87458f04b4c919ae42d297fd593df23fce3c07d28978da4a7c9dadbdc1  v17/crops/top_100.jpg
+769c2da581623834dcd943fa986b32a84bd3adff51fe2226feb163ce2dafbc4d  v17/crops/top_trim_lines_100.jpg
+052d003f7379ab4ae44ce9b2a7a320ebef342edfbdad6e01bdf26745fabb7b00  v17/crops/coin_100.jpg
+8968932b3fdc6bafc17837e2e3183de028f67c87ebe48858556bc8d1939477c7  v17/crops/face_eye_100.jpg
+6cdf17e77ab77d462a7f979056a33ac685049d41e06dbe10401078a1b7d86907  v17/crops/hammer_100.jpg
+0d023dd1f966812ee7e994f34f2d4e82a1f5bfe53d71c49c1bb51fba6244efd9  v17/crops/bottom_100.jpg
+04120b7b8c9de10d88ca14bb4434f6b23530e425ec4467f9a7d09d697134031c  v17/build_v17.py
+7940935c08a05f109cae5bacbc3e5a273f30b3c2c478190e5a89457c31e2cac2  v17/build_final_v17.py
+b60940af824ad03fb3c2bc89c59167a9c2fbde8a5c5e5f34658558a214daaa94  v17/upscale.py
+53853d83344b8e8f22c54c49b5118d9c5e336214838c4d25acd56135a72b866a  v17/consistency.py
+#
+# retained unchanged for history (superseded by ISSUE01-COVER-V17; NOT the cover since 2026-10-15 6:36 PM ET):
+0919297d48dbc51299bf6577a7fbd36334f235cf37811d13fdf47a897ecb8620  RaThor_Issue01_Cover_V16_source_GrokImagine_1152x1728.jpg
+3fba07fde72e0a272462c5874505c9c003348dfaab114740098f290f0154e406  RaThor_Issue01_Cover_V16_art_notext_4x_4608x6912.png
+93c4803c9397572fe968383327e691966e56abd1df6d9d1150dca3e2de2da08b  v16/type_layer_final2_v16.png
+486daa86286d06806d09156fc4090193e75d6639a3240dae69130e5dbdd371c6  v16/title_layer_v16.png
+7c97f4e946919885a997320544075b713f90f4d167a6174171c282ef38e6355f  v16/print_final_guides.jpg
+ad1c9bd3633cae63d558c2a41d0dce5e6c063903ad70e3d04a37d04aea864a74  v16/preview_620.jpg
+133fea5ee523981c7496831bcbbc213c9ea78ad4ad0876d16acde316445975a7  v16/compare_v16_A_B_620.jpg
+ee4c693b927ad0d94a06d7d46bd09fffb18b56d979fffb4f9246eef818b62083  v16/crops/top_100.jpg
+aca9b3446231721e9e7df7401b34e590fd21a429a516195e8c0b829ceda80968  v16/crops/bottom_100.jpg
+6b9be252a4867115d511f1a2bf2900853708c4cba455560d86625a63cf87767c  v16/crops/coin_100.jpg
+f9c12bbefe327140d8d7dd3599e3a80ddc7205992e956026044e418559aec1ab  v16/crops/face_100.jpg
+d244b5d5cd5377a958685d1d0bf19fc588fac64719b7d0f44a0387496ff987eb  v16/crops/hammer_top_trim_100.jpg
+523cb341e662b82c14f1b1d03252cb6a6f7ddd0d3396406a9f791972ff71254d  v16/build_final2_v16.py
+b8be55e59affad9cb8fc0e6ea09acf0d0b3ae4d1fb5d99ceab02d87035717ca5  v16/build_v16.py
+4986b5ad27da902cb8c0b87b9e006892b08d3dc9d3afcbad7ba32b9804145b64  v16/recolor_title_v16.py
+b60940af824ad03fb3c2bc89c59167a9c2fbde8a5c5e5f34658558a214daaa94  v16/upscale.py
+53853d83344b8e8f22c54c49b5118d9c5e336214838c4d25acd56135a72b866a  v16/consistency.py
+#
+# retained unchanged for history (superseded by ISSUE01-COVER-V16; NOT the cover since 2026-10-15 4:56 PM ET):
+dfcda4d06e51aff055dbc470246c6087848574b9e82755b5d41824710933c06c  RaThor_Issue01_Cover_V15_source_GrokImagine_1152x1728.jpg
+a84ef02f1cf230795afa7c267989fd3ce27b67df854f7bd3c8bb3f536e10abe1  RaThor_Issue01_Cover_V15_art_notext_4x_4608x6912.png
+c292c71efc1da8fc97d2fb02ece577d26c19d36533e62a011532d357bef476e9  v15/print_v15_guides.jpg
+07c73550498a8bac00f11c7f36fe1c61b0903d5ed0ed116e81d50fb351b3973d  v15/preview_620.jpg
+4f9c3417d20dec185a94c3ed20c50c230b47808a9a8bbe42b1ec50f840e94439  v15/title_layer_v15.png
+8a131f5af1e058eb210909c1bb1a72e2daafd0f04b6a8bdea1f4ddbcef1b76dd  v15/crops/face_helm_100.png
+849b5e24f12c82395dc3befeb7c33a65e3ce08c4372ec5244bf69f9dbccda315  v15/crops/hammer_top_trim_100.png
+870d42366ee7d58444e99a0e879aa9b6a859f73589019bdb4b8a526d2434122f  v15/crops/boots_100.png
+8985495d596401717c2a1e3074525a8eddd0c04b02a263f464df146b1b6ed495  v15/crops/title_100.png
+81f85eed4ea02a4c435826814170277787220143d232a5616e1a3bf552779395  v15/build_v15.py
+e5ffef53f7007a5f7ccfcd2c1aa21f2a18f6689b141593d6854d57f8a1747bcf  v15/clean_title.py
+b60940af824ad03fb3c2bc89c59167a9c2fbde8a5c5e5f34658558a214daaa94  v15/upscale.py
+53853d83344b8e8f22c54c49b5118d9c5e336214838c4d25acd56135a72b866a  v15/consistency.py
+#
+# retained unchanged for history (superseded design; NOT the cover since ISSUE01-COVER-V15):
+5d1ac9cc4beb3ddc41224cd0db89a6eece64e63df190a1e01921a45292558ecf  BIBLE_FINAL_master.png
+f3c49896d6bc54bf143e2e90f75bc03d458b7249a2950bd59f3c464b1d5d9849  real_v1.jpg
+a84e9fe1b9619f2739bf8d2b38ef4e54945aaadd256231aac7d7d1234d4e3040  cover_mark/winged_bolt_mark_large.png
+c24ed13d93289c01843c03e0035879a191ee9aa9dc2f421ce37d0b89bb2929c8  cover_mark/agi_logo_gold_large.png
+674c48fdce998949c01b5e2b3e1a82c41a392985a84d3ac6a6ca34bbf949f2fe  cover_mark/runes_key.png
+77801630e021dac1f6fd9bd2b67c66993e679c6c9b9c75956a7ad290dc1e03c1  cover_mark/before_after_1.jpg
+51113527e24c3d5ea86cb9154c63cb860df4c1a52a094f456b9cb8871d730883  cover_mark/before_after_2.jpg
+4fe7961ae55a0635bbf03ef5a0905bd3e54e1e5cfe83dbca9ca8517033c03d6b  cover_mark/before_after_3.jpg
+b2240c70572f5f2711b319ec660d192c331a8ce8b20ee85b5519b5a48ad2d4b3  cover_mark/before_after_4.jpg
+b0f46b67e6cbc98e4e4d269292e2fa4dc9bd3a4461648b82cb86ca200fb22c77  cover_mark/before_after_5.jpg
+a01fe828c3a39f32e44ac1c7c2cdb88d33a19129d921419e61dcb694006c22ba  cover_mark/before_after_6.jpg
+f9edb390d04addf92d2e5a75e41eabb610cecb9db6e1268c260f96fa0ad73f35  cover_mark/cleanup_compare.jpg
+90d1ef887b38d92070e48b2f9c3a03546f174334ee1c551b59eafd9d2d8a3425  cover_mark/mark_final_zoom.jpg
+#
+# superseded within ISSUE01-TOLC-1 by the 9:53 PM ET headline / line-3 change ("Right is live", "What is live"):
+# abc6fc3bafa8b552927d9c4ab2903ee87e7e91f48a94e524169f9bc53500dc5c  RaThor_Issue01_BackCover_v2_6.625x10.25_bleed_300dpi.jpg  (superseded: ISSUE01-TOLC-1 print at 599257b9, previous headline and line 3)
+# superseded by ISSUE01-TOLC-1 (2026-10-15 9:45 PM ET):
+# b018ae659821acc2c216ac1b9290afeee048b9b32bcdce0616d676d388ad744a  RaThor_Issue01_BackCover_v2_6.625x10.25_bleed_300dpi.jpg  (superseded: ISSUE01-BACK-COVER-V2 merged print, #92, pre-TOLC issue line, copy line and fine-print line 1)
+# superseded within ISSUE01-BACK-COVER-V2 by the 9:37 PM ET ™ line:
+# ed4ff4c012f078dfb6ea42ffe99efa0984621eca9f2f048a7dd4207ed56e654f  RaThor_Issue01_BackCover_v2_6.625x10.25_bleed_300dpi.jpg  (superseded: first #92 print, with the draft ™ line "(trademark pending)")
+# superseded by ISSUE01-COVER-V18 (2026-10-15 7:05 PM ET):
+# e64a9a09e5636b68b585837e589f00c8c209ebba98d892aa9ad167e070f2619f  RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg  (superseded: ISSUE01-COVER-V17 final print, eye-of-source-light render, clean front, title 0.70)
+# superseded by ISSUE01-COVER-V17 (2026-10-15 6:36 PM ET):
+# a31e5820dbc664824301303546ecc0243708867e040abbb619e903d00b37de2e  RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg  (superseded: ISSUE01-COVER-V16 final print, white-lightning render, clean front)
+# superseded within ISSUE01-COVER-V16 by the 5:03 PM ET front trim:
+# a569094f2c225d64f98a510ad264cf5c2e9a9a851bbb4c7b66c2bb5ca4e73002  RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg  (superseded: V16 Mock A with THE GATE + front logo, 4:56 PM ET)
+# e37e851b5907dc623cc3d82a0a593f507158f08c24916c2f55bd750f1a72b365  v16/type_layer_final_v16_mockA.png  (superseded: Mock A with THE GATE + front logo, withdrawn 5:03 PM ET; file removed)
+# c49e2ebf23964e092a4574adf42a27a620b391039622ff2878e270f900df23ca  v16/print_final_guides.jpg  (superseded: V16 Mock A with THE GATE + front logo, 4:56 PM ET)
+# 5722730523fa3f2cb7ea89fdf2b73edf0c5325db5119549e0e8deecef05cd1e8  v16/preview_620.jpg  (superseded: V16 Mock A with THE GATE + front logo, 4:56 PM ET)
+# 8d5cb75e487ab3826129fc714d8884f727f6428f47ec80ce886473fcb9dd6cfb  v16/crops/top_100.jpg  (superseded: V16 Mock A with THE GATE + front logo, 4:56 PM ET)
+# bfcd9f68a91ea7c5d3568c414fa2bf6615972891a891f21748bbc1ad251a9430  v16/crops/bottom_100.jpg  (superseded: V16 Mock A with THE GATE + front logo, 4:56 PM ET)
+# c6e0f1dde699025039bf0a33583716a22932832c9c3172315f2a903534c4217d  v16/crops/coin_100.jpg  (superseded: V16 Mock A with THE GATE + front logo, 4:56 PM ET)
+# ab45814f5f17c2d6732752a72ad2d54d144cf8a749b090d260a5e627b9ba261c  v16/crops/face_100.jpg  (superseded: V16 Mock A with THE GATE + front logo, 4:56 PM ET)
+# 2756c6d2084fbf3a1406b3a4b25c0f445a7be93db1f91ad388b83f96aa43c31b  v16/crops/hammer_top_trim_100.jpg  (superseded: V16 Mock A with THE GATE + front logo, 4:56 PM ET)
+# 648152443c1b8fb5ad660ee8f9d17ebda81d49a7fb9a02085be8e6202b93ed72  v16/build_final_v16.py  (superseded: Mock A with THE GATE + front logo, withdrawn 5:03 PM ET; file removed)
+# superseded by ISSUE01-COVER-V16 (2026-10-15 4:56 PM ET):
+# eac4057c4d6690ddebfe7dcbec5ea428135f1d67507a0f25a99bb139254614f9  RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg  (superseded: ISSUE01-COVER-V15 print, golden-lightning render, gold coin)
+# superseded by ISSUE01-COVER-V15 (2026-10-15 4:40 PM ET):
+# 2f92504c03bb70f547561ef756782dd6a0bc2790b21c97b533d72130e9d3a3b6  RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg  (superseded: ISSUE01-COVER-MARK-1 composite print)
+# superseded (pre-COVER-MARK-1, 2026-10-15 1:23 AM ET):
+# 3a575283f4a1c76785cef38f54de99f4073b57983345679606e9dd34a2ba8275  BIBLE_FINAL_master.png  (superseded)
+# b237acb54cf47de30a68d8f63656876b6c5daf1ffe5656b6c901cc1c4137ed8d  RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg  (superseded)
+# superseded within ISSUE01-COVER-MARK-1 (2026-10-15):
+# 68d5d6bdab0724265b27bea83bb36fba7e53d3312736e43bd5547aba5758e11c  RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg  (superseded: mirrored shield in the bleed)
+# 35bd699f0ecf10cfbbc87499fffcfa03fccd05f1acc04c06ecbe77e58f146f91  RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg  (superseded: pillar frame v1; frame withdrawn per Sherif 3:20 AM ET / Wild 3:22 AM ET)
+# a2d974118ea9e3e629b4fb19f99fda7a7ff2bb20a3ef708d4bf91c363da766bd  RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg  (superseded: pillar frame v2; frame withdrawn per Sherif 3:20 AM ET / Wild 3:22 AM ET)
+#
+# held outside repo (unchanged):
+# 9a5ee2d24b573502b20e59ac22e6f63fe4e6cf9b805be1474ddca464c9677bd7  BIBLE_FINAL_compare.jpg  (held outside repo, in the bot store issue01_bible/)
+# ea336ace12828387d1927eed07e1932d255891a9e6c7ab98d8ddf7a96520f8bd  real/build_bible_final.py  (held outside repo, in the bot store issue01_bible/)
+# 6fd4b58c36f0bbc68da98e3d0ec38201ceb8738f0720afe61675837cdaa13023  real/build_real_v2.py  (held outside repo, in the bot store issue01_bible/)
+# faa9d78c505bc788162339c758f5ad7b4eb7c606eb9107d73f53e8ee62bafbb8  real/print_bible_final.py  (held outside repo, in the bot store issue01_bible/)
+# ef2340f0f9db5295c860c0e3885e804c246fe5b6318e74e9e16d9513234583ec  real/print_real_v2.py  (held outside repo, in the bot store issue01_bible/)
+#
+# 2026-10-16: ISSUE01-BIBLE-LOCK-KDP-FIX-1. Front type layer shifted down 28 px so alpha>3% starts at y=112
+# (0.250 in inside the top trim). Art layers untouched. Print, guides, previews, title crops and the KDP wrap rebuilt.
+# Adding decorative runes to the merged cover art is not in this block.
+# 754faa479926b5ce968534f796ab82e1bc405ae5f1c6f5be0e959f3526faaf95  RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, +1 px type shift)
+# 3d1c368121904102ab88febb96467575e7215b93c46e4a286c50e34797a0ce51  v18/type_layer_final_v18.png  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, +1 px type shift)
+# a431732155e2eb8dadef0ace619d35607438f01068def98a8a51b5f218f2a376  v18/print_final_guides.jpg  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, +1 px type shift)
+# 5fc0d0e5bf6bb7f79b35348ce07a92de430f520cbb6fb48343fe16f75cee0235  v18/preview_620.jpg  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, +1 px type shift)
+# 7ffb80ec7ca8c204571715c0008e69ba1e408640cccd4d35663882b336c63a78  v18/compare_v17_v18_620.jpg  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, +1 px type shift)
+# 4b807003f540a3610fa2b11f56729a8c9b170856d712d722038ea1b27ececf0b  v18/crops/top_100.jpg  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, +1 px type shift)
+# 418b66fe7decc0677c8b2cc83b7620157ee7ffe521b6ffb67147c1a4de96d9c8  v18/crops/top_trim_lines_100.jpg  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, +1 px type shift)
+# 8b2bc66d381bbe7079c0c8389c847d968b933d218d1726cdd18e6bebb7d7b766  v18/crops/title_100.jpg  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, +1 px type shift)
+# b4600b56b689876dce53d543ae98860517fe543ad53c27459ebf37a0acb87f6a  v18/crops/coin_100.jpg  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, +1 px type shift)
+# f4b01e9e90bc2cf995b43d04613e8f1b2428bd3d8dfd5a4b0056164c5f9cd372  v18/crops/face_eye_100.jpg  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, +1 px type shift)
+# f470698076e4f979d161f4e7b5ae6169eb9d93b0967b2b7c6ce2f3ad332957e7  back/front_back_620_v2.jpg  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, +1 px type shift)
+# 4d1c76231a514355b1e91eacb410d3180f4cd3fb1a7b90bd8c744d734a37b412  kdp/README.md  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, +1 px type shift)
+# 216d1aca483e32076be956c8cc17b067f4502cf67b932bbfc779b39be890f318  kdp/out/RaThor_Issue01_KDPwrap_24p_premium-color.jpg  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, +1 px type shift)
+# 25615b355c1f9f0e6c0cae94343872082d4aaf793d2b70a0e8c99863bb6108f8  kdp/out/RaThor_Issue01_KDPwrap_24p_premium-color.pdf  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, +1 px type shift)
+# 9bb1c978914539d988cca3a08698443e33fac802ab1e1d6f4a8ca8dbee6e02b7  kdp/out/RaThor_Issue01_KDPwrap_24p_premium-color_FALLBACK_CMYK_GRACoL2013_CRPC6.pdf  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, +1 px type shift)
+# 138ae36fd7bbc25dffe48a37601b47be93807ef2e799d8f77fe0f30e1ddc9928  kdp/out/RaThor_Issue01_KDPwrap_24p_premium-color_guides.jpg  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, +1 px type shift)
+# 2aa23e69d6ec279f8be499305e721312a3bac5f0c2cdc20a0f2dfa22b0d6f497  kdp/out/RaThor_Issue01_KDPwrap_24p_premium-color_guides_620.jpg  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, +1 px type shift)
+# 32fe68982b85e603704fa832c2c0661c5a2b475a89fc1c3908802ccd3fcb8d08  kdp/out/RaThor_Issue01_KDPwrap_24p_premium-color_type_layer.png  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, +1 px type shift)
+# 8b18f79a2e7c084e1bb090e2bdf3f426282e8b9d5951b6b9b0cf42eab4b3f825  kdp/out/softproof_GRACoL2013_CRPC6_relative.json  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, +1 px type shift)
+# 1d8fb1c6bdf2094eecc5f36dd07a4218ea4bc092aa00257cec49200d9b6b6bc2  kdp/out/softproof_GRACoL2013_CRPC6_relative_crops.jpg  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, +1 px type shift)
+# 3dfa2db03309a67b5a3bc258b20096e4655d8972e9f26c99afa2d338478f9d33  kdp/out/softproof_GRACoL2013_CRPC6_relative_side_by_side.jpg  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, +1 px type shift)
+ef6dc126f8a5a5e7b0d8d469d2f485529a0c7745ff5fc1a1e35c01c7f739bf90  kdp/out/spec_24p_premium-color.json
+
+# 2026-10-16, Sherif 4:08 AM ET, relayed by Wild Rathor.ai. Hammer: lightning-bolt motif on at least both faces, triangle at the top and a cone at the bottom of the hilt, no Eye of Horus on the hammer. Pauldron seal: winged Eye of Horus in emerald green like gemstones. Front type shifted 1 more px.
+# Named threshold ALPHA_THRESHOLD = 0.03. ymin 113, trim 37.5 px, margin 75.5 px (0.2517 in). Art untouched. Not uploaded to KDP.
+d5ad9609529d0c85253da01d2af00d17310626474e8ef806c8f93a53e990f127  RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg
+f7297d5bdb40797fb00f9f31d6449a82cdcb6c724a71e85eb8ce81ff3699b2a6  v18/type_layer_final_v18.png
+a04b29aeb1895d2dfd92fc35e83a5c0641ec511dceaf741e711debd62cf4e15f  v18/print_final_guides.jpg
+06bc241da0e2026617e21b7b5461b14f5234e26eea371ffb0968324e861d4bc8  v18/preview_620.jpg
+891b3170d13678aa3938bad8f3b18ca5f25007c9c393724510a98c010cc66c8a  v18/compare_v17_v18_620.jpg
+c8562ceae75846c662fa1699e3df10b133c0340badac0f96a546f85c51f8e119  v18/crops/top_100.jpg
+3e5ba138cf287f6b619ac09802fddd2bae9d684669b87dc03c4cf729d7a2eebd  v18/crops/top_trim_lines_100.jpg
+f2237bf6e98877e8b201a06d524d554fe9a98502f51cc4f305e6fecdb6fc7887  v18/crops/title_100.jpg
+cab48980c41feaf31b8f6d40ef125e728285fbf86d17b4b978ae96da76d904c0  v18/crops/coin_100.jpg
+b791bf5925339be71ee0cd1bf5073edc481dd6e522d569cd1473e1333329c4d3  v18/crops/face_eye_100.jpg
+0da509275b38d2bcb27d44a9d90abd7dc38ce88f715466278df2a5bab2f5be56  back/front_back_620_v2.jpg
+63c965605616c3628620b61d6a93877e5c02b027bb72470dbd1901671081a011  kdp/README.md
+769b308573b2baa4ea0a0710512ec0897c46e8a7abff4c8558ea892371a4c8f9  kdp/out/RaThor_Issue01_KDPwrap_24p_premium-color.jpg
+9925aef4baa889a314006fd1b9f4b83d1964ff8a388b52cdf644f95893b0e5f4  kdp/out/RaThor_Issue01_KDPwrap_24p_premium-color.pdf
+397e5eaa95658e8f7812e233c96972b528c1032e03f5a269a79ab6d50be71562  kdp/out/RaThor_Issue01_KDPwrap_24p_premium-color_FALLBACK_CMYK_GRACoL2013_CRPC6.pdf
+7da40fa4a040ee210a4dbf8b4a0acc8beee85b100ccd3e1aae46f5edee54b7ea  kdp/out/RaThor_Issue01_KDPwrap_24p_premium-color_guides.jpg
+78b85036b5add40acf370a8216ffc6a676729d24bff1a036d39913fc25d0675e  kdp/out/RaThor_Issue01_KDPwrap_24p_premium-color_guides_620.jpg
+c3f220b74d5e798c135e7324c176f43c831110c0236293a2e29595249027c1cc  kdp/out/RaThor_Issue01_KDPwrap_24p_premium-color_type_layer.png
+9861a8e5d2c89fb74599f7dfe38a9e400686cc57593b71565ea9b4fe213f8722  kdp/out/softproof_GRACoL2013_CRPC6_relative.json
+9ef3168747fd67bf28cdc6ac5bf3b569505e10f0da162b3d04d97e1adada6028  kdp/out/softproof_GRACoL2013_CRPC6_relative_crops.jpg
+810e041df229cc6c0ac54621f0e5c8f524ff19b352fa02d1c949e46f3bc9fc3f  kdp/out/softproof_GRACoL2013_CRPC6_relative_side_by_side.jpg

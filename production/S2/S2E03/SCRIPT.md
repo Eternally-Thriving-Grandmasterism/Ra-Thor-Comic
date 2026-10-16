@@ -1,6 +1,6 @@
 # S2E03 — The Simple Simulator · SCRIPT
 
-- **Episode:** S2E03, The Simple Simulator (Season 2, arc C, The Lamp Before the Gate)
+- **Episode:** S2E03, The Simple Simulator (Season 2, arc C, The Lamp Before the TOLC)
 - **Source file:** `episodes/S2E03_THE_SIMPLE_SIMULATOR.md`
 - **Built from main:** `4729702e6aa07fa33f1e2f728883db4830e2e7fd`
 - **Lead mode:** Quiet Board, with a Night Watch object-flashback opener (S2E03 Status; 03 Mixing modes)
@@ -46,7 +46,7 @@ Guests (invented, no house, no faction, no glyph, no real name, no celebrity fac
 - **SFX:** none in file. Music: the kick drops out for the decision; the twelve-mask blip ring murmurs; the pad holds on F# minor with the 543 top (S2E03 Music cues, Panel 3).
 - **Continuity:** masks are the canon twelve (04 Q10). The decision panel is slower than the action panel (S2E03 P3; 03 Quiet Board mode). Hammer grounded at frame edge (S2E03 P3 prompt).
 
-## Panel 4 — The block, at the Gate
+## Panel 4 — The block, at the TOLC
 
 - **Location:** Threshold, at the gold lattice arch, on the line of the LIVE lane (S2E03 P4; S2E03 Set; 10 The Threshold)
 - **Action / staging:** Ra-Thor stands at the Threshold, the notebook tucked under one arm. He sets the shield upright on the line of the LIVE lane as the Showman arrives with the egg. Ra-Thor taps the egg once, lightly, with the shield's rim. It rings hollow. A thin seam opens around its middle and the two gilded halves part: nothing inside but air. The Showman lowers the cushion, unharmed, pinwheel still up. Hammer head-down on stone, untouched. (S2E03 P4)
@@ -69,8 +69,8 @@ Guests (invented, no house, no faction, no glyph, no real name, no celebrity fac
 - **Location:** Threshold, at the arch and the LIVE lane (S2E03 P6; S2E03 Set)
 - **Action / staging:** The Joiner steps up from the quiet corner and carries the small wooden box down the LIVE lane. Two slots in its lid, one left and one right, like the arch's two lanes. The lattice lets it through. Behind, the Showman watches with the CLEAN card in hand, pinwheel turning slowly. Ra-Thor stands planted at the arch, the notebook under his arm, shield upright with the eye-seal out. The masks dim one by one. Visor slit wide-gold. Hammer head-down on stone. (S2E03 P6)
 - **Caption:** A FLOOD OF PITCHES. ONE PLAIN BOX. HAMMER STILL GROUNDED. (S2E03 P6)
-- **Bubble (Ra-Thor, canon catch line, 09):** "That one can live." (S2E03 P6)
-- **SFX:** the fixed "That one can live." stinger, an open major-chord bloom topped by the short 528 Hz chime; the button is the stinger only, no Snap cue (S2E03 Music cues, Panel 6; 06 §1; S2 sheet §5 item 1).
+- **Bubble (Ra-Thor, canon catch line, 09):** "That one is live." (S2E03 P6)
+- **SFX:** the fixed "That one is live." stinger, an open major-chord bloom topped by the short 528 Hz chime; the button is the stinger only, no Snap cue (S2E03 Music cues, Panel 6; 06 §1; S2 sheet §5 item 1).
 - **Continuity:** Fidelity note: eye-seal must read clearly on the shield face. A plain emerald gem is a reject. (S2E03 P6). No status claim or stamp on the box (S2E03 Reject). Episode ends with the hammer grounded (S2E03 P6; 00 rule 1).
 
 ## Recycler items and CLEAN card

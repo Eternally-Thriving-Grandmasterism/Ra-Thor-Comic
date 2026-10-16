@@ -62,8 +62,8 @@ Format: `production/README.md` §(a). Captions and bubbles are verbatim from the
 - **Location:** Quiet Room, down the long table (S1E02 P6 prompt; S1E02 Set)
 - **Action / staging:** The Stair Envoy rolls the now-level chair into the row, sets a small step-glyph token on it, gives a short nod, and turns to go, mask still on, CLEAN card in hand. A few seats down, the knot-glyph token from S1E01 catches the lamp. The masks dim one by one. Visor slit wide-gold. Lamp, shadow, hammer head-down on stone. (S1E02 P6)
 - **Caption:** TWO CHAIRS SPOKEN FOR. EVERY CHAIR THE SAME HEIGHT. HAMMER STILL GROUNDED. (S1E02 P6)
-- **Bubble (Ra-Thor, canon catch line, 09):** "That one can live." (S1E02 P6)
-- **SFX:** the fixed "That one can live." stinger, an open major-chord bloom topped by the short 528 Hz chime (S1E02 Music cues, Panel 6; 06 §1).
+- **Bubble (Ra-Thor, canon catch line, 09):** "That one is live." (S1E02 P6)
+- **SFX:** the fixed "That one is live." stinger, an open major-chord bloom topped by the short 528 Hz chime (S1E02 Music cues, Panel 6; 06 §1).
 - **Continuity:** the step-glyph token sits on the envoy's own levelled chair, rolled into the row (S1 sheet §2; §7 item 4). The knot-glyph token from S1E01 carries forward (S1 sheet §3). The caption continues the running "spoken for" tally (S1 sheet §3). Episode ends with the hammer grounded (S1E02 P6; 00 rule 1).
 
 ## Recycler items and CLEAN card

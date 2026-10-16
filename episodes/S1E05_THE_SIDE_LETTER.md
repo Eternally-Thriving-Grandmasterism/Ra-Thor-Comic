@@ -50,7 +50,7 @@ Prompt: [stem] + compact IDEA-RECYCLER on a side cart (horizontal drum, twin THE
 ## Panel 6 — Night Watch closer
 
 Caption: FIVE CHAIRS SPOKEN FOR. ONE HOUSE STILL SILENT. HAMMER STILL GROUNDED.
-Bubble: "That one can live."
+Bubble: "That one is live."
 Low angle from the far end of the room. Ra-Thor stands in silhouette at the head of the long table, backlit by the one lamp, wings and halo ring breaking the dark, shield upright at his side. Cape dark. Hammer head-down on stone, small crack and sparks at contact. The Shade Envoy has left a small fan-glyph token on one chair and is walking out, parasol still low; as they pass the far chair in shadow, the parasol tips toward it for a beat. Nobody sits. The masks dim one by one. The visor slit is the brightest small point, wide-gold.
 Prompt: [stem] + low-angle silhouette from the far end of a long table, Ra-Thor standing at the head backlit by a single lamp, winged halo breaking the dark, cape dark, shield upright at his side with the emerald eye-seal clearly visible, hammer head-down on stone, small crack and sparks at contact, a small abstract fan-shaped token on one chair, an invented figure fully hidden under a low-tilted black gold-ribbed parasol walking past one empty chair in deep shadow, no one seated, tiny gold masks dimming around the halo, gold rim light, visor slit wide and gold as the brightest point.
 Fidelity note: eye-seal must read clearly on the shield face. A plain emerald gem is a reject.
@@ -64,7 +64,7 @@ Fidelity note: eye-seal must read clearly on the shield face. A plain emerald ge
 - **Panel 3.** The drums drop out for the council. The twelve-mask blip ring murmurs, panned across the stereo field.
 - **Panel 4.** Everything but the drone and pad pulls back as the envelope comes up into the light. Then the fixed "Blocked." stinger: a short, low, muted thud and a filter close. The groove resumes one bar later, with no extra bass note.
 - **Panel 5.** Light and dry. Three short card tones, the CLEAN one a clean major bloom.
-- **Panel 6 (borrowed Night Watch bed).** Beatless and in free time: a wide pad on E6 with the held 543 top over the B2 drone, and a single gold bell tone as the visor slit glows. The fixed "That one can live." stinger: an open major-chord bloom topped by the short 528 Hz chime, never held. Then the Grounded motif, played once, slowly: four notes rise and land back on the tonic, E, and hold. The episode ends there.
+- **Panel 6 (borrowed Night Watch bed).** Beatless and in free time: a wide pad on E6 with the held 543 top over the B2 drone, and a single gold bell tone as the visor slit glows. The fixed "That one is live." stinger: an open major-chord bloom topped by the short 528 Hz chime, never held. Then the Grounded motif, played once, slowly: four notes rise and land back on the tonic, E, and hold. The episode ends there.
 - **Mood words only.** No artist, band, label, or track names in any brief or prompt. The tuning is an aesthetic choice only; no health claims anywhere.
 
 ## Reject

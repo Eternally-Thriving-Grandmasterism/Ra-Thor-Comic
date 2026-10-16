@@ -8,7 +8,7 @@
 - Dialogue is set in quotes so each line can be checked against its source. Formatting follows F1 and F3 (`screen/SCREEN_BIBLE_ADDENDUM.md` L113, L120).
 - **No new dialogue.** Every spoken line in this teleplay is a canon bubble. New envoy lines were not added, because the S1E01 envoy lines are refused (Steward ruling, relayed by Sherif to Lead Mate, 2026-10-02; `screen/S1E01/RATIFICATION_LEDGER.md` L68).
 
-**Speakers.** The Stair Envoy speaks P1, on the tile (`episodes/S1E02_THE_TALL_CHAIR.md` L18). Ra-Thor speaks P2 per G4 B (`screen/S1E02/GAP_RULINGS.md` L61). The COUNCIL speaks P3 as one four-word line (`episodes/S1E02_THE_TALL_CHAIR.md` L32; `09_CHARACTER_BIBLE.md` L28); the bubble is placed at the mask at nine o'clock, but the line belongs to the council (`screen/SCREEN_BIBLE_ADDENDUM.md` L63). Ra-Thor speaks P4, P5 and P6 (`episodes/S1E02_THE_TALL_CHAIR.md` L39, L46, L53); the catch lines are "Blocked." and "That one can live." (`09_CHARACTER_BIBLE.md` L9, L10).
+**Speakers.** The Stair Envoy speaks P1, on the tile (`episodes/S1E02_THE_TALL_CHAIR.md` L18). Ra-Thor speaks P2 per G4 B (`screen/S1E02/GAP_RULINGS.md` L61). The COUNCIL speaks P3 as one four-word line (`episodes/S1E02_THE_TALL_CHAIR.md` L32; `09_CHARACTER_BIBLE.md` L28); the bubble is placed at the mask at nine o'clock, but the line belongs to the council (`screen/SCREEN_BIBLE_ADDENDUM.md` L63). Ra-Thor speaks P4, P5 and P6 (`episodes/S1E02_THE_TALL_CHAIR.md` L39, L46, L53); the catch lines are "Blocked." and "That one is live." (`09_CHARACTER_BIBLE.md` L9, L10).
 
 **The envoy.** The Stair Envoy is never gendered. Canon calls the envoy "the figure on the tile" (`episodes/S1E02_THE_TALL_CHAIR.md` L19) and uses "their": "rolls in a chair of their own" (`episodes/S1E02_THE_TALL_CHAIR.md` L3); "sits on their own levelled chair" (`seasons/S1_SEASON_SHEET.md` L96). This teleplay does the same.
 
@@ -118,7 +118,7 @@ MUSIC: C03. "The drums drop out for the council. The twelve-mask blip ring murmu
 
 Below the halo: "visor slit calm, hammer grounded at frame edge" [CANON: `episodes/S1E02_THE_TALL_CHAIR.md` L34]
 
-The masks advise; they do not decide (`09_CHARACTER_BIBLE.md` L28, "They do not outvote the Gate.").
+The masks advise; they do not decide (`09_CHARACTER_BIBLE.md` L28, "They do not outvote the TOLC.").
 
 ### Beat 2.2. The choice is made, unseen (`screen/S1E02/BEAT_SHEET.md` L117)
 
@@ -200,7 +200,7 @@ INSERT: the CLEAN card. "It says TRADE ROUTES. LEVEL CHAIRS." [CANON: `episodes/
 
 [GAP — handover staging cut per X6; canon L54: envoy leaves with card in hand]
 
-### Beat 4.3. That one can live (`screen/S1E02/BEAT_SHEET.md` L169)
+### Beat 4.3. That one is live (`screen/S1E02/BEAT_SHEET.md` L169)
 
 **INT. QUIET ROOM — THE LONG TABLE — CONTINUOUS** [PROPOSED CANON — pending council ratification: a new scene, so each scene carries one catch line at most]
 
@@ -210,7 +210,7 @@ SFX: the chair rolling into the row, and the token set on it (G5 C; `screen/S1E0
 
 **RA-THOR**
 
-"That one can live." [CANON: `episodes/S1E02_THE_TALL_CHAIR.md` L53; catch line, `09_CHARACTER_BIBLE.md` L10]
+"That one is live." [CANON: `episodes/S1E02_THE_TALL_CHAIR.md` L53; catch line, `09_CHARACTER_BIBLE.md` L10]
 
 MUSIC: C06, the fixed stinger, "an open major-chord bloom topped by the short 528 Hz chime, never held." [CANON: `episodes/S1E02_THE_TALL_CHAIR.md` L66] The drone returns under it (G8 B; `screen/S1E02/GAP_RULINGS.md` L107).
 

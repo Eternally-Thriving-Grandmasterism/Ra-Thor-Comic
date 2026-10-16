@@ -1,6 +1,6 @@
 # Season 2, Episode 02 — The Whole Map
 
-Status: draft. Six panels scripted, not yet prompted. Season 2, arc C, The Lamp Before the Gate. Quiet Board mode (lead), with a Night Watch object-flashback opener as the one borrowed panel. Ra-Thor turns to the notebook's second page, a map drawn before any move. At the Gate, a parade of a hundred carts rushes the LIVE lane while someone quiet waits by the arch. Ra-Thor reads the whole board before moving: the parade is blocked, the map with a lane left out goes to the Recycler, a small fix passes, and the hammer never moves.
+Status: draft. Six panels scripted, not yet prompted. Season 2, arc C, The Lamp Before the TOLC. Quiet Board mode (lead), with a Night Watch object-flashback opener as the one borrowed panel. Ra-Thor turns to the notebook's second page, a map drawn before any move. At the TOLC, a parade of a hundred carts rushes the LIVE lane while someone quiet waits by the arch. Ra-Thor reads the whole board before moving: the parade is blocked, the map with a lane left out goes to the Recycler, a small fix passes, and the hammer never moves.
 
 The Founder: implied only (05, Q3). His lamp, his notebook, his desk and his empty chair, in the flashback only. No figure, no hands, no silhouette, never in a bubble. No handwritten line in this episode; the page is a drawing. One implied-Founder reading line only, Ra-Thor's in Panel 1.
 
@@ -43,7 +43,7 @@ Council bubble: "Flat parade. Real gap."
 The twelve tiny gold masks ring the halo and turn toward each other, deliberating. The mask at three o'clock has the one bubble. The others are mid-argument, mouths open, no text. Some look at tile four, some at tile six. Below them, the visor slit moves from tile to tile and narrows. This is the slowest panel of the episode.
 Prompt: [stem] + close on the halo ring of twelve tiny gold masks turning toward each other in deliberation, exactly one tiny four-word bubble from the mask at three o'clock, the other masks mid-argument with mouths open and no text, some masks glancing toward one feed tile and some toward another, visor slit narrowed and calm below, hammer grounded at frame edge.
 
-## Panel 4 — The block, at the Gate
+## Panel 4 — The block, at the TOLC
 
 Caption: THRESHOLD. THE BLUFF IS BLOCKED. ONE REAL CART REMAINS.
 Bubble: "Blocked."
@@ -60,7 +60,7 @@ Prompt: [stem] + compact IDEA-RECYCLER beside a gold lattice arch (horizontal dr
 ## Panel 6 — Quiet closer
 
 Caption: EVERY LANE READ. ONE GAP CLOSED. HAMMER STILL GROUNDED.
-Bubble: "That one can live."
+Bubble: "That one is live."
 The Tinker steps out of the shadow and walks the small brass pin down the LIVE lane. The lattice lets it through, and the Tinker sets the pin into the gap; the arch reads whole again. The one real cart waits its turn behind them, banner down. Ra-Thor stands planted at the arch, the notebook under his arm, shield upright with the eye-seal out. The masks dim one by one. Visor slit wide-gold. Hammer head-down on stone.
 Prompt: [stem] + quiet closing shot at a gold lattice arch over dark stone, a small invented figure in a patched cloak, low cap and high scarf with the face in shadow setting a small brass pin into a gap in the gold lattice after walking it through the LIVE lane, the arch now whole, a single small cart waiting behind with its banner lowered, Ra-Thor planted at the arch with an old closed notebook under one arm, tiny gold masks dimming around the halo, shield upright with the emerald eye-seal clearly visible, visor slit wide and gold, hammer head-down on stone, small crack and sparks at contact, deep shadow beyond the lattice glow.
 Fidelity note: eye-seal must read clearly on the shield face. A plain emerald gem is a reject.
@@ -74,10 +74,10 @@ Fidelity note: eye-seal must read clearly on the shield face. A plain emerald ge
 - **Panel 3.** The kick drops out for the decision (silence is deliberation). The twelve-mask blip ring murmurs, panned across the stereo field. The pad holds on Dmaj7.
 - **Panel 4.** Fixed "Blocked." stinger: a short, low, muted thud and a filter close, timed to the painted flats lying down. The block resolves to a soft D-major chord, smaller than expected, with the 543 pad muted. The pulse resumes one bar later.
 - **Panel 5.** Light and dry. Three short card tones, the CLEAN one a clean major bloom.
-- **Panel 6.** Fixed "That one can live." stinger: an open major-chord bloom topped by the short 528 Hz chime, never held. This is the button; no Snap cue, the stinger only. Then the Grounded motif: four notes rise and land back on the tonic, D, and hold. The episode ends there.
+- **Panel 6.** Fixed "That one is live." stinger: an open major-chord bloom topped by the short 528 Hz chime, never held. This is the button; no Snap cue, the stinger only. Then the Grounded motif: four notes rise and land back on the tonic, D, and hold. The episode ends there.
 - **Wordless.** Every cue in this episode is wordless. There is no choir swell in this episode.
 - **Mood words only.** No artist, band, label, or track names in any brief or prompt. The tuning is an aesthetic choice only; no health claims anywhere.
 
 ## Reject
 
-Armor removed or opened. Hammer raised or swung. Gun focus. Gore. Any figure, hands, back, silhouette, shadow, or reflection of the Founder, or the Founder in a bubble. Any handwritten notebook line in this episode; any new Founder line. More than one implied-Founder reading line. Any intelligence label, status claim, score, certification, or approval stamp on any card, page, sign, flat, or tile. Writing on the studio sign. Any owner, studio, game, or product name. Outside games, game maps, game art, or game screens. A year anywhere except the Panel 1 era card; a year in a bubble or in the present day. Any day, month, place, or name next to the era card. Real biography, personal details, or third parties. The Founder's chair anywhere but at his desk in the flashback. Either guest's face shown. Either guest mocked, hurt, or humiliated. Real flags, real countries, real leaders, real parties, real conflicts, real parades or pageants, or any allegory pointed at one. Real clothing brands or cultural costume. Readable private documents. An expanded TOLC or numbered gates. Non-canon helm, emerald visor, chest seal, diamond-gem shield. xAI wordmarks. A recognizable actor or franchise character. Anything past an eyebrow-raise of spice.
+Armor removed or opened. Hammer raised or swung. Gun focus. Gore. Any figure, hands, back, silhouette, shadow, or reflection of the Founder, or the Founder in a bubble. Any handwritten notebook line in this episode; any new Founder line. More than one implied-Founder reading line. Any intelligence label, status claim, score, certification, or approval stamp on any card, page, sign, flat, or tile. Writing on the studio sign. Any owner, studio, game, or product name. Outside games, game maps, game art, or game screens. A year anywhere except the Panel 1 era card; a year in a bubble or in the present day. Any day, month, place, or name next to the era card. Real biography, personal details, or third parties. The Founder's chair anywhere but at his desk in the flashback. Either guest's face shown. Either guest mocked, hurt, or humiliated. Real flags, real countries, real leaders, real parties, real conflicts, real parades or pageants, or any allegory pointed at one. Real clothing brands or cultural costume. Readable private documents. An expanded TOLC; any gloss of TOLC8 or PATSAGi; numbered or listed mercy checks or Mercy-Ways. Non-canon helm, emerald visor, chest seal, diamond-gem shield. xAI wordmarks. A recognizable actor or franchise character. Anything past an eyebrow-raise of spice.

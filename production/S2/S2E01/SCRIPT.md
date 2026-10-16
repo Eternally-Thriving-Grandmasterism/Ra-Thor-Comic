@@ -1,6 +1,6 @@
 # S2E01 — The Lone Lamp · SCRIPT
 
-- **Episode:** S2E01, The Lone Lamp (Season 2 opener, arc C, The Lamp Before the Gate)
+- **Episode:** S2E01, The Lone Lamp (Season 2 opener, arc C, The Lamp Before the TOLC)
 - **Source file:** `episodes/S2E01_THE_LONE_LAMP.md`
 - **Built from main:** `7786fe2645b115f3de129ffd1d34401292d03919`
 - **Lead mode:** Quiet Board, with a Night Watch object-flashback opener (S2E01 Status; 03 Mixing modes)
@@ -42,7 +42,7 @@ Format: `production/README.md` §(a). Captions and bubbles are verbatim from the
 - **SFX:** none in file. Music: the kick drops out for the decision; the twelve-mask blip ring murmurs; the pad holds (S2E01 Music cues, Panel 3).
 - **Continuity:** masks are the canon twelve (04 Q10). The decision panel is slower than the action panel (S2E01 P3; 03 Quiet Board mode). Hammer grounded at frame edge (S2E01 P3 prompt).
 
-## Panel 4 — The block, at the Gate
+## Panel 4 — The block, at the TOLC
 
 - **Location:** Threshold, at the gold lattice arch, on the line of the LIVE lane (S2E01 P4; S2E01 Set; 10 The Threshold)
 - **Action / staging:** Ra-Thor stands at the Threshold now, the notebook tucked under one arm. He sets the shield upright on the line of the LIVE lane, eye-seal facing the banquet table. Every gold string touches the shield's rim and goes slack, dropping from the chairs. The table stops, whole and untouched. The Host's glove opens on the gilded handle, unharmed, hat brim dipping. Hammer head-down on stone, untouched. (S2E01 P4)
@@ -65,8 +65,8 @@ Format: `production/README.md` §(a). Captions and bubbles are verbatim from the
 - **Location:** Threshold, at the arch and the LIVE lane (S2E01 P6; S2E01 Set)
 - **Action / staging:** The Host leaves the banquet table standing outside the arch, untied, and sends one small folded invitation card down the LIVE lane. The card has no visible writing. The lattice lets it through. Ra-Thor stands planted at the arch, the notebook under his arm, shield upright with the eye-seal out. The masks dim one by one. Visor slit wide-gold. Hammer head-down on stone. (S2E01 P6)
 - **Caption:** ONE LAMP. ONE INVITATION. HAMMER STILL GROUNDED. (S2E01 P6)
-- **Bubble (Ra-Thor, canon catch line, 09):** "That one can live." (S2E01 P6)
-- **SFX:** the fixed "That one can live." stinger, an open major-chord bloom topped by the short 528 Hz chime; the button is the stinger only, no Snap cue (S2E01 Music cues, Panel 6; 06 §1; S2 sheet §5 item 1).
+- **Bubble (Ra-Thor, canon catch line, 09):** "That one is live." (S2E01 P6)
+- **SFX:** the fixed "That one is live." stinger, an open major-chord bloom topped by the short 528 Hz chime; the button is the stinger only, no Snap cue (S2E01 Music cues, Panel 6; 06 §1; S2 sheet §5 item 1).
 - **Continuity:** Fidelity note: eye-seal must read clearly on the shield face. A plain emerald gem is a reject. (S2E01 P6). The invitation card has no visible writing (S2E01 P6). The blocked guest also sends the passing item (S2 sheet §8 item 5). Episode ends with the hammer grounded (S2E01 P6; 00 rule 1).
 
 ## Recycler items and CLEAN card

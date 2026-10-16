@@ -45,7 +45,7 @@
 | S32 | 4.2 | Insert: Ra-Thor holds only the CLEAN card, which reads TRADE WITHOUT KNOTS | Locked off | 4 | CANON: "It says TRADE WITHOUT KNOTS." (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L47) |
 | S33 | 4.2 | [GAP — card slide and envoy line cut per X6/R5; canon L54: envoy takes the CLEAN card once] | [GAP — card slide and envoy line cut per X6/R5; canon L54: envoy takes the CLEAN card once] | 5 | [GAP — card slide and envoy line cut per X6/R5; canon L54: envoy takes the CLEAN card once] |
 | S34 | 4.3 | Tight on her glove taking the CLEAN card; the smallest bow, veil down | Locked off | 5 | CANON: "takes the CLEAN card in a gloved hand, veil still down, and gives the smallest bow" (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L54) |
-| S35 | 4.3 | Medium close on Ra-Thor; his line | Locked off | 4 | CANON: "That one can live." (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L53) |
+| S35 | 4.3 | Medium close on Ra-Thor; his line | Locked off | 4 | CANON: "That one is live." (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L53) |
 | S36 | 4.3 | Tight on one empty chair: she sets her knot-glyph token on it | Locked off | 4 | CANON: "She sets her knot-glyph token on one empty chair to hold it" (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L54) |
 | S37 | T1 | Wide down the long table as she goes: masks dim one by one, visor slit wide-gold, lamp, shadow, hammer head-down on stone | Locked off | 8 | CANON: "The masks dim one by one. Visor slit wide-gold." (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L54) |
 | S38 | T1 | Title card over the wide | Locked off | 5 | CANON: "ONE CHAIR SPOKEN FOR. THE REST STILL OPEN. HAMMER STILL GROUNDED." (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L52) |

@@ -47,7 +47,7 @@ Prompt: [stem] + small IDEA-RECYCLER on a drinks trolley (horizontal drum, twin 
 ## Panel 6 — Quiet closer
 
 Caption: TWO GLASSES. NEITHER TOUCHED. HAMMER STILL GROUNDED.
-Bubble: "That one can live."
+Bubble: "That one is live."
 The Counterpart's gloved hand turns the FAIR TERMS card toward himself and gives the smallest nod. Visor slit goes wide-gold. Lamp, shadow, hammer head-down on stone.
 Prompt: [stem] + quiet two-shot across the table, gloved hand turning a card that reads FAIR TERMS, visor slit wide and gold, two untouched glasses, hammer head-down on stone, small crack and sparks at contact, deep shadow.
 

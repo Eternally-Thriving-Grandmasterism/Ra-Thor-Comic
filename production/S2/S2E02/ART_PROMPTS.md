@@ -1,6 +1,6 @@
 # S2E02 — The Whole Map · ART PROMPTS
 
-- **Episode:** S2E02, The Whole Map (Season 2, arc C, The Lamp Before the Gate)
+- **Episode:** S2E02, The Whole Map (Season 2, arc C, The Lamp Before the TOLC)
 - **Source file:** `episodes/S2E02_THE_WHOLE_MAP.md`
 - **Built from main:** `56eddb504ee15d46eabf13e5f08d6a4042138b6e`
 - **Lead mode:** Quiet Board, with a Night Watch object-flashback opener (S2E02 Status; 03)
@@ -35,7 +35,7 @@ Prompt: [stem] + wide shot from behind Ra-Thor seated at a table under a single 
 Prompt: [stem] + close on the halo ring of twelve tiny gold masks turning toward each other in deliberation, exactly one tiny four-word bubble from the mask at three o'clock, the other masks mid-argument with mouths open and no text, some masks glancing toward one feed tile and some toward another, visor slit narrowed and calm below, hammer grounded at frame edge.
 - Prop counts (from S2E02 P3): twelve masks; exactly one bubble, from the mask at three o'clock; masks split between tile four and tile six (split not counted in file).
 
-### Panel 4 — The block, at the Gate
+### Panel 4 — The block, at the TOLC
 Prompt: [stem] + Ra-Thor standing at a gold lattice arch over dark stone, the gold kite shield set upright on the line of the LIVE lane with the emerald eye-seal clearly visible, a single small gilded cart stopped gently against the shield's rim, a row of thin painted flats tipping backward to lie flat on the cart bed, an invented figure in a long tabard with the face fully hidden behind a brass speaking-trumpet standing beside the cart unharmed with a drooping banner, hammer head-down on stone, small crack and sparks at contact, no weapons raised.
 - Prop counts (from S2E02 P4): one shield on the LIVE lane line; one small cart; one Herald; one drooping banner; painted flats lying flat (not counted in file).
 - Fidelity note (S2E02 P4): eye-seal must read clearly on the shield face. A plain emerald gem is a reject.
@@ -64,7 +64,7 @@ Prompt: [stem] + quiet closing shot at a gold lattice arch over dark stone, a sm
 
 ## Rejects
 
-**Episode (S2E02 Reject):** Armor removed or opened. Hammer raised or swung. Gun focus. Gore. Any figure, hands, back, silhouette, shadow, or reflection of the Founder, or the Founder in a bubble. Any handwritten notebook line in this episode; any new Founder line. More than one implied-Founder reading line. Any intelligence label, status claim, score, certification, or approval stamp on any card, page, sign, flat, or tile. Writing on the studio sign. Any owner, studio, game, or product name. Outside games, game maps, game art, or game screens. A year anywhere except the Panel 1 era card; a year in a bubble or in the present day. Any day, month, place, or name next to the era card. Real biography, personal details, or third parties. The Founder's chair anywhere but at his desk in the flashback. Either guest's face shown. Either guest mocked, hurt, or humiliated. Real flags, real countries, real leaders, real parties, real conflicts, real parades or pageants, or any allegory pointed at one. Real clothing brands or cultural costume. Readable private documents. An expanded TOLC or numbered gates. Non-canon helm, emerald visor, chest seal, diamond-gem shield. xAI wordmarks. A recognizable actor or franchise character. Anything past an eyebrow-raise of spice.
+**Episode (S2E02 Reject):** Armor removed or opened. Hammer raised or swung. Gun focus. Gore. Any figure, hands, back, silhouette, shadow, or reflection of the Founder, or the Founder in a bubble. Any handwritten notebook line in this episode; any new Founder line. More than one implied-Founder reading line. Any intelligence label, status claim, score, certification, or approval stamp on any card, page, sign, flat, or tile. Writing on the studio sign. Any owner, studio, game, or product name. Outside games, game maps, game art, or game screens. A year anywhere except the Panel 1 era card; a year in a bubble or in the present day. Any day, month, place, or name next to the era card. Real biography, personal details, or third parties. The Founder's chair anywhere but at his desk in the flashback. Either guest's face shown. Either guest mocked, hurt, or humiliated. Real flags, real countries, real leaders, real parties, real conflicts, real parades or pageants, or any allegory pointed at one. Real clothing brands or cultural costume. Readable private documents. An expanded TOLC; any gloss of TOLC8 or PATSAGi; numbered or listed mercy checks or Mercy-Ways. Non-canon helm, emerald visor, chest seal, diamond-gem shield. xAI wordmarks. A recognizable actor or franchise character. Anything past an eyebrow-raise of spice.
 
 **Series (01 Reject):** Gun focus, gore, exploded visor, modern superhero logos, latex parody, xAI wordmarks. Non-canon helms, an emerald visor, a chest seal, a diamond-gem shield, the navy/blue variant, and the falcon, walker bot, or honor guard as cast.
 

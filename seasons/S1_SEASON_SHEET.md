@@ -54,16 +54,16 @@ CLEAN cards, in order: TRADE WITHOUT KNOTS (E01); TRADE ROUTES. LEVEL CHAIRS. (E
 
 ## 4. Music per episode
 
-All cues: Suave Hour lead, A4 = 432, no darksynth (no siege), end on the Grounded motif. 543 Hz pad held only over chords containing C#; 528 Hz only as the short chime on the "That one can live." bloom (`06_MUSIC_SPEC.md` §3.2–3.4).
+All cues: Suave Hour lead, A4 = 432, no darksynth (no siege), end on the Grounded motif. 543 Hz pad held only over chords containing C#; 528 Hz only as the short chime on the "That one is live." bloom (`06_MUSIC_SPEC.md` §3.2–3.4).
 
 | Ep | Key | BPM | Drone | Borrowed bed | Notable cues |
 |---|---|---|---|---|---|
-| S1E01 | A major | 88 | 108 Hz (A) | none | glassy bell on the lamp glint; "Blocked." P4; "That one can live." + Grounded P6 |
+| S1E01 | A major | 88 | 108 Hz (A) | none | glassy bell on the lamp glint; "Blocked." P4; "That one is live." + Grounded P6 |
 | S1E02 | E major | 92 | E2 80.91 Hz | none in the music (P1 borrows a Quiet Board panel visually; the cue just starts sparse) | "Blocked." timed to the chair back's last fold |
 | S1E03 | D major | 86 | 108 Hz (A as fifth) | Night Watch opener (P1, beatless, Dmaj7 pad with 543 top, gold bell) | upward filter sweep as reflected light crosses the page, then "Blocked." on the capped pen |
-| S1E04 | A major | 94 | 108 Hz (A) | none | ticking hi-hat "clock" from P1, stops dead in P4; "That one can live." moved to P2; closer "Next." has no stinger, pad then Grounded |
+| S1E04 | A major | 94 | 108 Hz (A) | none | ticking hi-hat "clock" from P1, stops dead in P4; "That one is live." moved to P2; closer "Next." has no stinger, pad then Grounded |
 | S1E05 | E major | 90 | B2 121.23 Hz (never A, including the closer) | Night Watch closer (P6, beatless, E6 pad with 543 top over B2, gold bell) | one extra sine-bass note while the letter moves under the table, gone after the block; Grounded played slowly, landing on E |
-| S1E06 | A major | 88 | 108 Hz (A) | none | one short answering lead phrase as each familiar envoy sits, no two alike; held chord on the cord; glassy bell when the shield lights the seat; the episode's one choir swell (wordless) before "That one can live." and Grounded on A |
+| S1E06 | A major | 88 | 108 Hz (A) | none | one short answering lead phrase as each familiar envoy sits, no two alike; held chord on the cord; glassy bell when the shield lights the seat; the episode's one choir swell (wordless) before "That one is live." and Grounded on A |
 
 Council note on E05's flag: a Night Watch bed borrowed as a closer is fine (one bed per episode), and in E-major beds the drone goes on E2 or B2.
 
@@ -86,7 +86,7 @@ All rulings below are recorded in `05_LORE_BIBLE.md` (Open questions) and `06_MU
   - Jacque Fresco is a real person. Cite his work only as Sherif's named inspiration in the bible or arc docs. He is never a character, likeness, or name on any page, panel, or prompt. Abundance is shown through the world's systems.
 - **Vocals (`06_MUSIC_SPEC.md` §6, item 2). ANSWERED (Sherif, 2026-10-01 12:17 AM ET).** "I think sung words are okay in the intro and outro, but not during the actual show episodes, Mate!" Sung lyrics only in the series intro and outro themes; in-episode cues, including the choir swell, stay wordless (06 §5, Sung words). S1E06's choir swell is wordless.
 
-**Season gates (`05_LORE_BIBLE.md`, Season arcs).** S2 = C, The Lamp Before the Gate, is UNBLOCKED: Q2 and Q3 are ruled, and every episode keeps Clerk's five bounds (bound 1 now says "object panels (lamp, notebook, desk, empty chair)" because of Q3). S3 = B, The Full Hopper, is UNBLOCKED: Q11 is answered.
+**Season unlocks (`05_LORE_BIBLE.md`, Season arcs).** S2 = C, The Lamp Before the TOLC, is UNBLOCKED: Q2 and Q3 are ruled, and every episode keeps Clerk's five bounds (bound 1 now says "object panels (lamp, notebook, desk, empty chair)" because of Q3). S3 = B, The Full Hopper, is UNBLOCKED: Q11 is answered.
 
 ## 7. Discrepancies noted across the episodes
 

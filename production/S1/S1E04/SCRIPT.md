@@ -26,9 +26,9 @@ Format: `production/README.md` §(a). Captions and bubbles are verbatim from the
 - **Location:** Quiet Room, at the screen's edge (S1E04 P2; S1E04 Set)
 - **Action / staging:** Tight on a single page in a gloved hand, held out around the screen: short, plain terms, no strings, no tricks. The visor slit goes wide-gold for the offer. The hourglass keeps falling at the edge of the frame. (S1E04 P2)
 - **Caption:** OFFER: OPEN ROADS, BOTH WAYS. THE TERMS: CLEAN. THE RIDER: THE CLOCK. (S1E04 P2)
-- **Bubble (Ra-Thor, canon catch line, 09):** "That one can live." (S1E04 P2)
-- **SFX:** the fixed "That one can live." stinger, an open major-chord bloom topped by the short 528 Hz chime; the ticking keeps going under it (S1E04 Music cues, Panel 2; 06 §1).
-- **Continuity:** visor slit wide-gold: wide-gold for yes (S1E04 P2; 09 Ra-Thor). No readable terms on the page (S1E04 P2 prompt; S1E04 Reject). Hammer grounded at frame edge (S1E04 P2 prompt). The pass moves "That one can live." to P2 (S1 sheet §4).
+- **Bubble (Ra-Thor, canon catch line, 09):** "That one is live." (S1E04 P2)
+- **SFX:** the fixed "That one is live." stinger, an open major-chord bloom topped by the short 528 Hz chime; the ticking keeps going under it (S1E04 Music cues, Panel 2; 06 §1).
+- **Continuity:** visor slit wide-gold: wide-gold for yes (S1E04 P2; 09 Ra-Thor). No readable terms on the page (S1E04 P2 prompt; S1E04 Reject). Hammer grounded at frame edge (S1E04 P2 prompt). The pass moves "That one is live." to P2 (S1 sheet §4).
 
 ## Panel 3 — Council in session
 

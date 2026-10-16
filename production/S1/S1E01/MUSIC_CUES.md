@@ -25,7 +25,7 @@ Episode-wide (S1E01 Music cues): a glassy bell on the lamp glint; all tonal mate
 | P3 | The drums drop out for the council. The twelve-mask blip ring murmurs, panned across the stereo field. The pad holds. | A major / 88 | on, 108 Hz (episode-wide) | only over C# chords; chords GAP | no | none | no |
 | P4 | Fixed "Blocked." stinger. The groove resumes one bar later. No darksynth color; there is no siege. | A major / 88 | on, 108 Hz (episode-wide); no 54 Hz (no siege, 06 §3.3) | only over C# chords; chords GAP | no | "Blocked.": a short, low, muted thud and a filter close (S1E01; 06 §1) | no |
 | P5 | Light and dry. Three short card tones, the CLEAN one a clean major bloom. | A major / 88 | on, 108 Hz (episode-wide) | only over C# chords; chords GAP | no | three card tones; CLEAN = clean major bloom | no |
-| P6 | Fixed "That one can live." stinger, then the Grounded motif. The episode ends there. | A major / 88 | on, 108 Hz (episode-wide) | only over C# chords; chords GAP | short chime on top of the bloom, never held (S1E01; 06 §3.2) | "That one can live.": an open major-chord bloom topped by the short 528 Hz chime (S1E01; 06 §1) | no |
+| P6 | Fixed "That one is live." stinger, then the Grounded motif. The episode ends there. | A major / 88 | on, 108 Hz (episode-wide) | only over C# chords; chords GAP | short chime on top of the bloom, never held (S1E01; 06 §3.2) | "That one is live.": an open major-chord bloom topped by the short 528 Hz chime (S1E01; 06 §1) | no |
 
 **Choir:** no (S1E01 is not E06; the S1 choir swell is in S1E06 only, S1 sheet §4).
 

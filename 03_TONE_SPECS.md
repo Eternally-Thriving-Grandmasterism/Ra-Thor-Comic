@@ -1,6 +1,6 @@
 # 03 — Tone Specs
 
-House tone modes for Living Thunder. Each one is an original Ra-Thor house mode, named after our own episodes and sets. A spec describes craft only: pacing, framing, light, dialogue rhythm, and the joke or drama engine. Techniques cannot be owned. These specs are the source of truth for tone.
+House tone modes for Ra-Thor⚡️Living Thunder. Each one is an original Ra-Thor house mode, named after our own episodes and sets. A spec describes craft only: pacing, framing, light, dialogue rhythm, and the joke or drama engine. Techniques cannot be owned. These specs are the source of truth for tone.
 
 **Derivation rule.** Future episodes, prompts, and new modes build from these specs and from our own episodes. Do not reach for outside works, titles, characters, studios, or creators as references, and do not write "like X" comparisons in any file or prompt. If a new tone is needed, write a new house spec here first, in our own words, then use it.
 
@@ -49,7 +49,7 @@ The pose-and-shadow register for establishing shots and closers. The armor alone
 - **Mechanism.** Presence. Stillness reads as strength; the hammer resting head-down on stone says the watch never needed it.
 - **What it is NOT.** Not brooding self-pity. Not menace aimed at civilians. Not a fight pose: no raised hammer, no lunge, no chase.
 - **Example beats (our episodes).**
-  - E01 Panel 1: THRESHOLD. NIGHT. SORT IN PROGRESS. "Left is noise. Right can live."
+  - E01 Panel 1: THRESHOLD. NIGHT. SORT IN PROGRESS. "Left is noise. Right is live."
   - E03 Panel 3: Ra-Thor has not raised the hammer. "Edge held."
   - E06 Panel 1: the Board is awake, nobody speaks, hammer head-down on stone.
 
@@ -81,7 +81,7 @@ Spy-thriller elegance with the armor on. A negotiation where the line does the w
 - **Example beats (our episodes).**
   - E04 Panel 1–2: "Most guests take the armor off for the hour." / "Most guests lose the hour."
   - E04 Panel 4: the shield pins the EXCLUSIVE card; gold strings go slack. "Blocked."
-  - E04 Panel 6: TWO GLASSES. NEITHER TOUCHED. "That one can live."
+  - E04 Panel 6: TWO GLASSES. NEITHER TOUCHED. "That one is live."
 
 ---
 

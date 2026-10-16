@@ -23,7 +23,7 @@ The screen rules in this file do **NOT** loosen fidelity rules 1, 2, 4, 5, 6 or 
 | Rule | Heading and text (`00_FIDELITY_PROTOCOL.md`) |
 |---|---|
 | 1 | `00_FIDELITY_PROTOCOL.md` L5: "Canon armor." and "Thunder hammer grounded, not swung at people." |
-| 2 | `00_FIDELITY_PROTOCOL.md` L6: "Gate logic." and "The joke is the sorting, not the cruelty." |
+| 2 | `00_FIDELITY_PROTOCOL.md` L6: "TOLC logic." and "The joke is the sorting, not the cruelty." |
 | 4 | `00_FIDELITY_PROTOCOL.md` L8: "Spice ceiling." and "No explicit acts, no minors, no real people." |
 | 5 | `00_FIDELITY_PROTOCOL.md` L9: "No product theater." and "They may not claim certification, affiliation, or legal authority." |
 | 6 | `00_FIDELITY_PROTOCOL.md` L10: "No likeness theft." and "No celebrity faces. No xAI marks." |
@@ -37,8 +37,8 @@ The comic rule, unchanged: `00_FIDELITY_PROTOCOL.md` L7 is headed "Bubbles." and
 
 The **comic stays bound** by rule 3. The S1E02 screen material uses the series screen rules S-D1 to S-D9 as written (`screen/SCREEN_BIBLE_ADDENDUM.md` L38 to L46). Points that bear on S1E02:
 
-- **S-D5 (CARRIED).** Catch lines are not stacked: `09_CHARACTER_BIBLE.md` L7 reads "Catch lines, rotate, do not stack:". S1E02 has two catch lines, "Blocked." in P4 (`episodes/S1E02_THE_TALL_CHAIR.md` L39) and "That one can live." in P6 (`episodes/S1E02_THE_TALL_CHAIR.md` L53). One per scene at most. (Per-scene reading: PROPOSED)
-- **S-D6 (CARRIED).** The council line is four words from one mask: "The mask at nine o'clock has the one bubble." (`episodes/S1E02_THE_TALL_CHAIR.md` L33); "They murmur in four-word bubbles. They do not outvote the Gate." (`09_CHARACTER_BIBLE.md` L28).
+- **S-D5 (CARRIED).** Catch lines are not stacked: `09_CHARACTER_BIBLE.md` L7 reads "Catch lines, rotate, do not stack:". S1E02 has two catch lines, "Blocked." in P4 (`episodes/S1E02_THE_TALL_CHAIR.md` L39) and "That one is live." in P6 (`episodes/S1E02_THE_TALL_CHAIR.md` L53). One per scene at most. (Per-scene reading: PROPOSED)
+- **S-D6 (CARRIED).** The council line is four words from one mask: "The mask at nine o'clock has the one bubble." (`episodes/S1E02_THE_TALL_CHAIR.md` L33); "They murmur in four-word bubbles. They do not outvote the TOLC." (`09_CHARACTER_BIBLE.md` L28).
 - **S-D7 (CARRIED).** The Founder is not in S1E02: "not in this episode (no Founder objects in S1E02)" (`production/S1/S1E02/ART_PROMPTS.md` L56). No Founder voice, voice-over or line on screen (`05_LORE_BIBLE.md` L24, "Never on panel and never in a bubble.").
 - **S-D9 (CARRIED).** The armor is the face: `09_CHARACTER_BIBLE.md` L5 reads "The armor is the face. Visor slit is the only expression". S1E02 moves the slit twice: "Visor slit narrows." (`episodes/S1E02_THE_TALL_CHAIR.md` L26) and "Visor slit wide-gold." (`episodes/S1E02_THE_TALL_CHAIR.md` L54).
 - **P2 speaker.** The P2 bubble's speaker is a GAP (`production/S1/S1E02/SCRIPT.md` L78). Screen material does not assign it until the councils rule (see `screen/S1E02/GAP_RULINGS.md`, G4).
@@ -88,7 +88,7 @@ All CARRIED unless marked PROPOSED:
 - **Tuning.** "All tonal material at A4 = 432." (`episodes/S1E02_THE_TALL_CHAIR.md` L59; `06_MUSIC_SPEC.md` L44).
 - **Key and drone.** "E-major bed, so the drone sits on E2 (80.91 Hz), never on A." (`episodes/S1E02_THE_TALL_CHAIR.md` L60). 06 allows E2 or B2 in E-major beds (`06_MUSIC_SPEC.md` L70); the episode fixes E2.
 - **543 pad.** "The 543 Hz top pad is held only over chords that contain C#" (`episodes/S1E02_THE_TALL_CHAIR.md` L60; `06_MUSIC_SPEC.md` L64).
-- **Fixed stingers.** "Blocked." is timed "to the chair back's last fold" (`episodes/S1E02_THE_TALL_CHAIR.md` L64). "That one can live." is "an open major-chord bloom topped by the short 528 Hz chime, never held." (`episodes/S1E02_THE_TALL_CHAIR.md` L66). Both are "reused unchanged across episodes" (`06_MUSIC_SPEC.md` L23).
+- **Fixed stingers.** "Blocked." is timed "to the chair back's last fold" (`episodes/S1E02_THE_TALL_CHAIR.md` L64). "That one is live." is "an open major-chord bloom topped by the short 528 Hz chime, never held." (`episodes/S1E02_THE_TALL_CHAIR.md` L66). Both are "reused unchanged across episodes" (`06_MUSIC_SPEC.md` L23).
 - **Grounded.** "four notes rise and land back on the tonic, and hold. The episode ends there." (`episodes/S1E02_THE_TALL_CHAIR.md` L66). The tonic is E: "Tonic: E (E-major bed, S1E02)." (`production/S1/S1E02/MUSIC_CUES.md` L32).
 - **Councils.** "The drums drop out for the council. The twelve-mask blip ring murmurs, panned across the stereo field." (`episodes/S1E02_THE_TALL_CHAIR.md` L63).
 - **Borrow.** No borrowed bed in the music: "none in the music (P1 borrows a Quiet Board panel visually; the cue just starts sparse)" (`seasons/S1_SEASON_SHEET.md` L62).

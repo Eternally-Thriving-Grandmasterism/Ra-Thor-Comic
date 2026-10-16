@@ -11,10 +11,10 @@
 | 04_VISUAL_CANON.md | Reference art notes and council canon rulings |
 | 05_LORE_BIBLE.md | Lore bible: origin arc, two quests, season proposals (fiction) |
 | 06_MUSIC_SPEC.md | Score, cue styles, tuning, honesty, rights |
-| 09_CHARACTER_BIBLE.md | Ra-Thor, Gate, Recycler, White Hat, Councils |
+| 09_CHARACTER_BIBLE.md | Ra-Thor, the TOLC, Recycler, White Hat, Councils |
 | 10_LOCATION_BIBLE.md | Threshold, Recycler Bay, Quiet Room |
 | READING_ORDER.md | Reading order: Season 0 first, then Seasons 1–3 |
-| episodes/E01_THE_GATE.md | Pilot |
+| episodes/E01_TOLC.md | Pilot |
 | episodes/E02_THE_RECYCLER.md | Drum gag |
 | episodes/E03_WHITE_HAT.md | Edge, no how-to |
 | episodes/E04_THE_SUAVE_HOUR.md | Suave Hour mode |
@@ -26,12 +26,12 @@
 | episodes/S1E04_THE_SIDEWAYS_GLASS.md | Season 1, The Long Table, Suave Hour mode |
 | episodes/S1E05_THE_SIDE_LETTER.md | Season 1, The Long Table, Suave Hour mode |
 | episodes/S1E06_THE_KEPT_CHAIR.md | Season 1, The Long Table, Suave Hour mode, arc A finale |
-| episodes/S2E01_THE_LONE_LAMP.md | Season 2 opener, The Lamp Before the Gate, Quiet Board mode |
-| episodes/S2E02_THE_WHOLE_MAP.md | Season 2, The Lamp Before the Gate, Quiet Board mode |
-| episodes/S2E03_THE_SIMPLE_SIMULATOR.md | Season 2, The Lamp Before the Gate, Quiet Board mode |
-| episodes/S2E04_THE_AWAKENING_PAGE.md | Season 2, The Lamp Before the Gate, Quiet Board mode |
-| episodes/S2E05_THE_BENCH_LAMP.md | Season 2, The Lamp Before the Gate, Quiet Board mode, Era V wink |
-| episodes/S2E06_THE_FIRST_BLOCK.md | Season 2 finale, The Lamp Before the Gate, Quiet Board mode, arc C finale |
+| episodes/S2E01_THE_LONE_LAMP.md | Season 2 opener, The Lamp Before the TOLC, Quiet Board mode |
+| episodes/S2E02_THE_WHOLE_MAP.md | Season 2, The Lamp Before the TOLC, Quiet Board mode |
+| episodes/S2E03_THE_SIMPLE_SIMULATOR.md | Season 2, The Lamp Before the TOLC, Quiet Board mode |
+| episodes/S2E04_THE_AWAKENING_PAGE.md | Season 2, The Lamp Before the TOLC, Quiet Board mode |
+| episodes/S2E05_THE_BENCH_LAMP.md | Season 2, The Lamp Before the TOLC, Quiet Board mode, Era V wink |
+| episodes/S2E06_THE_FIRST_BLOCK.md | Season 2 finale, The Lamp Before the TOLC, Quiet Board mode, arc C finale |
 | episodes/S3E01_THE_LAST_SCRAPS.md | Season 3 opener, The Full Hopper, Lab Night mode |
 | episodes/S3E02_ONE_TOOL_MANY_HANDS.md | Season 3, The Full Hopper, Lab Night mode |
 | episodes/S3E03_LET_IT_COOL.md | Season 3, The Full Hopper, Lab Night mode |
@@ -39,7 +39,7 @@
 | episodes/S3E05_THE_BETTER_DEAL.md | Season 3, The Full Hopper, Lab Night mode |
 | episodes/S3E06_THE_FULL_HOPPER.md | Season 3 finale, The Full Hopper, Lab Night mode, arc B finale |
 | seasons/S1_SEASON_SHEET.md | Season 1 sheet: arc A episodes, tokens, music, open questions |
-| seasons/S2_ARC_LOCK.md | Season 2 arc doc: arc C, The Lamp Before the Gate, six-short outline, complete (S2E01–S2E06 merged) |
+| seasons/S2_ARC_LOCK.md | Season 2 arc doc: arc C, The Lamp Before the TOLC, six-short outline, complete (S2E01–S2E06 merged) |
 | seasons/S2_SEASON_SHEET.md | Season 2 sheet: arc C episodes, rulings ledger, detection devices, guests, music |
 | seasons/S3_ARC_LOCK.md | Season 3 arc doc: arc B, The Full Hopper, six-short outline, complete (S3E01–S3E06 merged) |
 | seasons/S3_SEASON_SHEET.md | Season 3 sheet: arc B episodes, the Watcher, rulings ledger, detection devices, end-credits crawl, music |

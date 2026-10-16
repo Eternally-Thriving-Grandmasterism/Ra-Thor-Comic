@@ -23,7 +23,7 @@ production/S1/S1E01/{SCRIPT,ART_PROMPTS,MUSIC_CUES}.md … production/S1/S1E06/
 production/S2/S2E01/…  production/S3/S3E01/…
 ```
 
-Season 0 folders use the episode file's own IDs (`E01`–`E06`, from `episodes/E01_THE_GATE.md` etc.). Each file opens with a header: episode ID, title, source file path, main commit it was built from, lead mode (03), and status (`draft` until council review).
+Season 0 folders use the episode file's own IDs (`E01`–`E06`, from `episodes/E01_TOLC.md` etc.). Each file opens with a header: episode ID, title, source file path, main commit it was built from, lead mode (03), and status (`draft` until council review).
 
 ## (a) SCRIPT.md — panel-by-panel
 
@@ -61,7 +61,7 @@ Header row from the episode file and its season sheet: lead mode, key, BPM, lead
 | Drone | on/off per panel, and its pitch: 108 Hz for A- and D-major beds, E2 80.91 or B2 121.23 Hz for E-major beds, 54 Hz siege only and doubled; S3 drones only under the 543-pad sections | 06 §3.3–3.4; season lock |
 | 543 Hz | held only over chords containing C#; muted over any C natural | 06 §3.2 |
 | 528 Hz | short chime on the bloom only, never held | 06 §3.2 |
-| Stingers | "Blocked." = low muted thud + filter close; "That one can live." = major bloom + 528 chime; card stingers OBVIOUS / FERAL / CLEAN where the file has them | 06 §1, §2 |
+| Stingers | "Blocked." = low muted thud + filter close; "That one is live." = major bloom + 528 chime; card stingers OBVIOUS / FERAL / CLEAN where the file has them | 06 §1, §2 |
 | Choir | flag `YES` only where the file has it: one wordless swell, E06 only (S1E06, S2E06, S3E06 per the S1 sheet and the S2 and S3 locks); otherwise `no` | season sheets/locks; 06 §5 |
 | Ending | Grounded motif: four notes rise, land on the tonic, hold | 06 §1 |
 

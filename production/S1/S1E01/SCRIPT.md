@@ -62,8 +62,8 @@ Format: `production/README.md` §(a). Captions and bubbles are verbatim from the
 - **Location:** Quiet Room, down the long table (S1E01 P6 prompt; S1E01 Set)
 - **Action / staging:** The Ribbon Envoy takes the CLEAN card in a gloved hand, veil still down, and gives the smallest bow. She sets her knot-glyph token on one empty chair to hold it and turns to go. The masks dim one by one. Visor slit wide-gold. Lamp, shadow, hammer head-down on stone. (S1E01 P6)
 - **Caption:** ONE CHAIR SPOKEN FOR. THE REST STILL OPEN. HAMMER STILL GROUNDED. (S1E01 P6)
-- **Bubble (Ra-Thor, canon catch line, 09):** "That one can live." (S1E01 P6)
-- **SFX:** the fixed "That one can live." stinger, an open major-chord bloom topped by the short 528 Hz chime (S1E01 Music cues, Panel 6; 06 §1).
+- **Bubble (Ra-Thor, canon catch line, 09):** "That one is live." (S1E01 P6)
+- **SFX:** the fixed "That one is live." stinger, an open major-chord bloom topped by the short 528 Hz chime (S1E01 Music cues, Panel 6; 06 §1).
 - **Continuity:** the knot-glyph token starts the S1 marker chain (S1 sheet §3); the caption starts the running "spoken for" tally (S1 sheet §3). Episode ends with the hammer grounded (S1E01 P6; 00 rule 1).
 
 ## Recycler items and CLEAN card
