@@ -9,7 +9,7 @@ The front (#91) and back (#92) cover files are inputs and are not changed.
 2. **Paper:** white paper with Premium Color ink. Trim 6.625 x 10.25 in, bleed on.
 3. **Spine:** blank, no text; carry the cover background colour across it. Keep a separate text-ready spine layer in the source for a future collected edition over 79 pages.
 4. **Colour:** the RGB masters are the source of truth. Soft-proof against GRACoL 2013 (CRPC6), not FOGRA39. The upload is a flattened RGB PDF. If the proof shows rose-gold or obsidian shifting badly, also make a GRACoL CMYK PDF as a flagged fallback variant (don't swap it in). One printed author proof must be ordered before sale.
-5. **Scope:** the paperback wraparound is the first target. Kindle/ComiXology (now part of KDP; a fixed-layout comic built with Kindle Create) is a second card. Keep the barcode zone clear. Keep the ⚡ off KDP metadata fields. The ISBN is an open decision for Sherif (below).
+5. **Scope:** the paperback wraparound is the first target. Kindle/ComiXology is named as a second card. **UNVERIFIED:** this repo has not confirmed that ComiXology is now part of KDP, or that a fixed-layout comic built with Kindle Create is that route. Keep the barcode zone clear. Keep the ⚡ off KDP metadata fields. The ISBN is an open decision for Sherif (below).
 
 ## Spec used: 24 pages, white paper, Premium Color ink
 
@@ -41,25 +41,36 @@ The difference between 24 and 32 pages is 0.019 in (6 px). Rebuild with `--pages
 
 ### Differences between the KDP pages and our earlier notes (flagged)
 
-- **Cover calculator not run.** KDP's cover calculator and template generator (linked from G201953020) is an interactive form. This card used the published formula on the same page. Before upload, enter 6.625 x 10.25, Premium Color, white, 24 pages into the calculator and check that it gives 13.556 x 10.5 in. If it differs, the calculator wins: rebuild with the calculator's number.
+- **Cover calculator must be run before upload.** KDP's cover calculator and template generator (linked from G201953020) is an interactive form. This card used the published formula on the same page. That formula does not override the calculator. Before any upload, enter 6.625 x 10.25, Premium Color, white, and the final page count into the calculator. If its size differs from 13.556328 x 10.5 in, the calculator wins: rebuild the wrap to the calculator's number.
 - **Spine text threshold wording is inconsistent on G201953020.** The page says "more than 79 pages" in one place, "at least 79 pages" in two others, and 80 pages for Cover Creator. It doesn't matter for a 24-page book (blank spine), but a future collected edition should use 80 or more to be safe.
 - **Colour space.** G201953020 says "Images should be in CMYK color to ensure your cover looks good in print", and also says not to mix colour spaces and that profiles are removed. The council ruling makes the upload a flattened RGB PDF. KDP does accept RGB, but its own page recommends CMYK. This is one more reason the CMYK fallback below exists. The author proof decides.
-- **Text safe distance.** G201953020 now says cover text must be at least 0.125 in inside the trim. The guides draw a stricter 0.25 in safe line (cyan). Measured on the type layer (alpha > 3%): the back type is at least 0.262 in inside the trim. The front type's nearest pixel is 0.158 in from the top trim, at the top of the merged #91 title band and coin. That meets KDP's 0.125 in rule but sits inside the stricter 0.25 in guide. It is flagged, not changed: the front is merged and locked.
+- **Text safe distance.** G201953020 now says cover text must be at least 0.125 in inside the trim. The guides draw a stricter 0.25 in safe line (cyan). Measured on the type layer (alpha > 3%): the back type is at least 0.262 in inside the trim. The front type was 0.158 in from the top trim (remeasured: alpha > 3% starts at y=84, trim at y=37, (84−37)/300 = 0.157 in). ISSUE01-BIBLE-LOCK-KDP-FIX-1 shifted the front type layer down 28 px, type only. The title band and the ISSUE #1 badge now start at y=112. Clearance is (112−37)/300 = **0.250 in** inside the top trim. Side and bottom clearance stay inside the 0.25 in line (type bbox x 1086–1946, y 112–415 on the 2063×3150 sheet).
 - **Own barcode.** If we ever supply our own barcode, it must not be flattened into the cover image (Barcodes help). We don't supply one: KDP places it.
-- **`ISSUE_01_PRODUCTION.md` §10 still says interior 8 pages / 12 total for saddle stitching.** That is the comic-shop print plan. The KDP paperback is perfect bound and needs 24 or more. Not edited here; it is a doc follow-up for D9.
+- **`ISSUE_01_PRODUCTION.md` §10** keeps the comic-shop plan (8 story pages plus a 4-page cover wrap, 12 total, saddle-stitched) as history. The current KDP plan there is a perfect-bound 24-page paperback. The story stays 8 pages.
 
 ## How 24 pages was reached (PROPOSED: the extras are not final)
 
-The story is unchanged: 8 story pages (`ISSUE_01_PRODUCTION.md` §4), plus the title page and the credits page. That makes 10. The 14 remaining pages are front and back matter only. No new story pages, and no padding to 80.
+The story is unchanged: 8 story pages (`ISSUE_01_PRODUCTION.md` §4). The title page, the copyright page and the credits page make 11. Pages 12–24 are 13 proposed extras drawn from Bible material already in the repo. No new story pages, and no padding to 80.
 
 | Interior page | Content | Status |
 |---|---|---|
 | 1 (right) | Title page (§5.2; indicia per `CREDITS_AND_INDICIA.md` §3) | exists in the plan |
-| 2 (left) | Copyright / indicia page, or blank | to make |
+| 2 (left) | Copyright / indicia page | to make |
 | 3–10 | Story pages 1–8. Page 1 lands on a right-hand page, so the 4–5 spread faces correctly (4 on the left, 5 on the right) | exists in the plan |
 | 11 | Credits (§5.3 / `CREDITS_AND_INDICIA.md` §2) | exists in the plan |
-| 12–23 | Bible extras and back-matter art, e.g. the cover evolution (V15–V18), the character page, the TOLC visual notes, back-cover art | to choose (council) |
-| 24 | Back-matter art or blank | to choose |
+| 12 | Character page: armor, helm, chest sun disc with radiating rays, rose-gold lightning-bolt buckle, cape (`CHARACTER_BIBLE.md` §2; `09_CHARACTER_BIBLE.md` canon locks) | proposed |
+| 13 | Shield page: the tall v21 shape, central Vegvísir, decorative gold runes, no Eye of Horus on the shield (`CHARACTER_BIBLE.md` §3). The rune fill is not yet painted on the merged cover | proposed |
+| 14 | Hammer and lightning as painted on the approved cover (`CHARACTER_BIBLE.md` §0). The open hammer-eye question stays off the page | proposed |
+| 15 | Cover evolution: V15 (`RaThor_Issue01_Cover_V15_source_GrokImagine_1152x1728.jpg`) | proposed |
+| 16 | Cover evolution: V16 | proposed |
+| 17 | Cover evolution: V17 | proposed |
+| 18 | Approved cover: V18 | proposed |
+| 19 | Back-cover art (`RaThor_Issue01_BackCover_v2_6.625x10.25_bleed_300dpi.jpg`) | proposed |
+| 20 | The TOLC: gold lattice arch, `LEFT IS NOISE.` / `RIGHT IS LIVE.`, and the canon line (`09_CHARACTER_BIBLE.md`, The TOLC). No count of the mercy checks | proposed |
+| 21 | Presence & Protective Power, short (`09_CHARACTER_BIBLE.md`) | proposed |
+| 22 | Realms & Rathor.ai, short (`09_CHARACTER_BIBLE.md`) | proposed |
+| 23 | Idea Recycler (`09_CHARACTER_BIBLE.md`) | proposed |
+| 24 | Palette one-sheet: obsidian, antique gold, white-hot gold; no blue and no green (`CHARACTER_BIBLE.md` §4) | proposed |
 
 If the extras grow, go up in steps of 2 pages to about 32 and rebuild. The spine stays blank throughout.
 
@@ -83,8 +94,8 @@ Findings (`out/softproof_GRACoL2013_CRPC6_relative.json`):
 
 Read: no colour on the cover falls outside the CRPC6 gamut. Rose-gold and gold lose some saturation on paper (moderate). The obsidian, about 90% of the cover, lifts by about 10 L* once real black ink on white paper is simulated. Under ruling 4 that counts as shifting badly, so the flagged fallback was made:
 
-- `out/RaThor_Issue01_KDPwrap_24p_premium-color_FALLBACK_CMYK_GRACoL2013_CRPC6.pdf`: **FLAGGED FALLBACK, NOT THE UPLOAD.** DeviceCMYK, CRPC6, relative colorimetric + BPC, TAC 318%, no ICC embedded, same size. It does not fix the paper-black limit; it only fixes the black build (CRPC6 GCR) instead of leaving it to KDP's own conversion. Use it only if the RGB author proof prints muddy.
-- **Order one printed author proof of the RGB PDF before sale** (ruling 4). That is a KDP account action, so it is for Sherif, not this card.
+- `out/RaThor_Issue01_KDPwrap_24p_premium-color_FALLBACK_CMYK_GRACoL2013_CRPC6.pdf`: **the file for the first printed author proof.** DeviceCMYK, GRACoL 2013 (CRPC6), relative colorimetric + BPC, no ICC embedded, same size. It does not fix the paper-black limit; it only fixes the black build (CRPC6 GCR). **The RGB PDF stays the master.** Do not swap the CMYK file in as the master.
+- Ordering that author proof is a KDP account action, so it is for Sherif, not this card.
 
 ## Files (`bible/kdp/`)
 
@@ -112,7 +123,7 @@ python3 cmyk_fallback.py out/RaThor_Issue01_KDPwrap_24p_premium-color.jpg out/Ra
 ## Open decisions (Sherif / councils)
 
 - **ISBN (Sherif).** A KDP paperback needs an ISBN. (a) A free KDP ISBN: the imprint shows as "Independently published", and it can only be used on KDP (KDP "Get an ISBN", https://kdp.amazon.com/en_US/help/topic/GTJ8LBXL6Z4WV5QX; "What is an ISBN and Imprint?", https://kdp.amazon.com/en_US/help/topic/G201834170). (b) AlphaProMega Media Inc.'s own ISBN, so the book shows that imprint: free for eligible Canadian publishers from ISBN Canada (Library and Archives Canada, https://www.canada.ca/en/library-archives/services/publishers/isbn.html). Eligibility for a company: main place of business in Canada and at least 75% of employees in Canada. New accounts currently take up to about 2 months. Each format needs its own ISBN. Nothing has been applied for.
-- **Final interior extras** (pages 12–24 above) and the final count (24–32).
-- **Author proof** before sale (KDP account action).
-- **⚡ off KDP metadata:** the title field reads "Ra-Thor Living Thunder" (`STORE_LISTING_AND_EXPORT.md`); the ⚡ stays only on the cover art, title page and credits.
-- **Second card:** Kindle / ComiXology fixed-layout comic via Kindle Create (Guided View; KDP help https://kdp.amazon.com/help/topic/G201217140). Not in this card. The claim that ComiXology is now part of KDP is as relayed in the ruling; this card did not check it on a KDP page.
+- **Final interior extras** (pages 12–24 above) and the final count (24–32). The 13-page list is a proposal.
+- **Author proof** before sale (KDP account action). The first proof uses the GRACoL CMYK PDF. The RGB PDF stays the master.
+- **⚡ off KDP metadata:** checked in `STORE_LISTING_AND_EXPORT.md` §2. Title, subtitle, series name, description, keywords and categories contain no ⚡ and no ⚡️. The bolt stays on the cover art, the title page, the credits and the Patreon post title.
+- **Second card: UNVERIFIED.** Kindle / ComiXology is not confirmed as a KDP route in this repo. Kindle Create's own comic help is a separate page (https://kdp.amazon.com/help/topic/G201217140). Do not treat "ComiXology is now part of KDP" as checked.

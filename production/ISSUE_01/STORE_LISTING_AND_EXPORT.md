@@ -141,7 +141,7 @@ The bolt is allowed here: a Patreon post is not store metadata under this card, 
 
 **Media and attachments:**
 
-- Header image: a 16:9 crop of the cover art (1920 × 1080), so the feed shows no bars. The thumbnail is square; check the crop keeps the visor and the shield eye-seal. The crop itself is **PROPOSED CANON — pending council ratification**.
+- Header image: a 16:9 crop of the cover art (1920 × 1080), so the feed shows no bars. The thumbnail is square; check the crop keeps the visor and the shield's Vegvísir. The crop itself is **PROPOSED CANON — pending council ratification**.
 - Gallery: the 11 page images in reading order (cover, title page, pages 1–8, credits), JPEG or PNG.
 - Attachments: the full-issue PDF (PDF is attachment-only on Patreon) and the page images, each 16 MB or less.
 
