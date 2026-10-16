@@ -13,7 +13,7 @@ Catch lines, rotate, do not stack:
 
 ## The TOLC
 
-Not a character. A threshold drawn as a gold lattice arch. Left lane stamped NO. Right lane stamped LIVE. Things come to the TOLC and are weighed; the Mercy-Ways (Ra-Thor's mercy checks, one name, never numbered on the page) are how they are weighed (`05_LORE_BIBLE.md` §1).
+Not a character. A threshold drawn as a gold lattice arch. Left lane stamped NO. Right lane stamped LIVE. All that comes to the TOLC is weighed. What passes the mercy checks (Ra-Thor's checks, never numbered or listed on the page) travels the Mercy-Ways to TOLC8 and the PATSAGi Councils (`05_LORE_BIBLE.md` §1).
 
 ## Idea Recycler
 

@@ -84,7 +84,7 @@ Per 05 (Q2, Q3; The Founder; continuity rule 3), carried from S2:
 
 ## 6. TOLC
 
-TOLC is named only, never defined. Captions and bubbles say **TOLC** and nothing more, and the Mercy-Ways are never numbered (05, TOLC caption rule and continuity rule 2). No episode in this outline needs it.
+TOLC is named only, never defined. Captions and bubbles say **TOLC** and nothing more, and the mercy checks and the Mercy-Ways are never numbered (05, TOLC caption rule and continuity rule 2). No episode in this outline needs it.
 
 ## 7. Modes (per 05, B)
 

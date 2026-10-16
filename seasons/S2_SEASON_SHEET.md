@@ -106,7 +106,7 @@ S2E01 has no hidden flaw to detect: the strings are in plain view on the tile, a
 
 - **Q2, Q3, Q9, Q10, Q11 and vocals.** As recorded in `seasons/S1_SEASON_SHEET.md` §6 and `05_LORE_BIBLE.md`. Unchanged in S2.
 - **Q8, owner and work names. OPEN.** Nothing in S2 names an owner, studio, game, product or work.
-- **TOLC.** Not used in any S2 caption or bubble; never defined, the Mercy-Ways never numbered.
+- **TOLC.** Not used in any S2 caption or bubble; never defined, the mercy checks and the Mercy-Ways never numbered.
 - **Season unlocks (`05_LORE_BIBLE.md`, Season arcs).** S3 = B, The Full Hopper, is UNBLOCKED (Q11 answered; see the S1 sheet).
 
 ## 8. Discrepancies noted across the season
