@@ -20,7 +20,7 @@ d78e8ceada6ca20bb83f38800247b33fb9794b0c98522ae7b305a686c8a5c12e  v18/crops/shie
 d8ff4b81fb31ccd81fa58bbd4e7bf46b1d4628b0b648de7e4a798aef305edce0  v18/crops/hammer_100.jpg
 d3b31e0b57f20a52b05c5887385f5638fb162376ea81d097418a4b6ff71777f0  v18/crops/bottom_100.jpg
 2c01c44eff0994eed9e6f22b5fb7101303528974e60fb8cf7e7e62bb37c464bf  v18/build_v18.py
-25a037fd428d32398c34488764c1e3be3775c13d5677673848ee29fed628dc66  v18/build_final_v18.py
+578a973abb78ef6ed3bfe7a4b04de39c5cfac100a3cc88538eb4c2674d84b750  v18/build_final_v18.py
 b60940af824ad03fb3c2bc89c59167a9c2fbde8a5c5e5f34658558a214daaa94  v18/upscale.py
 53853d83344b8e8f22c54c49b5118d9c5e336214838c4d25acd56135a72b866a  v18/consistency.py
 #
@@ -28,17 +28,19 @@ b60940af824ad03fb3c2bc89c59167a9c2fbde8a5c5e5f34658558a214daaa94  v18/upscale.py
 # (2063x3150 @ 300 dpi, embedded sRGB). Art layer back/back_art_v2.png + ONE type layer back/back_type_layer_v2.png. Company logos:
 # Autonomicity Games Inc. 3D crest (acitygames.com/images/logo-dark-1024.webp, untouched) + AlphaProMega Media Inc. (cut out, 4x).
 # The flat-crest fallback print (back_type_layer_v2_flatAGI) is held outside repo, in the bot store issue01_bible/back/.
-b018ae659821acc2c216ac1b9290afeee048b9b32bcdce0616d676d388ad744a  RaThor_Issue01_BackCover_v2_6.625x10.25_bleed_300dpi.jpg
+# 2026-10-15 9:45 PM ET: ISSUE01-TOLC-1. Issue line, copy line 2 and fine-print line 1 now name TOLC; the back-cover print, type layer, guides,
+# previews and the changed crops rebuilt at the same filenames (old print hashes kept below as superseded lines).
+e9c2603d488d71dcfe53207a30b9e4f4bd31deee8ecb5f383ffc13f14a68f756  RaThor_Issue01_BackCover_v2_6.625x10.25_bleed_300dpi.jpg
 e14e740f9204f0edcf86818df6aa00ed1be0d9bccb1cf3b9cf627bc9c0b6b3e0  back/back_art_v2.png
-861593c6f5aab4237a174beacbb6e10cd46b2c7d575ad66abb1ecd37cabc1728  back/back_type_layer_v2.png
-b17e490efed33412f725314aee6df4956403753e444b551cab0b0796e09a7b29  back/RaThor_Issue01_BackCover_v2_guides.jpg
-394e081f76480d46d8f52003002f44d7a035fe7a9190d67602919f4c93d31f35  back/back_preview_620_v2.jpg
-69034bdd6eee994036a34ba3e50e8cbbc3cc06effdec977e8c6d71c72e03e469  back/front_back_620_v2.jpg
-bcb16c116181b2109e6538b7626aabfaf4763002582d75480b9ddea0b201fa48  back/crops/top_logo_v2.jpg
-c8a0843b6da3a031a5db17515bf9cabaff0b109cb6c68bc0b0e9d2e05f905d60  back/crops/headline_blurb_v2.jpg
-b16245bfe4510f586a56f3b9c7a44ed5496d3058e3f8e7cef96a165b692323ff  back/crops/bottom_block_v2.jpg
+0d820ad84a73f6ddfda343e6ff6e11c9b36cdede86e40f334eaf1af9480d6240  back/back_type_layer_v2.png
+e1878375d62dd7323b4787d936ba8407c4f805bcdded94388228dad92532f259  back/RaThor_Issue01_BackCover_v2_guides.jpg
+d832c57b67a4b17e687710960f12b9a86a3c76398a14d2495339677f09160664  back/back_preview_620_v2.jpg
+1e754f9b61e05b9ce02d504b0bcefc73fd1c161b25bd8e7a96b32fdd2b8bd18c  back/front_back_620_v2.jpg
+24d80928603f5432e11e8a4f2ce8dd5f215cb47b32ee805f245ea40b2d192b32  back/crops/top_logo_v2.jpg
+111dad1d0d60598868aa9962601320922e0473476296100004464f9e544cadd6  back/crops/headline_blurb_v2.jpg
+ddad9ab76880396efc6bc94fbd6492f69f85de89c96791bc1984612a40fd8065  back/crops/bottom_block_v2.jpg
 e95f22d7e50dcdcfbbe0bb350e09ea3c90e27c9a88cbfd081a1de8ccdee24a70  back/crops/logos_200_v2.jpg
-b0fc7e2e0dbffa571ffebf155f53467db0f7c93b04f5593e7f02a7b41b6fced2  back/build_back_v2.py
+bf6f6adc2bf0882b2411f001d74029479f4306118ed3daa23e01c85fbf089e62  back/build_back_v2.py
 f179f29647f5e5ea065d1d6e3598e601f1adf7e82cbb7463bb99556b0a7fd4af  back/apm_extract.py
 8ddd13631a3a43e0c99d9abfe473600ca15571abc9d817e08ce003041a0f0dd4  cover_mark/agi_logo_3d_transparent.png
 15213e1f83ab89b3aadfe132f93238dbb6350a7779478510459a2845d961613e  cover_mark/apm_logo_transparent.png
@@ -111,6 +113,12 @@ a01fe828c3a39f32e44ac1c7c2cdb88d33a19129d921419e61dcb694006c22ba  cover_mark/bef
 f9edb390d04addf92d2e5a75e41eabb610cecb9db6e1268c260f96fa0ad73f35  cover_mark/cleanup_compare.jpg
 90d1ef887b38d92070e48b2f9c3a03546f174334ee1c551b59eafd9d2d8a3425  cover_mark/mark_final_zoom.jpg
 #
+# superseded within ISSUE01-TOLC-1 by the 9:53 PM ET headline / line-3 change ("Right is live", "What is live"):
+# abc6fc3bafa8b552927d9c4ab2903ee87e7e91f48a94e524169f9bc53500dc5c  RaThor_Issue01_BackCover_v2_6.625x10.25_bleed_300dpi.jpg  (superseded: ISSUE01-TOLC-1 print at 599257b9, previous headline and line 3)
+# superseded by ISSUE01-TOLC-1 (2026-10-15 9:45 PM ET):
+# b018ae659821acc2c216ac1b9290afeee048b9b32bcdce0616d676d388ad744a  RaThor_Issue01_BackCover_v2_6.625x10.25_bleed_300dpi.jpg  (superseded: ISSUE01-BACK-COVER-V2 merged print, #92, pre-TOLC issue line, copy line and fine-print line 1)
+# superseded within ISSUE01-BACK-COVER-V2 by the 9:37 PM ET ™ line:
+# ed4ff4c012f078dfb6ea42ffe99efa0984621eca9f2f048a7dd4207ed56e654f  RaThor_Issue01_BackCover_v2_6.625x10.25_bleed_300dpi.jpg  (superseded: first #92 print, with the draft ™ line "(trademark pending)")
 # superseded by ISSUE01-COVER-V18 (2026-10-15 7:05 PM ET):
 # e64a9a09e5636b68b585837e589f00c8c209ebba98d892aa9ad167e070f2619f  RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg  (superseded: ISSUE01-COVER-V17 final print, eye-of-source-light render, clean front, title 0.70)
 # superseded by ISSUE01-COVER-V17 (2026-10-15 6:36 PM ET):

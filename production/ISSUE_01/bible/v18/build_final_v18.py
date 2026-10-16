@@ -82,9 +82,9 @@ def logo(lay, hpx, x, y):
     a = cv2.resize(la, (w, hpx), interpolation=cv2.INTER_AREA); c = cv2.resize(lg * la[..., None], (w, hpx), interpolation=cv2.INTER_AREA) / np.maximum(a, 1e-3)[..., None]
     c = np.clip(c * 1.12 + 6, 0, 255); lay.shadow(a, x, y, 5, .9, dy=3, grow=2); lay.put(c, a, x, y); return w
 
-# ---------- 4. story title, bottom centre: THE GATE between silver hairline rules ----------
+# ---------- 4. story title helper, bottom centre, between silver hairline rules (never called: no story title on the front since 5:03 PM ET; text TOLC per ISSUE01-TOLC-1) ----------
 def story(lay, ybase=2948):
-    x, y, w, h = text_block(lay, 'THE GATE', 80, GOLD, cx=FW // 2, y=ybase, wght=800, track=0.16, sh=(10, .95, 4))
+    x, y, w, h = text_block(lay, 'TOLC', 80, GOLD, cx=FW // 2, y=ybase, wght=800, track=0.16, sh=(10, .95, 4))
     for side in (-1, 1):
         L = 150; xs = (x - 28 - L) if side < 0 else (x + w + 28); yy = y + h // 2
         m = np.zeros((9, L), np.float32); m[3:6] = np.linspace(0, 1, L)[None] if side < 0 else np.linspace(1, 0, L)[None]

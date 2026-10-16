@@ -464,13 +464,13 @@ None-for-prompts items (not GAPs): 18, one in every ART_PROMPTS file.
 
 ## D. Season 0 episode files (no production sets; noted only)
 
-The README's Known gaps note for S0 is at `production/README.md` L81. Checked against `episodes/E01_THE_GATE.md` to `episodes/E06_THE_QUIET_BOARD.md` on main:
+The README's Known gaps note for S0 is at `production/README.md` L81. Checked against `episodes/E01_TOLC.md` to `episodes/E06_THE_QUIET_BOARD.md` on main:
 
 1. **No S0 season sheet or lock.** `seasons/` has no S0 file (see A7 item 12). Holds.
 2. **No music-cue sections.** None of E01–E06 has a music or cue heading; their headings are panels, prompt stems and Reject only (e.g. `episodes/E04_THE_SUAVE_HOUR.md` L54, `episodes/E06_THE_QUIET_BOARD.md` L58). Holds.
 3. **Prompt lines.** E01–E03 have no per-panel prompt lines. E04–E06 have a stem heading (`episodes/E04_THE_SUAVE_HOUR.md` L7, `episodes/E05_LAB_NIGHT.md` L9, `episodes/E06_THE_QUIET_BOARD.md` L9) and per-panel prompt lines. Not papered over: README L81 says only E03 has an episode-level stem (`episodes/E03_WHITE_HAT.md` L20). E02 also has one (`episodes/E02_THE_RECYCLER.md` L25), and E01 has none. The README cite holds only in part; the README is not edited here.
 4. **No Reject section in E01–E03.** E04–E06 have one (`episodes/E04_THE_SUAVE_HOUR.md` L54, `episodes/E05_LAB_NIGHT.md` L58, `episodes/E06_THE_QUIET_BOARD.md` L58).
-5. **Panel counts.** E01 has 5 panel headings (`episodes/E01_THE_GATE.md` L26 is Panel 5), E02 has 4 (`episodes/E02_THE_RECYCLER.md` L20 is Panel 4), and E03 has 3 (`episodes/E03_WHITE_HAT.md` L15 is Panel 3). E04–E06 have 6. These are noted only; no panel count is proposed.
+5. **Panel counts.** E01 has 5 panel headings (`episodes/E01_TOLC.md` L26 is Panel 5), E02 has 4 (`episodes/E02_THE_RECYCLER.md` L20 is Panel 4), and E03 has 3 (`episodes/E03_WHITE_HAT.md` L15 is Panel 3). E04–E06 have 6. These are noted only; no panel count is proposed.
 6. **Crawl and SFX.** There is no crawl (`production/README.md` L82) and no SFX field (`production/README.md` L83).
 7. **Choir flag.** The S0 choir flag reads no (`production/README.md` L81).
 8. **No S0 production sets.** `production/` holds only `README.md` and the S1, S2 and S3 folders.

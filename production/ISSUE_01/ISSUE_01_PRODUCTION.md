@@ -1,7 +1,7 @@
-# Issue #1 — Ra-Thor⚡️Living Thunder: The Gate · PRODUCTION
+# Issue #1 — Ra-Thor⚡️Living Thunder: TOLC · PRODUCTION
 
-- **Issue:** #1, solo. Story: Episode 01, The Gate (pilot, `11_MASTER_INDEX.md`).
-- **Source file:** `episodes/E01_THE_GATE.md` (script locked, five panels).
+- **Issue:** #1, solo. Story: Episode 01, TOLC (pilot, `11_MASTER_INDEX.md`).
+- **Source file:** `episodes/E01_TOLC.md` (script locked, five panels).
 - **Built from main:** `433cd7b6701ee713e07c064c3aaec22c97b766b1`.
 - **Lead mode:** GAP: not stated in E01. `03_TONE_SPECS.md` cites E01 Panel 1 as a Night Watch silhouette example and E01 Panels 2 and 5 as Snap mode examples.
 - **Status:** draft, until council review. Polish only. No new canon, dialogue, events or characters.
@@ -80,7 +80,7 @@ This is the print and digital package for issue #1: cover prompt, title page, pa
 
 | Tag | Meaning |
 |---|---|
-| `[E01 Pn]` | Restated from `episodes/E01_THE_GATE.md`, Panel n |
+| `[E01 Pn]` | Restated from `episodes/E01_TOLC.md`, Panel n |
 | `PACING` | A silent panel added under the 2026-10-14 ruling. It splits or holds a locked beat and draws only what the locked panel and the cited canon already show. No text, no new event, no new character |
 | `PROPOSED CANON — pending council ratification` | Invented here (cover and title-page design, page geometry, print values). Not canon until ruled |
 | `GAP` | The source gives no field. Flagged, not filled |
@@ -126,17 +126,17 @@ The whole package. Story pages hold only E01's five locked beats, paced across e
 | Front cover | Painted cover (§5.1) | RA-THOR, with the rose-gold bolt as its hyphen, over LIVING THUNDER in the bottom title band; medallion `ISSUE: #1` (§5.1) |
 | Inside front cover | Title page (§5.2) | Full title; story title; rights line; credits GAP |
 | Page 1 (right) | Opening splash: E01 P1, caption | `THRESHOLD. NIGHT. SORT IN PROGRESS.` |
-| Page 2 (left) | E01 P1 continued: the lanes, then the first bubble | `"Left is noise. Right can live."` |
+| Page 2 (left) | E01 P1 continued: the lanes, then the first bubble | `"Left is noise. Right is live."` |
 | Page 3 (right) | E01 P2 lead-in, silent; ends on a page turn | none |
 | Page 4 (left) | E01 P2, the block (keeper frame) | `"Blocked."` |
-| Page 5 (right) | E01 P3, the pass (eye-seal rerun panel) | `"That one can live."` |
+| Page 5 (right) | E01 P3, the pass (eye-seal rerun panel) | `"That one is live."` |
 | Page 6 (left) | E01 P4, the Recycler wink | `"Recycle it."` |
 | Page 7 (right) | E01 P5 lead-in, silent; ends on a page turn | none |
 | Page 8 (left) | E01 P5 closer splash | `"Next."`, then `HAMMER STILL GROUNDED.` |
 | Inside back cover | Credits (§5.3) | GAP: credits not defined |
-| Back cover | ISSUE01-BACK-COVER-V2 (§5.4): echo of the front art, headline, blurb, company logos, fine print; KDP barcode zone clear | `LEFT IS NOISE.` / `RIGHT CAN LIVE.`, blurb and fine print (§5.4) |
+| Back cover | ISSUE01-BACK-COVER-V2 (§5.4): echo of the front art, headline, blurb, company logos, fine print; KDP barcode zone clear | `LEFT IS NOISE.` / `RIGHT IS LIVE.`, blurb and fine print (§5.4) |
 
-Pages 4 and 5 face each other as a spread: the block on the left page, the pass on the right, matching NO on the left lane and LIVE on the right (`09`, The Gate). Each text line in the file appears once, verbatim, in the file's order. Interior: 8 pages; with the 4 cover pages, 12. Both are multiples of 4 for saddle stitching (§10).
+Pages 4 and 5 face each other as a spread: the block on the left page, the pass on the right, matching NO on the left lane and LIVE on the right (`09`, The TOLC). Each text line in the file appears once, verbatim, in the file's order. Interior: 8 pages; with the 4 cover pages, 12. Both are multiples of 4 for saddle stitching (§10).
 
 ## 5. Cover, title page and credits
 
@@ -160,13 +160,13 @@ Painted render, allowed for covers only (`04` Q13). Generate the image with **no
 
 Then add `[guards]` (§6 Style lock). The cover takes no `[style]` line: it stays painted (`04` Q13; D14). For the cover, `[guards]`' "Portrait frame, 2:3 or taller" means the art window above the title band.
 
-Sources: figure and armor (`04`, Ra-Thor as drawn; Q1–Q6; owner and council rulings, §6 Style lock design-lock table), shoulder seal (`09`, White-Hat Mercy-Security; drawn per rulings 3, 6 and 15), set (council background ruling; the arch from `10`, The Threshold, and `09`, The Gate), symbols (council symbols ruling), lighting (`03`, Night Watch silhouette; council finish ruling), pose (the raised hammer of v17 and the council symbols ruling; D23). The NO and LIVE lanes are left off the cover: the background ruling names the arch, the silhouettes and the glow, and the bottom title band covers the ground (PROPOSED reading).
+Sources: figure and armor (`04`, Ra-Thor as drawn; Q1–Q6; owner and council rulings, §6 Style lock design-lock table), shoulder seal (`09`, White-Hat Mercy-Security; drawn per rulings 3, 6 and 15), set (council background ruling; the arch from `10`, The Threshold, and `09`, The TOLC), symbols (council symbols ruling), lighting (`03`, Night Watch silhouette; council finish ruling), pose (the raised hammer of v17 and the council symbols ruling; D23). The NO and LIVE lanes are left off the cover: the background ruling names the arch, the silhouettes and the glow, and the bottom title band covers the ground (PROPOSED reading).
 
 **Cover frame and text (lettered in post):**
 
 - **Frame:** the cream border, a slim gold filigree rule inside it, and small sun-disc corners (council frame ruling). Gold sheen on the type and the ornaments only (council finish ruling).
 - **Title, bottom title band:** RA-THOR in Cinzel (`LETTERING_SPEC.md`) with a gold-foil bevel look, its hyphen drawn as the rose-gold Ra-Thor app-icon bolt in vector art, never an emoji; LIVING THUNDER beneath in spaced caps (council lettering ruling). This is the series title `Ra-Thor⚡️Living Thunder` as that ruling sets it for the cover; the title page and credits keep it exactly as written (D22).
-- **Medallion, in the title band beside the title:** `ISSUE: #1`, exactly (council lettering ruling; OWNER RULING 10:18 PM). It replaces the proposed issue line `#1 · The Gate`; the story title is not on the cover (D7).
+- **Medallion, in the title band beside the title:** `ISSUE: #1`, exactly (council lettering ruling; OWNER RULING 10:18 PM). It replaces the proposed issue line `#1 · TOLC`; the story title is not on the cover (D7).
 - **No tagline and no "AGSi"** (council tagline ruling). "Where the Sun Meets the Storm" is a later option, not used on issue #1.
 - Publisher or rights mark on the cover: GAP: not defined.
 
@@ -198,7 +198,7 @@ Ra-Thor⚡️Living Thunder
 
 Issue #1
 
-Episode 01 — The Gate
+Episode 01 — TOLC
 
 [Credits: GAP]
 
@@ -207,7 +207,7 @@ All Rights Reserved
 Contact: info@Rathor.ai
 ```
 
-Sources: full title (Sherif's naming rule, audit §6); "Episode 01 — The Gate" is the E01 H1 verbatim; the rights and contact lines are `README.md` L3, L4 and L6 verbatim. Credits (writer, artist, letterer, tools) are not defined anywhere in the repo: GAP. Keep the README's independence disclaimer and any third-party tool names off the title page (audit §3.5, §5.1 step 8).
+Sources: full title (Sherif's naming rule, audit §6); "Episode 01 — TOLC" is the E01 H1 verbatim; the rights and contact lines are `README.md` L3, L4 and L6 verbatim. Credits (writer, artist, letterer, tools) are not defined anywhere in the repo: GAP. Keep the README's independence disclaimer and any third-party tool names off the title page (audit §3.5, §5.1 step 8).
 
 ### 5.3 Credits (inside back cover)
 
@@ -224,29 +224,31 @@ Sources: full title (Sherif's naming rule, audit §6); "Episode 01 — The Gate"
 
 ```
 [the front's RA⚡THOR / LIVING THUNDER band + ISSUE: #1 coin, same pixels and size as v18/title_layer_v18.png] ™
-#1 · THE GATE
+#1 · TOLC
 LEFT IS NOISE.
-RIGHT CAN LIVE.
+RIGHT IS LIVE.
 RA-THOR STANDS WATCH
 WHERE THE SUN MEETS THE STORM.
-All that comes to the Gate is weighed.
-What is noise falls away. What can live is let through.
+All that comes to the TOLC is weighed.
+What is noise falls away. What is live is let through.
 What gets blocked is recycled, not wasted.
 
-Ra-Thor⚡Living Thunder #1: The Gate. Published by AlphaProMega Media Inc.
+Ra-Thor⚡Living Thunder #1: TOLC. Published by AlphaProMega Media Inc.
 Copyright © 2026 AlphaProMega Media Inc. All rights reserved.
 Ra-Thor™ is a trademark of Autonomicity Games Inc. (application pending), used with permission.
 This is a work of fiction. Contact: info@Rathor.ai
 ```
 
-  - `#1 · THE GATE`: the issue line of `CREDITS_AND_INDICIA.md` §2 and this file's §5.1.
-  - Headline: E01 Panel 1 bubble, verbatim (`episodes/E01_THE_GATE.md`).
-  - The three lines "Ra-Thor stands watch where the sun meets the storm." / "All that comes to the Gate is weighed." / "What is noise falls away. What can live is let through.": Sherif's copy, picked 2026-10-15 9:32 PM ET (option C). The first line is set in silver small caps over two lines to fit the measure; the next two in the body serif.
+  - `#1 · TOLC`: the issue line of `CREDITS_AND_INDICIA.md` §2 and this file's §5.1.
+  - Headline: E01 Panel 1 bubble, verbatim (`episodes/E01_TOLC.md`).
+  - The three lines "Ra-Thor stands watch where the sun meets the storm." / "All that comes to the TOLC is weighed." / "What is noise falls away. What is live is let through.": Sherif's copy, picked 2026-10-15 9:32 PM ET (option C); line 2 names the TOLC per the 9:45 PM ET ruling (ISSUE01-TOLC-1). The first line is set in silver small caps over two lines to fit the measure; the next two in the body serif.
   - Italic closer: `STORE_LISTING_AND_EXPORT.md` description draft, verbatim (kept exactly at Sherif's request).
   - Fine print: the proposed indicia of `CREDITS_AND_INDICIA.md` §3 (title line, publisher, copyright holder AlphaProMega Media Inc., fiction line, contact; `README.md` L3, L6). The trademark line is Sherif's exact wording (ruling 2026-10-15 9:37 PM ET: "Tighten the ™ line first, then merge."), which replaced the V2 draft's "Ra-Thor⚡Living Thunder™ is a trademark of Autonomicity Games Inc. (trademark pending), used with permission."; it is also the indicia's `[TM LINE]` (`CREDITS_AND_INDICIA.md` §3). The ⚡ is a small rose-gold vector bolt (§10), never an emoji glyph.
 - **Logos** (bottom-left row, beside the fine print, left of the barcode zone): Autonomicity Games Inc. 3D embossed crest, untouched, from `https://acitygames.com/images/logo-dark-1024.webp` (1024 × 1169 RGBA; `bible/cover_mark/agi_logo_3d_transparent.png`), placed 149 × 170 px at (120, 2605), about 2,060 ppi effective, with the wordmark; AlphaProMega Media Inc. logo (`bible/cover_mark/apm_logo_transparent.png`, 4118 × 1759 RGBA, cut from its navy starfield and upscaled 4x with 4x-UltraSharp; `bible/back/apm_extract.py`), placed 471 × 185 px at (820, 2555), about 2,500 ppi effective. Fine print: EB Garamond 30 px (about 7 pt), x 120–1291, bottom-aligned with the barcode zone.
 - **KDP barcode zone:** 2.0 × 1.2 in = 600 × 360 px in the lower right, inside safe: x 1351–1951, y 2678–3038 (sheet px). No type or logo pixel in it (checked by the build); it is drawn as a dashed box only in the guides proof. All type sits inside safe (x 120–1732, y 230–3028).
 - **Council review:** Wild, Hands and Clerk accepted the PR #92 build at `bf15ae82`. Sherif then ruled at 9:37 PM ET: "Tighten the ™ line first, then merge." The fine-print trademark line was changed to the exact text above (it still wraps to two lines at the same size; layout unchanged; barcode zone still 0 px).
+- **ISSUE01-TOLC-1 (Sherif 2026-10-15 9:45 PM ET; Wild ruling for the councils, unanimous):** the issue line is now `#1 · TOLC`, copy line 2 is "All that comes to the TOLC is weighed." and fine-print line 1 is "Ra-Thor⚡Living Thunder #1: TOLC. Published by AlphaProMega Media Inc." Everything else on the back cover is unchanged. Type layer, print, guides, previews, front+back preview and the changed crops rebuilt at the same filenames; barcode zone still 0 px, all type inside safe. Log: `bible/CHARACTER_BIBLE.md` §6.
+- **Headline and line 3 (Sherif 2026-10-15 9:53 PM ET: "Right can live sounds harsh. Let's make it Right is live. Similar to Left is noise."; council ruling):** the headline is now `LEFT IS NOISE.` / `RIGHT IS LIVE.` (E01 Panel 1 bubble, changed at the source) and line 3 is now "What is noise falls away. What is live is let through." Wild's 9:58 PM ET ruling extends this to the E01 P3 catch line, now "That one is live." (page map, page-5 prompt, lettering row 5.2). The verbatim 2026-09-30 prompts (L92 P1 and L94 P3, from `fffa430`, kept as history), the R3 source-art reference and the back cover are unchanged.
 - **Wild's rulings on the open notes:**
   1. The "Autonomicity GAMES" wordmark beside the crest is accepted as a back-cover lockup only. It is unofficial (our addition, not an Autonomicity Games Inc. wordmark) and must not be reused elsewhere unless Sherif adopts it. The crest itself is untouched.
   2. The website crest's warmer, brighter gold is accepted, untouched. The flat title-gold crest variant (`cover_mark/agi_logo_gold_large.png`) stays a fallback held outside the repo.
@@ -442,7 +444,7 @@ Matching lines the same follow-up card would change:
 - `09` Ra-Thor: "narrow for no, wide gold for yes" applies to the two eyes.
 - `01` L12: "**Chest.** A plain round compact gold sun disc with no rays, set into the plate (`04` Q2); no bolt over it; no other chest seal." `01` L13: no emerald and no blue on Ra-Thor; the shield and the shoulder seal are obsidian with a gold winged Eye of Horus. `01` L18: tails aim at the T-visor's eye line. `01` Prompt stem: "narrow visor with a warm eye-slit" becomes "T-visor with two glowing white-hot gold eyes", "winged halo" becomes "winged helm, slim empty halo ring", and "emerald eye-seal kite shield" becomes "black-and-gold tower shield with a gold winged eye-seal".
 - `01` L34 Reject: "a chest seal" becomes "any chest seal or emblem other than the plain gold sun disc with no rays, and any bolt on the chest".
-- `episodes/E01_THE_GATE.md` P3 "Canon emblem" line ("the emerald eye-seal in circuit inlay on a gold kite shield"): locked text, so changing it needs its own card (D26). The same goes for its "gold kite shield", now a tower shield (C7).
+- `episodes/E01_TOLC.md` P3 "Canon emblem" line ("the emerald eye-seal in circuit inlay on a gold kite shield"): locked text, so changing it needs its own card (D26). The same goes for its "gold kite shield", now a tower shield (C7).
 
 Until that card lands, the `01` Reject line quoted in §8 does not cover the plain gold sun disc, and the R4 hammer eye is no longer a reject when it is gold (D18).
 
@@ -456,7 +458,7 @@ Until that card lands, the `01` Reject line quoted in §8 does not cover the pla
 
 > The Threshold at night: dark stone, gold lattice arch with diagonal lattice, two lanes, the left stamped NO, the right stamped LIVE. Closed helm with compact up-swept gold wings, a T-visor and two eyes glowing white-hot gold, a slim, empty halo ring glowing white-hot gold behind the head, a huge riveted tower shield rising above the shoulder, an obsidian field with a faint lattice, a thick antique-gold rim and the large gold winged Eye of Horus eye-seal, a gold winged Eye of Horus seal on an obsidian field on the shoulder, obsidian cape with a bronze-gold lining. No emerald and no blue anywhere. Plain round gold sun disc set into the chest plate, no rays, no bolt over it. Gold winged sun-disc belt buckle with a small rose-gold bolt at its centre. Polished antique-gold hammer head-down on stone, small crack and gold sparks at contact. Inked comic linework with hatching. Palette obsidian black and polished antique gold, never flat yellow, one electric accent.
 
-Sources: `10` The Threshold; `09` The Gate; `04` The Gate (R3), Q1–Q6, Q13; `01` Locked details. The same add-on shape is used in `production/S1/S1E01/ART_PROMPTS.md`. Here the shoulder seal, helm shape and hammer head are named without detail, so `[guards]` alone sets them (§6 Style lock). "No chest seal" became the plain gold sun disc (C10), the winged halo became the winged helm and slim, empty halo ring (rulings 19 and 24; C6), the visor slit became the T-visor with two eyes, and "sparks" became gold sparks; the hammer is the 9:20 PM cross-headed hammer in polished antique gold, the shield the black-and-gold tower shield (rulings 22 and 26; C7, C13), the buckle the winged sun disc (C11), and the palette C13's (owner and council rulings, §0). The stem is used with the swap in §6 Style lock (Stem, slit and tails).
+Sources: `10` The Threshold; `09` The TOLC; `04` The TOLC threshold (R3), Q1–Q6, Q13; `01` Locked details. The same add-on shape is used in `production/S1/S1E01/ART_PROMPTS.md`. Here the shoulder seal, helm shape and hammer head are named without detail, so `[guards]` alone sets them (§6 Style lock). "No chest seal" became the plain gold sun disc (C10), the winged halo became the winged helm and slim, empty halo ring (rulings 19 and 24; C6), the visor slit became the T-visor with two eyes, and "sparks" became gold sparks; the hammer is the 9:20 PM cross-headed hammer in polished antique gold, the shield the black-and-gold tower shield (rulings 22 and 26; C7, C13), the buckle the winged sun disc (C11), and the palette C13's (owner and council rulings, §0). The stem is used with the swap in §6 Style lock (Stem, slit and tails).
 
 **Silent panels.** For every `PACING` panel, replace the stem sentence "Speech bubble with the exact line given." with "No speech bubble, no caption, no text." The stem is otherwise unchanged.
 
@@ -472,14 +474,14 @@ Text: caption only (§7). The P1 bubble moves to 2.3, so the caption is read fir
 
 **2.1 · PACING (holds E01 P1).** Insert on the left lane's NO stamp in dark stone, gold lattice shadow across it.
 Prompt: [style] + [stem, silent] + [set] + tight insert on the stamped word NO set into the dark stone of the left lane, diagonal gold lattice shadow falling across it, Ra-Thor out of frame. + [guards]
-Source: `09`, The Gate (left lane stamped NO).
+Source: `09`, The TOLC (left lane stamped NO).
 
 **2.2 · PACING (holds E01 P1).** Insert on the right lane's LIVE stamp.
 Prompt: [style] + [stem, silent] + [set] + tight insert on the stamped word LIVE set into the dark stone of the right lane, warm gold light across it, Ra-Thor out of frame. + [guards]
-Source: `09`, The Gate (right lane stamped LIVE).
+Source: `09`, The TOLC (right lane stamped LIVE).
 
 **2.3 · [E01 P1], bubble half.** Wide tier.
-Prompt: [style] + [stem] + [set] + three-quarter low-angle shot of Ra-Thor planted under the arch, both lanes leading away from him, shield upright, rising above his shoulder, its obsidian field and gold eye-seal facing out, hammer head-down on stone, small crack and sparks at contact. Speech bubble: "Left is noise. Right can live." + [band] + [guards]
+Prompt: [style] + [stem] + [set] + three-quarter low-angle shot of Ra-Thor planted under the arch, both lanes leading away from him, shield upright, rising above his shoulder, its obsidian field and gold eye-seal facing out, hammer head-down on stone, small crack and sparks at contact. Speech bubble: "Left is noise. Right is live." + [band] + [guards]
 Source: E01 P1; `03` Night Watch (full figure or three-quarter).
 
 ### Page 3 — Block lead-in (silent). Three tiers; the last panel sits at the page turn.
@@ -510,10 +512,10 @@ Source: E01 P2 (chart confetti) and E01 P4 (the confetti is still there to be re
 
 **5.1 · PACING (lead-in to E01 P3).** The device in the right lane.
 Prompt: [style] + [stem, silent] + [set] + medium-wide shot of the right lane under the arch, a small honest device with one warm light in the lane, the LIVE stamp readable on the stone beside it, Ra-Thor at frame edge, hammer head-down. + [band] + [guards]
-Source: E01 P3 ("Small honest device, one warm light, right lane"); `09` The Gate. The device's design beyond that line is GAP (§11, D5).
+Source: E01 P3 ("Small honest device, one warm light, right lane"); `09` The TOLC. The device's design beyond that line is GAP (§11, D5).
 
 **5.2 · [E01 P3], RERUN. Pass panel.** Large panel.
-Prompt: [style] + [stem] + [set] + Ra-Thor planted at the arch, three-quarter view, huge riveted tower shield held upright at his side, its top rising above his shoulder and its pointed base at mid-shin, clear of the chest disc, its face turned toward the viewer, an obsidian field with a faint etched lattice and a thick, riveted antique-gold rim, a large glowing gold winged Eye of Horus at the centre of the shield face, clearly an eye glyph with wings, set into the faint lattice, closed helm with compact up-swept gold wings and two eyes glowing white-hot gold behind the T-visor, a slim, empty halo ring glowing white-hot gold behind the head, on the chest plate a plain round compact gold sun disc with no rays and no bolt over it, a gold winged sun-disc belt buckle with a small rose-gold bolt at its centre, obsidian cape with a burnished bronze-gold lining, polished antique-gold hammer head-down on stone with a small crack and gold sparks at contact, a small honest device with one warm light in the right lane before him. Speech bubble: "That one can live." Not a diamond, not a faceted jewel, not a round gem, not a plain shape of any colour on the shield, no emerald on the shield; not a four-legged walker robot; no chest eye, no other chest disc or medallion, no bolt on the chest; no emerald visor; no blue anywhere, no rays on the chest. + [guards]
+Prompt: [style] + [stem] + [set] + Ra-Thor planted at the arch, three-quarter view, huge riveted tower shield held upright at his side, its top rising above his shoulder and its pointed base at mid-shin, clear of the chest disc, its face turned toward the viewer, an obsidian field with a faint etched lattice and a thick, riveted antique-gold rim, a large glowing gold winged Eye of Horus at the centre of the shield face, clearly an eye glyph with wings, set into the faint lattice, closed helm with compact up-swept gold wings and two eyes glowing white-hot gold behind the T-visor, a slim, empty halo ring glowing white-hot gold behind the head, on the chest plate a plain round compact gold sun disc with no rays and no bolt over it, a gold winged sun-disc belt buckle with a small rose-gold bolt at its centre, obsidian cape with a burnished bronze-gold lining, polished antique-gold hammer head-down on stone with a small crack and gold sparks at contact, a small honest device with one warm light in the right lane before him. Speech bubble: "That one is live." Not a diamond, not a faceted jewel, not a round gem, not a plain shape of any colour on the shield, no emerald on the shield; not a four-legged walker robot; no chest eye, no other chest disc or medallion, no bolt on the chest; no emerald visor; no blue anywhere, no rays on the chest. + [guards]
 Source: E01 P3 and its Fidelity note; `04` Q1 ("as in R4"), Q2, Q3, Q4, Q5, Q8; the wings on the eye glyph are Sherif's design lock (§6 Style lock, ruling 3).
 Reference images: if the tool takes them, give the rathor.ai hero image or the first frame of the Rathor.ai knight video (§6 Style lock); R4 is a fallback. The reference shield has a gold face and its eye has no wings; the prompt's tower shape, obsidian field, antique-gold rim and winged gold eye govern. Never give R3 for this panel; R3 is the "That one can live." reference with the diamond gem and the walker bot (`04`, Primary set).
 
@@ -567,14 +569,14 @@ Text: bubble, then caption (§7). Eye state (narrow, steady or wide) is not in t
 
 ## 7. Lettering script
 
-Letter every line exactly as written in `episodes/E01_THE_GATE.md`: case and punctuation included (`production/README.md` rule 2). White bubbles, hard black outline, tail aimed at the visor slit (`01` Page grammar; `04` Q11). Captions small, bottom-left (`01`). Silent panels carry no text.
+Letter every line exactly as written in `episodes/E01_TOLC.md`: case and punctuation included (`production/README.md` rule 2). White bubbles, hard black outline, tail aimed at the visor slit (`01` Page grammar; `04` Q11). Captions small, bottom-left (`01`). Silent panels carry no text.
 
 | Panel | Type | Text (verbatim) | Placement |
 |---|---|---|---|
 | 1.1 | Caption | THRESHOLD. NIGHT. SORT IN PROGRESS. | Bottom-left of the splash, inside the safe area |
-| 2.3 | Bubble | "Left is noise. Right can live." | Above the helm; tail to the visor slit |
+| 2.3 | Bubble | "Left is noise. Right is live." | Above the helm; tail to the visor slit |
 | 4.1 | Bubble | "Blocked." | Upper corner away from the impact; tail to the visor slit; clear of the eye-seal and the confetti |
-| 5.2 | Bubble | "That one can live." | Above the device and the helm; tail to the visor slit; clear of the shield face |
+| 5.2 | Bubble | "That one is live." | Above the device and the helm; tail to the visor slit; clear of the shield face |
 | 6.1 | Tiny bubble (Ra-Thor) | "Recycle it." | Small, near the hopper; tail to Ra-Thor's visor slit in the background; he stays facing the lanes, not the hopper (council ruling, 2026-10-14) |
 | 8.1 | Bubble | "Next." | Beside the visor; tail to the visor slit |
 | 8.1 | Caption | HAMMER STILL GROUNDED. | Bottom-left, read after the bubble |
@@ -587,7 +589,7 @@ Placement within each panel is **PROPOSED CANON — pending council ratification
 
 "A chest seal" here does not cover the plain gold sun disc (no rays) that the owner and council rulings of 2026-10-14 allow (§0). Any other chest seal or emblem is still a reject: an eye, any other disc or medallion, an emerald or kite-shaped seal, or any bolt on the chest. "Non-canon helms" now means any helm other than the crested great-helm with T-visor, glowing eyes, compact up-swept wings and the slim, empty halo ring. "Modern superhero logos" covers any copy of an existing hero's chest bolt (§6 Style lock; D18). "The navy/blue variant" is the R5 blue armour variant. Since the council palette ruling (§0), no blue of any kind is allowed on the figure, gear or cover; the lapis-blue shield face and shoulder seal of the 9:20 and 9:22 PM rulings are retired.
 
-**Episode (`episodes/E01_THE_GATE.md` P3 Fidelity note, verbatim):** eye-seal must stay on the shield. A plain emerald diamond is a reject.
+**Episode (`episodes/E01_TOLC.md` P3 Fidelity note, verbatim):** eye-seal must stay on the shield. A plain emerald diamond is a reject.
 
 **Package (restated from the cited rules):**
 
@@ -596,7 +598,7 @@ Placement within each panel is **PROPOSED CANON — pending council ratification
 - The AGiRBE line, its expansion, or Jacque Fresco's name or likeness anywhere in this package: page, panel, prompt, cover, title page, credits, store copy or promo art (`production/README.md` rule 6).
 - No Cydruids: "they stay off the page until the councils rule." (`screen/S1E01/BEAT_SHEET.md` L204).
 - Celebrity faces, real people, xAI marks, or a third-party tool or app name on the cover, title page, credits or store copy (`00` rule 6; `README.md` L26; audit §5.1 step 8).
-- Any claim that the Idea Recycler or the Gate is certified, affiliated or a real product (`00` rule 5).
+- Any claim that the Idea Recycler or the TOLC is certified, affiliated or a real product (`00` rule 5).
 - The OBVIOUS card extended into any outside character or catchphrase (audit §7).
 - Outside works, titles, characters, studios or creators, and any "like X" in prompts or copy (`03` Derivation rule).
 - Spice past an eyebrow-raise (`00` rule 4).
@@ -647,7 +649,7 @@ All values below are **PROPOSED CANON — pending council ratification**: they a
 
 - [ ] Lettering on a vector layer, set in post, never in the render (§6.0 print-master variant).
 - [ ] Lettering font licensed for commercial print and digital use; record the licence with the files.
-- [ ] Every line checked against `episodes/E01_THE_GATE.md` character for character.
+- [ ] Every line checked against `episodes/E01_TOLC.md` character for character.
 - [ ] The title `Ra-Thor⚡️Living Thunder` is U+26A1 HIGH VOLTAGE SIGN followed by U+FE0F. On the cover and title page, set the bolt as outlined vector art, not as a colour-emoji font glyph (emoji fonts do not print reliably).
 - [ ] Metadata fields (store title, file names, PDF title) may reject or strip emoji. Test each field. If one strips the bolt, stop and ask Sherif; no fallback title is invented here (§11, D10).
 
