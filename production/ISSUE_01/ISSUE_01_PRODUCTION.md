@@ -235,7 +235,7 @@ What gets blocked is recycled, not wasted.
 
 Ra-Thor⚡Living Thunder #1: The Gate. Published by AlphaProMega Media Inc.
 Copyright © 2026 AlphaProMega Media Inc. All rights reserved.
-Ra-Thor⚡Living Thunder™ is a trademark of Autonomicity Games Inc. (trademark pending), used with permission.
+Ra-Thor™ is a trademark of Autonomicity Games Inc. (application pending), used with permission.
 This is a work of fiction. Contact: info@Rathor.ai
 ```
 
@@ -243,14 +243,15 @@ This is a work of fiction. Contact: info@Rathor.ai
   - Headline: E01 Panel 1 bubble, verbatim (`episodes/E01_THE_GATE.md`).
   - The three lines "Ra-Thor stands watch where the sun meets the storm." / "All that comes to the Gate is weighed." / "What is noise falls away. What can live is let through.": Sherif's copy, picked 2026-10-15 9:32 PM ET (option C). The first line is set in silver small caps over two lines to fit the measure; the next two in the body serif.
   - Italic closer: `STORE_LISTING_AND_EXPORT.md` description draft, verbatim (kept exactly at Sherif's request).
-  - Fine print: the proposed indicia of `CREDITS_AND_INDICIA.md` §3 (title line, publisher, copyright holder AlphaProMega Media Inc., fiction line, contact; `README.md` L3, L6). "Used with permission" is that file's proposed trademark line; "(trademark pending)" follows the owner report recorded there. The ⚡ is a small rose-gold vector bolt (§10), never an emoji glyph.
+  - Fine print: the proposed indicia of `CREDITS_AND_INDICIA.md` §3 (title line, publisher, copyright holder AlphaProMega Media Inc., fiction line, contact; `README.md` L3, L6). The trademark line is Sherif's exact wording (ruling 2026-10-15 9:37 PM ET: "Tighten the ™ line first, then merge."), which replaced the V2 draft's "Ra-Thor⚡Living Thunder™ is a trademark of Autonomicity Games Inc. (trademark pending), used with permission."; it is also the indicia's `[TM LINE]` (`CREDITS_AND_INDICIA.md` §3). The ⚡ is a small rose-gold vector bolt (§10), never an emoji glyph.
 - **Logos** (bottom-left row, beside the fine print, left of the barcode zone): Autonomicity Games Inc. 3D embossed crest, untouched, from `https://acitygames.com/images/logo-dark-1024.webp` (1024 × 1169 RGBA; `bible/cover_mark/agi_logo_3d_transparent.png`), placed 149 × 170 px at (120, 2605), about 2,060 ppi effective, with the wordmark; AlphaProMega Media Inc. logo (`bible/cover_mark/apm_logo_transparent.png`, 4118 × 1759 RGBA, cut from its navy starfield and upscaled 4x with 4x-UltraSharp; `bible/back/apm_extract.py`), placed 471 × 185 px at (820, 2555), about 2,500 ppi effective. Fine print: EB Garamond 30 px (about 7 pt), x 120–1291, bottom-aligned with the barcode zone.
 - **KDP barcode zone:** 2.0 × 1.2 in = 600 × 360 px in the lower right, inside safe: x 1351–1951, y 2678–3038 (sheet px). No type or logo pixel in it (checked by the build); it is drawn as a dashed box only in the guides proof. All type sits inside safe (x 120–1732, y 230–3028).
-- **Open notes for the council:**
-  1. The "Autonomicity GAMES" wordmark beside the crest is our addition (set in the AlphaProMega logo's scheme: white name, gold spaced descriptor), not an official Autonomicity Games Inc. wordmark. The crest itself is untouched.
-  2. The website crest is a warmer, brighter yellow-orange gold than the cover's antique gold. Used untouched, as the owner asked. A flat title-gold crest variant (`cover_mark/agi_logo_gold_large.png`) was built as a fallback and is held outside the repo.
-  3. `CREDITS_AND_INDICIA.md` §3 says whether to add a ™ or ® symbol is Sherif's legal call. Sherif approved this back cover with the ™ trademark-pending line (9:31 PM ET). The indicia's own `[TM LINE]` stays open there.
-  4. "Where the sun meets the storm" echoes the later tagline option of the council tagline ruling (§0, C9), which keeps any tagline off issue #1's cover. Here it is part of Sherif's back-cover body copy, not a tagline; the council may confirm.
+- **Council review:** Wild, Hands and Clerk accepted the PR #92 build at `bf15ae82`. Sherif then ruled at 9:37 PM ET: "Tighten the ™ line first, then merge." The fine-print trademark line was changed to the exact text above (it still wraps to two lines at the same size; layout unchanged; barcode zone still 0 px).
+- **Wild's rulings on the open notes:**
+  1. The "Autonomicity GAMES" wordmark beside the crest is accepted as a back-cover lockup only. It is unofficial (our addition, not an Autonomicity Games Inc. wordmark) and must not be reused elsewhere unless Sherif adopts it. The crest itself is untouched.
+  2. The website crest's warmer, brighter gold is accepted, untouched. The flat title-gold crest variant (`cover_mark/agi_logo_gold_large.png`) stays a fallback held outside the repo.
+  3. The ™ line: closed by Sherif's 9:37 PM ET wording (above; `CREDITS_AND_INDICIA.md` open item 3).
+  4. "Where the sun meets the storm" is accepted as back-cover body copy, consistent with C9. The front stays tagline-free, and there is no tagline lockup without a new ruling.
 
 ## 6. Page layout and per-panel render prompts
 

@@ -263,7 +263,7 @@ if __name__ == '__main__':
     fine = [
         'Ra-Thor⚡Living Thunder #1: The Gate. Published by AlphaProMega Media Inc.',
         'Copyright © 2026 AlphaProMega Media Inc. All rights reserved.',
-        'Ra-Thor⚡Living Thunder™ is a trademark of Autonomicity Games Inc. (trademark pending), used with permission.',
+        'Ra-Thor™ is a trademark of Autonomicity Games Inc. (application pending), used with permission.',   # Sherif 2026-10-15 9:37 PM ET
         'This is a work of fiction. Contact: info@Rathor.ai',
     ]
     lines = []
