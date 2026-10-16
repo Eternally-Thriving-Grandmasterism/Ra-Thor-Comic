@@ -8,6 +8,13 @@ the hammer.
 Shield shape: the check fails on "kite shield" or an emerald eye-seal on the
 shield, unless the same line marks that wording amended, superseded, or history.
 
+ISSUE01-SHIELD-TALL-VEGVISIR-1 (Sherif, 2026-10-16 2:19 PM ET; Wild's council):
+the current shield spec in the lock files must state a tall and narrow outline
+with a pointed bottom, an elongated Vegvísir whose outer outline echoes the
+shield outline, and gold runes. A round or disc Vegvísir stated as the current
+shield spec fails, unless that same line marks the wording superseded, history,
+amended, or a reject.
+
 Type margin: every type pixel whose alpha is greater than ALPHA_THRESHOLD
 must sit at least 75 px (0.25 in) inside the trim at 300 dpi. The trim line
 is 0.125 in, which is 37.5 px, not the 37 px bleed constant used by the
@@ -48,7 +55,7 @@ SHIELD_POS = re.compile(
     re.I)
 HAMMER_NEG = re.compile(
     r'no eye of horus on the hammer|never carries an eye|eye on the hammer is a reject|'
-    r'an eye on the hammer is a reject',
+    r'an eye on the hammer is a reject|reject:\s*any eye on the hammer',
     re.I)
 SHIELD_NEG = re.compile(
     r'no eye of horus on the shield|not on the shield|not repeated on the shield|'
@@ -64,6 +71,36 @@ EMERALD_SEAL_POS = re.compile(r'emerald eye-seal', re.I)
 EMERALD_SEAL_NEG = re.compile(
     r'no emerald eye-seal|superseded|history|amended',
     re.I)
+# A round or disc Vegvísir as the current shield spec. Same-line history,
+# supersession, amendment, or reject keeps the older sentence.
+ROUND_DISC_VEG_POS = re.compile(
+    r'(?:'
+    r'(?:round|circular)\s+vegv[ií]sir'
+    r'|(?:disc|disk)\s+vegv[ií]sir'
+    r'|vegv[ií]sir\s+disc'
+    r'|vegv[ií]sir\s+disk'
+    r'|vegv[ií]sir\s+(?:rune\s+)?(?:compass\s+)?(?:disc|disk)'
+    r'|(?:round|circular)\s+(?:disc|disk)\s+vegv[ií]sir'
+    r'|vegv[ií]sir(?:\s+\S+){0,6}\s+(?:is\s+)?(?:a\s+)?(?:round|circular)\s+(?:disc|disk)'
+    r')',
+    re.I)
+ROUND_DISC_VEG_NEG = re.compile(
+    r'superseded|history|amended|is a reject|no longer|not a round|not a disc|never a round|never a disc',
+    re.I)
+# Current written lock. Each file must carry the tall pointed outline, the
+# elongated Vegvísir echoing that outline, and the gold runes.
+LOCK_FILES = [
+    '09_CHARACTER_BIBLE.md',
+    'production/ISSUE_01/ISSUE_01_PRODUCTION.md',
+    'production/ISSUE_01/RENDER_CHECKLIST.md',
+    'production/ISSUE_01/bible/CHARACTER_BIBLE.md',
+]
+TALL_POINTED = re.compile(r'tall and narrow.{0,80}pointed bottom', re.I | re.S)
+ELONGATED_ECHO = re.compile(
+    r'elongated Vegv[ií]sir.{0,180}echoes the shield outline'
+    r'|Vegv[ií]sir is elongated.{0,180}echoes the shield outline',
+    re.I | re.S)
+RUNES = re.compile(r'(?:decorative )?gold (?:Norse-style )?runes|Norse-style runes', re.I)
 
 def eye_failures(path):
     fails = []
@@ -76,7 +113,20 @@ def eye_failures(path):
             fails.append((n, 'kite', line.strip()[:220]))
         if EMERALD_SEAL_POS.search(line) and not EMERALD_SEAL_NEG.search(line):
             fails.append((n, 'emerald-seal', line.strip()[:220]))
+        if ROUND_DISC_VEG_POS.search(line) and not ROUND_DISC_VEG_NEG.search(line):
+            fails.append((n, 'round-disc-vegvisir', line.strip()[:220]))
     return fails
+
+def shield_lock_failures(path):
+    text = open(path, encoding='utf-8').read()
+    missing = []
+    if not TALL_POINTED.search(text):
+        missing.append('tall pointed outline')
+    if not ELONGATED_ECHO.search(text):
+        missing.append('elongated Vegvísir echoing the outline')
+    if not RUNES.search(text):
+        missing.append('runes')
+    return missing
 
 def type_margin():
     import cv2
@@ -98,6 +148,12 @@ def main():
         for n, kind, text in eye_failures(path):
             bad += 1
             print('EYE %s %s:%d %s' % (kind, rel, n, text))
+    for rel in LOCK_FILES:
+        path = os.path.join(ROOT, rel)
+        missing = shield_lock_failures(path)
+        for name in missing:
+            bad += 1
+            print('SHIELD LOCK %s missing %s' % (rel, name))
     ymin, margin, inches = type_margin()
     print('TYPE alpha > %.2f ymin %d trim_px %.1f margin_px %.1f (%.4f in)' % (
         ALPHA_THRESHOLD, ymin, TRIM_PX, margin, inches))

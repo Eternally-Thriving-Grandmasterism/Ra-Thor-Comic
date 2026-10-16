@@ -222,3 +222,6 @@ c3f220b74d5e798c135e7324c176f43c831110c0236293a2e29595249027c1cc  kdp/out/RaThor
 9861a8e5d2c89fb74599f7dfe38a9e400686cc57593b71565ea9b4fe213f8722  kdp/out/softproof_GRACoL2013_CRPC6_relative.json
 9ef3168747fd67bf28cdc6ac5bf3b569505e10f0da162b3d04d97e1adada6028  kdp/out/softproof_GRACoL2013_CRPC6_relative_crops.jpg
 810e041df229cc6c0ac54621f0e5c8f524ff19b352fa02d1c949e46f3bc9fc3f  kdp/out/softproof_GRACoL2013_CRPC6_relative_side_by_side.jpg
+#
+# 2026-10-16 2:19 PM ET: ISSUE01-SHIELD-TALL-VEGVISIR-1. Written shield lock only. Art untouched.
+e4eb2a6811eb383e9bf09e5c54a51882b1b3c003fcb403b80e94a1eb648f892e  CHARACTER_BIBLE.md
