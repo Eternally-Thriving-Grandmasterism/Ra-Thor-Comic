@@ -44,7 +44,7 @@ The difference between 24 and 32 pages is 0.019 in (6 px). Rebuild with `--pages
 - **Cover calculator must be run before upload.** KDP's cover calculator and template generator (linked from G201953020) is an interactive form. This card used the published formula on the same page. That formula does not override the calculator. Before any upload, enter 6.625 x 10.25, Premium Color, white, and the final page count into the calculator. If its size differs from 13.556328 x 10.5 in, the calculator wins: rebuild the wrap to the calculator's number.
 - **Spine text threshold wording is inconsistent on G201953020.** The page says "more than 79 pages" in one place, "at least 79 pages" in two others, and 80 pages for Cover Creator. It doesn't matter for a 24-page book (blank spine), but a future collected edition should use 80 or more to be safe.
 - **Colour space.** G201953020 says "Images should be in CMYK color to ensure your cover looks good in print", and also says not to mix colour spaces and that profiles are removed. The council ruling makes the upload a flattened RGB PDF. KDP does accept RGB, but its own page recommends CMYK. This is one more reason the CMYK fallback below exists. The author proof decides.
-- **Text safe distance.** G201953020 now says cover text must be at least 0.125 in inside the trim. The guides draw a stricter 0.25 in safe line (cyan). Measured on the type layer (alpha > 3%): the back type is at least 0.262 in inside the trim. The front type was 0.158 in from the top trim (remeasured: alpha > 3% starts at y=84, trim at y=37, (84−37)/300 = 0.157 in). ISSUE01-BIBLE-LOCK-KDP-FIX-1 shifted the front type layer down 28 px, type only. The title band and the ISSUE #1 badge now start at y=112. Clearance is (112−37)/300 = **0.250 in** inside the top trim. Side and bottom clearance stay inside the 0.25 in line (type bbox x 1086–1946, y 112–415 on the 2063×3150 sheet).
+- **Text safe distance.** G201953020 now says cover text must be at least 0.125 in inside the trim. The guides draw a stricter 0.25 in safe line (cyan). The named threshold is `ALPHA_THRESHOLD = 0.03` in `production/ISSUE_01/check_costume_lock.py`: a type pixel counts only when its alpha is strictly greater than 0.03 (3% of 255). The true trim is 0.125 in × 300 dpi = 37.5 px, not the 37 px bleed constant in the sheet builders. Measured that way, the back type is at least 0.262 in inside the trim. The front type was 0.158 in from the top trim (alpha > 0.03 started at y=84; (84−37.5)/300 = 0.155 in; an earlier note used integer trim y=37 and recorded 0.157 in). ISSUE01-BIBLE-LOCK-KDP-FIX-1 shifted the front type down 28 px, then one more px on 2026-10-16 after Clerk measured 74.5 px (0.248 in): ymin 112 − 37.5 = 74.5. The title band and the ISSUE #1 badge now start at y=113. Clearance is (113−37.5)/300 = **75.5 px (0.2517 in)** inside the top trim. Side and bottom clearance stay inside the 0.25 in line (type bbox x 1086–1946, y 113–416 on the 2063×3150 sheet). Pixels at or below alpha 0.03 are the soft shadow and are not counted; the strongest of those above y=113 is alpha 0.027.
 - **Own barcode.** If we ever supply our own barcode, it must not be flattened into the cover image (Barcodes help). We don't supply one: KDP places it.
 - **`ISSUE_01_PRODUCTION.md` §10** keeps the comic-shop plan (8 story pages plus a 4-page cover wrap, 12 total, saddle-stitched) as history. The current KDP plan there is a perfect-bound 24-page paperback. The story stays 8 pages.
 
@@ -60,7 +60,7 @@ The story is unchanged: 8 story pages (`ISSUE_01_PRODUCTION.md` §4). The title 
 | 11 | Credits (§5.3 / `CREDITS_AND_INDICIA.md` §2) | exists in the plan |
 | 12 | Character page: armor, helm, chest sun disc with radiating rays, rose-gold lightning-bolt buckle, cape (`CHARACTER_BIBLE.md` §2; `09_CHARACTER_BIBLE.md` canon locks) | proposed |
 | 13 | Shield page: the tall v21 shape, central Vegvísir, decorative gold runes, no Eye of Horus on the shield (`CHARACTER_BIBLE.md` §3). The rune fill is not yet painted on the merged cover | proposed |
-| 14 | Hammer and lightning as painted on the approved cover (`CHARACTER_BIBLE.md` §0). The open hammer-eye question stays off the page | proposed |
+| 14 | Hammer and lightning as painted on the approved cover (`CHARACTER_BIBLE.md` §3). Lightning-bolt motif on at least both faces of the head. No Eye of Horus on the hammer (Sherif, 2026-10-16, 4:08 AM) | proposed |
 | 15 | Cover evolution: V15 (`RaThor_Issue01_Cover_V15_source_GrokImagine_1152x1728.jpg`) | proposed |
 | 16 | Cover evolution: V16 | proposed |
 | 17 | Cover evolution: V17 | proposed |
@@ -70,7 +70,7 @@ The story is unchanged: 8 story pages (`ISSUE_01_PRODUCTION.md` §4). The title 
 | 21 | Presence & Protective Power, short (`09_CHARACTER_BIBLE.md`) | proposed |
 | 22 | Realms & Rathor.ai, short (`09_CHARACTER_BIBLE.md`) | proposed |
 | 23 | Idea Recycler (`09_CHARACTER_BIBLE.md`) | proposed |
-| 24 | Palette one-sheet: obsidian, antique gold, white-hot gold; no blue and no green (`CHARACTER_BIBLE.md` §4) | proposed |
+| 24 | Palette one-sheet: obsidian, antique gold, white-hot gold; no blue. Green only as the emerald pauldron seal (`CHARACTER_BIBLE.md` §4) | proposed |
 
 If the extras grow, go up in steps of 2 pages to about 32 and rebuild. The spine stays blank throughout.
 

@@ -17,7 +17,7 @@
    "pct_out_gt10": 0.0
   },
   "gold / amber (hue 24-56 deg)": {
-   "pixels": 383063,
+   "pixels": 383051,
    "ink_sim_mean_dL": 1.23,
    "ink_sim_p95_dAB": 8.59,
    "ink_sim_max_dAB": 11.68,
@@ -28,7 +28,7 @@
    "pct_out_gt10": 0.0
   },
   "blue / white-blue lightning (hue 190-260 deg)": {
-   "pixels": 5724,
+   "pixels": 5732,
    "ink_sim_mean_dL": 1.43,
    "ink_sim_p95_dAB": 0.68,
    "ink_sim_max_dAB": 1.39,
@@ -39,7 +39,7 @@
    "pct_out_gt10": 0.0
   },
   "obsidian / near-black (V < 60)": {
-   "pixels": 11522136,
+   "pixels": 11522241,
    "ink_sim_mean_dL": 9.95,
    "ink_sim_p95_dAB": 3.4,
    "ink_sim_max_dAB": 12.4,
