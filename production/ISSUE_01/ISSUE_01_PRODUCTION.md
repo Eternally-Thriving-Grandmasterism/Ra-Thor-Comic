@@ -134,7 +134,7 @@ The whole package. Story pages hold only E01's five locked beats, paced across e
 | Page 7 (right) | E01 P5 lead-in, silent; ends on a page turn | none |
 | Page 8 (left) | E01 P5 closer splash | `"Next."`, then `HAMMER STILL GROUNDED.` |
 | Inside back cover | Credits (§5.3) | GAP: credits not defined |
-| Back cover | GAP: no back-cover content defined | — |
+| Back cover | ISSUE01-BACK-COVER-V2 (§5.4): echo of the front art, headline, blurb, company logos, fine print; KDP barcode zone clear | `LEFT IS NOISE.` / `RIGHT CAN LIVE.`, blurb and fine print (§5.4) |
 
 Pages 4 and 5 face each other as a spread: the block on the left page, the pass on the right, matching NO on the left lane and LIVE on the right (`09`, The Gate). Each text line in the file appears once, verbatim, in the file's order. Interior: 8 pages; with the 4 cover pages, 12. Both are multiples of 4 for saddle stitching (§10).
 
@@ -214,6 +214,43 @@ Sources: full title (Sherif's naming rule, audit §6); "Episode 01 — The Gate"
 - Series title: `Ra-Thor⚡️Living Thunder` (packaging, PR #27).
 - Credits: GAP: not defined.
 - Crawl: No crawl defined (only S3 sheet §7 defines one).
+
+### 5.4 Back cover (ISSUE01-BACK-COVER-V2)
+
+- **Owner OK:** Sherif approved the back-cover layout (V1 draft: 3D embossed Autonomicity Games crest, the added "Autonomicity GAMES" wordmark, the AlphaProMega Media Inc. copyright line and the ™ trademark-pending line) on 2026-10-15 at 9:31 PM ET: "Looks great, send it to the councils". At 9:32 PM ET he picked the blurb copy (option C) that replaces V1's blurb between the headline and the italic closer. V2 = V1 layout + that copy. How this package applies it is **PROPOSED CANON — pending council ratification**.
+- **Print file:** `bible/RaThor_Issue01_BackCover_v2_6.625x10.25_bleed_300dpi.jpg`. 2063 × 3150 px, 300 dpi, embedded sRGB: the front's exact spec (6.625 × 10.25 in trim + 0.125 in bleed; safe line 75 px inside trim, 112 px from the sheet edge).
+- **Layers:** `bible/back/back_art_v2.png` (art only: the V18 front art in greyscale, blurred, toned to obsidian/antique gold and dimmed to about 30%, with a vignette and darker bands behind the type; no text in it) and `bible/back/back_type_layer_v2.png` (every word, rule and logo, one straight-alpha RGBA). Print = art × (1 − α) + type × α. Build: `bible/back/build_back_v2.py` (the copy sits in one EDITABLE COPY block at the top; production-box paths). Proofs: `back/RaThor_Issue01_BackCover_v2_guides.jpg` (trim, safe, barcode zone), `back/back_preview_620_v2.jpg`, `back/front_back_620_v2.jpg`, `back/crops/`.
+- **Text, top to bottom, and sources:**
+
+```
+[the front's RA⚡THOR / LIVING THUNDER band + ISSUE: #1 coin, same pixels and size as v18/title_layer_v18.png] ™
+#1 · THE GATE
+LEFT IS NOISE.
+RIGHT CAN LIVE.
+RA-THOR STANDS WATCH
+WHERE THE SUN MEETS THE STORM.
+All that comes to the Gate is weighed.
+What is noise falls away. What can live is let through.
+What gets blocked is recycled, not wasted.
+
+Ra-Thor⚡Living Thunder #1: The Gate. Published by AlphaProMega Media Inc.
+Copyright © 2026 AlphaProMega Media Inc. All rights reserved.
+Ra-Thor⚡Living Thunder™ is a trademark of Autonomicity Games Inc. (trademark pending), used with permission.
+This is a work of fiction. Contact: info@Rathor.ai
+```
+
+  - `#1 · THE GATE`: the issue line of `CREDITS_AND_INDICIA.md` §2 and this file's §5.1.
+  - Headline: E01 Panel 1 bubble, verbatim (`episodes/E01_THE_GATE.md`).
+  - The three lines "Ra-Thor stands watch where the sun meets the storm." / "All that comes to the Gate is weighed." / "What is noise falls away. What can live is let through.": Sherif's copy, picked 2026-10-15 9:32 PM ET (option C). The first line is set in silver small caps over two lines to fit the measure; the next two in the body serif.
+  - Italic closer: `STORE_LISTING_AND_EXPORT.md` description draft, verbatim (kept exactly at Sherif's request).
+  - Fine print: the proposed indicia of `CREDITS_AND_INDICIA.md` §3 (title line, publisher, copyright holder AlphaProMega Media Inc., fiction line, contact; `README.md` L3, L6). "Used with permission" is that file's proposed trademark line; "(trademark pending)" follows the owner report recorded there. The ⚡ is a small rose-gold vector bolt (§10), never an emoji glyph.
+- **Logos** (bottom-left row, beside the fine print, left of the barcode zone): Autonomicity Games Inc. 3D embossed crest, untouched, from `https://acitygames.com/images/logo-dark-1024.webp` (1024 × 1169 RGBA; `bible/cover_mark/agi_logo_3d_transparent.png`), placed 149 × 170 px at (120, 2605), about 2,060 ppi effective, with the wordmark; AlphaProMega Media Inc. logo (`bible/cover_mark/apm_logo_transparent.png`, 4118 × 1759 RGBA, cut from its navy starfield and upscaled 4x with 4x-UltraSharp; `bible/back/apm_extract.py`), placed 471 × 185 px at (820, 2555), about 2,500 ppi effective. Fine print: EB Garamond 30 px (about 7 pt), x 120–1291, bottom-aligned with the barcode zone.
+- **KDP barcode zone:** 2.0 × 1.2 in = 600 × 360 px in the lower right, inside safe: x 1351–1951, y 2678–3038 (sheet px). No type or logo pixel in it (checked by the build); it is drawn as a dashed box only in the guides proof. All type sits inside safe (x 120–1732, y 230–3028).
+- **Open notes for the council:**
+  1. The "Autonomicity GAMES" wordmark beside the crest is our addition (set in the AlphaProMega logo's scheme: white name, gold spaced descriptor), not an official Autonomicity Games Inc. wordmark. The crest itself is untouched.
+  2. The website crest is a warmer, brighter yellow-orange gold than the cover's antique gold. Used untouched, as the owner asked. A flat title-gold crest variant (`cover_mark/agi_logo_gold_large.png`) was built as a fallback and is held outside the repo.
+  3. `CREDITS_AND_INDICIA.md` §3 says whether to add a ™ or ® symbol is Sherif's legal call. Sherif approved this back cover with the ™ trademark-pending line (9:31 PM ET). The indicia's own `[TM LINE]` stays open there.
+  4. "Where the sun meets the storm" echoes the later tagline option of the council tagline ruling (§0, C9), which keeps any tagline off issue #1's cover. Here it is part of Sherif's back-cover body copy, not a tagline; the council may confirm.
 
 ## 6. Page layout and per-panel render prompts
 
@@ -618,7 +655,7 @@ All values below are **PROPOSED CANON — pending council ratification**: they a
 - [ ] Interior 8 pages plus a 4-page cover wrap (12 total): both multiples of 4 for saddle stitching.
 - [ ] Print route: check each printer's minimum page count before choosing it. Some print-on-demand paperback services require more than 12 pages (Amazon KDP paperback has required at least 24; verify current terms). Padding with new story pages is out of scope. Sherif's call (§11, D9).
 - [ ] Indicia and copyright page content: GAP (§11, D8).
-- [ ] Barcode or ISBN placement, if the route needs one: back cover, inside the safe area.
+- [ ] Barcode or ISBN placement, if the route needs one: back cover, inside the safe area. Back cover V2 keeps the KDP zone clear: x 1351–1951, y 2678–3038 (§5.4).
 
 **Digital (Kindle and Patreon)**
 
@@ -647,7 +684,7 @@ None of these is filled here.
 - **D5. The pass device's design** beyond "small honest device, one warm light". The seed said "walking"; the locked file does not. It must not be the R3 walker bot (`04` Q8).
 - **D6. P5 visor state.** The seed said "Eye-slit a fraction wider"; the locked file is silent. Under the 8:57 PM ruling this is the state of the two eyes (D20).
 - **D7. Cover and title page.** Composition, issue-line wording and any publisher mark (§5). Audit §6: defining a cover is new canon. The council lettering, frame and tagline rulings (§0) now set the cover text: RA-THOR with the bolt hyphen over LIVING THUNDER in a bottom title band, the medallion `ISSUE: #1`, no tagline. Still open: (a) the story title is off the cover, since the lettering ruling names no other text; confirm. (b) Whether "gold-foil bevel" is a printed look, as §10 reads it, or a real foil stamp. (c) Any publisher mark.
-- **D8. Credits, indicia and back cover.** Not defined anywhere. Draft: `CREDITS_AND_INDICIA.md` (PROPOSED; copyright holder AlphaProMega Media Inc., Sherif confirmed 2026-10-14).
+- **D8. Credits, indicia and back cover.** Not defined anywhere. Draft: `CREDITS_AND_INDICIA.md` (PROPOSED; copyright holder AlphaProMega Media Inc., Sherif confirmed 2026-10-14). Back cover: defined in §5.4 (ISSUE01-BACK-COVER-V2; Sherif OK 2026-10-15 9:31 PM ET, copy 9:32 PM ET; pending council review).
 - **D9. Print route** given printer page minimums (§10), and an age rating for store listings.
 - **D10. The `⚡️` in metadata** where a field strips it. Store copy, export and render checks: `STORE_LISTING_AND_EXPORT.md`, `LETTERING_SPEC.md`, `RENDER_CHECKLIST.md` (PROPOSED).
 - **D11. The seed prompts** (§2): restore them to E01 as owner text, or leave them in history.
@@ -681,7 +718,7 @@ None of these is filled here.
 4. Pass device design (D5).
 5. P5 visor state (D6).
 6. CLEAN card text: not in E01 (D12).
-7. Credits, indicia, back cover: not defined (D8).
+7. Credits and indicia: not defined (D8). Back cover: defined, §5.4.
 8. Cover publisher mark: not defined (D7).
 9. No crawl defined (only S3 sheet §7 defines one).
 10. SFX: none in file (`production/README.md` Known gaps).

@@ -88,6 +88,6 @@ Kept off on purpose:
 1. Credited roles and names (D8).
 2. Copyright year and first publication date.
 3. Trademark line: confirm or remove `[TM LINE: Sherif to confirm]` and the matching property line (§3); symbol, if any. Sherif reports RA-THOR is filed under Autonomicity Games Inc., status pending (§3 notes); the placeholder stays until he supplies the exact wording.
-4. Back cover: still GAP (`ISSUE_01_PRODUCTION.md` §4).
+4. Back cover: defined in `ISSUE_01_PRODUCTION.md` §5.4 (ISSUE01-BACK-COVER-V2; Sherif OK 2026-10-15, 9:31 PM ET). Its fine print uses this file's §3 wording plus a ™ trademark-pending line, which Sherif approved with the back cover; the `[TM LINE]` of §3 stays open for the indicia.
 
 Closed: copyright holder and publisher, AlphaProMega Media Inc. (Sherif confirmed, 2026-10-14; §1).
