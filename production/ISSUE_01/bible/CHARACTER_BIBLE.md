@@ -164,7 +164,7 @@ Before/after crops at 4×: `cover_mark/before_after_1.jpg` … `before_after_6.j
 
 ## 9. Conflicts with standing canon (deferred to a follow-up card per 8 (d); not edited here)
 
-- **`00` rule 1** ("kite shield with an emerald eye-seal", "winged halo ring") still conflicts with sections 2–4: the tall v21 shield, the Vegvísir, and the Eye of Horus in the halo over his head. `00` is not edited on this card. `09` now carries the 2026-10-16 chest, buckle, shield, hammer and pauldron locks. Emerald green is allowed only on the pauldron seal.
+- **`00` rule 1** is amended by ISSUE01-CANON-TIDY-1. The earlier "kite shield with an emerald eye-seal" is amended (Sherif, 2026-10-16, 2:15 AM and 2:16 AM ET). The tall v21 shield, the Vegvísir, and the Eye of Horus in the halo are the lock. Emerald green is allowed only on the pauldron seal.
 - **`ISSUE_01_PRODUCTION.md` rulings superseded by this Bible, as history:**
   - C2: cream border, bottom title band, filigree frame. The master has no border and the title is at the top.
   - C6: a slim EMPTY halo ring. The approved cover puts the Eye of Horus sigil in the halo over his head.

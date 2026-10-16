@@ -1,9 +1,12 @@
 #!/usr/bin/env python3
-"""ISSUE01-BIBLE-LOCK-KDP-FIX-1 checks (Sherif, 2026-10-16, 4:08 AM ET).
+"""ISSUE01 costume lock (Sherif, 2026-10-16).
 
 Eye placement: an Eye of Horus may appear only in the halo sigil and on the
 pauldron seal. The check fails if a scanned line gives one to the shield or
 the hammer.
+
+Shield shape: the check fails on "kite shield" or an emerald eye-seal on the
+shield, unless the same line marks that wording amended, superseded, or history.
 
 Type margin: every type pixel whose alpha is greater than ALPHA_THRESHOLD
 must sit at least 75 px (0.25 in) inside the trim at 300 dpi. The trim line
@@ -20,6 +23,10 @@ SCAN = [
     'production/ISSUE_01/RENDER_CHECKLIST.md',
     'production/ISSUE_01/bible/CHARACTER_BIBLE.md',
     'production/ISSUE_01/LETTERING_SPEC.md',
+    '00_FIDELITY_PROTOCOL.md',
+    '01_VISUAL_STYLE_GUIDE.md',
+    '04_VISUAL_CANON.md',
+    'episodes/E01_TOLC.md',
 ]
 # A counted type pixel has alpha strictly greater than this fraction of 255.
 ALPHA_THRESHOLD = 0.03
@@ -45,7 +52,17 @@ HAMMER_NEG = re.compile(
     re.I)
 SHIELD_NEG = re.compile(
     r'no eye of horus on the shield|not on the shield|not repeated on the shield|'
-    r'is a reject|superseded|history',
+    r'is a reject|superseded|history|amended',
+    re.I)
+# "kite shield" and an emerald eye-seal assigned to the shield. A same-line
+# amendment, supersession, or reject note keeps the historical sentence.
+KITE_POS = re.compile(r'kite shield', re.I)
+KITE_NEG = re.compile(
+    r'not a kite shield|no kite shield|superseded|history|amended|is a reject',
+    re.I)
+EMERALD_SEAL_POS = re.compile(r'emerald eye-seal', re.I)
+EMERALD_SEAL_NEG = re.compile(
+    r'no emerald eye-seal|superseded|history|amended',
     re.I)
 
 def eye_failures(path):
@@ -55,6 +72,10 @@ def eye_failures(path):
             fails.append((n, 'hammer', line.strip()[:220]))
         if SHIELD_POS.search(line) and not SHIELD_NEG.search(line):
             fails.append((n, 'shield', line.strip()[:220]))
+        if KITE_POS.search(line) and not KITE_NEG.search(line):
+            fails.append((n, 'kite', line.strip()[:220]))
+        if EMERALD_SEAL_POS.search(line) and not EMERALD_SEAL_NEG.search(line):
+            fails.append((n, 'emerald-seal', line.strip()[:220]))
     return fails
 
 def type_margin():
