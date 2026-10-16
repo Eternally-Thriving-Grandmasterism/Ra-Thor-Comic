@@ -32,6 +32,7 @@ PATSAGi on the live lattice, Odyssey pattern checked:
 - **Approve** gold circuit plate (winged halo, eye-seal shield, grounded thunder hammer) as series canon. Obsidian fortress plate is siege-mode only.
 
   Note, 2026-10-16 2:20 PM ET: the shield is now tall and pointed with the shield emblem (Vegvísir, knotwork, runes) and no eye, and the eye lives in the halo.
+  Note, 2026-10-16 6:45 PM ET: hammer lock: plain rectangular block head, cone-bottom hilt, no eye (triangle top retired 2026-10-16, Sherif). Name, Marvel guardrail and trademark check: see 09_CHARACTER_BIBLE.md.
 - **Approve** story devices named after real lattice ideas: the TOLC, Idea Recycler, White-Hat Mercy-Security. Label them fiction. Do not depict them as certified, legal, or medical products.
 - **Hold** explicit panels out of the public bible.
 - **Hold** celebrity likenesses, xAI logos, and real-person caricatures.

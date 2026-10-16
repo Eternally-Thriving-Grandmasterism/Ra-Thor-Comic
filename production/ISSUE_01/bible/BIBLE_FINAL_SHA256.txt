@@ -199,7 +199,7 @@ f9edb390d04addf92d2e5a75e41eabb610cecb9db6e1268c260f96fa0ad73f35  cover_mark/cle
 # 3dfa2db03309a67b5a3bc258b20096e4655d8972e9f26c99afa2d338478f9d33  kdp/out/softproof_GRACoL2013_CRPC6_relative_side_by_side.jpg  (superseded: ISSUE01-BIBLE-LOCK-KDP-FIX-1, 2026-10-16, +1 px type shift)
 ef6dc126f8a5a5e7b0d8d469d2f485529a0c7745ff5fc1a1e35c01c7f739bf90  kdp/out/spec_24p_premium-color.json
 
-# 2026-10-16, Sherif 4:08 AM ET, relayed by Wild Rathor.ai. Hammer: lightning-bolt motif on at least both faces, triangle at the top and a cone at the bottom of the hilt, no Eye of Horus on the hammer. Pauldron seal: winged Eye of Horus in emerald green like gemstones. Front type shifted 1 more px.
+# 2026-10-16, Sherif 4:08 AM ET, relayed by Wild Rathor.ai. Hammer: lightning-bolt motif on at least both faces, triangle at the top and a cone at the bottom of the hilt, no Eye of Horus on the hammer. (triangle top retired 2026-10-16, Sherif). Pauldron seal: winged Eye of Horus in emerald green like gemstones. Front type shifted 1 more px.
 # Named threshold ALPHA_THRESHOLD = 0.03. ymin 113, trim 37.5 px, margin 75.5 px (0.2517 in). Art untouched. Not uploaded to KDP.
 d5ad9609529d0c85253da01d2af00d17310626474e8ef806c8f93a53e990f127  RaThor_Issue01_Cover_BIBLE_FINAL_6.625x10.25_bleed_300dpi.jpg
 f7297d5bdb40797fb00f9f31d6449a82cdcb6c724a71e85eb8ce81ff3699b2a6  v18/type_layer_final_v18.png
@@ -212,7 +212,7 @@ f2237bf6e98877e8b201a06d524d554fe9a98502f51cc4f305e6fecdb6fc7887  v18/crops/titl
 cab48980c41feaf31b8f6d40ef125e728285fbf86d17b4b978ae96da76d904c0  v18/crops/coin_100.jpg
 b791bf5925339be71ee0cd1bf5073edc481dd6e522d569cd1473e1333329c4d3  v18/crops/face_eye_100.jpg
 0da509275b38d2bcb27d44a9d90abd7dc38ce88f715466278df2a5bab2f5be56  back/front_back_620_v2.jpg
-63c965605616c3628620b61d6a93877e5c02b027bb72470dbd1901671081a011  kdp/README.md
+# 63c965605616c3628620b61d6a93877e5c02b027bb72470dbd1901671081a011  kdp/README.md  (superseded: ISSUE01-HAMMER-BLOCK-HEAD-1, 2026-10-16, hammer block head)
 769b308573b2baa4ea0a0710512ec0897c46e8a7abff4c8558ea892371a4c8f9  kdp/out/RaThor_Issue01_KDPwrap_24p_premium-color.jpg
 9925aef4baa889a314006fd1b9f4b83d1964ff8a388b52cdf644f95893b0e5f4  kdp/out/RaThor_Issue01_KDPwrap_24p_premium-color.pdf
 397e5eaa95658e8f7812e233c96972b528c1032e03f5a269a79ab6d50be71562  kdp/out/RaThor_Issue01_KDPwrap_24p_premium-color_FALLBACK_CMYK_GRACoL2013_CRPC6.pdf
@@ -222,3 +222,11 @@ c3f220b74d5e798c135e7324c176f43c831110c0236293a2e29595249027c1cc  kdp/out/RaThor
 9861a8e5d2c89fb74599f7dfe38a9e400686cc57593b71565ea9b4fe213f8722  kdp/out/softproof_GRACoL2013_CRPC6_relative.json
 9ef3168747fd67bf28cdc6ac5bf3b569505e10f0da162b3d04d97e1adada6028  kdp/out/softproof_GRACoL2013_CRPC6_relative_crops.jpg
 810e041df229cc6c0ac54621f0e5c8f524ff19b352fa02d1c949e46f3bc9fc3f  kdp/out/softproof_GRACoL2013_CRPC6_relative_side_by_side.jpg
+
+# 2026-10-16, Sherif 6:45–6:48 PM ET. ISSUE01-HAMMER-BLOCK-HEAD-1. Hammer lock text: plain rectangular block head, a remix of the mythological Mjölnir (Norse myth), cone-bottom hilt, no eye. Triangle top retired 2026-10-16, Sherif. Art files untouched.
+# abaa265398f4c78596768ab7ba68d2e1df2872c2202d8fd6351dc6c4b9a87e52  CHARACTER_BIBLE.md  (superseded: ISSUE01-HAMMER-BLOCK-HEAD-1 amend, prompts drop the name and Marvel note)
+# 67d3ea50b893bf028e0eb0a2b9b06e33c831d12b3c122bbe58cd34b413d6f0a6  kdp/README.md  (superseded: ISSUE01-HAMMER-BLOCK-HEAD-1 amend, prompts drop the name and Marvel note)
+
+# 2026-10-16, Hands amend on ISSUE01-HAMMER-BLOCK-HEAD-1. Generator prompts use the canonical hammer line only. The merged V18 cover's stepped hammer is not redrawn. Art files untouched.
+cec93cbc18c1485d3b6bf1da8191ab4824bbe10554c9951f8c936df7ee922cb7  CHARACTER_BIBLE.md
+df91d215c190173c68d8712b9df7980717922abf0b44523fbb5452e36a8f0525  kdp/README.md

@@ -55,7 +55,7 @@ SHIELD_POS = re.compile(
     re.I)
 HAMMER_NEG = re.compile(
     r'no eye of horus on the hammer|never carries an eye|eye on the hammer is a reject|'
-    r'an eye on the hammer is a reject|reject: any eye on the hammer',
+    r'an eye on the hammer is a reject|reject: any eye on the hammer|hammer eye rejected',
     re.I)
 SHIELD_NEG = re.compile(
     r'no eye of horus on the shield|not on the shield|not repeated on the shield|'
@@ -113,6 +113,51 @@ SUN_BOLT_NEG = re.compile(
     r'no sun|no bolt|out of the emblem|stay out|stays out|'
     r'superseded|history|amended|is a reject',
     re.I)
+# Hammer head (ISSUE01-HAMMER-BLOCK-HEAD-1, Sherif 2026-10-16, 6:45 PM ET).
+# The live lock is a plain rectangular block head. A triangle top stated as a
+# current requirement fails unless the same line marks it retired, superseded,
+# history, amended, or a reject. A line that still bans the rectangular block
+# fails the same way.
+HAMMER_LOCK_FILES = [
+    '09_CHARACTER_BIBLE.md',
+    'production/ISSUE_01/ISSUE_01_PRODUCTION.md',
+    'production/ISSUE_01/RENDER_CHECKLIST.md',
+    'production/ISSUE_01/bible/CHARACTER_BIBLE.md',
+    'production/ISSUE_01/bible/kdp/README.md',
+    '00_FIDELITY_PROTOCOL.md',
+    '01_VISUAL_STYLE_GUIDE.md',
+    '04_VISUAL_CANON.md',
+    'README.md',
+]
+# Shape phrases belong in every hammer-lock file, including a short pointer.
+# The Mjölnir name, the Marvel guardrail and the trademark check stay in the
+# main locks only. Generator prompts use the canonical hammer line and must
+# not carry that meta text.
+HAMMER_SHAPE_REQUIRED = (
+    ('plain rectangular block head', re.compile(r'plain rectangular block head', re.I)),
+    ('cone-bottom hilt', re.compile(r'cone-bottom hilt')),
+    ('no eye', re.compile(r'\bno eye\b|no Eye of Horus on the hammer')),
+)
+HAMMER_GUARDRAIL_FILES = [
+    '09_CHARACTER_BIBLE.md',
+    'production/ISSUE_01/ISSUE_01_PRODUCTION.md',
+    'production/ISSUE_01/bible/CHARACTER_BIBLE.md',
+    '00_FIDELITY_PROTOCOL.md',
+    '04_VISUAL_CANON.md',
+]
+HAMMER_GUARDRAIL_REQUIRED = (
+    ('Mjölnir remix', re.compile(r'remix of the mythological Mjölnir \(Norse myth\)')),
+    ('Marvel guardrail', re.compile(r'never Marvel')),
+)
+PROMPT_META = re.compile(r'Mjölnir|never Marvel|trademark check')
+TRIANGLE_POS = re.compile(r'triangle at the top|triangle top|triangle-and-cone', re.I)
+TRIANGLE_NEG = re.compile(r'retired|superseded|history|amended|is a reject', re.I)
+BLOCK_BAN = re.compile(
+    r'never a plain rectangular block|not a plain rectangular block|'
+    r'plain rectangular Thor-style block(?: head)?|plain rectangular block hammer head|'
+    r'the square block hammer head',
+    re.I)
+BLOCK_BAN_NEG = re.compile(r'retired|superseded|history|amended', re.I)
 
 def eye_failures(path):
     fails = []
@@ -129,6 +174,10 @@ def eye_failures(path):
             fails.append((n, 'round-disc-vegvisir', line.strip()[:220]))
         if SUN_BOLT_ON_EMBLEM.search(line) and not SUN_BOLT_NEG.search(line):
             fails.append((n, 'sun-or-bolt', line.strip()[:220]))
+        if TRIANGLE_POS.search(line) and not TRIANGLE_NEG.search(line):
+            fails.append((n, 'triangle-top', line.strip()[:220]))
+        if BLOCK_BAN.search(line) and not BLOCK_BAN_NEG.search(line):
+            fails.append((n, 'block-ban', line.strip()[:220]))
     return fails
 
 def shield_lock_missing(path):
@@ -138,6 +187,23 @@ def shield_lock_missing(path):
         if not pat.search(text):
             missing.append(name)
     return missing
+
+def hammer_lock_missing(path, required):
+    text = open(path, encoding='utf-8').read()
+    missing = []
+    for name, pat in required:
+        if not pat.search(text):
+            missing.append(name)
+    return missing
+
+def prompt_meta_failures(path):
+    fails = []
+    for n, line in enumerate(open(path, encoding='utf-8'), 1):
+        s = line.lstrip()
+        if s.startswith('>') or s.startswith('Prompt:'):
+            if PROMPT_META.search(line):
+                fails.append((n, line.strip()[:220]))
+    return fails
 
 def type_margin():
     import cv2
@@ -163,6 +229,37 @@ def main():
             for name in shield_lock_missing(path):
                 bad += 1
                 print('SHIELD REQUIRE %s missing %s' % (rel, name))
+        if rel in HAMMER_LOCK_FILES:
+            for name in hammer_lock_missing(path, HAMMER_SHAPE_REQUIRED):
+                bad += 1
+                print('HAMMER REQUIRE %s missing %s' % (rel, name))
+            if rel in HAMMER_GUARDRAIL_FILES:
+                for name in hammer_lock_missing(path, HAMMER_GUARDRAIL_REQUIRED):
+                    bad += 1
+                    print('HAMMER REQUIRE %s missing %s' % (rel, name))
+        if rel in (
+            'production/ISSUE_01/ISSUE_01_PRODUCTION.md',
+            'production/ISSUE_01/RENDER_CHECKLIST.md',
+        ):
+            for n, text in prompt_meta_failures(path):
+                bad += 1
+                print('PROMPT META %s:%d %s' % (rel, n, text))
+    for rel in HAMMER_LOCK_FILES:
+        if rel in SCAN:
+            continue
+        path = os.path.join(ROOT, rel)
+        for n, kind, text in eye_failures(path):
+            if kind not in ('triangle-top', 'block-ban'):
+                continue
+            bad += 1
+            print('EYE %s %s:%d %s' % (kind, rel, n, text))
+        for name in hammer_lock_missing(path, HAMMER_SHAPE_REQUIRED):
+            bad += 1
+            print('HAMMER REQUIRE %s missing %s' % (rel, name))
+        if rel in HAMMER_GUARDRAIL_FILES:
+            for name in hammer_lock_missing(path, HAMMER_GUARDRAIL_REQUIRED):
+                bad += 1
+                print('HAMMER REQUIRE %s missing %s' % (rel, name))
     ymin, margin, inches = type_margin()
     print('TYPE alpha > %.2f ymin %d trim_px %.1f margin_px %.1f (%.4f in)' % (
         ALPHA_THRESHOLD, ymin, TRIM_PX, margin, inches))

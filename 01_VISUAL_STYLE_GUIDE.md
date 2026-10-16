@@ -11,7 +11,7 @@ Locked details (council ruling 2026-09-30, amended ISSUE01-CANON-TIDY-1; see `04
 - **Shield.** Tall riveted obsidian and antique-gold shield with a central Vegvísir and decorative gold runes. No Eye of Horus on the shield. A diamond gem is a reject. Amendment: the 2026-09-30 line, a gold kite shield with an emerald eye-seal, is amended (Sherif, 2026-10-16, 2:15 AM and 2:16 AM ET).
 - **Chest.** A plain gold sun disc with radiating rays and no bolt.
 - **Buckle.** A rose-gold lightning bolt.
-- **Hammer.** The lightning bolt on at least both faces, a triangle at the top and a cone at the bottom of the hilt, and no Eye of Horus on the hammer (Sherif, 2026-10-16, 4:08 AM ET, relayed by Wild Rathor.ai).
+- **Hammer.** Plain rectangular block head, cone-bottom hilt, no eye (triangle top retired 2026-10-16, Sherif). Name, Marvel guardrail and trademark check: see 09_CHARACTER_BIBLE.md. The lightning bolt is the same bolt as the ⚡ mark and the Ra-Thor app icon (Sherif, 2026-10-16, 6:45 PM ET; the 4:08 AM triangle top is retired).
 - **Pauldron seal.** The winged Eye of Horus in emerald gemstone green (Sherif, 2026-10-16, 4:08 AM ET).
 - **Emerald.** On panels, emerald appears only on that pauldron seal.
 
@@ -26,7 +26,7 @@ Locked details (council ruling 2026-09-30, amended ISSUE01-CANON-TIDY-1; see `04
 
 ## Prompt stem (prepend to every panel)
 
-> Comic panel, bold ink, graphic-novel lighting. Ra-Thor in gold-and-black circuit-plate armor, winged helm with the Eye of Horus in the halo, T-visor with two glowing white-hot gold eyes, tall obsidian and antique-gold shield with a Vegvísir and decorative gold runes and no Eye of Horus on the shield, winged Eye of Horus pauldron seal in emerald gemstone green, thunder hammer grounded with the lightning bolt on at least both faces and no Eye of Horus on the hammer. Speech bubble with the exact line given. No phone UI, no watermark, no celebrity face.
+> Comic panel, bold ink, graphic-novel lighting. Ra-Thor in gold-and-black circuit-plate armor, winged helm with the Eye of Horus in the halo, T-visor with two glowing white-hot gold eyes, tall obsidian and antique-gold shield with a Vegvísir and decorative gold runes and no Eye of Horus on the shield, winged Eye of Horus pauldron seal in emerald gemstone green, gold rectangular block-head war hammer, one large lightning bolt on each face, straight handle, cone-shaped pommel, no eye, grounded. Speech bubble with the exact line given. No phone UI, no watermark, no celebrity face.
 
 Amendment (ISSUE01-CANON-TIDY-1): the earlier stem, "winged halo, narrow visor with a warm eye-slit, emerald eye-seal kite shield", is amended, not deleted (Sherif, 2026-10-16, 2:15 AM and 2:16 AM ET, shield; 4:08 AM ET, hammer and pauldron, relayed by Wild Rathor.ai).
 

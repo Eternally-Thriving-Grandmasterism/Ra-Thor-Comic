@@ -60,7 +60,7 @@ The story is unchanged: 8 story pages (`ISSUE_01_PRODUCTION.md` §4). The title 
 | 11 | Credits (§5.3 / `CREDITS_AND_INDICIA.md` §2) | exists in the plan |
 | 12 | Character page: armor, helm, chest sun disc with radiating rays, rose-gold lightning-bolt buckle, cape (`CHARACTER_BIBLE.md` §2; `09_CHARACTER_BIBLE.md` canon locks) | proposed |
 | 13 | Shield page: the tall v21 shape, central Vegvísir, decorative gold runes, no Eye of Horus on the shield (`CHARACTER_BIBLE.md` §3). The rune fill is not yet painted on the merged cover | proposed |
-| 14 | Hammer and lightning as painted on the approved cover (`CHARACTER_BIBLE.md` §3). Lightning-bolt motif on at least both faces of the head. No Eye of Horus on the hammer (Sherif, 2026-10-16, 4:08 AM) | proposed |
+| 14 | Hammer and lightning (`CHARACTER_BIBLE.md` §3). Plain rectangular block head, cone-bottom hilt, no eye (triangle top retired 2026-10-16, Sherif). Name, Marvel guardrail and trademark check: see 09_CHARACTER_BIBLE.md. Canonical prompt line: gold rectangular block-head war hammer, one large lightning bolt on each face, straight handle, cone-shaped pommel, no eye. | proposed |
 | 15 | Cover evolution: V15 (`RaThor_Issue01_Cover_V15_source_GrokImagine_1152x1728.jpg`) | proposed |
 | 16 | Cover evolution: V16 | proposed |
 | 17 | Cover evolution: V17 | proposed |
