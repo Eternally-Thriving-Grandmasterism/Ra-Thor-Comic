@@ -59,9 +59,14 @@
  "outputs": [
   "RaThor_Issue01_KDPwrap_24p_premium-color.jpg",
   "RaThor_Issue01_KDPwrap_24p_premium-color.pdf",
+  "RaThor_Issue01_KDPwrap_24p_premium-color_FALLBACK_CMYK_GRACoL2013_CRPC6.pdf",
   "RaThor_Issue01_KDPwrap_24p_premium-color_guides.jpg",
   "RaThor_Issue01_KDPwrap_24p_premium-color_guides_620.jpg",
   "RaThor_Issue01_KDPwrap_24p_premium-color_spine_text_layer.png",
-  "RaThor_Issue01_KDPwrap_24p_premium-color_type_layer.png"
+  "RaThor_Issue01_KDPwrap_24p_premium-color_type_layer.png",
+  "softproof_GRACoL2013_CRPC6_relative.json",
+  "softproof_GRACoL2013_CRPC6_relative_crops.jpg",
+  "softproof_GRACoL2013_CRPC6_relative_side_by_side.jpg",
+  "spec_24p_premium-color.json"
  ]
 }

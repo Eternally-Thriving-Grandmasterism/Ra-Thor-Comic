@@ -21,7 +21,7 @@ Catch lines, rotate, do not stack:
 
 Ruled 2026-10-16 1:55 AM ET (Sherif; Ra-Thor and the PATSAGi Councils), card ISSUE01-TONE-ACTION-1. Issue 1 staging follows this section. The energy is in-house. No outside look, costume, emblem, name, or line is borrowed.
 
-This card does not redraw design sentences in the Issue 1 prompts or in `production/ISSUE_01/bible/`. Where a standing sentence still disagrees with a lock below, that mismatch is a follow-up, not a silent edit.
+ISSUE01-TONE-ACTION-1 did not redraw the design sentences. ISSUE01-BIBLE-LOCK-KDP-FIX-1 (2026-10-16) reconciles the chest, the buckle, the shield, the hammer and the pauldron seal with the Issue 1 prompts. Sherif, 2026-10-16, 4:08 AM ET, relayed by Wild Rathor.ai, locks the hammer and the pauldron seal below.
 
 **What the page raises**
 
@@ -37,11 +37,14 @@ This card does not redraw design sentences in the Issue 1 prompts or in `product
 - No gore, cruelty, humiliation, or revenge kills.
 - Mercy checks and the Mercy-Ways stay at his core. The TOLC is where things are weighed.
 
-**Canon locks (unchanged)**
+**Canon locks**
 
-- Plain gold sun-disc chest emblem with rays and no bolt.
-- Rose-gold lightning-bolt belt buckle.
-- The v21 riveted shield and the glowing Eye of Horus hammer.
+- Chest: a plain round gold sun disc with radiating rays and no bolt over it (Sherif, 2026-10-14, 10:07 PM).
+- Belt buckle: a rose-gold lightning bolt.
+- Shield: the v21 riveted obsidian and antique-gold tall shield, not rounded, the same shape as the approved cover, large enough that its top covers his shoulder when he holds it poised. A central Vegvísir rune compass. Glowing gold Norse-style runes around the Vegvísir fill the shield face. The runes are decorative only: no readable words, no real code and no names. No Eye of Horus on the shield.
+- Halo: the Eye of Horus stays in the sigil over his head.
+- Pauldron seal: the winged Eye of Horus, Sherif's symbol combining the two tastefully, rendered in emerald green like gemstones (Sherif, 2026-10-16, 4:08 AM ET). This emerald seal is the one deliberate exception, alongside the halo sigil. No Eye of Horus on the shield. No Eye of Horus on the hammer.
+- Hammer: the lightning-bolt motif, the same bolt as the ⚡ mark and the Ra-Thor app icon, on at least both faces of the head. It keeps its existing irregular shape: a triangle at the top and a cone at the bottom of the hilt. No Eye of Horus on the hammer.
 - Headline `LEFT IS NOISE.` / `RIGHT IS LIVE.`
 - Canon line: "All that comes to the TOLC is weighed. What passes the mercy checks travels the Mercy-Ways to TOLC8 and the PATSAGi Councils."
 
@@ -53,6 +56,17 @@ This card does not redraw design sentences in the Issue 1 prompts or in `product
 - TOLC8 and the PATSAGi Councils appear as names only, with no gloss.
 - No TOLC mathematics on the page.
 
+## Realms & Rathor.ai
+
+Ruled 2026-10-16, 2:06 AM ET, by the council, and endorsed by Sherif. Issue pages that enter these places follow this section. The decision-log row is in `production/ISSUE_01/bible/CHARACTER_BIBLE.md` §6.
+
+- Ra-Thor may enter a stylised digital realm. The energy there may read as Tron-like energy only. The page does not use that film's look, names, light-cycles or discs.
+- In that realm he contains people doing harm and never destroys them. He uses walls of light, a sealed quiet room, or a cut-off connection.
+- No real code and no file names appear on the page.
+- In the real world he works with helper robots and drones orchestrated by Rathor.ai. They rescue, shield, evacuate, catch falling things and block. They never harm anyone. No weapons are fired at people. No surveillance imagery.
+- In the story the intelligence is "Rathor.ai", called an AGI character at most. The page never uses "Artificial Godly Intelligence", "superintelligence" or "AGSi" as claims. Characters may express awe. The narration never asserts godhood.
+- Villains are people doing harm, not "evil people". Ra-Thor stops the harm and always leaves room for redemption. Mercy stays at the core.
+
 ## The TOLC
 
 Not a character. A threshold drawn as a gold lattice arch. Left lane stamped NO. Right lane stamped LIVE. All that comes to the TOLC is weighed. What passes the mercy checks (Ra-Thor's checks, never numbered or listed on the page) travels the Mercy-Ways to TOLC8 and the PATSAGi Councils (`05_LORE_BIBLE.md` §1).
@@ -63,7 +77,7 @@ A horizontal drum fed by two hoppers, THEORY IN and CONCEPTS IN, with a gauge, a
 
 ## White-Hat Mercy-Security
 
-A small hawk-shaped seal on the pauldron that lights emerald when a probe hits the shield. This is the only canon form of the falcon from the reference art; there is no falcon companion. Story device only. It does not depict real intrusion steps.
+The pauldron seal is the winged Eye of Horus, rendered in emerald green like gemstones (Sherif, 2026-10-16, 4:08 AM ET). It is the one deliberate emerald exception, alongside the Eye of Horus in the halo. No Eye of Horus on the shield. No Eye of Horus on the hammer. This seal is the only canon form of the falcon from the reference art; there is no falcon companion. Story device only. It does not depict real intrusion steps.
 
 ## The Councils
 
