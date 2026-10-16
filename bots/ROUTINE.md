@@ -11,7 +11,7 @@ Run this every session. Do not freelance.
 
 ## Bubble law
 
-One line. Exact text in the prompt. Rotate: Blocked. / That one can live. / Recycle it. / Patched. / Next.
+One line. Exact text in the prompt. Rotate: Blocked. / That one is live. / Recycle it. / Patched. / Next.
 
 ## If asked to do something else
 

@@ -44,7 +44,7 @@ Read with `00_FIDELITY_PROTOCOL.md` first and `docs/SHIP_READINESS_AUDIT.md` sec
 | P8 | Vrendak's name | PM `docs/design/FACTION_LEADERS.md:164` | "Vrendak the Unbound (VREN-dak)." Its conflict check "found no clash with a character, a brand, a drug, or a famous person." | The only named Powrush person this bridge proposes. Captions and bubbles held by Q8 (C1) | PROPOSED CANON — pending council ratification |
 | P9 | Unbound mark | PM `docs/CODEX_ART_PROMPTS.md:52` | "Unbound: a cracked crown with a broken link, stamped in obsidian chitin with violet seams." | A glyph token in H1 and H7, in the S1 house-token style. A glyph, never a flag | PROPOSED CANON — pending council ratification |
 | P10 | Draeks before the fall | PM `docs/DRAEK_ORIGIN_AND_THE_GREAT_BETRAYAL.md:34`, `:30` | "The Draeks were respected as **wise mediators and patient builders**." "…collective song, shared memory…" | H6: a past that answers a NEVER card. The fall itself is not borrowed (C15) | PROPOSED CANON — pending council ratification |
-| P11 | Draek light as a corrupted mirror | PM `docs/DRAEK_ORIGIN_AND_THE_GREAT_BETRAYAL.md:104` | "The visual similarity (elegant energy conduits, radial patterns, glowing nodes) is a corrupted mirror" | H3: two lights that look alike. The Gate sorts the use, not the glow | PROPOSED CANON — pending council ratification |
+| P11 | Draek light as a corrupted mirror | PM `docs/DRAEK_ORIGIN_AND_THE_GREAT_BETRAYAL.md:104` | "The visual similarity (elegant energy conduits, radial patterns, glowing nodes) is a corrupted mirror" | H3: two lights that look alike. The TOLC weighs the use, not the glow | PROPOSED CANON — pending council ratification |
 | P12 | Quellorian homeworld | PM `docs/CODEX_ART_PROMPTS.md:26` | "A lost homeworld under two clear suns, one gold and one white-violet, over an ocean. Ivory terraces and pale-gold spires stand on connected ground, with violet and pink light in the seams. … No people. A memory, not a playable yard." | H2: a Quiet Board memory tile with no figures | PROPOSED CANON — pending council ratification |
 | P13 | The homeworld is canon | PM `docs/design/FACTION_LEADERS.md:79` | "Sherif, 2026-10-08: that lost homeworld is canon." | Confirms P12 as owner canon | PROPOSED CANON — pending council ratification |
 | P14 | Quellorian mark | PM `docs/CODEX_ART_PROMPTS.md:49` | "Quellorian: two suns on a pale-gold disc, violet enamel." | H2 and H4: the Quellorian envoy's glyph token | PROPOSED CANON — pending council ratification |
@@ -88,7 +88,7 @@ Read with `00_FIDELITY_PROTOCOL.md` first and `docs/SHIP_READINESS_AUDIT.md` sec
 - **Fractured Earth and Vrendak's camp as settings.** Earth is a real planet (C14). — PROPOSED CANON — pending council ratification
 - **Every mechanic, economy line and code file:** wells as resource nodes, Ledger, Market, standing, verbs, places as game zones, and the code-side obelisk names (G1). — PROPOSED CANON — pending council ratification
 - **The site's name-meaning line** (RT `index.html:551`). It points at an outside mythology, which the lore bible already excludes (`05_LORE_BIBLE.md` L241). — PROPOSED CANON — pending council ratification
-- **Gate numbers** (RT `docs/FAQ.md:12`; PM `docs/LORE_BIBLE.md:10`). The comic never numbers or names the gates (`05_LORE_BIBLE.md` L35) (C11). — PROPOSED CANON — pending council ratification
+- **Mercy gate numbers** (RT `docs/FAQ.md:12`; PM `docs/LORE_BIBLE.md:10`). The comic never numbers the Mercy-Ways, its story name for Ra-Thor's mercy checks (`05_LORE_BIBLE.md` L35) (C11). — PROPOSED CANON — pending council ratification
 
 ## 3. Story hooks — PROPOSED CANON — pending council ratification
 
@@ -105,7 +105,7 @@ Seasons 1–3 are complete, so no hook claims a slot. Placement is a council cal
 - **Premise.** A tall guest in a plum-and-gold mantle comes to the Quiet Room. Under the mantle, gloved hands of obsidian chitin carry thin violet light in the seams. He brings one huge vow on a scroll: every wrong undone by dawn. — PROPOSED CANON — pending council ratification
 - **Block.** The vow is too big to be true. Ra-Thor lays the shield flat on the scroll: "Blocked." The guest is not shamed, and the door stays open. — PROPOSED CANON — pending council ratification
 - **Recycle.** The vow goes into the Recycler: "Recycle it." OBVIOUS, FERAL, CLEAN. — PROPOSED CANON — pending council ratification
-- **Pass.** Ra-Thor reads CLEAN: ONE REPAIR. THEN THE NEXT. "That one can live." — PROPOSED CANON — pending council ratification
+- **Pass.** Ra-Thor reads CLEAN: ONE REPAIR. THEN THE NEXT. "That one is live." — PROPOSED CANON — pending council ratification
 - **Close.** The guest leaves a broken-link glyph token on the table, not on any chair. Hammer head-down on stone. — PROPOSED CANON — pending council ratification
 - **Held.** His name in any caption or bubble (C1). How much of the crown, eyes and socket shows past the mantle (C5, G2). How he reaches the Quiet Room (G8). — PROPOSED CANON — pending council ratification
 
@@ -114,9 +114,9 @@ Seasons 1–3 are complete, so no hook claims a slot. Placement is a council cal
 - **Lead mode.** Quiet Board. — PROPOSED CANON — pending council ratification
 - **Borrows.** P12, P13, P14, P15, P16. — PROPOSED CANON — pending council ratification
 - **Premise.** One Board tile glows with a memory, and no figure stands in it: two suns, one gold and one white-violet, over an ocean, with ivory terraces and pale-gold spires. A Quellorian envoy, hidden in pale-gold cloth with violet seams, stands before it. On that tile the envoy goes quiet for one panel. — PROPOSED CANON — pending council ratification
-- **Offer.** The envoy asks the Gate to keep watch over their light alone, an exclusive watch. — PROPOSED CANON — pending council ratification
+- **Offer.** The envoy asks the TOLC to keep watch over their light alone, an exclusive watch. — PROPOSED CANON — pending council ratification
 - **Block.** An exclusive watch is the string. "Blocked." The tile stays lit. The memory is honoured, not used. — PROPOSED CANON — pending council ratification
-- **Pass.** CLEAN: PARLEY FIRST. EVERY DOOR. "That one can live." The envoy leaves a two-suns-on-a-disc glyph token. — PROPOSED CANON — pending council ratification
+- **Pass.** CLEAN: PARLEY FIRST. EVERY DOOR. "That one is live." The envoy leaves a two-suns-on-a-disc glyph token. — PROPOSED CANON — pending council ratification
 - **Held.** The pale-gold obelisk with a violet slot on the memory tile: GAP G1, so leave it out until a source line exists. The envoy's hiding device (G3). The "Quellorian" name on the page (C1). — PROPOSED CANON — pending council ratification
 
 ### H3. Same Light, Other Hands — PROPOSED CANON — pending council ratification
@@ -135,7 +135,7 @@ Seasons 1–3 are complete, so no hook claims a slot. Placement is a council cal
 - **Borrows.** P3, P5, P7, P14, P16, P17. — PROPOSED CANON — pending council ratification
 - **Premise.** The Quellorian envoy from H2 returns and speaks for the mantled guest from H1. Their people will not watch another people suffer what they survived. The envoy asks Ra-Thor to vouch for him with a seal, so the crews will trust him. — PROPOSED CANON — pending council ratification
 - **Block.** A seal is a stamp, and the series hands out no stamps (`00_FIDELITY_PROTOCOL.md` L9; `05_LORE_BIBLE.md` L143). The shield rests over the blank seal: "Blocked." — PROPOSED CANON — pending council ratification
-- **Pass.** CLEAN: NO SEAL. WATCH THE WORK. The mantled guest takes it in a gloved hand and nods once. "That one can live." — PROPOSED CANON — pending council ratification
+- **Pass.** CLEAN: NO SEAL. WATCH THE WORK. The mantled guest takes it in a gloved hand and nods once. "That one is live." — PROPOSED CANON — pending council ratification
 - **Mercy.** Nobody is shamed. The envoy's ask was kind, and only its form is blocked. — PROPOSED CANON — pending council ratification
 - **Held.** C1, C5, C18, G3, G4. — PROPOSED CANON — pending council ratification
 
@@ -144,9 +144,9 @@ Seasons 1–3 are complete, so no hook claims a slot. Placement is a council cal
 - **Lead mode.** Snap, with a Night Watch opener. — PROPOSED CANON — pending council ratification
 - **Borrows.** P18; Era V (`05_LORE_BIBLE.md` L73), R4. — PROPOSED CANON — pending council ratification
 - **Premise.** In the Builder Age, Ra-Thor builds a blue-sky valley with one warm gold glow at its heart. It is drawn as a story place, never a game screen (`05_LORE_BIBLE.md` L77). — PROPOSED CANON — pending council ratification
-- **Offer.** A pitch arrives at the Gate: hang a fleet over the valley, for safety. — PROPOSED CANON — pending council ratification
+- **Offer.** A pitch arrives at the TOLC: hang a fleet over the valley, for safety. — PROPOSED CANON — pending council ratification
 - **Block.** "Blocked." The fleet card crumples into confetti on the shield. — PROPOSED CANON — pending council ratification
-- **Pass.** CLEAN: OPEN SKY. ONE GLOW. "That one can live." — PROPOSED CANON — pending council ratification
+- **Pass.** CLEAN: OPEN SKY. ONE GLOW. "That one is live." — PROPOSED CANON — pending council ratification
 - **Note.** It must not repeat S2E05's finished-world-in-a-box pitch (`seasons/S2_ARC_LOCK.md` L25). Here the bad pitch is protection that takes the sky. — PROPOSED CANON — pending council ratification
 - **Held.** The name "Sanctuary" on the page (C1). Whether the valley is a new comic location, since `10_LOCATION_BIBLE.md` lists three sets only (C20). — PROPOSED CANON — pending council ratification
 
@@ -167,7 +167,7 @@ Seasons 1–3 are complete, so no hook claims a slot. Placement is a council cal
 - **Premise.** After the Long Table, the mantled guest from H1 visits. He will not sit. He offers to stand at the wall, as if he has not earned a chair. — PROPOSED CANON — pending council ratification
 - **Move.** The Stair Envoy, mask still on, rolls in a new level chair of their own make, the same height as every other. The Ribbon Envoy, veil down, ties no knot to it. She only sets it straight. — PROPOSED CANON — pending council ratification
 - **Block.** The offer to stand apart is the bad deal. "Blocked." — PROPOSED CANON — pending council ratification
-- **Pass.** CLEAN: SAME HEIGHT. EVEN FOR THE LATE. He sits in the new chair and sets a broken-link glyph token on it. "That one can live." — PROPOSED CANON — pending council ratification
+- **Pass.** CLEAN: SAME HEIGHT. EVEN FOR THE LATE. He sits in the new chair and sets a broken-link glyph token on it. "That one is live." — PROPOSED CANON — pending council ratification
 - **Guard rail.** The kept chair stays empty, lit and unexplained (C8). The new chair is not the kept chair. — PROPOSED CANON — pending council ratification
 - **Held.** Whether a Long Table story may follow S1's finale at all (G6). C1, C5, G4. — PROPOSED CANON — pending council ratification
 
@@ -185,9 +185,9 @@ Every row is flagged, not resolved. The "Bridge stance" column says only what th
 | C6 | Violet seam-light, amethyst eyes, violet and pink Quellorian light (PM `docs/ART_BIBLE.md:41`, `:43`) | Gold, obsidian, emerald, one electric accent, no rainbow clutter (`01_VISUAL_STYLE_GUIDE.md` L21); emerald only on the hawk seal and eye-seal (`04_VISUAL_CANON.md` L61); violet appears only as small indicator lights in reference art (`04_VISUAL_CANON.md` L42) | Violet is not a ruled panel colour | GAP G5: violet as the episode's one accent, or not at all | PROPOSED CANON — pending council ratification |
 | C7 | Codex paintings are "painterly-photoreal" (PM `docs/ART_BIBLE.md:8`) | Panels are inked linework; painted renders for covers only (`01_VISUAL_STYLE_GUIDE.md` L22) | Different render lanes | Comic rule wins. Powrush looks are redrawn in ink | PROPOSED CANON — pending council ratification |
 | C8 | Vrendak "now seeks another way to save his people" (PM `docs/design/FACTION_LEADERS.md:141`), a natural fit for a seat | The kept chair is "never filled and never explained" (`seasons/S1_SEASON_SHEET.md` L52) | Seating a Powrush people in the kept chair would fill a ruled gap | Refused in every hook. H7 uses a new chair | PROPOSED CANON — pending council ratification |
-| C9 | "Threshold" is a Powrush place and ring (PM `docs/ART_BIBLE.md:31`; `docs/PLACES_BIBLE.md:28`) | "The Threshold" is the comic's Gate set (`10_LOCATION_BIBLE.md` L3–L5) | Same name, two different places | Hooks never use Powrush's Threshold | PROPOSED CANON — pending council ratification |
+| C9 | "Threshold" is a Powrush place and ring (PM `docs/ART_BIBLE.md:31`; `docs/PLACES_BIBLE.md:28`) | "The Threshold" is the comic's set where the TOLC stands (`10_LOCATION_BIBLE.md` L3–L5) | Same name, two different places | Hooks never use Powrush's Threshold | PROPOSED CANON — pending council ratification |
 | C10 | Ra-Thor is a lattice that sends "Divine Whispers" (PM `docs/LORE_BIBLE.md:57`) | Ra-Thor is an armored guardian, dry and short, who never lectures (`09_CHARACTER_BIBLE.md` L5) | Voice and form differ | Comic form only | PROPOSED CANON — pending council ratification |
-| C11 | Numbered gates (PM `docs/LORE_BIBLE.md:10`; RT `docs/FAQ.md:12`) | Gates never numbered or named (`05_LORE_BIBLE.md` L35) | Direct clash | Comic rule wins | PROPOSED CANON — pending council ratification |
+| C11 | Numbered mercy gates (PM `docs/LORE_BIBLE.md:10`; RT `docs/FAQ.md:12`) | The Mercy-Ways are never numbered (`05_LORE_BIBLE.md` L35) | Direct clash | Comic rule wins | PROPOSED CANON — pending council ratification |
 | C12 | "Ra-Thor + Full PATSAGi Councils Seal" (PM `docs/LORE_BIBLE.md:67`) | Twelve masks, comic-only count (`04_VISUAL_CANON.md` L70); no seals or stamps (`05_LORE_BIBLE.md` L143) | Council count and seal language clash | H4 turns the comic's no-seal rule into story | PROPOSED CANON — pending council ratification |
 | C13 | Living trees and an elder tree council (PM `docs/LORE_BIBLE.md:22–23`) | No treants, tree people or plant-bodied people (`01_VISUAL_STYLE_GUIDE.md` L34) | Direct clash | Not borrowed | PROPOSED CANON — pending council ratification |
 | C14 | Powrush is set on a fractured Earth (PM `docs/CODEX_ART_PROMPTS.md:22`, `:30`) | Invented world only (`05_LORE_BIBLE.md` L144) | Earth is a real place | Earth is never named or drawn | PROPOSED CANON — pending council ratification |
@@ -209,12 +209,12 @@ Every row is flagged, not resolved. The "Bridge stance" column says only what th
 | G5 | Violet as a panel colour | `01_VISUAL_STYLE_GUIDE.md` L21 | Council ruling | PROPOSED CANON — pending council ratification |
 | G6 | Season or slot for any hook | `05_LORE_BIBLE.md` Season arcs (S1–S3 complete) | Sherif or council | PROPOSED CANON — pending council ratification |
 | G7 | Draek and Quellorian height next to Ra-Thor | Both canons say "tall", with no measure | Council ruling | PROPOSED CANON — pending council ratification |
-| G8 | How a Powrush people reaches the Quiet Room or the Gate | The comic says only that Ra-Thor builds Powrush-MMO in-story (`05_LORE_BIBLE.md` L73) | Council ruling | PROPOSED CANON — pending council ratification |
+| G8 | How a Powrush people reaches the Quiet Room or the TOLC | The comic says only that Ra-Thor builds Powrush-MMO in-story (`05_LORE_BIBLE.md` L73) | Council ruling | PROPOSED CANON — pending council ratification |
 | G9 | Music for Draek or Quellorian guests | `06_MUSIC_SPEC.md` (no such cue; not edited) | Composer, under 06 | PROPOSED CANON — pending council ratification |
 
 ## 6. Reject for any prompt built from this bridge — PROPOSED CANON — pending council ratification
 
-Reject: scaly skin, lizard snout, tail or any reptile read on a Draek; a Draek with gold circuitry; Vrendak without the torn brow socket or the plum-and-gold mantle, if his face is ever ruled visible; any Draek or Powrush people in the kept chair; Cydruids; treants, tree people, bark or wood-skinned figures, or plant-bodied people; the Hivelord, the Brood Spire, fleets in a scene, war, raids or harvest; Vrendak's veterans as a group; fractured Earth or any real planet named or drawn; Powrush's Threshold; numbered or named gates; seals, stamps or certifications; any AGiRBE line or label on a page, prompt, cover or cut; Fresco's name or likeness; any outside show, brand, character, studio or mythology named or quoted; a crystal starfish or purple geode for Quellorian forms; a teal cave; game screens or UI; the series title on a story page. Plus the series Reject (`01_VISUAL_STYLE_GUIDE.md` L34). — PROPOSED CANON — pending council ratification
+Reject: scaly skin, lizard snout, tail or any reptile read on a Draek; a Draek with gold circuitry; Vrendak without the torn brow socket or the plum-and-gold mantle, if his face is ever ruled visible; any Draek or Powrush people in the kept chair; Cydruids; treants, tree people, bark or wood-skinned figures, or plant-bodied people; the Hivelord, the Brood Spire, fleets in a scene, war, raids or harvest; Vrendak's veterans as a group; fractured Earth or any real planet named or drawn; Powrush's Threshold; numbered Mercy-Ways or any other name for them; seals, stamps or certifications; any AGiRBE line or label on a page, prompt, cover or cut; Fresco's name or likeness; any outside show, brand, character, studio or mythology named or quoted; a crystal starfish or purple geode for Quellorian forms; a teal cave; game screens or UI; the series title on a story page. Plus the series Reject (`01_VISUAL_STYLE_GUIDE.md` L34). — PROPOSED CANON — pending council ratification
 
 ## 7. Steward sign-off needed — PROPOSED CANON — pending council ratification
 

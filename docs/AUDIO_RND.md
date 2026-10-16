@@ -18,7 +18,7 @@ Read with `06_MUSIC_SPEC.md` first and `screen/S1E01/SCORE_PLAN.md` second. `doc
 - **Frequencies are mood only.** 432 Hz, 543 Hz, 528 Hz, and 108 / 54 Hz are aesthetic choices. No healing, DNA, wellness, or other health claim. Banned wording includes "healing frequency", "DNA repair", "miracle tone", "pineal activation", and "safe & effective" (`06_MUSIC_SPEC.md` §4).
 - **No samples** of commercial recordings, and no loop whose licence forbids broadcast or sync (`06_MUSIC_SPEC.md` §5).
 - **AI tools** only with written terms that grant commercial and sync rights. Never prompt with a name. Every AI-assisted cue gets human review and a log row (`06_MUSIC_SPEC.md` §5).
-- **Fixed assets stay fixed.** "Blocked.", "That one can live.", and the Grounded motif are reused unchanged (`06_MUSIC_SPEC.md` §1). They are recorded once and reused as files. They are not regenerated per episode.
+- **Fixed assets stay fixed.** "Blocked.", "That one is live.", and the Grounded motif are reused unchanged (`06_MUSIC_SPEC.md` §1). They are recorded once and reused as files. They are not regenerated per episode.
 - **This file edits nothing else**, and it edits no other repo. Powrush-MMO was read only.
 
 ---
@@ -152,7 +152,7 @@ Sunny daytime and dark-driving-outside-siege are both declined. The answer to §
 | Role | Who | Why |
 |---|---|---|
 | Draft beds and non-signature cues | A paid host from §3, prompted in craft terms | Speed, and a written commercial grant. The draft is a take, not the master. |
-| Grounded motif, "Blocked.", "That one can live." | Human finisher, once | They must be identical across episodes. A new generation will drift. |
+| Grounded motif, "Blocked.", "That one is live." | Human finisher, once | They must be identical across episodes. A new generation will drift. |
 | 432 retune, stem split, loudness, wordless check, soundalike reject | Human finisher on every cue | `06` §3.1, §3.5, and §5. Review is mandatory even when the draft is kept. |
 | Ownership | AlphaProMega Media Inc. | `LICENSE` and `06` §5. The finisher's contract assigns the human authorship to the company. |
 
@@ -173,7 +173,7 @@ One path for Living Thunder, and the same path later for another product if that
 1. **Brief, craft terms only.** Copy tempo, key, mode, and instrumentation from `06` §2 and the episode score plan. State A4 = 432. State wordless. State the stem list. Do not name a person, a group, a company, or a recording. Do not write "like" anything. Do not write a health claim. Do not put 528 Hz under a held chord, and do not hold 543 Hz over a chord that lacks C# (`06` §3.2).
 2. **Tool check, that day.** Confirm the account is on a tier whose written terms grant commercial use and sync for this picture. Paste the terms, the date, and the tier into the per-track log (`06` §5 template). Reject Free Suno, Free Eleven Music, any Eleven Music self-serve plan for a trailer or pilot, and Udio until its terms are readable.
 3. **Draft.** One take per cue. In-episode: no sung words. Intro and outro themes, when those exist, may carry original words with no real names and no frequency claims. If the host offers an artist, label, or title control, leave it empty.
-4. **Human review, every take.** Reject and do not name the source if the take is recognizable as an existing work, if it sings during an episode, if it uses a darksynth color outside siege, or if a stem is still at 440. Retune or rebuild. Split into the §3.5 stems. Lock Grounded, "Blocked.", and "That one can live." as the master files on their first approval, then reuse the files.
+4. **Human review, every take.** Reject and do not name the source if the take is recognizable as an existing work, if it sings during an episode, if it uses a darksynth color outside siege, or if a stem is still at 440. Retune or rebuild. Split into the §3.5 stems. Lock Grounded, "Blocked.", and "That one is live." as the master files on their first approval, then reuse the files.
 5. **Delivery.** WAV 48 kHz / 24-bit. −23 LUFS integrated. True peak at or below −1.0 dBTP. A separate −14 LUFS streaming master only if a platform needs it (`06` §3.5).
 6. **Log, then stop.** One row per track: track, tool, licence terms as of the creation date, date. No artist names in the row. The picture edit uses only logged masters.
 
@@ -195,7 +195,7 @@ The series intro under MAIN TITLES is outside the score plan. It is not in this 
 | 2 | C02 | Glassy bell once, on the lamp glint (S11). A – C#m – F#m – A, pad holds, drone on. | S11 (5 s) | 5 s | The only bell in the episode. Omit this row if the lamp glint is not in the cut. |
 | 3 | C06 | Fixed "Blocked." stinger, unchanged: short, low, muted thud and a filter close. Drone stays 108 Hz. No 54 Hz. | S23 (3 s), S24 (5 s) | 8 s | Place the existing stinger. Do not compose a new one. |
 | 4 | C08 | Light and dry. Three short card tones; CLEAN is a clean A-major bloom. Drone **out** for the gag. | S30 (5 s), S31 (4 s), S32 (4 s) | 13 s | S33 is the GAP shot. Leave it out. SFX: scroll into the hopper, cards landing in the tray, room tone. |
-| 5 | C09 | Fixed "That one can live." stinger: open A-major bloom, 543 Hz pad holds, 528 Hz chime short on top, never held. Drone **returns** at 108 Hz. | S34 (5 s), S35 (4 s), S36 (4 s) | 13 s | SFX: token set on the chair, room tone. |
+| 5 | C09 | Fixed "That one is live." stinger: open A-major bloom, 543 Hz pad holds, 528 Hz chime short on top, never held. Drone **returns** at 108 Hz. | S34 (5 s), S35 (4 s), S36 (4 s) | 13 s | SFX: token set on the chair, room tone. |
 | 6 | C10 | Grounded: four notes rise, land on A, and hold. Pad holds. Drone on. No drums. No bell. | S39 (6 s) | 6 s | The trailer ends on the hold. Nothing plays after it. |
 
 **Sum of the shots named above: 56 s.** A title card, if the council rules one, is the room between 56 s and the 60–90 s ask. No title card is defined in the score plan (`docs/SHIP_READINESS_AUDIT.md` §5.2 step 3).

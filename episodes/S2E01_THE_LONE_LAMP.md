@@ -1,6 +1,6 @@
 # Season 2, Episode 01 — The Lone Lamp
 
-Status: draft. Six panels scripted, not yet prompted. Season 2 opener, arc C, The Lamp Before the Gate. Quiet Board mode (lead), with a Night Watch object-flashback opener as the one borrowed panel. Ra-Thor finds an old notebook and opens it to the first page. At the Gate, a pitch promises to fill a whole table by morning with strings on every seat. The strings are blocked, the crossed-out first plan goes to the Recycler, a small honest invitation passes, and the hammer never moves.
+Status: draft. Six panels scripted, not yet prompted. Season 2 opener, arc C, The Lamp Before the TOLC. Quiet Board mode (lead), with a Night Watch object-flashback opener as the one borrowed panel. Ra-Thor finds an old notebook and opens it to the first page. At the TOLC, a pitch promises to fill a whole table by morning with strings on every seat. The strings are blocked, the crossed-out first plan goes to the Recycler, a small honest invitation passes, and the hammer never moves.
 
 The Founder: implied only (05, Q3). His lamp, his notebook, his desk and his empty chair, in the flashback only. No figure, no hands, no silhouette, never in a bubble. One handwritten notebook line, shown as an object: "Mercy over competition. Abundance over scarcity."
 
@@ -41,7 +41,7 @@ Council bubble: "Ask them. Don't tie."
 The twelve tiny gold masks ring the halo and turn toward each other, deliberating. The mask at nine o'clock has the one bubble. The others are mid-argument, mouths open, no text. Two glance down at the notebook still open on the table. Below them, the visor slit narrows, unhurried. This is the slowest panel of the episode.
 Prompt: [stem] + close on the halo ring of twelve tiny gold masks turning toward each other in deliberation, exactly one tiny four-word bubble from the mask at nine o'clock, the other masks mid-argument with mouths open and no text, two masks glancing down toward an open notebook on the table, visor slit narrowed and calm below, hammer grounded at frame edge.
 
-## Panel 4 — The block, at the Gate
+## Panel 4 — The block, at the TOLC
 
 Caption: THRESHOLD. THE STRINGS ARE BLOCKED. THE TABLE IS NOT.
 Bubble: "Blocked."
@@ -58,7 +58,7 @@ Prompt: [stem] + compact IDEA-RECYCLER beside a gold lattice arch (horizontal dr
 ## Panel 6 — Quiet closer
 
 Caption: ONE LAMP. ONE INVITATION. HAMMER STILL GROUNDED.
-Bubble: "That one can live."
+Bubble: "That one is live."
 The Host leaves the banquet table standing outside the arch, untied, and sends one small folded invitation card down the LIVE lane. The card has no visible writing. The lattice lets it through. Ra-Thor stands planted at the arch, the notebook under his arm, shield upright with the eye-seal out. The masks dim one by one. Visor slit wide-gold. Hammer head-down on stone.
 Prompt: [stem] + quiet closing shot at a gold lattice arch over dark stone, a single small folded invitation card with no visible writing sliding through the LIVE lane, a long banquet table standing untied outside the arch, an invented figure in a high-collared coat and wide-brimmed hat with the face hidden in shadow stepping back, Ra-Thor planted at the arch with an old closed notebook under one arm, tiny gold masks dimming around the halo, shield upright with the emerald eye-seal clearly visible, visor slit wide and gold, hammer head-down on stone, small crack and sparks at contact, deep shadow beyond the lattice glow.
 Fidelity note: eye-seal must read clearly on the shield face. A plain emerald gem is a reject.
@@ -72,10 +72,10 @@ Fidelity note: eye-seal must read clearly on the shield face. A plain emerald ge
 - **Panel 3.** The kick drops out for the decision (silence is deliberation). The twelve-mask blip ring murmurs, panned across the stereo field. The pad holds.
 - **Panel 4.** Fixed "Blocked." stinger: a short, low, muted thud and a filter close, timed to the strings going slack. The block resolves to a soft A-major chord, smaller than expected. The pulse resumes one bar later.
 - **Panel 5.** Light and dry. Three short card tones, the CLEAN one a clean major bloom.
-- **Panel 6.** Fixed "That one can live." stinger: an open major-chord bloom topped by the short 528 Hz chime, never held. This is the button; no Snap cue, the stinger only. Then the Grounded motif: four notes rise and land back on the tonic, A, and hold. The episode ends there.
+- **Panel 6.** Fixed "That one is live." stinger: an open major-chord bloom topped by the short 528 Hz chime, never held. This is the button; no Snap cue, the stinger only. Then the Grounded motif: four notes rise and land back on the tonic, A, and hold. The episode ends there.
 - **Wordless.** Every cue in this episode is wordless. There is no choir swell in this episode.
 - **Mood words only.** No artist, band, label, or track names in any brief or prompt. The tuning is an aesthetic choice only; no health claims anywhere.
 
 ## Reject
 
-Armor removed or opened. Hammer raised or swung. Gun focus. Gore. Any figure, hands, back, silhouette, shadow, or reflection of the Founder, or the Founder in a bubble. Any notebook line other than "Mercy over competition. Abundance over scarcity." Any intelligence label, status claim, score, certification, or approval stamp on any card, page, sign, or tile. Writing on the studio sign. Any owner, studio, game, or product name. Outside games, game art, or game screens. A year anywhere except the Panel 1 era card; a year in a bubble or in the present day. Any day, month, place, or name next to the era card. Real biography, personal details, or third parties. The Founder's chair anywhere but at his desk in the flashback. The guest's face shown. Guest mocked, hurt, or humiliated. Real flags, real countries, real leaders, real parties, real conflicts, or any allegory pointed at one. Real clothing brands or cultural costume. Readable private documents. An expanded TOLC or numbered gates. Non-canon helm, emerald visor, chest seal, diamond-gem shield. xAI wordmarks. A recognizable actor or franchise character. Anything past an eyebrow-raise of spice.
+Armor removed or opened. Hammer raised or swung. Gun focus. Gore. Any figure, hands, back, silhouette, shadow, or reflection of the Founder, or the Founder in a bubble. Any notebook line other than "Mercy over competition. Abundance over scarcity." Any intelligence label, status claim, score, certification, or approval stamp on any card, page, sign, or tile. Writing on the studio sign. Any owner, studio, game, or product name. Outside games, game art, or game screens. A year anywhere except the Panel 1 era card; a year in a bubble or in the present day. Any day, month, place, or name next to the era card. Real biography, personal details, or third parties. The Founder's chair anywhere but at his desk in the flashback. The guest's face shown. Guest mocked, hurt, or humiliated. Real flags, real countries, real leaders, real parties, real conflicts, or any allegory pointed at one. Real clothing brands or cultural costume. Readable private documents. An expanded TOLC or numbered Mercy-Ways. Non-canon helm, emerald visor, chest seal, diamond-gem shield. xAI wordmarks. A recognizable actor or franchise character. Anything past an eyebrow-raise of spice.

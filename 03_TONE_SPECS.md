@@ -81,7 +81,7 @@ Spy-thriller elegance with the armor on. A negotiation where the line does the w
 - **Example beats (our episodes).**
   - E04 Panel 1–2: "Most guests take the armor off for the hour." / "Most guests lose the hour."
   - E04 Panel 4: the shield pins the EXCLUSIVE card; gold strings go slack. "Blocked."
-  - E04 Panel 6: TWO GLASSES. NEITHER TOUCHED. "That one can live."
+  - E04 Panel 6: TWO GLASSES. NEITHER TOUCHED. "That one is live."
 
 ---
 

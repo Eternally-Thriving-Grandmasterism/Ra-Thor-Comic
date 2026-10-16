@@ -111,7 +111,7 @@ MUSIC: C04. "The drums drop out for the council." [CANON: `episodes/S1E01_THE_RI
 
 "Below them, Ra-Thor has not moved. Visor slit patient." [CANON: `episodes/S1E01_THE_RIBBON_CLAUSE.md` L33]
 
-The masks advise; they do not decide (`09_CHARACTER_BIBLE.md` L28, "They do not outvote the Gate."). The hammer stays grounded at frame edge (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L34).
+The masks advise; they do not decide (`09_CHARACTER_BIBLE.md` L28, "They do not outvote the TOLC."). The hammer stays grounded at frame edge (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L34).
 
 ### Beat 2.2. The choice is made, unseen (`screen/S1E01/BEAT_SHEET.md` L118)
 
@@ -187,7 +187,7 @@ SFX: the cards landing in the tray (G5 C; `screen/S1E01/GAP_RULINGS.md` L66).
 
 INSERT: the CLEAN card. "It says TRADE WITHOUT KNOTS." [CANON: `episodes/S1E01_THE_RIBBON_CLAUSE.md` L47]
 
-### Beat 4.3. That one can live (`screen/S1E01/BEAT_SHEET.md` L169)
+### Beat 4.3. That one is live (`screen/S1E01/BEAT_SHEET.md` L169)
 
 **INT. QUIET ROOM — THE LONG TABLE — CONTINUOUS** [PROPOSED CANON — pending council ratification: a new scene, so each scene carries one catch line at most]
 
@@ -195,7 +195,7 @@ INSERT: the CLEAN card. "It says TRADE WITHOUT KNOTS." [CANON: `episodes/S1E01_T
 
 **RA-THOR**
 
-"That one can live." [CANON: `episodes/S1E01_THE_RIBBON_CLAUSE.md` L53; catch line, `09_CHARACTER_BIBLE.md` L10]
+"That one is live." [CANON: `episodes/S1E01_THE_RIBBON_CLAUSE.md` L53; catch line, `09_CHARACTER_BIBLE.md` L10]
 
 MUSIC: C09, the fixed stinger, "an open major-chord bloom topped by the short 528 Hz chime, never held." [CANON: `episodes/S1E01_THE_RIBBON_CLAUSE.md` L65] The drone returns under it (G10 B; `screen/S1E01/GAP_RULINGS.md` L115).
 

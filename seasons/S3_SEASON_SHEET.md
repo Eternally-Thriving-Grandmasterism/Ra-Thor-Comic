@@ -59,7 +59,7 @@ The background crate-keepers in S3E06 are fresh figures, and only the Watcher re
 
 ## 4. Music per episode
 
-All cues: Lab Night lead, swung, A4 = 432, no darksynth (no siege, so no 54 Hz drone), every in-episode cue wordless except the one open-vowel choir swell in S3E06, every episode ends on the Grounded motif. The 543 Hz pad is held only over chords containing C#. The drone sits only under the 543-pad sections; the swung sections have none (council ruling, PR #31 review). The "Blocked." thud, the "That one can live." bloom and the short 528 Hz chime play in every episode, S3E04 included (clarification at the #31 merge). The Snap button takes the fixed stinger only, with no Snap cue (`seasons/S3_ARC_LOCK.md` §7, §9).
+All cues: Lab Night lead, swung, A4 = 432, no darksynth (no siege, so no 54 Hz drone), every in-episode cue wordless except the one open-vowel choir swell in S3E06, every episode ends on the Grounded motif. The 543 Hz pad is held only over chords containing C#. The drone sits only under the 543-pad sections; the swung sections have none (council ruling, PR #31 review). The "Blocked." thud, the "That one is live." bloom and the short 528 Hz chime play in every episode, S3E04 included (clarification at the #31 merge). The Snap button takes the fixed stinger only, with no Snap cue (`seasons/S3_ARC_LOCK.md` §7, §9).
 
 | Ep | Key | BPM | Lead | Drone (pad sections only) | 543 held over | Borrow | Notable cues |
 |---|---|---|---|---|---|---|---|
@@ -74,7 +74,7 @@ All cues: Lab Night lead, swung, A4 = 432, no darksynth (no siege, so no 54 Hz d
 
 Council rulings applied across arc B, with where each shows in the repo.
 
-1. **One borrow.** A Snap panel with the fixed stinger only counts as the one borrow (S3E01–S3E03, S3E05, S3E06). S3E04's Quiet Board panel is a visual borrow only: the Lab Night bed continues, with no Quiet Board bed (council ruling, PR #31 review). "No Snap stinger in E04" means only that there is no Snap button panel; the "Blocked." thud, the "That one can live." bloom and the 528 chime play in every episode (clarification at the #31 merge).
+1. **One borrow.** A Snap panel with the fixed stinger only counts as the one borrow (S3E01–S3E03, S3E05, S3E06). S3E04's Quiet Board panel is a visual borrow only: the Lab Night bed continues, with no Quiet Board bed (council ruling, PR #31 review). "No Snap stinger in E04" means only that there is no Snap button panel; the "Blocked." thud, the "That one is live." bloom and the 528 chime play in every episode (clarification at the #31 merge).
 2. **The Snap panel's house spot is the Threshold's LIVE lane.** Vary what is carried, not where (council ruling, PR #33). The house spot applies only to the Snap panel (council ruling, PR #35).
 3. **Blocks at the Threshold.** Recycler Bay is where blocked items go afterward (council ruling, PR #31 review).
 4. **Faction names stay off the page.** No faction name in any caption, bubble or prop; faction names live in docs only for S3. Captions are generic: "A DRY COMMONS", "THE WATCHER" (council ruling, PR #32).
@@ -85,7 +85,7 @@ Council rulings applied across arc B, with where each shows in the repo.
 9. **The crates open by choice, only in S3E06.** They stay shut in S3E04 and S3E05 (council ruling, PR #35). The S3E04 invitation is left open on the page and not recapped by a caption (council ruling, PR #35).
 10. **Generic tools.** Generic, unbranded everyday tools are fine as props; no tool is ever used as a weapon (council ruling, PR #33).
 11. **One honest part.** One honest part in the shared hopper becoming something whole is the series' own conceit and needs no extra beat (council ruling, PR #36).
-12. **No numbers in captions or bubbles.** Prop counts in art prompts are fine (council ruling, PR #36). The fixed house line "That one can live." is exempt from the no-numbers rule (council ruling, PR #37).
+12. **No numbers in captions or bubbles.** Prop counts in art prompts are fine (council ruling, PR #36). The fixed house line "That one is live." is exempt from the no-numbers rule (council ruling, PR #37).
 13. **The notebook line, once.** "Enough for everyone, with nobody left out." appears once, verbatim, in S3E06's notebook, and is the only notebook line in S3 (council ruling, PR #31 review). The Founder stays implied only, with no reading line used in S3.
 14. **One wordless choir swell, in S3E06.** A single open vowel as the crates open, mirroring S2E06, fading before the 528 chime (council ruling, PR #31 review).
 15. **Drones under the pad only.** The Lab Night drone sits only under the 543-pad sections; the swung sections have no drone. The keys and drones are confirmed (council ruling, PR #31 review).
@@ -133,8 +133,8 @@ Rule (not printed): **Jacque Fresco.** Cited as Sherif's named inspiration in do
 - **Q7, Powrush-MMO on the page. OPEN.** Its line stays out of every panel (council ruling, PR #31 review).
 - **Q8, owner and work names. OPEN.** Nothing in S3 names an owner, studio, game, product or work.
 - **`06_MUSIC_SPEC.md` §6. OPEN.** Item 1 (synthwave sub-flavor) and item 3 (who composes) carry forward and did not block S3 (council ruling, PR #31 review). Item 2 (vocals) is answered.
-- **TOLC.** Not used in any S3 episode; never defined, gates never numbered.
-- **Season gates (`05_LORE_BIBLE.md`, Season arcs).** All three arcs in 05 are now used: S1 = A, S2 = C, S3 = B. 05 names no further arc.
+- **TOLC.** Not used in any S3 caption or bubble; never defined, the Mercy-Ways never numbered.
+- **Season unlocks (`05_LORE_BIBLE.md`, Season arcs).** All three arcs in 05 are now used: S1 = A, S2 = C, S3 = B. 05 names no further arc.
 
 ## 9. Discrepancies noted across the season
 

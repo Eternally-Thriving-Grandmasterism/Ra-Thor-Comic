@@ -62,8 +62,8 @@ Format: `production/README.md` §(a). Captions and bubbles are verbatim from the
 - **Location:** Quiet Room, down the long table (S1E03 P6 prompt; S1E03 Set)
 - **Action / staging:** The Ink Envoy pockets the CLEAN card, sets the capped pen across one empty chair as their house's marker, and turns to go, cowl still up. The knot and step tokens glint further down the table. The masks dim one by one. Visor slit wide-gold. Lamp, shadow, hammer head-down on stone. (S1E03 P6)
 - **Caption:** THREE CHAIRS SPOKEN FOR. THE INK STAYS. HAMMER STILL GROUNDED. (S1E03 P6)
-- **Bubble (Ra-Thor, canon catch line, 09):** "That one can live." (S1E03 P6)
-- **SFX:** the fixed "That one can live." stinger, an open major-chord bloom topped by the short 528 Hz chime (S1E03 Music cues, Panel 6; 06 §1).
+- **Bubble (Ra-Thor, canon catch line, 09):** "That one is live." (S1E03 P6)
+- **SFX:** the fixed "That one is live." stinger, an open major-chord bloom topped by the short 528 Hz chime (S1E03 Music cues, Panel 6; 06 §1).
 - **Continuity:** the capped pen is [HOUSE-C]'s marker, not its drop glyph, by design (S1 sheet §2; §7 item 3). The knot and step tokens carry forward (S1 sheet §3). The caption continues the running "spoken for" tally (S1 sheet §3). Episode ends with the hammer grounded (S1E03 P6; 00 rule 1).
 
 ## Recycler items and CLEAN card

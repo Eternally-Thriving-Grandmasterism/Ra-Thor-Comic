@@ -69,7 +69,7 @@ Description checks:
 1. armored guardian comic
 2. sci-fi fantasy graphic novel
 3. humorous fantasy comic
-4. gatekeeper short comic
+4. threshold guardian short comic
 5. mostly silent comic
 6. gold armor hero
 7. digital comic one-shot

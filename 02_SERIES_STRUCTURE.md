@@ -5,7 +5,7 @@ Season 0: six shorts. Each stands alone. Order is a dossier, not a myth arc.
 
 | Ep | Title | Device | Joke |
 |----|--------|--------|------|
-| 01 | The Gate | Shield sort | Bullshit left, awesome right |
+| 01 | TOLC | Shield sort | Bullshit left, awesome right |
 | 02 | The Recycler | Idea Recycler | A bad pitch goes in; three cleaner ones come out, one of them feral |
 | 03 | White Hat | Mercy-Security | The attack is real; the reply is a patch and a raised eyebrow |
 | 04 | The Suave Hour | Suave Hour mode | A negotiation. Armor does not come off. The line does the work |

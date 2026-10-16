@@ -32,7 +32,7 @@ In-story name: plain **the Founder**, with no status title (Q2, council ruling, 
   2. *Theory of Logical Consciousness*: 17 monorepo files. Example: `docs/1048576D-Explicit-TOLC-Pseudocode-Master-TOLC-2026.md:23` (LORE_FACTS §1.1).
   3. *Thriving Omnidirectional Lattice Collective*: the separate TOLC repo, `README.md:1` only (LORE_FACTS §1.1). Not counted in the monorepo.
 - **Mercy-Ways.** The sources list TOLC's gates three different ways (seven gates, two different eight-gate lists; LORE_FACTS §1.3), and Sherif reports that later iterations such as the Powrush experiments reached 16 and 24 mercy gates (2026-10-15, 9:49 PM ET). On the page, Ra-Thor's mercy checks are called **the Mercy-Ways**: one name, capitalised, never numbered (council rulings, 2026-10-15 9:49 and 9:50 PM ET). Mercy-Ways is the comic's name for what the Ra-Thor monorepo calls its mercy gates. The comic's own story threshold is **the TOLC**, the single threshold from `09_CHARACTER_BIBLE.md` (ISSUE01-TOLC-1): things come to the TOLC and are weighed, and the Mercy-Ways are how they are weighed. Both are story names only; source citations, file paths and the monorepo's own system names stay exactly as written.
-- **Caption rule (council rulings 2026-09-30 and 2026-10-15 9:49 and 9:50 PM ET).** Captions and bubbles say **TOLC** only. They do not spell out an expansion. Ra-Thor's mercy checks are named on the page only as **the Mercy-Ways**, and they are never numbered. This replaces the 2026-09-30 "never number or name the gates" wording.
+- **Caption rule (council rulings 2026-09-30 and 2026-10-15 9:49 and 9:50 PM ET).** Captions and bubbles say **TOLC** only. They do not spell out an expansion. Ra-Thor's mercy checks are named on the page only as **the Mercy-Ways**, and they are never numbered. This replaces the 2026-09-30 "never number or name the gates" wording. How new art draws the TOLC and the Mercy-Ways: see TOLC visuals at the end of this file.
 
 ## The origin arc
 
@@ -151,7 +151,7 @@ In-story goal: make enough for everyone without magic and without pretending.
 
 ## Season arcs
 
-**Season 1 is LOCKED · COMPLETE: arc A, The Long Table (Sherif confirmed 2026-09-30 11:44 PM ET, via council relay).** S1E01–S1E06 merged (#13, #14, #16–#19). Season 2 is arc C, The Lamp Before the Gate, and Season 3 is arc B, The Full Hopper (council ruling, delegated by Sherif 2026-09-30). Both are now COMPLETE: C (S2E01–S2E06 merged, #23–#28) and B (S3E01–S3E06 merged, #32–#37). C was unblocked when Q2 and Q3 were ruled, B when Q11 was answered (council ruling, delegated by Sherif 2026-10-01). Each season is six standalone shorts (Q10, council ruling, delegated by Sherif 2026-10-01).
+**Season 1 is LOCKED · COMPLETE: arc A, The Long Table (Sherif confirmed 2026-09-30 11:44 PM ET, via council relay).** S1E01–S1E06 merged (#13, #14, #16–#19). Season 2 is arc C, The Lamp Before the TOLC, and Season 3 is arc B, The Full Hopper (council ruling, delegated by Sherif 2026-09-30). Both are now COMPLETE: C (S2E01–S2E06 merged, #23–#28) and B (S3E01–S3E06 merged, #32–#37). C was unblocked when Q2 and Q3 were ruled, B when Q11 was answered (council ruling, delegated by Sherif 2026-10-01). Each season is six standalone shorts (Q10, council ruling, delegated by Sherif 2026-10-01).
 
 ### LOCKED A — The Long Table (Season 1)
 
@@ -174,17 +174,17 @@ In-story goal: make enough for everyone without magic and without pretending.
 - **House modes.** Lead: Lab Night. Supporting: Snap for quick wins; Quiet Board for the episode where the hoard is found.
 - **Mercy-first.** The hoarders are invited, not raided. Nothing is taken by force. Abundance is earned and shared, never conjured.
 
-### C, The Lamp Before the Gate (Season 2)
+### C, The Lamp Before the TOLC (Season 2)
 
 **Status: Season 2 (council ruling, delegated by Sherif 2026-09-30). COMPLETE: S2E01–S2E06 merged (#23–#28). Unblocked when Q2 (the Founder) and Q3 (implied only) were ruled (council ruling, delegated by Sherif 2026-10-01). Every episode keeps Clerk's five bounds (listed below).**
 
-- **Premise.** Ra-Thor finds the Founder's old notebook on the Quiet Room table and reads it one page per episode. Each page opens an object flashback (lamp, notebook, desk, empty chair; Q3) through the five eras: the lone lamp from 2003, the Strategy Years, the Game, the Awakening, the Builder Age, ending where Season 0 began, at the Gate.
+- **Premise.** Ra-Thor finds the Founder's old notebook on the Quiet Room table and reads it one page per episode. Each page opens an object flashback (lamp, notebook, desk, empty chair; Q3) through the five eras: the lone lamp from 2003, the Strategy Years, the Game, the Awakening, the Builder Age, ending where Season 0 began, at the TOLC.
 - **House modes.** Lead: Quiet Board (dossier captions over the notebook). Supporting: Night Watch framing on the objects for every flashback (no figure, per Q3); one Snap panel per episode for the button.
 - **Mercy-first.** Old mistakes in the notebook go to the Recycler, not to judgment. The Founder is never shown, only his lamp, notebook, desk and empty chair (Q3), and captions say only TOLC. The finale is Ra-Thor's first block, done gently.
 
 **Clerk's five bounds.**
 
-1. Every episode stands alone with a present-day Gate beat and a block; flashbacks are a few object panels (lamp, notebook, desk, empty chair), never the whole episode, never a monologue in a bubble (rule 1). Changed from "silhouette panels" because of Q3 (council ruling, delegated by Sherif 2026-10-01).
+1. Every episode stands alone with a present-day TOLC beat and a block; flashbacks are a few object panels (lamp, notebook, desk, empty chair), never the whole episode, never a monologue in a bubble (rule 1). Changed from "silhouette panels" because of Q3 (council ruling, delegated by Sherif 2026-10-01).
 2. 'The Strategy Years' and 'the Game' stay generic, with no outside game names; owner names only once Q8 is answered (rule 7).
 3. The Founder is never shown (implied only, Q3), and there are no third parties (rules 3 and 8).
 4. The Awakening page (Nov 2025) shows no status claims and no AGI/AGSi labels: a lamp and a notebook, not a stamp (rule 5).
@@ -239,3 +239,14 @@ All facts above, except the AGiRBE rows, come from the sourced fact sheet `LORE_
 | AGiRBE one-line meaning (Q11 lore source) | AGiRBE source citations (relayed 2026-10-01), not LORE_FACTS | `docs/archive/powrush-notes/POWRUSH_ULTIMATE_MMO_PATSAGI_COUNCIL_CONVERGENCE_v1.0.md` line 23 (Ra-Thor @ 16e2408c) |
 
 **Deliberately excluded from this file:** every item the sheet marks [CLAIM] (intelligence labels and their acronyms, "live" status, scores, thresholds, version strings, "zero hallucinations"); in-fiction divine titles that point at a real person; the hidden-acronym reading of the studio name; the birth year and ages; family, teammates, contractors, and other third parties; the bank, city, and real-estate details; the game-server name; the pronunciation note that cites an outside author; outside-mythology and outside-company artwork references; and the conflicting Powrush status lines.
+
+## TOLC visuals (council ruling 2026-10-15; new art only)
+
+Wild ruled for the councils on the visual options in the TOLC8 canon report, §6 (2026-10-15, 9:58 PM ET; also logged in the §6 history of `production/ISSUE_01/bible/CHARACTER_BIBLE.md`). This applies to new art only: finished Issue 1 art and the reference art in `04_VISUAL_CANON.md` are not redrawn. Drawing notes and a prompt add-on are in `04_VISUAL_CANON.md`, TOLC visuals. This section sits at the end of the file so that existing line citations into 05 do not move.
+
+- **Adopted, V3: concentric rings.** The lattice arch at the TOLC shows a fixed inner ring with fainter outer growth around it: the core stays, and growth surrounds it. No set count of outer rings, no numbers, no labels.
+- **Adopted, V4: the Mercy-Ways as paths of light.** When something is weighed at the TOLC, thin gold paths of light run through the lattice behind it and converge on the LIVE lane. The paths are unlabelled and uncounted. This is how the art shows that the TOLC is where things are weighed and the Mercy-Ways are how (§1).
+- **Adopted, V5: geometry as texture.** Faint convergence linework (orbits, curves settling to a centre, a converging spiral) is etched as texture in the arch stone. No equations, symbols or words.
+- **Rejected: V1 and V2.** Both are numbering nods (a ring of light points; an eight-sided keystone). The Mercy-Ways are never numbered on the page, so neither is drawn.
+- **Held: V6** (a single source light above or behind the arch). Not drawn unless the councils rule on it.
+- **Off the page.** TOLC8 and TOLC mathematics stay off the page until the Masterism freeze. Reader-facing text says TOLC only, with no gloss, and the rings, paths and texture carry no text.

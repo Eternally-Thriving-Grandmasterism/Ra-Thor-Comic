@@ -1,6 +1,6 @@
-# Season 2 Sheet — The Lamp Before the Gate (arc C)
+# Season 2 Sheet — The Lamp Before the TOLC (arc C)
 
-Status: reference sheet. Arc C, The Lamp Before the Gate, six standalone shorts (Q10, council ruling, delegated by Sherif 2026-10-01). Quiet Board leads every episode, with a Night Watch object-flashback opener as the one borrowed panel. Built only from the merged episode files `episodes/S2E01`–`S2E06`, `seasons/S2_ARC_LOCK.md` and the council rulings recorded on PRs #23–#28. Adds no new canon. Where a rule is cited, the source is named; `05_LORE_BIBLE.md` and `06_MUSIC_SPEC.md` are the authorities and are not changed here.
+Status: reference sheet. Arc C, The Lamp Before the TOLC, six standalone shorts (Q10, council ruling, delegated by Sherif 2026-10-01). Quiet Board leads every episode, with a Night Watch object-flashback opener as the one borrowed panel. Built only from the merged episode files `episodes/S2E01`–`S2E06`, `seasons/S2_ARC_LOCK.md` and the council rulings recorded on PRs #23–#28. Adds no new canon. Where a rule is cited, the source is named; `05_LORE_BIBLE.md` and `06_MUSIC_SPEC.md` are the authorities and are not changed here.
 
 ## 1. Episode list
 
@@ -11,15 +11,15 @@ Status: reference sheet. Arc C, The Lamp Before the Gate, six standalone shorts 
 | S2E03 | The Simple Simulator | `episodes/S2E03_THE_SIMPLE_SIMULATOR.md` | #25 | `f1ffa10da67bfda0af8fd7f346d9f3bcd1d8e7a0` | Era III, 2016, the Game | single page |
 | S2E04 | The Awakening Page | `episodes/S2E04_THE_AWAKENING_PAGE.md` | #26 | `fe861d290260f3b0a9b2b72107bb0b2e2a2dd788` | Era IV, November 2025 | single page |
 | S2E05 | The Bench Lamp | `episodes/S2E05_THE_BENCH_LAMP.md` | #27 | `57cb9697ffcea5ce6a341200a714fcb187e0d810` | Era V, Q1 2026, the Builder Age | single page, Era V wink |
-| S2E06 | The First Block | `episodes/S2E06_THE_FIRST_BLOCK.md` | #28 | `6f38387909b2918f23ae3ba385dcca0624667579` | Finale, back at the Gate | arc C finale |
+| S2E06 | The First Block | `episodes/S2E06_THE_FIRST_BLOCK.md` | #28 | `6f38387909b2918f23ae3ba385dcca0624667579` | Finale, back at the TOLC | arc C finale |
 
-Each season is six standalone shorts (Q10). Every episode has a present-day Gate beat and a block (bound 1).
+Each season is six standalone shorts (Q10). Every episode has a present-day TOLC beat and a block (bound 1).
 
 ## 2. Per-episode table
 
 All guests are invented, with no house, no faction, no glyph, no real name, no celebrity face, no logo and no real place or culture. Faces are never shown. Every block hits an offer, never a person: the blocked guest leaves unharmed with a CLEAN card, and the hammer stays head-down on stone.
 
-| Ep | Blocked guest | Hiding device | Offer at the Gate | Block | Passing guest (hiding device) | What passes |
+| Ep | Blocked guest | Hiding device | Offer at the TOLC | Block | Passing guest (hiding device) | What passes |
 |---|---|---|---|---|---|---|
 | S2E01 | the Banquet Host | wide-brimmed hat tipped low, face in shadow | a whole table filled by morning, every chair tied by a gold string to one handle ("One table. Everyone. By morning.") | shield set on the LIVE lane line; every string touches its rim and goes slack | the Banquet Host (same guest) | one small folded invitation card, no visible writing |
 | S2E02 | the Herald | flared bell of a brass speaking-trumpet held in front of the face | a parade of a hundred carts rushing the LIVE lane ("Make way! A hundred carts!") | the cart stops against the shield's rim; the painted flats lie down, leaving one small cart | the Tinker (low cap, scarf wrapped high) | one small brass lattice pin, set into the gap in the arch |
@@ -60,7 +60,7 @@ The Era IV caption HAMMER GROUNDED FROM THE FIRST PANEL. is not an era card. It 
 
 ## 4. Music per episode
 
-All cues: Quiet Board lead, A4 = 432, no darksynth (no siege, so no 54 Hz drone), every in-episode cue wordless, every episode ends on the Grounded motif. 543 Hz pad held only over chords containing C#; 528 Hz only as the short chime on the "That one can live." bloom. The Snap button is the fixed stinger only, with no Snap cue (`06_MUSIC_SPEC.md`, `seasons/S2_ARC_LOCK.md` §7).
+All cues: Quiet Board lead, A4 = 432, no darksynth (no siege, so no 54 Hz drone), every in-episode cue wordless, every episode ends on the Grounded motif. 543 Hz pad held only over chords containing C#; 528 Hz only as the short chime on the "That one is live." bloom. The Snap button is the fixed stinger only, with no Snap cue (`06_MUSIC_SPEC.md`, `seasons/S2_ARC_LOCK.md` §7).
 
 | Ep | Key | BPM | Drone | Night Watch opener chord | 543 held over | Notable cues |
 |---|---|---|---|---|---|---|
@@ -106,8 +106,8 @@ S2E01 has no hidden flaw to detect: the strings are in plain view on the tile, a
 
 - **Q2, Q3, Q9, Q10, Q11 and vocals.** As recorded in `seasons/S1_SEASON_SHEET.md` §6 and `05_LORE_BIBLE.md`. Unchanged in S2.
 - **Q8, owner and work names. OPEN.** Nothing in S2 names an owner, studio, game, product or work.
-- **TOLC.** Not used in any S2 episode; never defined, gates never numbered.
-- **Season gates (`05_LORE_BIBLE.md`, Season arcs).** S3 = B, The Full Hopper, is UNBLOCKED (Q11 answered; see the S1 sheet).
+- **TOLC.** Not used in any S2 caption or bubble; never defined, the Mercy-Ways never numbered.
+- **Season unlocks (`05_LORE_BIBLE.md`, Season arcs).** S3 = B, The Full Hopper, is UNBLOCKED (Q11 answered; see the S1 sheet).
 
 ## 8. Discrepancies noted across the season
 

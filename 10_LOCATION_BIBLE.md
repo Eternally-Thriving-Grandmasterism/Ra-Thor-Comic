@@ -2,7 +2,7 @@
 
 ## The Threshold
 
-Dark stone, gold lattice arch, two lanes. Default set for episodes 01 and 06.
+Dark stone, gold lattice arch, two lanes: left NO, right LIVE. The TOLC stands here; things come to the TOLC and are weighed. Default set for episodes 01 and 06.
 
 ## Recycler Bay
 

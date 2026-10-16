@@ -50,7 +50,7 @@ Prompt: [stem] + compact IDEA-RECYCLER on a side cart (horizontal drum, twin THE
 ## Panel 6 — Quiet closer
 
 Caption: TWO CHAIRS SPOKEN FOR. EVERY CHAIR THE SAME HEIGHT. HAMMER STILL GROUNDED.
-Bubble: "That one can live."
+Bubble: "That one is live."
 The Stair Envoy rolls the now-level chair into the row, sets a small step-glyph token on it, gives a short nod, and turns to go, mask still on, CLEAN card in hand. A few seats down, the knot-glyph token from S1E01 catches the lamp. The masks dim one by one. Visor slit wide-gold. Lamp, shadow, hammer head-down on stone.
 Prompt: [stem] + quiet shot down the long table, invented masked envoy with the face fully hidden behind a plain gold mask setting a small abstract step-shaped token on a chair that is now the same height as the rest, a small abstract knot-shaped token on another chair a few seats down, card labeled CLEAN in the envoy's gloved hand, tiny gold masks dimming around the halo, shield upright with the emerald eye-seal clearly visible, visor slit wide and gold, hammer head-down on stone, small crack and sparks at contact, deep shadow.
 
@@ -63,7 +63,7 @@ Prompt: [stem] + quiet shot down the long table, invented masked envoy with the 
 - **Panel 3.** The drums drop out for the council. The twelve-mask blip ring murmurs, panned across the stereo field.
 - **Panel 4.** Fixed "Blocked." stinger: a short, low, muted thud and a filter close, timed to the chair back's last fold. The groove resumes one bar later.
 - **Panel 5.** Light and dry. Three short card tones, the CLEAN one a clean major bloom.
-- **Panel 6.** Fixed "That one can live." stinger: an open major-chord bloom topped by the short 528 Hz chime, never held. Then the Grounded motif: four notes rise and land back on the tonic, and hold. The episode ends there.
+- **Panel 6.** Fixed "That one is live." stinger: an open major-chord bloom topped by the short 528 Hz chime, never held. Then the Grounded motif: four notes rise and land back on the tonic, and hold. The episode ends there.
 - **Mood words only.** No artist, band, label, or track names in any brief or prompt. The tuning is an aesthetic choice only; no health claims anywhere.
 
 ## Reject
