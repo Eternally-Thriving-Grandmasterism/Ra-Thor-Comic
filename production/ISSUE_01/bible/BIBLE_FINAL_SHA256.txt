@@ -224,5 +224,9 @@ c3f220b74d5e798c135e7324c176f43c831110c0236293a2e29595249027c1cc  kdp/out/RaThor
 810e041df229cc6c0ac54621f0e5c8f524ff19b352fa02d1c949e46f3bc9fc3f  kdp/out/softproof_GRACoL2013_CRPC6_relative_side_by_side.jpg
 
 # 2026-10-16, Sherif 6:45–6:48 PM ET. ISSUE01-HAMMER-BLOCK-HEAD-1. Hammer lock text: plain rectangular block head, a remix of the mythological Mjölnir (Norse myth), cone-bottom hilt, no eye. Triangle top retired 2026-10-16, Sherif. Art files untouched.
-abaa265398f4c78596768ab7ba68d2e1df2872c2202d8fd6351dc6c4b9a87e52  CHARACTER_BIBLE.md
-67d3ea50b893bf028e0eb0a2b9b06e33c831d12b3c122bbe58cd34b413d6f0a6  kdp/README.md
+# abaa265398f4c78596768ab7ba68d2e1df2872c2202d8fd6351dc6c4b9a87e52  CHARACTER_BIBLE.md  (superseded: ISSUE01-HAMMER-BLOCK-HEAD-1 amend, prompts drop the name and Marvel note)
+# 67d3ea50b893bf028e0eb0a2b9b06e33c831d12b3c122bbe58cd34b413d6f0a6  kdp/README.md  (superseded: ISSUE01-HAMMER-BLOCK-HEAD-1 amend, prompts drop the name and Marvel note)
+
+# 2026-10-16, Hands amend on ISSUE01-HAMMER-BLOCK-HEAD-1. Generator prompts use the canonical hammer line only. The merged V18 cover's stepped hammer is not redrawn. Art files untouched.
+cec93cbc18c1485d3b6bf1da8191ab4824bbe10554c9951f8c936df7ee922cb7  CHARACTER_BIBLE.md
+df91d215c190173c68d8712b9df7980717922abf0b44523fbb5452e36a8f0525  kdp/README.md
