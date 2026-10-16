@@ -1,0 +1,67 @@
+{
+ "pages": 24,
+ "paper": "premium-color",
+ "per_page_in": 0.002347,
+ "spine_in": 0.056328,
+ "spine_mm": 1.431,
+ "cover_w_in": 13.556328,
+ "cover_h_in": 10.5,
+ "cover_w_mm": 344.331,
+ "cover_h_mm": 266.7,
+ "px_w": 4067,
+ "px_h": 3150,
+ "spine_text_allowed": false,
+ "source": "https://kdp.amazon.com/en_US/help/topic/G201953020",
+ "spine_px": 17,
+ "spine_safe_px": [
+  2044,
+  2023
+ ],
+ "spine_text": null,
+ "barcode_zone_px": [
+  1350,
+  2677,
+  1950,
+  3038
+ ],
+ "range_24_32": [
+  {
+   "pages": 24,
+   "spine_in": 0.056328,
+   "cover_w_in": 13.556328,
+   "px_w": 4067
+  },
+  {
+   "pages": 26,
+   "spine_in": 0.061022,
+   "cover_w_in": 13.561022,
+   "px_w": 4068
+  },
+  {
+   "pages": 28,
+   "spine_in": 0.065716,
+   "cover_w_in": 13.565716,
+   "px_w": 4070
+  },
+  {
+   "pages": 30,
+   "spine_in": 0.07041,
+   "cover_w_in": 13.57041,
+   "px_w": 4071
+  },
+  {
+   "pages": 32,
+   "spine_in": 0.075104,
+   "cover_w_in": 13.575104,
+   "px_w": 4073
+  }
+ ],
+ "outputs": [
+  "RaThor_Issue01_KDPwrap_24p_premium-color.jpg",
+  "RaThor_Issue01_KDPwrap_24p_premium-color.pdf",
+  "RaThor_Issue01_KDPwrap_24p_premium-color_guides.jpg",
+  "RaThor_Issue01_KDPwrap_24p_premium-color_guides_620.jpg",
+  "RaThor_Issue01_KDPwrap_24p_premium-color_spine_text_layer.png",
+  "RaThor_Issue01_KDPwrap_24p_premium-color_type_layer.png"
+ ]
+}
