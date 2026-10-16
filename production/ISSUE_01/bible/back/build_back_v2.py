@@ -10,13 +10,13 @@ D = '/workspace/issue01/back/'; V18 = '/workspace/issue01/v18/'
 VAR = sys.argv[1] if len(sys.argv) > 1 else '3d'                      # '3d' = embossed website crest (owner, 9:24 PM); 'flat' = flat gold fallback
 TAG = 'v2' if VAR == '3d' else 'v2_flatAGI'
 # ============ EDITABLE COPY (swap the blurb here; layout re-flows, auto-wrapped, centred) ============
-HEADLINE = ['LEFT IS NOISE.', 'RIGHT CAN LIVE.']                    # E01 Panel 1 bubble, verbatim
+HEADLINE = ['LEFT IS NOISE.', 'RIGHT IS LIVE.']                     # E01 Panel 1 bubble, verbatim (Sherif 9:53 PM ET)
 # Sherif, 2026-10-15 9:32 PM ET (option C): line 1 'Ra-Thor stands watch where the sun meets the storm.' set in silver small caps
 # (two lines so it fits the measure); lines 2-3 in the body serif.
 BLURB_KICKER = ['RA-THOR STANDS WATCH', 'WHERE THE SUN MEETS THE STORM.']   # silver Cinzel caps; [] to drop
 BLURB_BODY = [                                                         # EB Garamond paragraphs; each auto-wraps at BODY_MAXW
     'All that comes to the TOLC is weighed.',                            # TOLC: Sherif 9:45 PM ET + Wild ruling (ISSUE01-TOLC-1)
-    'What is noise falls away. What can live is let through.',
+    'What is noise falls away. What is live is let through.',           # Sherif 9:53 PM ET
 ]
 BLURB_CLOSER = 'What gets blocked is recycled, not wasted.'            # italic closing line (Sherif: keep exactly)
 BODY_PX, BODY_LEAD, BODY_MAXW = 58, 82, 1500

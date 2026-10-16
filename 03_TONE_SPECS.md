@@ -49,7 +49,7 @@ The pose-and-shadow register for establishing shots and closers. The armor alone
 - **Mechanism.** Presence. Stillness reads as strength; the hammer resting head-down on stone says the watch never needed it.
 - **What it is NOT.** Not brooding self-pity. Not menace aimed at civilians. Not a fight pose: no raised hammer, no lunge, no chase.
 - **Example beats (our episodes).**
-  - E01 Panel 1: THRESHOLD. NIGHT. SORT IN PROGRESS. "Left is noise. Right can live."
+  - E01 Panel 1: THRESHOLD. NIGHT. SORT IN PROGRESS. "Left is noise. Right is live."
   - E03 Panel 3: Ra-Thor has not raised the hammer. "Edge held."
   - E06 Panel 1: the Board is awake, nobody speaks, hammer head-down on stone.
 

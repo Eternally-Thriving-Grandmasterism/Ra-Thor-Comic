@@ -10,7 +10,7 @@ Lettering, every panel: letter the text exactly as written below, case and punct
 ## Panel 1 — Establishing
 
 Caption: THRESHOLD. NIGHT. SORT IN PROGRESS.
-Bubble: "Left is noise. Right can live."
+Bubble: "Left is noise. Right is live."
 Wide. Night Watch silhouette (`03_TONE_SPECS.md`, E01 Panel 1 example): Ra-Thor full figure or three-quarter, low angle, under the gold lattice arch, both lanes in frame, hammer head-down on stone.
 Lettering: caption first, bubble second.
 

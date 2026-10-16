@@ -126,7 +126,7 @@ The whole package. Story pages hold only E01's five locked beats, paced across e
 | Front cover | Painted cover (§5.1) | RA-THOR, with the rose-gold bolt as its hyphen, over LIVING THUNDER in the bottom title band; medallion `ISSUE: #1` (§5.1) |
 | Inside front cover | Title page (§5.2) | Full title; story title; rights line; credits GAP |
 | Page 1 (right) | Opening splash: E01 P1, caption | `THRESHOLD. NIGHT. SORT IN PROGRESS.` |
-| Page 2 (left) | E01 P1 continued: the lanes, then the first bubble | `"Left is noise. Right can live."` |
+| Page 2 (left) | E01 P1 continued: the lanes, then the first bubble | `"Left is noise. Right is live."` |
 | Page 3 (right) | E01 P2 lead-in, silent; ends on a page turn | none |
 | Page 4 (left) | E01 P2, the block (keeper frame) | `"Blocked."` |
 | Page 5 (right) | E01 P3, the pass (eye-seal rerun panel) | `"That one can live."` |
@@ -134,7 +134,7 @@ The whole package. Story pages hold only E01's five locked beats, paced across e
 | Page 7 (right) | E01 P5 lead-in, silent; ends on a page turn | none |
 | Page 8 (left) | E01 P5 closer splash | `"Next."`, then `HAMMER STILL GROUNDED.` |
 | Inside back cover | Credits (§5.3) | GAP: credits not defined |
-| Back cover | ISSUE01-BACK-COVER-V2 (§5.4): echo of the front art, headline, blurb, company logos, fine print; KDP barcode zone clear | `LEFT IS NOISE.` / `RIGHT CAN LIVE.`, blurb and fine print (§5.4) |
+| Back cover | ISSUE01-BACK-COVER-V2 (§5.4): echo of the front art, headline, blurb, company logos, fine print; KDP barcode zone clear | `LEFT IS NOISE.` / `RIGHT IS LIVE.`, blurb and fine print (§5.4) |
 
 Pages 4 and 5 face each other as a spread: the block on the left page, the pass on the right, matching NO on the left lane and LIVE on the right (`09`, The TOLC). Each text line in the file appears once, verbatim, in the file's order. Interior: 8 pages; with the 4 cover pages, 12. Both are multiples of 4 for saddle stitching (§10).
 
@@ -226,11 +226,11 @@ Sources: full title (Sherif's naming rule, audit §6); "Episode 01 — TOLC" is 
 [the front's RA⚡THOR / LIVING THUNDER band + ISSUE: #1 coin, same pixels and size as v18/title_layer_v18.png] ™
 #1 · TOLC
 LEFT IS NOISE.
-RIGHT CAN LIVE.
+RIGHT IS LIVE.
 RA-THOR STANDS WATCH
 WHERE THE SUN MEETS THE STORM.
 All that comes to the TOLC is weighed.
-What is noise falls away. What can live is let through.
+What is noise falls away. What is live is let through.
 What gets blocked is recycled, not wasted.
 
 Ra-Thor⚡Living Thunder #1: TOLC. Published by AlphaProMega Media Inc.
@@ -241,13 +241,14 @@ This is a work of fiction. Contact: info@Rathor.ai
 
   - `#1 · TOLC`: the issue line of `CREDITS_AND_INDICIA.md` §2 and this file's §5.1.
   - Headline: E01 Panel 1 bubble, verbatim (`episodes/E01_TOLC.md`).
-  - The three lines "Ra-Thor stands watch where the sun meets the storm." / "All that comes to the TOLC is weighed." / "What is noise falls away. What can live is let through.": Sherif's copy, picked 2026-10-15 9:32 PM ET (option C); line 2 names the TOLC per the 9:45 PM ET ruling (ISSUE01-TOLC-1). The first line is set in silver small caps over two lines to fit the measure; the next two in the body serif.
+  - The three lines "Ra-Thor stands watch where the sun meets the storm." / "All that comes to the TOLC is weighed." / "What is noise falls away. What is live is let through.": Sherif's copy, picked 2026-10-15 9:32 PM ET (option C); line 2 names the TOLC per the 9:45 PM ET ruling (ISSUE01-TOLC-1). The first line is set in silver small caps over two lines to fit the measure; the next two in the body serif.
   - Italic closer: `STORE_LISTING_AND_EXPORT.md` description draft, verbatim (kept exactly at Sherif's request).
   - Fine print: the proposed indicia of `CREDITS_AND_INDICIA.md` §3 (title line, publisher, copyright holder AlphaProMega Media Inc., fiction line, contact; `README.md` L3, L6). The trademark line is Sherif's exact wording (ruling 2026-10-15 9:37 PM ET: "Tighten the ™ line first, then merge."), which replaced the V2 draft's "Ra-Thor⚡Living Thunder™ is a trademark of Autonomicity Games Inc. (trademark pending), used with permission."; it is also the indicia's `[TM LINE]` (`CREDITS_AND_INDICIA.md` §3). The ⚡ is a small rose-gold vector bolt (§10), never an emoji glyph.
 - **Logos** (bottom-left row, beside the fine print, left of the barcode zone): Autonomicity Games Inc. 3D embossed crest, untouched, from `https://acitygames.com/images/logo-dark-1024.webp` (1024 × 1169 RGBA; `bible/cover_mark/agi_logo_3d_transparent.png`), placed 149 × 170 px at (120, 2605), about 2,060 ppi effective, with the wordmark; AlphaProMega Media Inc. logo (`bible/cover_mark/apm_logo_transparent.png`, 4118 × 1759 RGBA, cut from its navy starfield and upscaled 4x with 4x-UltraSharp; `bible/back/apm_extract.py`), placed 471 × 185 px at (820, 2555), about 2,500 ppi effective. Fine print: EB Garamond 30 px (about 7 pt), x 120–1291, bottom-aligned with the barcode zone.
 - **KDP barcode zone:** 2.0 × 1.2 in = 600 × 360 px in the lower right, inside safe: x 1351–1951, y 2678–3038 (sheet px). No type or logo pixel in it (checked by the build); it is drawn as a dashed box only in the guides proof. All type sits inside safe (x 120–1732, y 230–3028).
 - **Council review:** Wild, Hands and Clerk accepted the PR #92 build at `bf15ae82`. Sherif then ruled at 9:37 PM ET: "Tighten the ™ line first, then merge." The fine-print trademark line was changed to the exact text above (it still wraps to two lines at the same size; layout unchanged; barcode zone still 0 px).
 - **ISSUE01-TOLC-1 (Sherif 2026-10-15 9:45 PM ET; Wild ruling for the councils, unanimous):** the issue line is now `#1 · TOLC`, copy line 2 is "All that comes to the TOLC is weighed." and fine-print line 1 is "Ra-Thor⚡Living Thunder #1: TOLC. Published by AlphaProMega Media Inc." Everything else on the back cover is unchanged. Type layer, print, guides, previews, front+back preview and the changed crops rebuilt at the same filenames; barcode zone still 0 px, all type inside safe. Log: `bible/CHARACTER_BIBLE.md` §6.
+- **Headline and line 3 (Sherif 2026-10-15 9:53 PM ET: "Right can live sounds harsh. Let's make it Right is live. Similar to Left is noise."; council ruling):** the headline is now `LEFT IS NOISE.` / `RIGHT IS LIVE.` (E01 Panel 1 bubble, changed at the source) and line 3 is now "What is noise falls away. What is live is let through." The catch line "That one can live." (E01 P3) and the R3 source-art caption are unchanged.
 - **Wild's rulings on the open notes:**
   1. The "Autonomicity GAMES" wordmark beside the crest is accepted as a back-cover lockup only. It is unofficial (our addition, not an Autonomicity Games Inc. wordmark) and must not be reused elsewhere unless Sherif adopts it. The crest itself is untouched.
   2. The website crest's warmer, brighter gold is accepted, untouched. The flat title-gold crest variant (`cover_mark/agi_logo_gold_large.png`) stays a fallback held outside the repo.
@@ -480,7 +481,7 @@ Prompt: [style] + [stem, silent] + [set] + tight insert on the stamped word LIVE
 Source: `09`, The TOLC (right lane stamped LIVE).
 
 **2.3 · [E01 P1], bubble half.** Wide tier.
-Prompt: [style] + [stem] + [set] + three-quarter low-angle shot of Ra-Thor planted under the arch, both lanes leading away from him, shield upright, rising above his shoulder, its obsidian field and gold eye-seal facing out, hammer head-down on stone, small crack and sparks at contact. Speech bubble: "Left is noise. Right can live." + [band] + [guards]
+Prompt: [style] + [stem] + [set] + three-quarter low-angle shot of Ra-Thor planted under the arch, both lanes leading away from him, shield upright, rising above his shoulder, its obsidian field and gold eye-seal facing out, hammer head-down on stone, small crack and sparks at contact. Speech bubble: "Left is noise. Right is live." + [band] + [guards]
 Source: E01 P1; `03` Night Watch (full figure or three-quarter).
 
 ### Page 3 — Block lead-in (silent). Three tiers; the last panel sits at the page turn.
@@ -573,7 +574,7 @@ Letter every line exactly as written in `episodes/E01_TOLC.md`: case and punctua
 | Panel | Type | Text (verbatim) | Placement |
 |---|---|---|---|
 | 1.1 | Caption | THRESHOLD. NIGHT. SORT IN PROGRESS. | Bottom-left of the splash, inside the safe area |
-| 2.3 | Bubble | "Left is noise. Right can live." | Above the helm; tail to the visor slit |
+| 2.3 | Bubble | "Left is noise. Right is live." | Above the helm; tail to the visor slit |
 | 4.1 | Bubble | "Blocked." | Upper corner away from the impact; tail to the visor slit; clear of the eye-seal and the confetti |
 | 5.2 | Bubble | "That one can live." | Above the device and the helm; tail to the visor slit; clear of the shield face |
 | 6.1 | Tiny bubble (Ra-Thor) | "Recycle it." | Small, near the hopper; tail to Ra-Thor's visor slit in the background; he stays facing the lanes, not the hopper (council ruling, 2026-10-14) |

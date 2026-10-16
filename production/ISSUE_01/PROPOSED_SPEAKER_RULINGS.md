@@ -7,7 +7,7 @@
 
 Method: a speaker is proposed only where a canon line supports it. Each cite is quoted from the file on `main`. If no cite existed, the item would read GAP and no speaker would be proposed.
 
-## R-P1. "Left is noise. Right can live."
+## R-P1. "Left is noise. Right is live."
 
 **Proposed ruling: Ra-Thor speaks the P1 bubble.** **PROPOSED CANON — pending council ratification.**
 
@@ -16,7 +16,7 @@ Cites:
 1. `00_FIDELITY_PROTOCOL.md` rule 2: "Ra-Thor blocks bullshit and passes awesome." The bubble states that sort.
 2. `02_SERIES_STRUCTURE.md` L8, E01 row: Device "Shield sort", Joke "Bullshit left, awesome right". The line is the device's rule, and the shield is his.
 3. `09_CHARACTER_BIBLE.md` L16, The TOLC: "Not a character." The TOLC cannot be the speaker.
-4. `03_TONE_SPECS.md` L52 cites "E01 Panel 1: THRESHOLD. NIGHT. SORT IN PROGRESS. "Left is noise. Right can live."" as a Night Watch silhouette beat, a mode where "The armor alone says who is on watch."
+4. `03_TONE_SPECS.md` L52 cites "E01 Panel 1: THRESHOLD. NIGHT. SORT IN PROGRESS. "Left is noise. Right is live."" as a Night Watch silhouette beat, a mode where "The armor alone says who is on watch."
 5. `01_VISUAL_STYLE_GUIDE.md` L18: "tail aimed at the visor slit even though the mouth is hidden."
 
 No other figure is named in E01 P1. The councils do not appear in E01.
