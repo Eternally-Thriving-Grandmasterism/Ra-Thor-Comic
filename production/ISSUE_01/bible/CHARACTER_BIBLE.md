@@ -207,4 +207,4 @@ Before/after crops at 4×: `cover_mark/before_after_1.jpg` … `before_after_6.j
 
 ## 10. Scale and environment
 
-Scale and environment, under 3D LOGIC: `12_SCALE_ENVIRONMENT_BIBLE.md`. Ra-Thor is 7 ft 0 in (213 cm) armoured, sole to helm crest. A correct costume at the wrong size fails review.
+Scale and environment, under 3D LOGIC: `12_SCALE_ENVIRONMENT_BIBLE.md`. Ra-Thor is 7 ft 0 in (213 cm) armoured, sole to helm crest. A correct costume at the wrong size fails review. Helper drones, helper robots, and device assists are §7 of that file. The job in `09_CHARACTER_BIBLE.md`, Realms & Rathor.ai, stays the lock. The sizes are proposed.

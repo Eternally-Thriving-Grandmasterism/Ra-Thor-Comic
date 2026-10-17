@@ -39,8 +39,8 @@ Adult human guests below use this reference until a council gives one of them a 
 |---|---|---|---|---|---|---|
 | The Founder | `05_LORE_BIBLE.md` L19. Implied only: lamp, notebook, desk, empty chair. | No body height. A number would imply a figure. | — | Not drawn. | — | PROPOSED, needs council ruling: leave him unmeasured (`05` Q3). |
 | Rathor.ai | `09_CHARACTER_BIBLE.md` L68. An intelligence, not a body. | No body height. | — | Not a figure. | — | PROPOSED, needs council ruling: leave it unmeasured. |
-| Helper robots | `09_CHARACTER_BIBLE.md` L68. | 3 ft 3 in (100 cm). | About 4 of his heads. | Compact helpers. No weapons. | About 0.47 of his armoured height. About waist-high on him. | PROPOSED, needs council ruling |
-| Drones | `09_CHARACTER_BIBLE.md` L68. | About 1 of his heads across (about 25 cm). They hover. | — | Small flying helpers. | Shoulder height when they attend him. | PROPOSED, needs council ruling |
+| Helper robots | `09_CHARACTER_BIBLE.md` L68. The job is locked. The height is §7. | 4 ft 11 in to 5 ft 11 in (150 to 180 cm). | Height only, not an 8.5-head build. | Simple upright helper. No face. No weapons. | About 0.70 to 0.85 of his armoured height. The head sits between his belt and a little above his gorget. | PROPOSED, needs council ruling. The earlier single height of 100 cm is withdrawn. |
+| Drones | `09_CHARACTER_BIBLE.md` L68. The job is locked. The sizes are §7. | Scout: about palm to forearm. Carrier: 1 to 1.5 m across. | — | Black and gold. No emerald. | A scout reads against his hand. A carrier's span stays 1 to 1.5 m beside his 213 cm. | PROPOSED, needs council ruling. The earlier single size of about 25 cm is withdrawn. |
 | The councils | `09_CHARACTER_BIBLE.md` L86. Twelve tiny gold masks. | Each mask about 1/4 head tall (about 6 cm). Not standing people. | — | Masks in a ring behind the halo. | The ring sits with the halo, above the crest. | PROPOSED, needs council ruling |
 | Slide-deck creature | `episodes/E01_TOLC.md` L20. | 5 ft 0 in (152 cm). | About 6 of his heads. | A stack of charts, not a person. | About 0.71 of his armoured height. The shield meets it across the body. | PROPOSED, needs council ruling |
 | A founder with a bad slide | `09_CHARACTER_BIBLE.md` L92. Guest type. Distinct from the Founder. | 5 ft 9 in (175 cm) if drawn as a person. | About 7.5 human heads. | Ordinary adult. Face hidden. | About 0.82. Eyes at his gorget or upper chest. | PROPOSED, needs council ruling |
@@ -176,3 +176,66 @@ Art comes later. This is the text those cards have to hit.
 ## 6. Generator prompt
 
 Canonical scale prompt line: scale stays fixed across the camera: Ra-Thor reads 7 ft 0 in armoured from sole to helm crest, about 8.5 heads, beside a typical human of 5 ft 9 in whose eyes meet his gorget or upper chest; the same relative sizes hold at a low angle, at eye level and from above
+
+## 7. Support system
+
+Sherif, 2026-10-16 11:39 PM ET: "Remember he also deploys drones, robots, and assists through internet of things and so on with his Ra-Thor offline lattice and more as an AGI superhero system!"
+
+This section follows 3D LOGIC and the scale rules above. A helper is a solid body. Its size relative to his 213 cm stays the same at a low angle, at eye level, and from above.
+
+### What is already canon
+
+Searched the repo for drones, robots, an offline lattice, and connected-device assists. The lattice name and the device assists are not in the repo. These lines are:
+
+- In the real world he works with helper robots and drones orchestrated by Rathor.ai. They rescue, shield, evacuate, catch falling things and block. They never harm anyone. No weapons are fired at people. No surveillance imagery. (`09_CHARACTER_BIBLE.md` L68.)
+- Council ruling 2026-10-16, 2:06 AM ET, endorsed by Sherif, and noted at 2:07 AM ET. The decision log calls them Rathor.ai rescue drones and helper robots (`production/ISSUE_01/bible/CHARACTER_BIBLE.md` L130). The full text lives in `09`.
+- No real code and no file names on the page (`09_CHARACTER_BIBLE.md` L67).
+- He contains people doing harm and never destroys them. He uses walls of light, a sealed quiet room, or a cut-off connection (`09_CHARACTER_BIBLE.md` L66).
+- The intelligence is "Rathor.ai", called an AGI character at most. The page does not use "Artificial Godly Intelligence", "superintelligence" or "AGSi" as claims. The narration does not assert godhood (`09_CHARACTER_BIBLE.md` L69).
+- The page does not use an outside film's look, names, light-cycles or discs (`09_CHARACTER_BIBLE.md` L65).
+- Emerald on the figure stays the pauldron seal (`01_VISUAL_STYLE_GUIDE.md` L24).
+
+### The system
+
+PROPOSED, needs council ruling. Ra-Thor is an AGI superhero system, in Sherif's words. On the page he stays within L69: "Rathor.ai", an AGI character at most, with no godhood claim.
+
+The Ra-Thor offline lattice is his own on-device mind. It works with no internet. Through it he deploys and coordinates helper drones, helper robots, and assists through everyday connected devices: smart lights, doors, signs, phones, and vehicles. The page shows the result, not a product, a claim, code, or a file name.
+
+Every use is protective and containing. That is the L68 job: shielding, guiding people to safety, catching what falls, blocking, and cutting a harmful connection. It is not destructive and it is not gory. No weapon is fired at a person. No surveillance picture appears.
+
+### Design language
+
+PROPOSED, needs council ruling, except the emerald bar, which follows L24.
+
+- Bodies are obsidian black and antique gold, the same metals as his plate.
+- A small plain gold disc of light sits at the core. No rays, no eye, no face.
+- Silhouettes are simple and countable, so a later animated pass can repeat them.
+- No emerald. Sherif, 2026-10-16 11:39 PM ET, reserves emerald for the pauldron Eyes and the coin accent. This branch's written lock is the pauldron seal (`01_VISUAL_STYLE_GUIDE.md` L24).
+- The lattice link is thin gold light threads from him to the helper or the device. Not a film grid, and not light-cycles or discs (`09_CHARACTER_BIBLE.md` L65).
+
+### Scale
+
+All of these sizes are PROPOSED, needs council ruling. They replace the single drone size and the single robot height that §1 carried earlier. The ruler is his armoured 213 cm.
+
+| Type | Size | Versus his 213 cm | Build |
+|---|---|---|---|
+| Scout drone | Palm to forearm. His palm is about 12 cm and his forearm about 35 cm, so the scout is about 30 cm across. | About 0.14 of his height. It reads against his hand, not against his body. | A small body, two short arms, the gold disc on top. |
+| Carrier drone | Wingspan 1 to 1.5 m (100 to 150 cm). The body is about 40 cm. | The span is about 0.47 to 0.70 of his height, about 4 to 6 of his head-units across. | A flat wing he can send between a person and a hazard. It shields. It does not strike. |
+| Helper robot | 4 ft 11 in to 5 ft 11 in (150 to 180 cm). | About 0.70 to 0.85 of his height. The head falls between his belt and a little above his gorget. | Two arms, two legs, a plain head, the gold disc on the chest. No face. No weapons. Shoulders about 40 cm, narrower than his pauldrons. |
+
+### Turnaround notes
+
+Art comes later. Each type gets four views on one ground line or one hover line: front, three-quarter, side, back. The same centimetres in every view.
+
+- **Scout.** Front: the gold disc faces out, both short arms equal. Three-quarter: one arm and the body, still about 30 cm across. Side: a thin body, the disc seen on edge as a short gold line, one light thread running back toward him. Back: the same body, no face, the thread leaving a small gold node.
+- **Carrier.** Front: the full 1 to 1.5 m span. Three-quarter: one side of the wing shortens in perspective, and the span that is measured stays 1 to 1.5 m. Side: a thin wing. Back: the same span. The disc stays a small light, not a copy of his shield.
+- **Helper robot.** Front: both arms, the chest disc, 150 to 180 cm to the top of the head. Three-quarter: one arm, the disc still round. Side: the disc on edge, the thread from the upper back. Back: no face, the thread's node between the shoulders. Stand one robot beside his silhouette so the head lands between his belt and his gorget.
+
+### On the page
+
+PROPOSED, needs council ruling.
+
+- A panel shows at most three helper bodies. One type leads the beat. A close-up shows one. Two scouts may be the pair inside that count of three. They do not crowd him off his 8.5-head read.
+- A device assist is not an extra body. It is one gold glow pulse on a device already in the room: a lamp, a door, a sign, a phone, or a vehicle. A panel shows at most two pulses. No screen text, no brand, no interface, no code, and no surveillance picture (`09_CHARACTER_BIBLE.md` L68). The pulse lasts one beat. Then the protective result reads: the lamp shows the path, the door opens onto a safe way, the sign points, the phone goes dark to cut a harmful connection, or the vehicle stops.
+
+Canonical support prompt line, added when a helper or a device assist is in the panel: black and gold helper drones and robots with a small plain gold disc light, no green, thin gold light threads linking them to Ra-Thor, simple countable silhouettes; a scout about the size of his palm to his forearm, a carrier drone spanning 1 to 1.5 m, a helper robot 150 to 180 cm; a connected device assists with one gold glow pulse; they shield, guide, and cut a harmful connection, and they do not harm anyone

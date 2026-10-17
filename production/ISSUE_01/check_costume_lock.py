@@ -467,6 +467,13 @@ def main():
             'not foreshortened',
             'scale stays fixed across the camera',
             'whose eyes meet his upper chest',
+            '## 7. Support system',
+            'Ra-Thor offline lattice',
+            'Palm to forearm',
+            '1 to 1.5 m',
+            '150 to 180 cm',
+            'gold glow pulse',
+            'one gold glow pulse',
         ):
             if phrase not in scale_text:
                 bad += 1
@@ -480,6 +487,14 @@ def main():
         if scale_prompt not in open(os.path.join(ROOT, rel), encoding='utf-8').read():
             bad += 1
             print('SCALE PROMPT missing %s' % rel)
+    support_prompt = 'a connected device assists with one gold glow pulse'
+    for rel in (
+        '12_SCALE_ENVIRONMENT_BIBLE.md',
+        'production/ISSUE_01/RENDER_CHECKLIST.md',
+    ):
+        if support_prompt not in open(os.path.join(ROOT, rel), encoding='utf-8').read():
+            bad += 1
+            print('SUPPORT PROMPT missing %s' % rel)
     ymin, margin, inches = type_margin()
     print('TYPE alpha > %.2f ymin %d trim_px %.1f margin_px %.1f (%.4f in)' % (
         ALPHA_THRESHOLD, ymin, TRIM_PX, margin, inches))
