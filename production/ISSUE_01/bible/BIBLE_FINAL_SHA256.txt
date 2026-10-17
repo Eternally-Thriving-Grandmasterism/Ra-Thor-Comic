@@ -242,7 +242,8 @@ c1f42e3513d3ba77784ca09d3c108366a7d072136d0a1fca8610efe88d675eca  refs/pauldron_
 # 0e19a09514c5045e3d91fc9a8107fcb48a836a2f995c38406623b5ad5692b645  CHARACTER_BIBLE.md  (superseded: 2026-10-16 11:32–11:38 PM ET, inked covers, 3D LOGIC, scale lock)
 # faebd1e806a868532b33867a71c0f45f8d18bf9e0a4df07da1d58767df726874  CHARACTER_BIBLE.md  (superseded: 2026-10-16 11:33 PM ET, shield border never letter-like)
 # 661a813471cf4afa20dd90762b590be385ddc72af25547e5fa9eebea666b0ae5  kdp/README.md  (superseded: 2026-10-16 11:33 PM ET, shield border never letter-like)
-81baff95af0888bd44689b0e253ea1d497cc44d770ab34f67450527e2db46629  CHARACTER_BIBLE.md
+# 81baff95af0888bd44689b0e253ea1d497cc44d770ab34f67450527e2db46629  CHARACTER_BIBLE.md  (superseded: 2026-10-17, 175 cm eyes at the upper chest)
+5e82b01bdb33e92dd227db06ef344e63b98f54286d5b218124f82a38bdaa9c3b  CHARACTER_BIBLE.md
 24d9e3c03f23331eeade035da3870b0727f0a548bb180470e7863c35bbd58c0d  kdp/README.md
 c027e6e3b41e88f74c9644cd7dcdec571ce4af018d616481d5b7bdea12f1c81f  refs/rest_pose_pauldrons_draft_2026-10-16.jpg
 e2df18141994f7be0693158e6b07be00d2e4f8bf6653e906428a4d1359fc1612  refs/x_ref_photo_2026-10-16.jpg

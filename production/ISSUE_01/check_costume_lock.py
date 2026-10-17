@@ -256,7 +256,7 @@ ICON_REQUIRED = (
     ('5 ft 9 in', re.compile(r'5 ft 9 in')),
     ('175 cm', re.compile(r'175 cm')),
     ('about 1.22', re.compile(r'about 1\.22')),
-    ('gorget or upper chest', re.compile(r'gorget or upper chest')),
+    ('eyes line up with his upper chest', re.compile(r'eyes line up with his upper chest')),
     ('1.5 heads in diameter', re.compile(r'1\.5 heads in diameter')),
     ('Sentinel Rest geometry', re.compile(r'Sentinel Rest geometry')),
     ('Everything else stays PROPOSED', re.compile(r'Everything else stays PROPOSED')),
