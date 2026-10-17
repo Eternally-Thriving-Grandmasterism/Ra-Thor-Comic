@@ -34,6 +34,7 @@ SCAN = [
     '01_VISUAL_STYLE_GUIDE.md',
     '04_VISUAL_CANON.md',
     'episodes/E01_TOLC.md',
+    '12_SCALE_ENVIRONMENT_BIBLE.md',
 ]
 # A counted type pixel has alpha strictly greater than this fraction of 255.
 ALPHA_THRESHOLD = 0.03
@@ -444,6 +445,56 @@ def main():
     if 'into rune knotwork on the haft (superseded by the 2026-10-16 block head' not in production:
         bad += 1
         print('C8 haft knotwork is not tagged superseded by the 2026-10-16 block head')
+
+    scale = os.path.join(ROOT, '12_SCALE_ENVIRONMENT_BIBLE.md')
+    if not os.path.isfile(scale):
+        bad += 1
+        print('SCALE missing 12_SCALE_ENVIRONMENT_BIBLE.md')
+    else:
+        scale_text = open(scale, encoding='utf-8').read()
+        for phrase in (
+            '3D LOGIC',
+            '7 ft 0 in',
+            '213 cm',
+            '5 ft 9 in',
+            '175 cm',
+            'about 1.22',
+            '8.5 heads',
+            'about 25 cm per head',
+            '1.3x the natural shoulder',
+            'Sentinel Rest',
+            '1.5 heads',
+            'not foreshortened',
+            'scale stays fixed across the camera',
+            'whose eyes meet his upper chest',
+            '## 7. Support system',
+            'Ra-Thor offline lattice',
+            'Palm to forearm',
+            '1 to 1.5 m',
+            '150 to 180 cm',
+            'gold glow pulse',
+            'one gold glow pulse',
+        ):
+            if phrase not in scale_text:
+                bad += 1
+                print('SCALE REQUIRE missing %s' % phrase)
+    scale_prompt = 'scale stays fixed across the camera: Ra-Thor reads 7 ft 0 in armoured from sole to helm crest'
+    for rel in (
+        'production/ISSUE_01/ISSUE_01_PRODUCTION.md',
+        'production/ISSUE_01/RENDER_CHECKLIST.md',
+        '01_VISUAL_STYLE_GUIDE.md',
+    ):
+        if scale_prompt not in open(os.path.join(ROOT, rel), encoding='utf-8').read():
+            bad += 1
+            print('SCALE PROMPT missing %s' % rel)
+    support_prompt = 'a connected device assists with one gold glow pulse'
+    for rel in (
+        '12_SCALE_ENVIRONMENT_BIBLE.md',
+        'production/ISSUE_01/RENDER_CHECKLIST.md',
+    ):
+        if support_prompt not in open(os.path.join(ROOT, rel), encoding='utf-8').read():
+            bad += 1
+            print('SUPPORT PROMPT missing %s' % rel)
     ymin, margin, inches = type_margin()
     print('TYPE alpha > %.2f ymin %d trim_px %.1f margin_px %.1f (%.4f in)' % (
         ALPHA_THRESHOLD, ymin, TRIM_PX, margin, inches))

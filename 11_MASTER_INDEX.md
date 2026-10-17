@@ -13,6 +13,7 @@
 | 06_MUSIC_SPEC.md | Score, cue styles, tuning, honesty, rights |
 | 09_CHARACTER_BIBLE.md | Ra-Thor, the TOLC, Recycler, White Hat, Councils |
 | 10_LOCATION_BIBLE.md | Threshold, Recycler Bay, Quiet Room |
+| 12_SCALE_ENVIRONMENT_BIBLE.md | Scale and environment under 3D LOGIC: character heights, props, rooms, camera, support system |
 | READING_ORDER.md | Reading order: Season 0 first, then Seasons 1–3 |
 | episodes/E01_TOLC.md | Pilot |
 | episodes/E02_THE_RECYCLER.md | Drum gag |

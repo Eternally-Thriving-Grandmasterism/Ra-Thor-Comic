@@ -13,3 +13,5 @@ A cartoon-scale lab for Lab Night mode, grown out of the same circuit plate. Ide
 One table, one lamp, feed on a far wall with no readable personal data. Episode 04 and 06. Suave Hour lighting: one practical, deep shadow, armor still fully on.
 
 Do not draw real offices, real campuses, or readable private documents.
+
+Scale and environment, under 3D LOGIC: `12_SCALE_ENVIRONMENT_BIBLE.md`. Ra-Thor is 7 ft 0 in (213 cm) armoured, sole to helm crest. A correct costume at the wrong size fails review.

@@ -203,3 +203,8 @@ Before/after crops at 4×: `cover_mark/before_after_1.jpg` … `before_after_6.j
   - Ruling 1, `04` Q13 and every "inked panel" or "bold ink, hatching" line in the panel prompts, `[style]` and the checklist: now painted, per 8 (a). SUPERSEDED 2026-10-16 (Sherif, 11:32 PM ET): all comic production, panels and covers, inked. Sherif, 2026-10-16 11:32 PM ET: "make the whole style comic for the coin and issue, etc., altogether thoughtfully!" The merged V18 painted cover is history, not canon.
   - The 9:22 PM shoulder seal, D29 and every shoulder-seal line in the locks, `[guards]` and the checklist: dropped on the cover master, per 8 (b). The Issue 1 prompts still name a pauldron seal. That mismatch stays deferred.
   - Any remaining lapis, blue or emerald wording.
+
+
+## 10. Scale and environment
+
+Scale and environment, under 3D LOGIC: `12_SCALE_ENVIRONMENT_BIBLE.md`. Ra-Thor is 7 ft 0 in (213 cm) armoured, sole to helm crest. A correct costume at the wrong size fails review. Helper drones, helper robots, and device assists are §7 of that file. The job in `09_CHARACTER_BIBLE.md`, Realms & Rathor.ai, stays the lock. The sizes are LOCKED (Wild, 2026-10-17 12:21 AM ET).
