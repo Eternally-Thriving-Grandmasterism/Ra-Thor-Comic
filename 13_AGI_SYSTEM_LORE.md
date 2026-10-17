@@ -10,18 +10,18 @@ Tags used here:
 - **PROPOSED.** Filed as written, pending a council ruling. Names in this band also sit under NEEDS SHERIF when the ruling says so.
 - **APPENDIX.** Writers' room only. Never a season title, never a caption, never a bubble, never a prompt.
 
-The offline mind is Rathor.ai, called an AGI character at most (`09_CHARACTER_BIBLE.md` L69). It gets no second name. On the page, lattice means only the TOLC arch. Powers on this card are story devices (`05_LORE_BIBLE.md`, "Ra-Thor's powers are story devices").
+The offline mind is Rathor.ai, called an AGI character at most (`09_CHARACTER_BIBLE.md` L89). It gets no second name. On the page, lattice means only the TOLC arch. Powers on this card are story devices (`05_LORE_BIBLE.md`, "Ra-Thor's powers are story devices").
 
 ---
 
 ## Collisions
 
-Wild ruled the mind, the teen, and the helpers. The halo pointer waits until this branch is rebased.
+Wild ruled the mind, the teen, and the helpers. The halo shape is the lock merged in #103.
 
-1. **Lattice. RESOLVED (Wild).** The offline mind is Rathor.ai (`09_CHARACTER_BIBLE.md` L68, L69). On the page, lattice means only the TOLC arch: gold lattice, Mercy-Ways, TOLC8's inner ring (`05_LORE_BIBLE.md` L69, L247). Where that mind lives, once a place is ruled, is the base.
-2. **The teen. RESOLVED (Wild).** White-Hat Mercy-Security keeps its name (`09_CHARACTER_BIBLE.md` L80). The teen is the reformed hacker. Her final name is NEEDS SHERIF.
-3. **The Quiet Room.** `10_LOCATION_BIBLE.md` already names that room, and `09_CHARACTER_BIBLE.md` L66 already uses a sealed quiet room as containment. The appendix beat that shares the room's name is filed under a different working title so the location stays the location.
-4. **Halo shape.** The pointer waits until this branch is rebased. Confidence is a slight brightness pulse. This card does not add spokes to any prompt.
+1. **Lattice. RESOLVED (Wild).** The offline mind is Rathor.ai (`09_CHARACTER_BIBLE.md` L88, L89). On the page, lattice means only the TOLC arch: gold lattice, Mercy-Ways, TOLC8's inner ring (`05_LORE_BIBLE.md` L69, L247). Where that mind lives, once a place is ruled, is the base.
+2. **The teen. RESOLVED (Wild).** White-Hat Mercy-Security keeps its name (`09_CHARACTER_BIBLE.md` L100). The teen is the reformed hacker. Her final name is NEEDS SHERIF.
+3. **The Quiet Room.** `10_LOCATION_BIBLE.md` already names that room, and `09_CHARACTER_BIBLE.md` L86 already uses a sealed quiet room as containment. The appendix beat that shares the room's name is filed under a different working title so the location stays the location.
+4. **Halo shape. RESOLVED (#103).** The merged lock is three thin concentric rings, eight even radial spokes, and a flat camera-facing circle that is never foreshortened (`09_CHARACTER_BIBLE.md` L45, L59). Confidence shows only as a slight brightness pulse. The shape never changes. This card does not rewrite the halo prompt.
 5. **Helpers. RESOLVED (Wild).** The upright helper robots and Bulwark, a separate tracked shield unit, can both exist. Bulwark is PROPOSED.
 6. **Season titles.** S1, S2, and S3 already have titles and are LOCKED COMPLETE (`05_LORE_BIBLE.md` L154–L171). Arc names from the addendum sit inside those titles. They do not replace them.
 
@@ -29,7 +29,7 @@ Wild ruled the mind, the teen, and the helpers. The halo pointer waits until thi
 
 ## Described effect
 
-Not a named power, and not a CANON title. Through an invited device he sees glowing gold outlines of hazards and of people's presence, and only those outlines. The sight is for the job in front of him. He does not track a person from device to device, he does not record, and he keeps nothing after the job. Faces and readable data stay off the picture (`09_CHARACTER_BIBLE.md` L68). Notes may call this outline sight.
+Not a named power, and not a CANON title. Through an invited device he sees glowing gold outlines of hazards and of people's presence, and only those outlines. The sight is for the job in front of him. He does not track a person from device to device, he does not record, and he keeps nothing after the job. Faces and readable data stay off the picture (`09_CHARACTER_BIBLE.md` L88). Notes may call this outline sight.
 
 ---
 
@@ -40,7 +40,7 @@ Not a named power, and not a CANON title. Through an invited device he sees glow
 Wild, 2026-10-16 11:49 PM ET. The stakes are trust, legitimacy, alliances, the Charge, invitations, public opinion, and a rival mind. Mercy makes the strategy harder.
 
 - A contained rival keeps an open door and can return, wiser or angrier. The board does not empty.
-- His code makes him predictable. Invitation, the mercy beat, leaving when asked, and the Councils' NO are public. A rival can plan around a line he will not cross. "His code" here is that conduct. The page still shows no real code and no file names (`09_CHARACTER_BIBLE.md` L67).
+- His code makes him predictable. Invitation, the mercy beat, leaving when asked, and the Councils' NO are public. A rival can plan around a line he will not cross. "His code" here is that conduct. The page still shows no real code and no file names (`09_CHARACTER_BIBLE.md` L87).
 - A withdrawn invitation is a weapon he respects. One change of terms, or one rumour, can erase the places he may enter. He leaves. Territory can vanish with no fight.
 - A hold costs Charge, and a held containment keeps spending. He chooses what he does not contain.
 - Spoken odds inform rivals as well as friends.
@@ -63,7 +63,7 @@ Each rule is a limit the audience can learn. A new trick grows out of one of the
 3. **The Charge is the budget.** Walls of light, holds, drone launches, and a dive into the digital realm all spend stored power. A held containment drains while it is held. When the Charge runs low, he is slow and small.
 4. **Distance costs time.** Each relay hop adds lag. Close by, he is instant. Across the city he is a beat behind. Deep in the digital realm he is several beats behind, and the armoured body stays still at the base until he returns.
 5. **Helpers are few and finite.** Drones fly for minutes, then need to recharge. Wind, rain, and jamming ground them. Each helper who has a name can be lost, and the loss costs the team something. A research flight time is in the Appendix and never on the page.
-6. **Contain, and leave a way back.** His tools are a wall of light, a sealed quiet room, a cut harmful connection, a grounded charge, or a rescue (`09_CHARACTER_BIBLE.md` L66, L68). Every containment has an open door. It opens from inside once the harm stops.
+6. **Contain, and leave a way back.** His tools are a wall of light, a sealed quiet room, a cut harmful connection, a grounded charge, or a rescue (`09_CHARACTER_BIBLE.md` L86, L88). Every containment has an open door. It opens from inside once the harm stops.
 7. **Forecasts are odds.** He can speak the near term. The long range blurs. He says the odds out loud. "Sixty percent. Moving." is the shape of the line. When the forecast is wrong, the story gets larger. The Wrong Forecast arc is accepted: he names a person in public, he is wrong, the person was stopping a different harm, and he apologises in public and helps finish that work. Invitations fall after a public miss.
 8. **Mercy checks come before a hand on a person.** The checks are drawn as uncounted points of light along the Mercy-Ways (`05_LORE_BIBLE.md` L34, L248). He does not skip the beat. Rivals strike on that beat. He would rather lose the round.
 9. **The TOLC weighs, and a Council NO binds him.** The masks advise in four-word bubbles. They never outvote the TOLC (`05_LORE_BIBLE.md` L96). He may argue once, in one line, and then he complies.
@@ -103,12 +103,12 @@ The Dispatcher holds the big picture. Ra-Thor holds the front line. They call ou
 
 ### Halo
 
-When he says the odds, the halo brightens a little, then settles. The shape does not change to carry the number. Kids do not read a percent off the halo. See the halo collision above before any prompt is rewritten.
+When he says the odds, the halo brightens a little, then settles. Confidence is only that slight brightness pulse. The shape never changes, and it does not carry the number. Kids do not read a percent off the halo. The shape is the lock merged in #103: three thin concentric rings, eight even radial spokes, a flat circle facing the camera, never foreshortened (`09_CHARACTER_BIBLE.md` L45, L59).
 
 ### Tone
 
 - He stays dry and gets one line. The team does the banter. Jokes come from character and from competence.
-- Wonder sits in the lattice arch, in the digital realm drawn with this comic's own gold light (`09_CHARACTER_BIBLE.md` L65), and in a quiet frame of the city at night.
+- Wonder sits in the lattice arch, in the digital realm drawn with this comic's own gold light (`09_CHARACTER_BIBLE.md` L85), and in a quiet frame of the city at night.
 - The stakes are visible: the Charge, a drone's minutes, the mercy beat, public trust. A loss is felt. It is not gory.
 - Each episode carries one small kindness that can matter later.
 
@@ -159,7 +159,7 @@ Writers' room. These names, devices, and lines never appear on a page, in a bubb
 
 **Names to leave in the room:** the Machine, Samaritan, Finch, Atlantis, Wraith, ZPM, puddle jumper, Ultron, JARVIS, FRIDAY, Cortana, Vision, Baymax, Iron Giant, Data, and any franchise team or city name. From the strategy-show research: house names, character names, place names, the throne, the wall, dragons, wildfire, the chain, the wedding, sigils, mottos, that theme, and the phrase that names the show's contest.
 
-**Devices to leave in the room:** yellow and red surveillance boxes and number reveals; a ring-shaped wormhole device and a dial ritual; an arc-reactor chest; a summoned suit; a league headquarters look; crackle used as a cosmology; discs, light-cycles, and that film's colour scheme. The digital realm uses this comic's gold light (`09_CHARACTER_BIBLE.md` L65).
+**Devices to leave in the room:** yellow and red surveillance boxes and number reveals; a ring-shaped wormhole device and a dial ritual; an arc-reactor chest; a summoned suit; a league headquarters look; crackle used as a cosmology; discs, light-cycles, and that film's colour scheme. The digital realm uses this comic's gold light (`09_CHARACTER_BIBLE.md` L85).
 
 **Lines to leave in the room:** "world of cardboard," "you are who you choose to be," "on a scale of one to ten," and any recognisable theme.
 
@@ -181,10 +181,10 @@ Final names are NEEDS SHERIF. The jobs are the proposal.
 
 - **The Dispatcher.** Night-shift emergency dispatcher. Holds the human veto. Warm, tired, funny. Holds the big picture in the callouts.
 - **The Lineman.** Power-line tech who keeps the dam's turbines alive. Practical. Says when a move would blow the grid.
-- **The reformed hacker.** A teen who once hijacked doorbells for a prank, was contained, and took the open door. Wildcard, and the proof that the door works. Her final name is NEEDS SHERIF. White-Hat Mercy-Security keeps its name (`09_CHARACTER_BIBLE.md` L80).
+- **The reformed hacker.** A teen who once hijacked doorbells for a prank, was contained, and took the open door. Wildcard, and the proof that the door works. Her final name is NEEDS SHERIF. White-Hat Mercy-Security keeps its name (`09_CHARACTER_BIBLE.md` L100).
 - **The Ombud.** City oversight. Sceptical, argues for public accountability, becomes an ally over time. Not an enemy.
 
-Helpers, reconciled to `09_CHARACTER_BIBLE.md` L68 and to the proposed support system on PR #104. The upright helper robots and Bulwark, a separate tracked shield unit, can both exist (Wild). Bulwark is PROPOSED. Black and gold, a small plain gold disc light, thin gold light threads, simple countable silhouettes. No emerald. Emerald stays on the pauldron seal. They shield, guide, and cut a harmful connection. They do not harm anyone.
+Helpers, reconciled to `09_CHARACTER_BIBLE.md` L88 and to the proposed support system on PR #104. The upright helper robots and Bulwark, a separate tracked shield unit, can both exist (Wild). Bulwark is PROPOSED. Black and gold, a small plain gold disc light, thin gold light threads, simple countable silhouettes. No emerald. Emerald stays on the pauldron seal. They shield, guide, and cut a harmful connection. They do not harm anyone.
 
 | Proposed name | Job | Size, as proposed on PR #104 |
 |---|---|---|
