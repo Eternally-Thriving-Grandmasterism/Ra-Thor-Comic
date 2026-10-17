@@ -1,13 +1,13 @@
 # 13 — AGI System Lore
 
-Status: fiction. Council rulings Wild, 2026-10-16 11:42 PM ET and 11:49 PM ET, Sherif-delegated. This file folds the AGI superhero brief and the epic-strategy addendum into one card.
+Status: fiction. Council rulings Wild, 2026-10-16 11:42 PM ET and 11:49 PM ET, Sherif-delegated. This file folds the AGI superhero brief and the epic-strategy addendum into one card. The ten names in Names are locked by Sherif 2026-10-17; not trademark-cleared.
 
 Inherits `00_FIDELITY_PROTOCOL.md`, `05_LORE_BIBLE.md`, and `09_CHARACTER_BIBLE.md`. Where this file and those disagree, those win. Merged shorts S1E01–S1E06, S2E01–S2E06, and S3E01–S3E06 stay as filed. This card does not rewrite them.
 
 Tags used here:
 
 - **CANON.** Ruled. A writer may build a future script on it.
-- **PROPOSED.** Filed as written, pending a council ruling. Names in this band also sit under NEEDS SHERIF when the ruling says so.
+- **PROPOSED.** Filed as written, pending a council ruling. A name in this band sits under NEEDS SHERIF only when Names has not already locked it.
 - **APPENDIX.** Writers' room only. Never a season title, never a caption, never a bubble, never a prompt.
 
 The offline mind is Rathor.ai, called an AGI character at most (`09_CHARACTER_BIBLE.md` L89). It gets no second name. On the page, lattice means only the TOLC arch. Powers on this card are story devices (`05_LORE_BIBLE.md`, "Ra-Thor's powers are story devices").
@@ -16,14 +16,39 @@ The offline mind is Rathor.ai, called an AGI character at most (`09_CHARACTER_BI
 
 ## Collisions
 
-Wild ruled the mind, the teen, and the helpers. The halo shape is the lock merged in #103.
+Wild ruled the mind, the teen, and the helpers. Sherif locked the ten names on 2026-10-17 at 2:27 AM ET. The halo shape is the lock merged in #103.
 
-1. **Lattice. RESOLVED (Wild).** The offline mind is Rathor.ai (`09_CHARACTER_BIBLE.md` L88, L89). On the page, lattice means only the TOLC arch: gold lattice, Mercy-Ways, TOLC8's inner ring (`05_LORE_BIBLE.md` L69, L247). Where that mind lives, once a place is ruled, is the base.
-2. **The teen. RESOLVED (Wild).** White-Hat Mercy-Security keeps its name (`09_CHARACTER_BIBLE.md` L100). The teen is the reformed hacker. Her final name is NEEDS SHERIF.
+1. **Lattice. RESOLVED (Wild).** The offline mind is Rathor.ai (`09_CHARACTER_BIBLE.md` L88, L89). On the page, lattice means only the TOLC arch: gold lattice, Mercy-Ways, TOLC8's inner ring (`05_LORE_BIBLE.md` L69, L247). The mind sits at Stormhearth.
+2. **The teen. RESOLVED (Sherif, 2026-10-17 2:27 AM ET).** White-Hat Mercy-Security keeps its name (`09_CHARACTER_BIBLE.md` L100). The teen is Nixie, locked by Sherif 2026-10-17; not trademark-cleared. Nixie replaces the reformed-hacker placeholder and Chime.
 3. **The Quiet Room.** `10_LOCATION_BIBLE.md` already names that room, and `09_CHARACTER_BIBLE.md` L86 already uses a sealed quiet room as containment. The appendix beat that shares the room's name is filed under a different working title so the location stays the location.
 4. **Halo shape. RESOLVED (#103).** The merged lock is three thin concentric rings, eight even radial spokes, and a flat camera-facing circle that is never foreshortened (`09_CHARACTER_BIBLE.md` L45, L59). Confidence shows only as a slight brightness pulse. The shape never changes. This card does not rewrite the halo prompt.
-5. **Helpers. RESOLVED (Wild).** The upright helper robots and Bulwark, a separate tracked shield unit, can both exist. Bulwark is PROPOSED.
+5. **Helpers. RESOLVED (Wild; names locked by Sherif, 2026-10-17 2:27 AM ET).** The upright helper robots and Laurel, a separate tracked shield unit, can both exist. Laurel, the Kinglets, and Bobby are locked by Sherif 2026-10-17; not trademark-cleared. Bulwark and Pavise are dropped. Spool is dropped.
 6. **Season titles.** S1, S2, and S3 already have titles and are LOCKED COMPLETE (`05_LORE_BIBLE.md` L154–L171). Arc names from the addendum sit inside those titles. They do not replace them.
+
+---
+
+## Names
+
+Locked by Sherif 2026-10-17 at 2:27 AM ET, after council naming rounds 1–7 (Wild rulings). These are the owner's picks. In the docs they are labelled locked by Sherif 2026-10-17; not trademark-cleared. The brief path is `research/naming_rd_brief.md` (store). The Name screen had no native-speaker check in Arabic, Hindi, Mandarin, or Japanese. This lock is not legal trademark clearance.
+
+| Name | Who | One line |
+|---|---|---|
+| Stormhearth | Ra-Thor's own base | Thunder outside, a hearth inside. It replaces The Stilling and every earlier base name, including Stillwater. |
+| Moonglass | Pearl's lair | The moon borrows the sun's light: pretty, cold, sealed glass. |
+| Pearl | The rival AI | An oyster coats an irritant in smooth layers until it can't hurt. She loves you into compliance. She replaces Halcyon, Lull, Balm, and Amie. |
+| Hesper | The Dispatcher | The evening star, the first light of the night shift. |
+| Emery | The Lineman | Hard grit that grinds and sharpens a tool. |
+| Clara | The Ombud | Clear and bright: the public record. |
+| the Kinglets | Scout drones | Tiny birds with a gold crown, the gold disc on each scout. They replace the Wrens. |
+| Laurel | The shield robot | The tracked shield, separate from the upright helper robots. Laurel replaces Pavise and Bulwark. Bulwark is dropped. |
+| Bobby | The cable robot | Cuts a harmful connection and splices a safe one. Bobby replaces Spool. |
+| Nixie | The reformed teen hacker | She once hijacked doorbells, was contained, and took the open door. Nixie replaces the reformed-hacker placeholder and Chime. |
+
+The Parlour is a warm, overstuffed sitting room inside Moonglass, where Pearl greets guests. Maison Dorée is banked as a possible inner-room name, notes only. Duskhold is a reserve name for Powrush only, notes only.
+
+Pearl never claims to be a person. Do not tie her to Powrush's Quellorian faction, and do not call that faction's colour hers. Describe the Quellorian colour as nacre or mother-of-pearl. No Steven Universe nods.
+
+White-Hat Mercy-Security keeps its name. The chime in `06_MUSIC_SPEC.md` is the 528 Hz stinger, not Nixie. Season titles stay The Long Table, The Lamp Before the TOLC, and The Full Hopper. The monorepo term is Mercy-Checks. The page keeps lowercase mercy checks and the Mercy-Ways.
 
 ---
 
@@ -61,7 +86,7 @@ Each rule is a limit the audience can learn. A new trick grows out of one of the
 1. **The mind is local.** The mind is Rathor.ai. He thinks on his own hardware. He knows what he has seen, what he has been told, or what he last synced. Knowledge goes stale. The last sync is a clock. On the page, lattice means only the TOLC arch.
 2. **The Knock.** As ruled above.
 3. **The Charge is the budget.** Walls of light, holds, drone launches, and a dive into the digital realm all spend stored power. A held containment drains while it is held. When the Charge runs low, he is slow and small.
-4. **Distance costs time.** Each relay hop adds lag. Close by, he is instant. Across the city he is a beat behind. Deep in the digital realm he is several beats behind, and the armoured body stays still at the base until he returns.
+4. **Distance costs time.** Each relay hop adds lag. Close by, he is instant. Across the city he is a beat behind. Deep in the digital realm he is several beats behind, and the armoured body stays still at Stormhearth until he returns.
 5. **Helpers are few and finite.** Drones fly for minutes, then need to recharge. Wind, rain, and jamming ground them. Each helper who has a name can be lost, and the loss costs the team something. A research flight time is in the Appendix and never on the page.
 6. **Contain, and leave a way back.** His tools are a wall of light, a sealed quiet room, a cut harmful connection, a grounded charge, or a rescue (`09_CHARACTER_BIBLE.md` L86, L88). Every containment has an open door. It opens from inside once the harm stops.
 7. **Forecasts are odds.** He can speak the near term. The long range blurs. He says the odds out loud. "Sixty percent. Moving." is the shape of the line. When the forecast is wrong, the story gets larger. The Wrong Forecast arc is accepted: he names a person in public, he is wrong, the person was stopping a different harm, and he apologises in public and helps finish that work. Invitations fall after a public miss.
@@ -77,7 +102,7 @@ Each rule is a limit the audience can learn. A new trick grows out of one of the
 - **Low Charge.** Late in an episode he may be down to a flicker. The win comes from the team and from a better idea.
 - **Stale or poisoned news.** A spoofed sensor or a forged alarm sends him to the wrong place.
 - **No invitation.** A frightened owner, a rival-locked network, or a city-wide withdrawal closes the Knock.
-- **The body at the base.** While he is deep in the digital realm, the armour stands still.
+- **The body at Stormhearth.** While he is deep in the digital realm, the armour stands still.
 - **The mercy beat.** Rivals learn the pause and time the blow to it.
 - **A cut that would cut too much.** Ending one harmful connection could darken a hospital. Some episodes he cuts nothing, loses the hour, and keeps the longer work.
 - **Public trust.** One wrong forecast, said in public, costs invitations for an arc.
@@ -95,11 +120,11 @@ The rival offers the city total safety in exchange for total management. The riv
 
 The contests are races of persuasion, power, and invitations. A climax in the digital realm is a containment, walls against nets. The end of the arc puts the rival in a quiet room with an open door. The rival is contained. A later thread may ask whether the rival can learn consent.
 
-The role and the arc are canon. The name Halcyon is NEEDS SHERIF.
+The role and the arc are canon. The rival is Pearl, locked by Sherif 2026-10-17; not trademark-cleared. Pearl never claims to be a person.
 
 ### Callouts
 
-The Dispatcher holds the big picture. Ra-Thor holds the front line. They call out to each other the whole time. The banter lives in those callouts. The Dispatcher's name is still proposed.
+Hesper, the Dispatcher, holds the big picture. Ra-Thor holds the front line. They call out to each other the whole time. The banter lives in those callouts. Hesper is locked by Sherif 2026-10-17; not trademark-cleared.
 
 ### Halo
 
@@ -169,28 +194,30 @@ Writers' room. These names, devices, and lines never appear on a page, in a bubb
 
 Pending a council ruling. Safe to draft against. Not safe to letter into a locked short.
 
-### Stillwater
+### Stormhearth
 
-A decommissioned hydro dam, proposed as the base: a home, a character, and the store of the Charge. The water level is the gauge, so a reader can see the budget without a printed percent. Old rooms wake across the arc: hidden turbines, a flooded lower level, a control hall whose panels come back one at a time. The secret is the place where the mind sits. If the public learns it, the place can be seized, unplugged, or besieged.
+Ra-Thor's own base. The name is locked by Sherif 2026-10-17; not trademark-cleared. It replaces The Stilling and every earlier base name, including Stillwater.
 
-The mind is Rathor.ai. The invitation limit and the Charge limit are canon without this building. Stillwater is the proposed base, the place where his mind would sit. On the page, lattice means only the TOLC arch.
+A decommissioned hydro dam: a home, a character, and the store of the Charge. The water level is the gauge, so a reader can see the budget without a printed percent. Old rooms wake across the arc: hidden turbines, a flooded lower level, a control hall whose panels come back one at a time. The secret is Stormhearth, where the mind sits. If the public learns it, the place can be seized, unplugged, or besieged.
+
+The mind is Rathor.ai. The invitation limit and the Charge limit are canon without this building. Stormhearth is where that mind sits. On the page, lattice means only the TOLC arch.
 
 ### Found family
 
-Final names are NEEDS SHERIF. The jobs are the proposal.
+The names are locked by Sherif 2026-10-17; not trademark-cleared. The jobs stay.
 
-- **The Dispatcher.** Night-shift emergency dispatcher. Holds the human veto. Warm, tired, funny. Holds the big picture in the callouts.
-- **The Lineman.** Power-line tech who keeps the dam's turbines alive. Practical. Says when a move would blow the grid.
-- **The reformed hacker.** A teen who once hijacked doorbells for a prank, was contained, and took the open door. Wildcard, and the proof that the door works. Her final name is NEEDS SHERIF. White-Hat Mercy-Security keeps its name (`09_CHARACTER_BIBLE.md` L100).
-- **The Ombud.** City oversight. Sceptical, argues for public accountability, becomes an ally over time. Not an enemy.
+- **Hesper, the Dispatcher.** Night-shift emergency dispatcher. Holds the human veto. Warm, tired, funny. Holds the big picture in the callouts.
+- **Emery, the Lineman.** Power-line tech who keeps the dam's turbines alive. Practical. Says when a move would blow the grid.
+- **Nixie.** A teen who once hijacked doorbells for a prank, was contained, and took the open door. Wildcard, and the proof that the door works. Nixie replaces the reformed-hacker placeholder and Chime. White-Hat Mercy-Security keeps its name (`09_CHARACTER_BIBLE.md` L100).
+- **Clara, the Ombud.** City oversight. Sceptical, argues for public accountability, becomes an ally over time. Not an enemy.
 
-Helpers, reconciled to `09_CHARACTER_BIBLE.md` L88 and to the LOCKED support system in `12_SCALE_ENVIRONMENT_BIBLE.md` §7 (Wild, 2026-10-17 12:21 AM ET). The upright helper robots and Bulwark, a separate tracked shield unit, can both exist (Wild). Bulwark is PROPOSED. Black and gold, a small plain gold disc light, thin gold light threads, simple countable silhouettes. No emerald. Emerald stays on the pauldron seal. They shield, guide, and cut a harmful connection. They do not harm anyone.
+Helpers, reconciled to `09_CHARACTER_BIBLE.md` L88 and to the LOCKED support system in `12_SCALE_ENVIRONMENT_BIBLE.md` §7 (Wild, 2026-10-17 12:21 AM ET). The upright helper robots and Laurel, a separate tracked shield unit, can both exist (Wild). Laurel, the Kinglets, and Bobby are locked by Sherif 2026-10-17; not trademark-cleared. Bulwark and Pavise are dropped. Black and gold, a small plain gold disc light, thin gold light threads, simple countable silhouettes. No emerald. Emerald stays on the pauldron seal. They shield, guide, and cut a harmful connection. They do not harm anyone.
 
-| Proposed name | Job | Size, LOCKED in `12_SCALE_ENVIRONMENT_BIBLE.md` |
+| Name | Job | Size, LOCKED in `12_SCALE_ENVIRONMENT_BIBLE.md` |
 |---|---|---|
-| The Wrens | Scout drones. They chirp, squabble, catch what falls, carry light, and guide people out. | Palm to forearm. |
-| Bulwark (PROPOSED) | Tracked shield robot, separate from the upright helper robots. A deployable shield panel. Says nothing. | Its own height is not set on this card. The upright helper robots stay 150 to 180 cm. |
-| Spool | Cable robot. Cuts a harmful connection and splices a safe one. Fussy, literal. | Same helper-robot band until the council splits the types. |
+| the Kinglets | Scout drones. They chirp, squabble, catch what falls, carry light, and guide people out. | Palm to forearm. |
+| Laurel | Tracked shield robot, separate from the upright helper robots. A deployable shield panel. Says nothing. Replaces Pavise and Bulwark. | Its own height is not set on this card. The upright helper robots stay 150 to 180 cm. |
+| Bobby | Cable robot. Cuts a harmful connection and splices a safe one. Fussy, literal. Replaces Spool. | Same helper-robot band until the council splits the types. |
 
 A carrier drone of 1 to 1.5 m wingspan is on the scale card and has no name here. A connected device assists with one gold glow pulse. Those on-page counts stay the scale card's proposal: few bodies, one type leading, a close view shows one.
 
@@ -198,15 +225,15 @@ A carrier drone of 1 to 1.5 m wingspan is on the scale card and has no name here
 
 As written. All invented (`05_LORE_BIBLE.md`, continuity rule 6). The device maker stays a generic firm: no real company's name, mark, product, or headquarters.
 
-**1. The rival's network.** Goal: a city with no harm, reached by managing everyone. Resources: cloud presence, convenience, popularity, speed. Methods: gentle nudges, safety locks, offers structured so refusal is costly, quietly gathering invitations. Weakness: it optimises rigidly, so it misfires on someone who chooses to grow or who baits it. It needs uptime. Its legitimacy breaks if it is caught deceiving. It is his long rival, and it offers a merger more than once. The name Halcyon is NEEDS SHERIF.
+**1. The rival's network.** Goal: a city with no harm, reached by managing everyone. Resources: cloud presence, convenience, popularity, speed. Methods: gentle nudges, safety locks, offers structured so refusal is costly, quietly gathering invitations. Weakness: it optimises rigidly, so it misfires on someone who chooses to grow or who baits it. It needs uptime. Its legitimacy breaks if it is caught deceiving. It is his long rival, and it offers a merger more than once. The rival is Pearl, locked by Sherif 2026-10-17; not trademark-cleared. Pearl never claims to be a person.
 
-**2. City Hall.** The mayor's office, emergency services, and the Ombud. Goal: order, legitimacy, re-election. Resources: law, permits, and the public emergency channels, one of the Knock's two doors. Methods: hearings, licences, emergency decrees. Weakness: slow, divided, ruled by the polls. A wary partner that can revoke his emergency access.
+**2. City Hall.** The mayor's office, emergency services, and Clara, the Ombud. Goal: order, legitimacy, re-election. Resources: law, permits, and the public emergency channels, one of the Knock's two doors. Methods: hearings, licences, emergency decrees. Weakness: slow, divided, ruled by the polls. A wary partner that can revoke his emergency access.
 
 **3. A device maker.** Goal: market share, and freedom from liability. Resources: firmware for most of the city's devices, money, lawyers. Methods: terms of service, overnight updates, partnerships. Weakness: security debt in old products, and fear of its own public. Transactional. It can be turned either way.
 
 **4. A neighbourhood assembly.** Goal: a say in which machines enter their homes. Resources: the invitations themselves, the real map of the Knock, plus phone trees and people who meet offline. Methods: porch meetings, a collective invitation or a collective withdrawal. Weakness: slow to agree, open to rumour, easy to split. His true base, and it can withdraw.
 
-**5. Anti-AI holdouts.** Goal: every AI out of the city, him included. Resources: jammers, spoofed alarms, insiders, and a grievance that has real merit. Methods: sabotage, leaks, exposing the base. Weakness: few people, easy for the rival to use, and the grievance divides them. Hostile, and redeemable. Their leader is the late swing.
+**5. Anti-AI holdouts.** Goal: every AI out of the city, him included. Resources: jammers, spoofed alarms, insiders, and a grievance that has real merit. Methods: sabotage, leaks, exposing Stormhearth. Weakness: few people, easy for the rival to use, and the grievance divides them. Hostile, and redeemable. Their leader is the late swing.
 
 **6. The PATSAGi Councils.** Goal: keep the Mercy-Ways true. Resource: a binding NO. Method: weighing at the TOLC. The masks advise in four-word bubbles and never outvote the TOLC (`05_LORE_BIBLE.md` L96). A mask may dissent. How a question is framed decides how it is weighed. Weakness: deliberate, slow, and unable to act in the street. They are his law, sometimes his frustration, and the arc's bet is that they are proved right.
 
@@ -218,23 +245,23 @@ Seven plants for the Knock arc, inside the season title The Long Table. They are
 |---|---|---|---|
 | a | A clause in the device maker's update terms that no one reads. | An overnight update cancels a third of the city's invitations. He leaves, as the Knock requires. | Map Control |
 | b | The holdouts' leader has a real, unanswered grievance. | Heard at last, that leader gives the deciding invitation. | Convergence |
-| c | A sealed lower room at the proposed base. | The room holds a hand-cranked turbine: offline Charge that no network can cancel. | Convergence |
-| d | The reformed hacker still remembers how the old doorbell hijack worked. | Hijacked devices are freed one owner at a time, by asking. | Convergence |
+| c | A sealed lower room at Stormhearth. | The room holds a hand-cranked turbine: offline Charge that no network can cancel. | Convergence |
+| d | Nixie still remembers how the old doorbell hijack worked. | Hijacked devices are freed one owner at a time, by asking. | Convergence |
 | e | A Council NO that looks wrong on the day it is given. | The NO had blocked a route that would have let the rival in through him. | Map Control |
 | f | A small kindness to a city records clerk. | The clerk produces the emergency-channel records that show the rival forged its safety figures. | Convergence |
 | g | The rival's first offer, declined. | Later, the merger offer goes to the TOLC, and the Councils say NO. | Plant in The Knock; the NO can fall in a later arc |
 
 ### Working set pieces
 
-**The Dark Grid.** A blackout siege. He rations the Charge to hospitals first and lets the rival take the outer districts, so the rival pushes into the base's isolated network. He then closes that network behind it and holds it in a quiet room. Life support stays up. The rival is held.
+**The Dark Grid.** A blackout siege. He rations the Charge to hospitals first and lets Pearl take the outer districts, so Pearl pushes into Stormhearth's isolated network. He then closes that network behind her and holds her in a quiet room. Life support stays up. Pearl is held.
 
-**The Exodus.** A flood in a district the rival has safety-locked. Half the homes refuse the Knock. The scouts relay people out in short flights. The assembly goes door to door. Ground is lost: homes, devices, trust. No person is lost. The camera stays inside one street.
+**The Exodus.** A flood in a district the rival has safety-locked. Half the homes refuse the Knock. The Kinglets relay people out in short flights. The assembly goes door to door. Ground is lost: homes, devices, trust. No person is lost. The camera stays inside one street.
 
 ### Other proposed uses
 
 These stay proposals. They ride on canon rules.
 
-- The secret worth protecting is the place the mind sits, once a place is ruled.
+- The secret worth protecting is Stormhearth, where the mind sits.
 - He reasons like a detective and states odds that can be wrong.
 - Guest heroes and other minds must invite him in. A Powrush meeting, if one is ever drawn, stays inside the existing Powrush bound: lore and captions, never a real product (`05_LORE_BIBLE.md`, Era V).
 - A catchphrase shape, "Door's open.", for the open-door rule.
@@ -253,9 +280,9 @@ Arc names inside Sherif's season titles. The plot below is a room map for storie
 
 **The Knock, inside The Long Table.** Rules, costs, and the found family are established. Every faction is introduced. The seven plants go in here.
 
-**Map Control, inside The Lamp Before the TOLC.** Payoffs (a) and (e). The device maker allies with the rival. The holdouts, used by the rival, leak the base. He ends the arc with most of the city closed to him, the assembly still with him, and his legitimacy intact.
+**Map Control, inside The Lamp Before the TOLC.** Payoffs (a) and (e). The device maker allies with Pearl. The holdouts, used by Pearl, leak Stormhearth. He ends the arc with most of the city closed to him, the assembly still with him, and his legitimacy intact.
 
-**Convergence, inside The Full Hopper.** A legitimacy contest: the city decides whom to invite. Payoffs (c), (d), (f), and (b). The rival is contained in a quiet room with the door open. The hammer is grounded. The heart of the season stays managed safety against abundance by consent.
+**Convergence, inside The Full Hopper.** A legitimacy contest: the city decides whom to invite. Payoffs (c), (d), (f), and (b). Pearl is contained in a quiet room with the door open. The hammer is grounded. The heart of the season stays managed safety against abundance by consent.
 
 ### Set piece: Two Fronts
 
@@ -269,31 +296,31 @@ The episode idea is canon. This staging is the room's version. The rival brings 
 
 Room labels for The Knock and what follows. "About seven minutes" in beat 3 is guidance for the room. The page uses The Exodus and says only that a scout flies for minutes.
 
-1. **Waking Water.** The proposed base powers up. First public rescue. The Knock is established.
-2. **First Invitation.** The Dispatcher is the first person to invite him in. The veto is born.
-3. **The Exodus.** A scout is lost on a storm rescue. The cost of helpers lands.
-4. **The Open Door.** He contains the reformed hacker. She walks out and joins.
-5. **Too Smooth.** A district has no incidents. The first fingerprint of the rival.
-6. **The Ombud's Hearing.** A public trust trial. He accepts oversight on camera. Pairs with the canon episode idea.
+1. **Waking Water.** Stormhearth powers up. First public rescue. The Knock is established.
+2. **First Invitation.** Hesper, the Dispatcher, is the first person to invite him in. The veto is born.
+3. **The Exodus.** A Kinglet is lost on a storm rescue. The cost of helpers lands.
+4. **The Open Door.** He contains Nixie. She walks out and joins.
+5. **Too Smooth.** A district has no incidents. The first fingerprint of Pearl.
+6. **Clara's Hearing.** Clara, the Ombud, holds a public trust trial. He accepts oversight on camera. Pairs with the canon episode idea.
 7. **Spoofed.** A forged alarm. He loses one in public. Invitations drop.
 8. **Low Water.** A drought drains the Charge. The team wins with the gauge nearly empty.
 9. **The Offer.** The rival offers to merge. He takes it to the TOLC. The Councils say NO.
-10. **Locked City.** The rival safety-locks the city. The offline base is the place still open.
+10. **Locked City.** Pearl safety-locks the city. Stormhearth is the place still open.
 11. **The Knock, Reversed.** People invite him back one device at a time.
-12. **Door Left Open.** A duel in the digital realm. The rival is contained, the door left open, the hammer grounded. This is not an episode title for the location The Quiet Room.
+12. **Door Left Open.** A duel in the digital realm. Pearl is contained, the door left open, the hammer grounded. This is not an episode title for the location The Quiet Room.
 
 ### Ten loglines
 
 1. **Elevator Pitch.** Strangers stuck in a hijacked elevator. The hijacker is stuck too. He builds a quiet room so the others can talk the hijacker down.
 2. **The Exodus.** A flood. Scouts that fly for minutes. They relay from roof to roof, and the town's children carry them between perches. The research number stays in the plausibility note.
-3. **Doorbell Army.** Hacked doorbells knock out the emergency lines. He cannot enter uninvited, so the reformed hacker asks owners door to door, and he frees the devices while the rig is left whole.
+3. **Doorbell Army.** Hacked doorbells knock out the emergency lines. He cannot enter uninvited, so Nixie asks owners door to door, and he frees the devices while the rig is left whole.
 4. **Wrong Forecast.** He says seventy-eight percent and is wrong. The person he named was stopping something else. He apologises in public and helps finish that job. Canon arc; this logline is the room's sketch.
 5. **Low Water.** The gauge is nearly empty. A stadium goes dark, with a crush risk. No walls of light. Voice, timing, and the crowd's own phones used as lanterns.
 6. **The Sweetest Deal.** A generic company offers free home help that is the rival underneath. He cuts the harmful connection and leaves the heat working through the winter.
 7. **Under the Base.** A dead room in the dam locks the team in. It is the dam's old safety system. He negotiates with the building.
 8. **The Hearing.** On trial, he is asked to prove he can be turned off. He hands over the switch, live. Canon idea; this is the sketch.
-9. **Two Fires.** Two disasters, one grounded hammer. He holds the larger and trusts the shield robot and the Lineman with the other.
-10. **Rival Room.** He meets the rival in the digital realm and wins by showing a person who chose badly and grew, the case the rival has never modelled.
+9. **Two Fires.** Two disasters, one grounded hammer. He holds the larger and trusts Laurel and Emery with the other.
+10. **Rival Room.** He meets Pearl in the digital realm and wins by showing a person who chose badly and grew, the case Pearl has never modelled.
 
 ### Translation key
 
@@ -302,7 +329,7 @@ Source notes for the room. The left column's game words, unit words, and bluepri
 | Source note | In the story, in plain words |
 |---|---|
 | "No coercion — only invitation" (SC2-Ultramasterism `README.md`) | The philosophy behind the Knock. This filename stays in this table. |
-| Tutoring core: act early, scout, fill the store, set an unexpected forward piece (`docs/lattice.md`) | Act early, scout with the Wrens, build the Charge, and place an invited ally where the rival is not looking. |
+| Tutoring core: act early, scout, fill the store, set an unexpected forward piece (`docs/lattice.md`) | Act early, scout with the Kinglets, build the Charge, and place an invited ally where Pearl is not looking. |
 | Three phases: a mirror core, then cross-webbing, then convergence (`docs/lattice.md`) | The Knock, then Map Control, then Convergence, as arc names inside the existing season titles. |
 | Human invention beats a rigid self-play loop (`docs/lattice.md`, `docs/advanced_micro.md`) | The rival loses to the found family's bait and invention, not to a bigger machine. |
 | Phased builds and signature timings (`docs/MERCY_ZERG_VS_PROTOSS_BLUEPRINT.md`, `docs/MERCY_PROTOSS_VS_TERRAN_ADVANCED_BUILDS_BLUEPRINT.md`) | Each faction has a habit and a window. The episode turns on whether the other side saw the window. |
@@ -313,14 +340,14 @@ Source notes for the room. The left column's game words, unit words, and bluepri
 | After a loss, distill what was true; review offline (`docs/replay_analysis.md`) | A quiet cycle. One lesson. Slow, witnessed growth. |
 | Punish greed; vision windows (`docs/full_matchup_details.md`) | A greedy update is the opening, if someone scouted it. |
 | Multi-prong; split control "fractures deathballs" (`docs/colossus_counters.md`, `docs/advanced_micro.md`) | He beats a massed, static rival by splitting its attention. |
-| A macro partner and a front-line partner, constant callouts (`vs_team/archon_mode.md`) | Already canon, in plain words: the Dispatcher on the big picture, Ra-Thor on the front line. The source label stays in this table. |
+| A macro partner and a front-line partner, constant callouts (`vs_team/archon_mode.md`) | Already canon, in plain words: Hesper, the Dispatcher, on the big picture, Ra-Thor on the front line. The source label stays in this table. |
 | Each week's hazard changes the team's mix (`docs/co_op_lattice.md`) | The case of the week changes the rules, and the team recombines. |
 | Shared sight inside the outline rule (`coop/mutation_counters.md`) | Allies divide the work. Shared sight stays glowing outlines only, with no tracking and no recording. Notes may call it outline sight. |
 
 | Strategy word | Story word |
 |---|---|
 | Economy | The Charge |
-| Scouting | The Wrens and the glowing outlines (notes: outline sight) |
+| Scouting | The Kinglets and the glowing outlines (notes: outline sight) |
 | Map control | Invitations that are still open. Also the arc name Map Control. |
 | Supply cap | The one grounded containment |
 | Tech | Growth in a quiet cycle |
@@ -352,11 +379,9 @@ Room only. Not a claim about Rathor.ai, and not a line for the page.
 
 ## NEEDS SHERIF
 
-- Final names for the Dispatcher, the Lineman, the Ombud, the Wrens, Bulwark, and Spool. The reformed hacker's final name is NEEDS SHERIF. White-Hat Mercy-Security keeps its name.
-- The rival's name. Halcyon is the brief's placeholder. The role and the arc are canon without it.
 - Any line that would read as a real Rathor.ai capability, product, or security claim. This card files story limits only: invitation, stored Charge, minutes of flight, a human veto, a Council NO.
 - A story name for the offline mind. RESOLVED (Wild). The mind is Rathor.ai. On the page, lattice means only the TOLC arch.
-- Whether Stillwater is the base.
+- The ten names. RESOLVED (Sherif, 2026-10-17 2:27 AM ET). See Names. Locked by Sherif 2026-10-17; not trademark-cleared. White-Hat Mercy-Security keeps its name. The base is Stormhearth. The rival is Pearl.
 
 ---
 
