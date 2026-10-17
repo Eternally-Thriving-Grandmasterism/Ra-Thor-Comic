@@ -16,13 +16,20 @@ The offline mind is Rathor.ai, called an AGI character at most (`09_CHARACTER_BI
 
 ## Collisions
 
-Wild ruled the mind, the teen, and the helpers. The halo waits until the costume branch merges. This card does not point at that lock yet.
+Wild ruled the mind, the teen, and the helpers. The halo pointer waits until this branch is rebased.
 
 1. **Lattice. RESOLVED (Wild).** The offline mind is Rathor.ai (`09_CHARACTER_BIBLE.md` L68, L69). On the page, lattice means only the TOLC arch: gold lattice, Mercy-Ways, TOLC8's inner ring (`05_LORE_BIBLE.md` L69, L247). Where that mind lives, once a place is ruled, is the base.
 2. **The teen. RESOLVED (Wild).** White-Hat Mercy-Security keeps its name (`09_CHARACTER_BIBLE.md` L80). The teen is the reformed hacker. Her final name is NEEDS SHERIF.
 3. **The Quiet Room.** `10_LOCATION_BIBLE.md` already names that room, and `09_CHARACTER_BIBLE.md` L66 already uses a sealed quiet room as containment. The appendix beat that shares the room's name is filed under a different working title so the location stays the location.
-4. **Halo shape.** On this tree the Issue 1 lock is a glowing Eye of Horus in a thin gold circle with rays, and the prompts say no spokes (`production/ISSUE_01/ISSUE_01_PRODUCTION.md`). The three-ring, eight-spoke halo is a later costume lock on an unmerged branch. This card does not add spokes to any prompt. Confidence is a slight brightness pulse, and the shape in force on this tree stays the shape.
-5. **Season titles.** S1, S2, and S3 already have titles and are LOCKED COMPLETE (`05_LORE_BIBLE.md` L154–L171). Arc names from the addendum sit inside those titles. They do not replace them.
+4. **Halo shape.** The pointer waits until this branch is rebased. Confidence is a slight brightness pulse. This card does not add spokes to any prompt.
+5. **Helpers. RESOLVED (Wild).** The upright helper robots and Bulwark, a separate tracked shield unit, can both exist. Bulwark is PROPOSED.
+6. **Season titles.** S1, S2, and S3 already have titles and are LOCKED COMPLETE (`05_LORE_BIBLE.md` L154–L171). Arc names from the addendum sit inside those titles. They do not replace them.
+
+---
+
+## Described effect
+
+Not a named power, and not a CANON title. Through an invited device he sees glowing gold outlines of hazards and of people's presence, and only those outlines. The sight is for the job in front of him. He does not track a person from device to device, he does not record, and he keeps nothing after the job. Faces and readable data stay off the picture (`09_CHARACTER_BIBLE.md` L68). Notes may call this outline sight.
 
 ---
 
@@ -46,10 +53,6 @@ He enters a connected device only when its owner invites him, or through a publi
 **No coercion, only invitation.** That sentence is the philosophy behind the Knock. The credit lives in Notes, not on the page.
 
 People can refuse him. A rival uses the rooms where nobody invited him in.
-
-### Through an invited device
-
-Through an invited device he sees glowing gold outlines of hazards and of people's presence, and only those outlines. The sight is for the job in front of him. He does not track a person from device to device, he does not record, and he keeps nothing after the job. Faces and readable data stay off the picture (`09_CHARACTER_BIBLE.md` L68). Notes may call this outline sight. The page describes the outlines and does not use that name.
 
 ### The rules
 
@@ -298,7 +301,7 @@ Source notes for the room. The left column's game words, unit words, and bluepri
 
 | Source note | In the story, in plain words |
 |---|---|
-| "No coercion — only invitation" (SC2-Ultramasterism `README.md`) | The philosophy behind the Knock. Credited in Notes. |
+| "No coercion — only invitation" (SC2-Ultramasterism `README.md`) | The philosophy behind the Knock. This filename stays in this table. |
 | Tutoring core: act early, scout, fill the store, set an unexpected forward piece (`docs/lattice.md`) | Act early, scout with the Wrens, build the Charge, and place an invited ally where the rival is not looking. |
 | Three phases: a mirror core, then cross-webbing, then convergence (`docs/lattice.md`) | The Knock, then Map Control, then Convergence, as arc names inside the existing season titles. |
 | Human invention beats a rigid self-play loop (`docs/lattice.md`, `docs/advanced_micro.md`) | The rival loses to the found family's bait and invention, not to a bigger machine. |
@@ -323,7 +326,7 @@ Source notes for the room. The left column's game words, unit words, and bluepri
 | Tech | Growth in a quiet cycle |
 | Timing attack | A rival's window, seen or missed |
 
-### Research notes (Game of Thrones)
+### Epic-scale strategy references
 
 Lessons for the room. The show is never named in story, and nothing in its do-not-copy list is cited on a page.
 
@@ -359,7 +362,7 @@ Room only. Not a claim about Rathor.ai, and not a line for the page.
 
 ## Notes
 
-- **No coercion, only invitation.** Philosophy behind the Knock. Credited to the SC2-Ultramasterism README. The sentence may be discussed in this file. It is not a caption by itself until a script earns it.
+- **No coercion, only invitation.** Philosophy behind the Knock. The repo filename stays in the Appendix translation key. The sentence may be discussed in this file. It is not a caption by itself until a script earns it.
 - **Mercy-Checks.** The comic's mercy checks are the story form of what the Ra-Thor monorepo calls Mercy-Checks (`05_LORE_BIBLE.md` L34). Any count stays in notes. The page draws uncounted lights and never numbers them.
 - **Outline sight.** Notes name for the invited-device effect: glowing outlines only, with no tracking and no recording. The page describes the effect. On the page, lattice means only the TOLC arch.
 - **Conduct habits from the strategy repo.** Zone the harm, cap his own reach, state the goal first, offer the door after a dirty trick, learn one truth from a loss. On a page or in a script they stay untitled and unnumbered.
