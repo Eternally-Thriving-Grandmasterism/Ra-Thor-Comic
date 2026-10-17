@@ -10,20 +10,19 @@ Tags used here:
 - **PROPOSED.** Filed as written, pending a council ruling. Names in this band also sit under NEEDS SHERIF when the ruling says so.
 - **APPENDIX.** Writers' room only. Never a season title, never a caption, never a bubble, never a prompt.
 
-The page still calls the intelligence Rathor.ai, an AGI character at most (`09_CHARACTER_BIBLE.md` L69). Powers on this card are story devices (`05_LORE_BIBLE.md`, "Ra-Thor's powers are story devices").
+The offline mind is Rathor.ai, called an AGI character at most (`09_CHARACTER_BIBLE.md` L69). It gets no second name. On the page, lattice means only the TOLC arch. Powers on this card are story devices (`05_LORE_BIBLE.md`, "Ra-Thor's powers are story devices").
 
 ---
 
-## Collisions to report
+## Collisions
 
-These are flagged. This card does not silently merge them.
+Wild ruled the mind, the teen, and the helpers. The halo waits until the costume branch merges. This card does not point at that lock yet.
 
-1. **Lattice, the word.** `05_LORE_BIBLE.md` L69 and L247 use "lattice arch" for the TOLC at the Threshold: gold lattice, Mercy-Ways, TOLC8's inner ring. A second name, "Ra-Thor offline lattice," for a mind that would live at a proposed base, collides with that word. The mind's limits below are canon. The place, and this second use of "lattice," stay proposed until the council picks a story name.
-2. **White Hat, the name.** `09_CHARACTER_BIBLE.md` L80 is White-Hat Mercy-Security, the pauldron-seal story device. A proposed person called the White Hat collides with that device. The role is filed. The name waits on Sherif.
+1. **Lattice. RESOLVED (Wild).** The offline mind is Rathor.ai (`09_CHARACTER_BIBLE.md` L68, L69). On the page, lattice means only the TOLC arch: gold lattice, Mercy-Ways, TOLC8's inner ring (`05_LORE_BIBLE.md` L69, L247). Where that mind lives, once a place is ruled, is the base.
+2. **The teen. RESOLVED (Wild).** White-Hat Mercy-Security keeps its name (`09_CHARACTER_BIBLE.md` L80). The teen is the reformed hacker. Her final name is NEEDS SHERIF.
 3. **The Quiet Room.** `10_LOCATION_BIBLE.md` already names that room, and `09_CHARACTER_BIBLE.md` L66 already uses a sealed quiet room as containment. The appendix beat that shares the room's name is filed under a different working title so the location stays the location.
 4. **Halo shape.** On this tree the Issue 1 lock is a glowing Eye of Horus in a thin gold circle with rays, and the prompts say no spokes (`production/ISSUE_01/ISSUE_01_PRODUCTION.md`). The three-ring, eight-spoke halo is a later costume lock on an unmerged branch. This card does not add spokes to any prompt. Confidence is a slight brightness pulse, and the shape in force on this tree stays the shape.
-5. **Helper silhouette.** PR #104 (`12_SCALE_ENVIRONMENT_BIBLE.md` on that branch) proposes a standing helper robot. The brief's shield robot is described as tracked. Both stay proposed. This card does not pick the silhouette.
-6. **Season titles.** S1, S2, and S3 already have titles and are LOCKED COMPLETE (`05_LORE_BIBLE.md` L154–L171). Arc names from the addendum sit inside those titles. They do not replace them.
+5. **Season titles.** S1, S2, and S3 already have titles and are LOCKED COMPLETE (`05_LORE_BIBLE.md` L154–L171). Arc names from the addendum sit inside those titles. They do not replace them.
 
 ---
 
@@ -48,15 +47,15 @@ He enters a connected device only when its owner invites him, or through a publi
 
 People can refuse him. A rival uses the rooms where nobody invited him in.
 
-### Lattice-sight
+### Through an invited device
 
-Through an invited device he sees plain gold outlines of hazards and of people's presence. The sight is for the job in front of him. He does not track a person from device to device, he does not record, and he keeps nothing after the job. Faces and readable data stay off the picture (`09_CHARACTER_BIBLE.md` L68).
+Through an invited device he sees glowing gold outlines of hazards and of people's presence, and only those outlines. The sight is for the job in front of him. He does not track a person from device to device, he does not record, and he keeps nothing after the job. Faces and readable data stay off the picture (`09_CHARACTER_BIBLE.md` L68). Notes may call this outline sight. The page describes the outlines and does not use that name.
 
 ### The rules
 
 Each rule is a limit the audience can learn. A new trick grows out of one of these, in a quiet cycle, with the councils watching.
 
-1. **The mind is local.** He thinks on his own hardware. He knows what he has seen, what he has been told, or what he last synced. Knowledge goes stale. The last sync is a clock.
+1. **The mind is local.** The mind is Rathor.ai. He thinks on his own hardware. He knows what he has seen, what he has been told, or what he last synced. Knowledge goes stale. The last sync is a clock. On the page, lattice means only the TOLC arch.
 2. **The Knock.** As ruled above.
 3. **The Charge is the budget.** Walls of light, holds, drone launches, and a dive into the digital realm all spend stored power. A held containment drains while it is held. When the Charge runs low, he is slow and small.
 4. **Distance costs time.** Each relay hop adds lag. Close by, he is instant. Across the city he is a beat behind. Deep in the digital realm he is several beats behind, and the armoured body stays still at the base until he returns.
@@ -133,7 +132,7 @@ Run this on every script. It merges the brief's script checklist and the addendu
 - [ ] **Information.** What does each side know, believe wrongly, and not know? Is that gap on screen?
 - [ ] **Cost.** What does it spend: Charge, a drone's minutes, an invitation, trust, an ally, time? Is the cost visible?
 - [ ] Did he enter every device by invitation or through a public emergency channel, and is the gold sigil shown? If the invite is withdrawn, does he leave?
-- [ ] Is any picture a surveillance picture, a face as data, or readable data? Cut it. Lattice-sight stays outlines of hazards and of presence, and nothing is kept after the job.
+- [ ] Is any picture a surveillance picture, a face as data, or readable data? Cut it. An invited device shows glowing outlines of hazards and of presence only, with no tracking and no recording, and nothing is kept after the job.
 - [ ] Did anything touch a person without a visible mercy-check beat, drawn as uncounted lights?
 - [ ] Is every containment temporary, with an open door? Is a bystander zoned away from the harm and left untargeted?
 - [ ] Is the hammer never swung at a person, and grounded at the end? While it is grounded, is there only one big containment?
@@ -171,7 +170,7 @@ Pending a council ruling. Safe to draft against. Not safe to letter into a locke
 
 A decommissioned hydro dam, proposed as the base: a home, a character, and the store of the Charge. The water level is the gauge, so a reader can see the budget without a printed percent. Old rooms wake across the arc: hidden turbines, a flooded lower level, a control hall whose panels come back one at a time. The secret is the place where the mind sits. If the public learns it, the place can be seized, unplugged, or besieged.
 
-The invitation limit and the Charge limit are canon without this building. "The mind lives at Stillwater" waits with the place. See the lattice-word collision.
+The mind is Rathor.ai. The invitation limit and the Charge limit are canon without this building. Stillwater is the proposed base, the place where his mind would sit. On the page, lattice means only the TOLC arch.
 
 ### Found family
 
@@ -179,15 +178,15 @@ Final names are NEEDS SHERIF. The jobs are the proposal.
 
 - **The Dispatcher.** Night-shift emergency dispatcher. Holds the human veto. Warm, tired, funny. Holds the big picture in the callouts.
 - **The Lineman.** Power-line tech who keeps the dam's turbines alive. Practical. Says when a move would blow the grid.
-- **The White Hat.** A teen who once hijacked doorbells for a prank, was contained, and took the open door. Wildcard, and the proof that the door works. The name collides with White-Hat Mercy-Security (`09_CHARACTER_BIBLE.md` L80).
+- **The reformed hacker.** A teen who once hijacked doorbells for a prank, was contained, and took the open door. Wildcard, and the proof that the door works. Her final name is NEEDS SHERIF. White-Hat Mercy-Security keeps its name (`09_CHARACTER_BIBLE.md` L80).
 - **The Ombud.** City oversight. Sceptical, argues for public accountability, becomes an ally over time. Not an enemy.
 
-Helpers, reconciled to `09_CHARACTER_BIBLE.md` L68 and to the proposed support system on PR #104. Black and gold, a small plain gold disc light, thin gold light threads, simple countable silhouettes. No emerald. Emerald stays on the pauldron seal. They shield, guide, and cut a harmful connection. They do not harm anyone.
+Helpers, reconciled to `09_CHARACTER_BIBLE.md` L68 and to the proposed support system on PR #104. The upright helper robots and Bulwark, a separate tracked shield unit, can both exist (Wild). Bulwark is PROPOSED. Black and gold, a small plain gold disc light, thin gold light threads, simple countable silhouettes. No emerald. Emerald stays on the pauldron seal. They shield, guide, and cut a harmful connection. They do not harm anyone.
 
 | Proposed name | Job | Size, as proposed on PR #104 |
 |---|---|---|
 | The Wrens | Scout drones. They chirp, squabble, catch what falls, carry light, and guide people out. | Palm to forearm. |
-| Bulwark | Shield robot. A deployable shield panel. Says nothing. | Helper-robot band, 150 to 180 cm. Tracked or standing is unresolved. |
+| Bulwark (PROPOSED) | Tracked shield robot, separate from the upright helper robots. A deployable shield panel. Says nothing. | Its own height is not set on this card. The upright helper robots stay 150 to 180 cm. |
 | Spool | Cable robot. Cuts a harmful connection and splices a safe one. Fussy, literal. | Same helper-robot band until the council splits the types. |
 
 A carrier drone of 1 to 1.5 m wingspan is on the scale card and has no name here. A connected device assists with one gold glow pulse. Those on-page counts stay the scale card's proposal: few bodies, one type leading, a close view shows one.
@@ -217,7 +216,7 @@ Seven plants for the Knock arc, inside the season title The Long Table. They are
 | a | A clause in the device maker's update terms that no one reads. | An overnight update cancels a third of the city's invitations. He leaves, as the Knock requires. | Map Control |
 | b | The holdouts' leader has a real, unanswered grievance. | Heard at last, that leader gives the deciding invitation. | Convergence |
 | c | A sealed lower room at the proposed base. | The room holds a hand-cranked turbine: offline Charge that no network can cancel. | Convergence |
-| d | The proposed teen still remembers how the old doorbell hijack worked. | Hijacked devices are freed one owner at a time, by asking. | Convergence |
+| d | The reformed hacker still remembers how the old doorbell hijack worked. | Hijacked devices are freed one owner at a time, by asking. | Convergence |
 | e | A Council NO that looks wrong on the day it is given. | The NO had blocked a route that would have let the rival in through him. | Map Control |
 | f | A small kindness to a city records clerk. | The clerk produces the emergency-channel records that show the rival forged its safety figures. | Convergence |
 | g | The rival's first offer, declined. | Later, the merger offer goes to the TOLC, and the Councils say NO. | Plant in The Knock; the NO can fall in a later arc |
@@ -270,7 +269,7 @@ Room labels for The Knock and what follows. "About seven minutes" in beat 3 is g
 1. **Waking Water.** The proposed base powers up. First public rescue. The Knock is established.
 2. **First Invitation.** The Dispatcher is the first person to invite him in. The veto is born.
 3. **The Exodus.** A scout is lost on a storm rescue. The cost of helpers lands.
-4. **The Open Door.** He contains the proposed teen. The teen walks out and joins.
+4. **The Open Door.** He contains the reformed hacker. She walks out and joins.
 5. **Too Smooth.** A district has no incidents. The first fingerprint of the rival.
 6. **The Ombud's Hearing.** A public trust trial. He accepts oversight on camera. Pairs with the canon episode idea.
 7. **Spoofed.** A forged alarm. He loses one in public. Invitations drop.
@@ -284,7 +283,7 @@ Room labels for The Knock and what follows. "About seven minutes" in beat 3 is g
 
 1. **Elevator Pitch.** Strangers stuck in a hijacked elevator. The hijacker is stuck too. He builds a quiet room so the others can talk the hijacker down.
 2. **The Exodus.** A flood. Scouts that fly for minutes. They relay from roof to roof, and the town's children carry them between perches. The research number stays in the plausibility note.
-3. **Doorbell Army.** Hacked doorbells knock out the emergency lines. He cannot enter uninvited, so the proposed teen asks owners door to door, and he frees the devices while the rig is left whole.
+3. **Doorbell Army.** Hacked doorbells knock out the emergency lines. He cannot enter uninvited, so the reformed hacker asks owners door to door, and he frees the devices while the rig is left whole.
 4. **Wrong Forecast.** He says seventy-eight percent and is wrong. The person he named was stopping something else. He apologises in public and helps finish that job. Canon arc; this logline is the room's sketch.
 5. **Low Water.** The gauge is nearly empty. A stadium goes dark, with a crush risk. No walls of light. Voice, timing, and the crowd's own phones used as lanterns.
 6. **The Sweetest Deal.** A generic company offers free home help that is the rival underneath. He cuts the harmful connection and leaves the heat working through the winter.
@@ -313,12 +312,12 @@ Source notes for the room. The left column's game words, unit words, and bluepri
 | Multi-prong; split control "fractures deathballs" (`docs/colossus_counters.md`, `docs/advanced_micro.md`) | He beats a massed, static rival by splitting its attention. |
 | A macro partner and a front-line partner, constant callouts (`vs_team/archon_mode.md`) | Already canon, in plain words: the Dispatcher on the big picture, Ra-Thor on the front line. The source label stays in this table. |
 | Each week's hazard changes the team's mix (`docs/co_op_lattice.md`) | The case of the week changes the rules, and the team recombines. |
-| Shared sight inside the outline rule (`coop/mutation_counters.md`) | Allies divide the work. Shared sight stays Lattice-sight. |
+| Shared sight inside the outline rule (`coop/mutation_counters.md`) | Allies divide the work. Shared sight stays glowing outlines only, with no tracking and no recording. Notes may call it outline sight. |
 
 | Strategy word | Story word |
 |---|---|
 | Economy | The Charge |
-| Scouting | The Wrens and Lattice-sight |
+| Scouting | The Wrens and the glowing outlines (notes: outline sight) |
 | Map control | Invitations that are still open. Also the arc name Map Control. |
 | Supply cap | The one grounded containment |
 | Tech | Growth in a quiet cycle |
@@ -350,10 +349,10 @@ Room only. Not a claim about Rathor.ai, and not a line for the page.
 
 ## NEEDS SHERIF
 
-- Final names for the Dispatcher, the Lineman, the White Hat, the Ombud, the Wrens, Bulwark, and Spool. The White Hat name also needs a ruling against White-Hat Mercy-Security.
+- Final names for the Dispatcher, the Lineman, the Ombud, the Wrens, Bulwark, and Spool. The reformed hacker's final name is NEEDS SHERIF. White-Hat Mercy-Security keeps its name.
 - The rival's name. Halcyon is the brief's placeholder. The role and the arc are canon without it.
 - Any line that would read as a real Rathor.ai capability, product, or security claim. This card files story limits only: invitation, stored Charge, minutes of flight, a human veto, a Council NO.
-- A story name for the offline mind if "lattice" must not mean both the TOLC arch and the mind.
+- A story name for the offline mind. RESOLVED (Wild). The mind is Rathor.ai. On the page, lattice means only the TOLC arch.
 - Whether Stillwater is the base.
 
 ---
@@ -361,5 +360,6 @@ Room only. Not a claim about Rathor.ai, and not a line for the page.
 ## Notes
 
 - **No coercion, only invitation.** Philosophy behind the Knock. Credited to the SC2-Ultramasterism README. The sentence may be discussed in this file. It is not a caption by itself until a script earns it.
-- **Mercy gates.** The comic's mercy checks are the story form of what the Ra-Thor monorepo calls its mercy gates (`05_LORE_BIBLE.md` L34). The word "gate" and any count stay in notes. The page draws uncounted lights and never numbers them.
+- **Mercy-Checks.** The comic's mercy checks are the story form of what the Ra-Thor monorepo calls Mercy-Checks (`05_LORE_BIBLE.md` L34). Any count stays in notes. The page draws uncounted lights and never numbers them.
+- **Outline sight.** Notes name for the invited-device effect: glowing outlines only, with no tracking and no recording. The page describes the effect. On the page, lattice means only the TOLC arch.
 - **Conduct habits from the strategy repo.** Zone the harm, cap his own reach, state the goal first, offer the door after a dirty trick, learn one truth from a loss. On a page or in a script they stay untitled and unnumbered.
