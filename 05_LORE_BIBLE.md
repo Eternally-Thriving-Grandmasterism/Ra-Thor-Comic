@@ -250,3 +250,7 @@ Wild ruled for the councils on the visual options in the TOLC8 canon report, §6
 - **Rejected: V1 and V2.** Both are numbering nods (a ring of light points; an eight-sided keystone). The mercy checks and the Mercy-Ways are never numbered on the page, so neither option is drawn.
 - **Held: V6** (a single source light above or behind the arch). Not drawn unless the councils rule on it.
 - **On and off the page.** TOLC mathematics stays off the page until the Masterism freeze. TOLC8 and the PATSAGi Councils may be named on the page, as names only, with no gloss (rule 2; 10:52 PM ET ruling). The rings, paths, points of light and texture carry no text.
+
+## AGI system lore (council ruling 2026-10-16)
+
+Wild, 2026-10-16 11:42 PM ET and 11:49 PM ET. The Knock, the strategy principle, the script-review checklist, and the writers'-room appendix live in `13_AGI_SYSTEM_LORE.md`. This pointer sits at the end of the file so existing line citations into 05 do not move. Merged Season 1–3 episodes are not rewritten. Season titles stay The Long Table, The Lamp Before the TOLC, and The Full Hopper.
