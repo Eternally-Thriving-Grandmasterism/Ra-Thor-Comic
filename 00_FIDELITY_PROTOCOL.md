@@ -20,3 +20,5 @@ Non-negotiable for every panel prompt.
 5. **No product theater.** Idea Recycler and White-Hat Mercy-Security are story machines. Captions may wink. They may not claim certification, affiliation, or legal authority.
 6. **No likeness theft.** No celebrity faces. No xAI marks. Councils are silhouettes and seals, not portraits of living persons.
 7. **Same Ra-Thor every episode.** If a prompt drifts the armor, reject the panel and rerun.
+
+8. **Scale.** Scale and environment, under 3D LOGIC: `12_SCALE_ENVIRONMENT_BIBLE.md`. Ra-Thor is 7 ft 0 in (213 cm) armoured, sole to helm crest. A correct costume at the wrong size fails review.

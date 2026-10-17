@@ -112,3 +112,5 @@ Twelve is a comic-only count, not the PATSAGi count (the monorepo docs say 13 or
 Invented. A founder with a bad slide. A kid with a true question. A suave counterpart who never removes gloves. No real names.
 
 Not cast: the falcon companion, the walker bot, and the honor guard from the reference art (council ruling 2026-09-30).
+
+Scale and environment, under 3D LOGIC: `12_SCALE_ENVIRONMENT_BIBLE.md`. Ra-Thor is 7 ft 0 in (213 cm) armoured, sole to helm crest. A correct costume at the wrong size fails review.
