@@ -86,7 +86,7 @@ All CARRIED from the visual canon. These apply to every screen frame:
 - **Not cast.** `09_CHARACTER_BIBLE.md` L36 reads "Not cast: the falcon companion, the walker bot, and the honor guard from the reference art".
 - **Envoy.** The envoy's face stays hidden in every frame: `episodes/S1E01_THE_RIBBON_CLAUSE.md` L13 reads "The envoy's face stays hidden behind the gold mesh veil."
 - **Camera grammar (Suave Hour).** `03_TONE_SPECS.md` L76 reads "Two-shots across a table, over-the-shoulder on the offer, tight on gloves, cards, and glasses. Low, level camera; no frantic angles."
-- **Render style (PROPOSED, needs a ruling).** `01_VISUAL_STYLE_GUIDE.md` L22 reads "Linework: panels use inked comic linework. Painted renders are allowed for covers only." The screen render style is not defined in canon. Proposed: an inked-line look in motion, so the screen matches the panels. Pending council ruling.
+- **Render style.** All comic production, including covers, is inked (`01_VISUAL_STYLE_GUIDE.md` L40). A painterly style is only a maybe for the future animated series (`01_VISUAL_STYLE_GUIDE.md` L30). Proposed for the screen: an inked-line look in motion, so the screen matches the comic. Pending council ruling.
 - **Screen continuity (PROPOSED).** Rule 7 holds across shots as well as episodes: any shot that drifts the armor is rejected and rerun.
 
 ## 5. Music carry-over from 06

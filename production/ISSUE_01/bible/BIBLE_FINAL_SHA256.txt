@@ -228,5 +228,22 @@ c3f220b74d5e798c135e7324c176f43c831110c0236293a2e29595249027c1cc  kdp/out/RaThor
 # 67d3ea50b893bf028e0eb0a2b9b06e33c831d12b3c122bbe58cd34b413d6f0a6  kdp/README.md  (superseded: ISSUE01-HAMMER-BLOCK-HEAD-1 amend, prompts drop the name and Marvel note)
 
 # 2026-10-16, Hands amend on ISSUE01-HAMMER-BLOCK-HEAD-1. Generator prompts use the canonical hammer line only. The merged V18 cover's stepped hammer is not redrawn. Art files untouched.
-cec93cbc18c1485d3b6bf1da8191ab4824bbe10554c9951f8c936df7ee922cb7  CHARACTER_BIBLE.md
-df91d215c190173c68d8712b9df7980717922abf0b44523fbb5452e36a8f0525  kdp/README.md
+# cec93cbc18c1485d3b6bf1da8191ab4824bbe10554c9951f8c936df7ee922cb7  CHARACTER_BIBLE.md  (superseded: ISSUE01-HALO-RINGS-ARMOR-REF-1, 2026-10-16, halo rings, shield runes, armor, pauldron emblem, symbol palette)
+# df91d215c190173c68d8712b9df7980717922abf0b44523fbb5452e36a8f0525  kdp/README.md  (superseded: ISSUE01-HALO-RINGS-ARMOR-REF-1, 2026-10-16, interior page notes)
+
+# 2026-10-16, 11:00 PM ET and 11:06 PM ET. ISSUE01-HALO-RINGS-ARMOR-REF-1. Written costume lock: halo rings, shield runes, armor reference, pauldron emblem screenshots, symbol palette. The merged V18 cover is not redrawn here. Art layers untouched.
+# 54098380781f24fb290178ed30f4a4fab83040cf66d277205eed86b91d5a9593  CHARACTER_BIBLE.md  (superseded: 2026-10-16 11:16–11:24 PM ET, hammer faces, wearable pauldrons, Sentinel Rest, style tracks)
+# 14306a43676b48ec10bc0182b94310f47b87d97e1ebc589c820671e69794ada2  kdp/README.md  (superseded: 2026-10-16 11:16–11:24 PM ET, hammer faces, wearable pauldrons, Sentinel Rest)
+073f38d7751c0e63cbddf37f3381bb592c17cdc7dba5c44dfa1e385e2cbe7e26  refs/pauldron_winged_eye_ref_a_2026-10-16.jpg
+c1f42e3513d3ba77784ca09d3c108366a7d072136d0a1fca8610efe88d675eca  refs/pauldron_winged_eye_ref_b_2026-10-16.jpg
+8e87fc27e873c91db57b524d3c17c5f6a8c059cee7c82f7a7d3a9bbc352b3910  refs/pauldron_winged_eye_ref_c_2026-10-16.jpg
+
+# 2026-10-16, 11:16–11:24 PM ET. ISSUE01-HALO-RINGS-ARMOR-REF-1. Hammer: one bolt on each of the two broad side faces, striking ends plain, head-down mass, Sentinel Rest. Pauldrons: oversized but wearable rounded shell, no wing extensions. Comics track is the inked rest-pose draft. Animated series track is a proposed direction, not final. Books come first. Art layers untouched.
+# 0e19a09514c5045e3d91fc9a8107fcb48a836a2f995c38406623b5ad5692b645  CHARACTER_BIBLE.md  (superseded: 2026-10-16 11:32–11:38 PM ET, inked covers, 3D LOGIC, scale lock)
+# faebd1e806a868532b33867a71c0f45f8d18bf9e0a4df07da1d58767df726874  CHARACTER_BIBLE.md  (superseded: 2026-10-16 11:33 PM ET, shield border never letter-like)
+# 661a813471cf4afa20dd90762b590be385ddc72af25547e5fa9eebea666b0ae5  kdp/README.md  (superseded: 2026-10-16 11:33 PM ET, shield border never letter-like)
+# 81baff95af0888bd44689b0e253ea1d497cc44d770ab34f67450527e2db46629  CHARACTER_BIBLE.md  (superseded: 2026-10-17, 175 cm eyes at the upper chest)
+5e82b01bdb33e92dd227db06ef344e63b98f54286d5b218124f82a38bdaa9c3b  CHARACTER_BIBLE.md
+24d9e3c03f23331eeade035da3870b0727f0a548bb180470e7863c35bbd58c0d  kdp/README.md
+c027e6e3b41e88f74c9644cd7dcdec571ce4af018d616481d5b7bdea12f1c81f  refs/rest_pose_pauldrons_draft_2026-10-16.jpg
+e2df18141994f7be0693158e6b07be00d2e4f8bf6653e906428a4d1359fc1612  refs/x_ref_photo_2026-10-16.jpg

@@ -1,0 +1,9 @@
+# Changelog
+
+## 2026-10-16
+
+- Shield border (Wild, 2026-10-16 11:33 PM ET). The marks inside the gold rim are a band of gold knotwork and abstract glyph marks, decorative only, never letter-like (no real runic or Latin letter shapes). This amends the 11:00 PM ornamental runic border.
+
+- ISSUE01-HALO-RINGS-ARMOR-REF-1 (amend). Sherif, 2026-10-16 11:32 PM ET: "make the whole style comic for the coin and issue, etc., altogether thoughtfully!" All comic production, panels and covers, uses the COMICS (inked) track. The [style] line still governs panel prompts. Q13 and D14 stay in the history and are marked SUPERSEDED 2026-10-16 (Sherif, 11:32 PM ET): all comic production, panels and covers, inked. The merged V18 painted cover is history, not canon, and is not redrawn here.
+- 3D LOGIC (Sherif 2026-10-16 11:36 PM ET). Council review wording (Wild, 2026-10-16 11:38 PM ET, Sherif-delegated): front, three-quarter, side and back notes; emblems follow the surface; one key-light direction per scene. The halo is light, not an object. It stays a flat circle facing the camera above the helm and is not foreshortened. Review fails flat pasted-on symbols, emblems that ignore the surface angle, and lighting from the wrong side.
+- Scale lock recorded for SCALE-BIBLE-1 (Wild, 2026-10-16 11:38 PM ET, Sherif-delegated). LOCKED: Ra-Thor is 7 ft 0 in (213 cm) armoured, from sole to helm crest top, 8.5 heads at about 25 cm per head. Helm wings, the halo, and an unarmoured figure are outside that height. The human reference is 5 ft 9 in (175 cm). Hammer length comes from the Sentinel Rest geometry. Everything else stays PROPOSED. The turnaround sheet and the height lineup are later art cards.
