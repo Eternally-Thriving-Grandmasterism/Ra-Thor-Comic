@@ -113,4 +113,4 @@ Invented. A founder with a bad slide. A kid with a true question. A suave counte
 
 Not cast: the falcon companion, the walker bot, and the honor guard from the reference art (council ruling 2026-09-30).
 
-Scale and environment, under 3D LOGIC: `12_SCALE_ENVIRONMENT_BIBLE.md`. Ra-Thor is 7 ft 0 in (213 cm) armoured, sole to helm crest. A correct costume at the wrong size fails review. Helper drones, helper robots, and device assists are §7 of that file. The job in Realms & Rathor.ai stays the lock. The sizes are proposed.
+Scale and environment, under 3D LOGIC: `12_SCALE_ENVIRONMENT_BIBLE.md`. Ra-Thor is 7 ft 0 in (213 cm) armoured, sole to helm crest. A correct costume at the wrong size fails review. Helper drones, helper robots, and device assists are §7 of that file. The job in Realms & Rathor.ai stays the lock. The sizes are LOCKED (Wild, 2026-10-17 12:21 AM ET).
