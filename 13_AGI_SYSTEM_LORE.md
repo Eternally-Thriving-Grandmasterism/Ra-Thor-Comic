@@ -184,9 +184,9 @@ Final names are NEEDS SHERIF. The jobs are the proposal.
 - **The reformed hacker.** A teen who once hijacked doorbells for a prank, was contained, and took the open door. Wildcard, and the proof that the door works. Her final name is NEEDS SHERIF. White-Hat Mercy-Security keeps its name (`09_CHARACTER_BIBLE.md` L100).
 - **The Ombud.** City oversight. Sceptical, argues for public accountability, becomes an ally over time. Not an enemy.
 
-Helpers, reconciled to `09_CHARACTER_BIBLE.md` L88 and to the proposed support system on PR #104. The upright helper robots and Bulwark, a separate tracked shield unit, can both exist (Wild). Bulwark is PROPOSED. Black and gold, a small plain gold disc light, thin gold light threads, simple countable silhouettes. No emerald. Emerald stays on the pauldron seal. They shield, guide, and cut a harmful connection. They do not harm anyone.
+Helpers, reconciled to `09_CHARACTER_BIBLE.md` L88 and to the LOCKED support system in `12_SCALE_ENVIRONMENT_BIBLE.md` §7 (Wild, 2026-10-17 12:21 AM ET). The upright helper robots and Bulwark, a separate tracked shield unit, can both exist (Wild). Bulwark is PROPOSED. Black and gold, a small plain gold disc light, thin gold light threads, simple countable silhouettes. No emerald. Emerald stays on the pauldron seal. They shield, guide, and cut a harmful connection. They do not harm anyone.
 
-| Proposed name | Job | Size, as proposed on PR #104 |
+| Proposed name | Job | Size, LOCKED in `12_SCALE_ENVIRONMENT_BIBLE.md` |
 |---|---|---|
 | The Wrens | Scout drones. They chirp, squabble, catch what falls, carry light, and guide people out. | Palm to forearm. |
 | Bulwark (PROPOSED) | Tracked shield robot, separate from the upright helper robots. A deployable shield panel. Says nothing. | Its own height is not set on this card. The upright helper robots stay 150 to 180 cm. |
