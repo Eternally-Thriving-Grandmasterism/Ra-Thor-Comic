@@ -1,6 +1,8 @@
-# Naming R&D brief: Ra-Thor⚡️Living Thunder (all PROPOSED)
+# Naming R&D brief: Ra-Thor⚡️Living Thunder (historical record; see banner)
 
-Status: **PROPOSED, every name in this file.** The PATSAGi Councils and Sherif decide. Nothing here is CANON, nothing is lettered, and nothing was posted or pushed.
+> **Historical R&D record (rounds 1–7).** The ten LOCKED names (Sherif, 2026-10-17 2:27 AM ET; canonical source: `13_AGI_SYSTEM_LORE.md`) are Stormhearth (Ra-Thor's base), Moonglass (rival AI's lair), Pearl (rival AI), Hesper (Dispatcher), Emery (Lineman), Clara (Ombud), the Kinglets (scout drones), Laurel (shield robot), Bobby (cable robot), and Nixie (reformed teen hacker). Every other name in this file (including Lull, Bulwark, Halcyon, Opal and other 'top picks') is retired or unused. The locked names are not trademark-cleared.
+
+Status (historical, as prepared): **PROPOSED, every name in this file.** Superseded by the locked names in the banner above. Nothing here is CANON, nothing is lettered, and nothing was posted or pushed.
 Prepared: Sat 2026-10-17, about 1:00 AM ET (America/Toronto).
 Repo read: `Eternally-Thriving-Grandmasterism/Ra-Thor-Comic` @ `7cc7bc8a566da15d676cee56af0822cf078bccae` (main). Primary source: `13_AGI_SYSTEM_LORE.md` (Found family L180–L197, rival L87–L100 and L203, NEEDS SHERIF L355–L361). Also read: `05_LORE_BIBLE.md`, `09_CHARACTER_BIBLE.md`, `12_SCALE_ENVIRONMENT_BIBLE.md`, `11_MASTER_INDEX.md`. Owner-canon scans: the full comic repo at that commit, plus local read-only clones of Ra-Thor (`8f68e74`, 2026-10-15; generator files re-read at main `cd31a54`, 2026-10-16 9:55 PM ET), Powrush-MMO (`6ea67b0`, 2026-10-15) and TOLC (`4019756`).
 
@@ -52,7 +54,7 @@ Placeholder: keep "the Ombud" as her or his title ("Ombud Merritt").
 | 2 | Plume | A feather, as in the feather of Ma'at that truth is weighed against. That mirrors "All that comes to the TOLC is weighed." Egyptian symbolism without a god's name. | 1 | Not a Marvel/DC character. Plume IA is a Quebec clinical-notes AI ([LinkedIn](https://linkedin.com/company/plume-ia), [CanHealth](https://www.canhealth.com/2025/11/19/plume-ia-and-medfar-join-lgis-ai-ecosystem/)), an unrelated domain. Repo: only non-name uses of "plume" (e.g. a frost plume in a Ra-Thor art prompt). | Low |
 | 3 | Fairweather | Irony: she starts as a fair-weather sceptic and becomes an all-weather ally. A storm word for a thunder hero. | 3 | Angela Fairweather, the support scientist in *Power Rangers Lightspeed Rescue* ([fandom](https://powerrangers.fandom.com/wiki/Angela_Fairweather)). That's an adjacent rescue-team role. Repo: 0. | Medium |
 
-Checked and dropped: Vigil (DC's *The Vigil* team, 2023, [Popverse](https://www.thepopverse.com/vigil-dc-comics-superhero-ram-v-interview), plus the BBC series). 
+Checked and dropped: Vigil (DC's *The Vigil* team, 2023, [Popverse](https://www.thepopverse.com/vigil-dc-comics-superhero-ram-v-interview), plus the BBC series).
 **Top pick: Merritt** (keeps the cast letters distinct; see §10). Runner-up: Plume. If the gate root matters, Plume wins, and the shield takes Linden.
 
 ## 4. The Wrens (scout drones; group name)

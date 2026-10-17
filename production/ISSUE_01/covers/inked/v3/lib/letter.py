@@ -57,7 +57,7 @@ def cel_fill(m, ramp, bevel, light=(-0.75, -0.66), band=True, spec=True):
     n = np.sqrt(gx ** 2 + gy ** 2) + 1e-6; facing = -(gx * light[0] + gy * light[1]) / n   # >0 edge faces the light
     H, W = m.shape; out = np.empty((H, W, 3), np.float32)
     # face: base, with a lighter upper zone (classic logo split), per-row
-    ys, xs = np.where(mb); 
+    ys, xs = np.where(mb);
     if len(ys) == 0: out[:] = ramp[2]; return out
     y0, y1 = ys.min(), ys.max(); yy = (np.arange(H)[:, None] - y0) / max(1, y1 - y0)
     face = np.where(yy < 0.47 + 0.0 * xs.mean(), 1, 0)

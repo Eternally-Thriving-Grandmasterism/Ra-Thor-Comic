@@ -71,7 +71,7 @@ def apply(A, sc=1.0, ox=0, oy=0, half=30):
             cv2.circle(m, tuple(((c - (x0, y0)) * S).astype(int)), int(rad * S), 255, -1, cv2.LINE_AA)
     def f(m): return cv2.resize(m.astype(np.float32) / 255, (w, h), interpolation=cv2.INTER_AREA)
     out = clean.copy()
-    def put(m, col): 
+    def put(m, col):
         nonlocal out
         out = out * (1 - m[..., None]) + col * m[..., None]
     def gold(m, bev):

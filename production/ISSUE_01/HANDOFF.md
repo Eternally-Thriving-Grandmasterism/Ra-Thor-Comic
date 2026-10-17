@@ -33,6 +33,8 @@ If this file conflicts with a canon file, the canon file wins. Read `00_FIDELITY
 | Naming research | `research/naming_rd_brief.md` (cited by `13`) |
 
 Reference notes: `hammer_triangle_rejected` shows the retired triangle-top hammer (a reject). `sherif_shield_ref` is a phone screenshot of a render. `x_cover_style_ref` is the image from Sherif's X post 2110881123551314069 (@AlphaProMega, 2026-10-15). None is a lock by itself; the written locks govern.
+`bible/refs/sherif_shield_ref` is a phone screenshot: use it only as a shape reference, never as art or a texture source.
+`research/naming_rd_brief.md` is a historical record; `13_AGI_SYSTEM_LORE.md` is the source for names.
 
 Inked v3 build: `covers/inked/v3/build_v3.py` with `lib/`. Paths are repo-relative. It needs `UPSCALE_MODEL` (4x-UltraSharp weights, not in the repo). The `work/` scratch folder was not committed.
 
@@ -72,7 +74,7 @@ Inked v3 build: `covers/inked/v3/build_v3.py` with `lib/`. Paths are repo-relati
 | D30 | God-rays echoing the chest rays | Sherif or council |
 | D31 | Shield height reading | Sherif or council |
 | D32 | Rose-gold edge on the chest disc (left off) | Sherif or council |
-| ™ | "™ pending" on the masthead | **Sherif** |
+| ™ | "™ pending" on the masthead, and the v3 back cover's printed "™ (application pending)" line | **Sherif** |
 | ISBN | ISBN or barcode for the print route (eBook needs none) | **Sherif** |
 | Cover v3 | Feedback on the shoulder (pauldron) Eye art | **Sherif** |
 
