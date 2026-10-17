@@ -10,7 +10,7 @@ shield, unless the same line marks that wording amended, superseded, or history.
 
 Shield emblem (Wild, 2026-10-16, 2:20 PM ET): the current written lock in the
 four costume files must name the tall pointed outline, the Vegvísir elongated
-vertically, the gold interlaced knotwork, the band of gold runes, and the
+vertically, the gold interlaced knotwork, the band of gold knotwork and abstract glyph marks, and the
 plain gold boss. A scanned line that gives a round or disc Vegvísir, or a sun
 or a bolt, as the current shield spec fails, unless that same line marks the
 wording superseded, history, amended, or a reject, or negates it.
@@ -83,7 +83,9 @@ SHIELD_REQUIRED = (
     ('tall pointed outline', re.compile(r'tall, narrow, pointed bottom', re.I)),
     ('elongated Vegvísir', re.compile(r'Vegv[ií]sir elongated vertically', re.I)),
     ('knotwork binding', re.compile(r'gold interlaced knotwork', re.I)),
-    ('rune band', re.compile(r'band of gold runes', re.I)),
+    ('glyph band', re.compile(
+        r'band of gold knotwork and abstract glyph marks inside the gold rim, '
+        r'decorative only, never letter-like', re.I)),
     ('decorative only', re.compile(r'decorative only', re.I)),
     ('plain boss', re.compile(r'plain gold boss', re.I)),
 )
@@ -182,8 +184,8 @@ ICON_REQUIRED = (
     ('no glyphs on the rings', re.compile(r'no glyphs on the rings')),
     ('the halo rings', re.compile(r'the halo rings')),
     ('never named, captioned or numbered', re.compile(r'never named, captioned or numbered')),
-    ('ornamental runic knotwork', re.compile(r'ornamental runic knotwork')),
-    ('glyph borders', re.compile(r'glyph borders')),
+    ('abstract glyph marks', re.compile(r'abstract glyph marks')),
+    ('never letter-like', re.compile(r'never letter-like')),
     ('molten-gold inlay', re.compile(r'molten-gold inlay')),
     ('forged for an eternal deity', re.compile(r'as if forged for an eternal deity')),
     ('no readable text', re.compile(r'no readable text')),
@@ -263,7 +265,7 @@ ICON_REQUIRED = (
 )
 CANONICAL_PROMPTS = (
     'a radiant glowing Eye of Horus halo above his head, framed by three thin concentric rings of light joined by eight fine radial spokes, set inside the original sun-ray burst; bright white-gold inner ring fading to soft gold, faint rose-gold thread on the outer ring; clean, symmetrical, sacred-geometry precision',
-    'shield face deeply engraved with intricate ornamental runic knotwork and glyph borders around the glowing Vegvísir, molten-gold inlay, flawless master-forged metalwork as if forged for an eternal deity, purely decorative patterns, no letters, no readable text, no words',
+    'shield face deeply engraved with gold knotwork and abstract glyph marks, decorative only, never letter-like (no real runic or Latin letter shapes) around the glowing Vegvísir, molten-gold inlay, flawless master-forged metalwork as if forged for an eternal deity, purely decorative patterns, no letters, no readable text, no words',
     'oversized but wearable rounded gold-rimmed pauldrons capping the shoulders, each with a large carved emerald winged Eye of Horus; no wing extensions',
     'gold and emerald-green symbol palette',
     'shoulder emblems drawn in perspective on the curved plates: the turned-away shoulder shows the emerald Eye with one wing tip, the facing shoulder shows the full winged Eye',
