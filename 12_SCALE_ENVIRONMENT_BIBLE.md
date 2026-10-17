@@ -39,7 +39,7 @@ Adult human guests below use this reference until a council gives one of them a 
 |---|---|---|---|---|---|---|
 | The Founder | `05_LORE_BIBLE.md` L19. Implied only: lamp, notebook, desk, empty chair. | No body height. A number would imply a figure. | — | Not drawn. | — | LOCKED (Wild, 2026-10-17 12:21 AM ET): leave him unmeasured (`05` Q3). |
 | Rathor.ai | `09_CHARACTER_BIBLE.md` L88. An intelligence, not a body. | No body height. | — | Not a figure. | — | LOCKED (Wild, 2026-10-17 12:21 AM ET): leave it unmeasured. |
-| Helper robots | `09_CHARACTER_BIBLE.md` L88. The job is locked. The height is §7. | 4 ft 11 in to 5 ft 11 in (150 to 180 cm). | Height only, not an 8.5-head build. | Simple upright helper. No face. No weapons. | About 0.70 to 0.85 of his armoured height. The head sits between his belt and a little above his gorget. | LOCKED (Wild, 2026-10-17 12:21 AM ET). The earlier single height of 100 cm is withdrawn. |
+| Helper robots | `09_CHARACTER_BIBLE.md` L88. The job is locked. The height is §7. | 4 ft 11 in to 5 ft 11 in (150 to 180 cm). | Height only, not an 8.5-head build. | Simple upright helper. No face. No weapons. | About 0.70 to 0.85 of his armoured height. The head sits between his belt and his gorget. A 180 cm head is about at the gorget. | LOCKED (Wild, 2026-10-17 12:21 AM ET). The earlier single height of 100 cm is withdrawn. |
 | Drones | `09_CHARACTER_BIBLE.md` L88. The job is locked. The sizes are §7. | Scout: about palm to forearm. Carrier: 1 to 1.5 m across. | — | Black and gold. No emerald. | A scout reads against his hand. A carrier's span stays 1 to 1.5 m beside his 213 cm. | LOCKED (Wild, 2026-10-17 12:21 AM ET). The earlier single size of about 25 cm is withdrawn. |
 | The councils | `09_CHARACTER_BIBLE.md` L106. Twelve tiny gold masks. | Each mask about 1/4 head tall (about 6 cm). Not standing people. | — | Masks in a ring behind the halo. | The ring sits with the halo, above the crest. | LOCKED (Wild, 2026-10-17 12:21 AM ET) |
 | Slide-deck creature | `episodes/E01_TOLC.md` L20. | 5 ft 0 in (152 cm). | About 6 of his heads. | A stack of charts, not a person. | About 0.71 of his armoured height. The shield meets it across the body. | LOCKED (Wild, 2026-10-17 12:21 AM ET) |
@@ -221,7 +221,7 @@ All of these sizes are LOCKED (Wild, 2026-10-17 12:21 AM ET). They replace the s
 |---|---|---|---|
 | Scout drone | Palm to forearm. His palm is about 12 cm and his forearm about 35 cm, so the scout is about 30 cm across. | About 0.14 of his height. It reads against his hand, not against his body. | A small body, two short arms, the gold disc on top. |
 | Carrier drone | Wingspan 1 to 1.5 m (100 to 150 cm). The body is about 40 cm. | The span is about 0.47 to 0.70 of his height, about 4 to 6 of his head-units across. | A flat wing he can send between a person and a hazard. It shields. It does not strike. |
-| Helper robot | 4 ft 11 in to 5 ft 11 in (150 to 180 cm). | About 0.70 to 0.85 of his height. The head falls between his belt and a little above his gorget. | Two arms, two legs, a plain head, the gold disc on the chest. No face. No weapons. Shoulders about 40 cm, narrower than his pauldrons. |
+| Helper robot | 4 ft 11 in to 5 ft 11 in (150 to 180 cm). | About 0.70 to 0.85 of his height. The head falls between his belt and his gorget. A 180 cm head is about at the gorget. | Two arms, two legs, a plain head, the gold disc on the chest. No face. No weapons. Shoulders about 40 cm, narrower than his pauldrons. |
 
 ### Turnaround notes
 
