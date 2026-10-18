@@ -20,6 +20,12 @@ governs: it must sit within a few words before the match in the same clause.
 A line that puts emerald on any figure part other than the pauldron Eyes fails
 the same way. The kite shield is canon again, so "kite shield" no longer fails.
 
+Scan scope: the stale check covers only the files in SCAN and STALE_SCAN.
+Other docs (the S1-S3 episodes, production/S*/*/ART_PROMPTS.md,
+screen/*/STORYBOARD_PROMPTS.md, docs/TRAILER_S1E01.md,
+research/naming_rd_brief.md and the season arc-lock files) are not checked
+until the follow-up card CANON-SYNC-LOOK-LOCK-2 lands; do not render from them.
+
 Type margin: every type pixel whose alpha is greater than ALPHA_THRESHOLD
 must sit at least 75 px (0.25 in) inside the trim at 300 dpi. The trim line
 is 0.125 in, which is 37.5 px, not the 37 px bleed constant used by the
@@ -123,12 +129,12 @@ STALE_CURRENT = (
         r'Eye of Horus sigil|halo sigil', re.I)),
     ('eight-spokes', re.compile(r'eight (?:fine )?(?:radial )?spokes', re.I)),
     ('rose-gold-buckle', re.compile(
-        r'rose[- ]gold (?:lightning[- ])?(?:bolt )?buckle|buckle[^.;]{0,40}rose[- ]gold', re.I)),
+        r'rose[- ]gold (?:lightning[- ])?(?:bolt )?buckle|buckle[^.;]{0,40}(?P<term>rose[- ]gold)', re.I)),
     # The rose-gold bolt (buckle bolt, hammer-face bolt). The cover title
     # hyphen is type, not costume, and is exempted below.
     ('rose-gold-bolt', re.compile(
         r'rose[- ]gold (?:lightning[- ]?)?bolt|rose gold only for the bolt|'
-        r'buckle-centre bolt|bolt[^.;]{0,25}\bis rose gold', re.I)),
+        r'buckle-centre bolt|bolt[^.;]{0,25}\bis (?P<term>rose gold)', re.I)),
     ('stacked-hands', re.compile(r'stacked hands|both stacked hands|hands stacked|relaxed and stacked', re.I)),
     ('bronze-gold-lining', re.compile(r'bronze-gold', re.I)),
     ('helm-side-wings', re.compile(
@@ -144,10 +150,20 @@ NEG_WORD = re.compile(
     r'\b(?:no|not|never|without|nor|was|were|once|formerly|instead of|rather than|no longer)\b',
     re.I)
 NEG_WINDOW = 6
-CLAUSE_BREAK = re.compile(r'[,;:.()\[\]!?]')
+# 'but' and 'yet' also break a clause: in 'not silver or navy but a Vegvísir
+# shield' the 'not' does not reach the Vegvísir.
+CLAUSE_BREAK = re.compile(r'[,;:.()\[\]!?]|\bbut\b|\byet\b', re.I)
 TYPE_CONTEXT = re.compile(r'title|hyphen|lettering|cover[- ]mark|\bmark\b|RA⚡THOR|type', re.I)
 HISTORY_ROW = re.compile(r'^\s*\|\s*(?:Oct |Sep |~|PR |#|R\d)')
 RECORD_HEAD = re.compile(r'supersed|history|reject|conflict', re.I)
+
+def term_start(m):
+    """Where the retired term itself starts. For patterns that lead with a
+    context word (e.g. 'buckle ... rose gold'), the negation must govern the
+    retired term, so 'round gold, no rose-gold buckle' passes."""
+    if 'term' in m.re.groupindex and m.group('term') is not None:
+        return m.start('term')
+    return m.start()
 
 def negated(line, start):
     """True if a negation directly governs the phrase starting at `start`."""
@@ -161,7 +177,7 @@ def negated(line, start):
 # and the R1 reference record are not costume.
 EMERALD_FIG = re.compile(
     r'emerald[^.;,]{0,25}\b(?:shield|halo|buckle|chest|hammer|visor|helm|cape|wings?)\b|'
-    r'\b(?:shield|halo|buckle|chest|hammer|visor|helm|cape)\b[^.;,]{0,20}\bemerald', re.I)
+    r'\b(?:shield|halo|buckle|chest|hammer|visor|helm|cape)\b[^.;,]{0,20}\b(?P<term>emerald)', re.I)
 EMERALD_LINE_OK = re.compile(r'\bcoin\b|\bR1\b', re.I)
 # Hammer head (ISSUE01-HAMMER-BLOCK-HEAD-1, Sherif 2026-10-16, 6:45 PM ET).
 # The live lock is a plain rectangular block head. A triangle top stated as a
@@ -339,7 +355,7 @@ def stale_failures(path):
             continue
         for kind, pat in STALE_CURRENT:
             for m in pat.finditer(line):
-                if negated(line, m.start()):
+                if negated(line, term_start(m)):
                     continue
                 if kind == 'rose-gold-bolt' and TYPE_CONTEXT.search(
                         line[max(0, m.start() - 60):m.end() + 60]):
@@ -348,7 +364,7 @@ def stale_failures(path):
                 break
         if not EMERALD_LINE_OK.search(line):
             for m in EMERALD_FIG.finditer(line):
-                if negated(line, m.start()) or 'pauldron' in m.group(0).lower():
+                if negated(line, term_start(m)) or 'pauldron' in m.group(0).lower():
                     continue
                 fails.append((n, 'emerald-off-pauldron', line.strip()[:220]))
                 break

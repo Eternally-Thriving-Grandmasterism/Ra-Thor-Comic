@@ -61,6 +61,7 @@ Inked v3 build: `covers/inked/v3/build_v3.py` with `lib/`. Paths are repo-relati
 - Visual designs for the ten named characters and places; the pass device; the belt design
 - An inked cover PR
 - Promo refresh: `promo/` art is built from the pre-lock painted V18 cover and is owed a refresh to the LOOK LOCK (2026-10-18)
+- LOOK LOCK sync outside Issue #1 (deferred to the follow-up card CANON-SYNC-LOOK-LOCK-2): about 157 stale old-look lines in 46 .md files that `check_costume_lock.py` does not scan still describe the pre-lock look, which is now retired (Vegvísir shield, Eye of Horus halo, rose-gold buckle and similar). They are the S1–S3 episode files (`episodes/S*`, plus E03–E06), `production/S*/*/ART_PROMPTS.md`, `screen/*/STORYBOARD_PROMPTS.md`, `docs/TRAILER_S1E01.md`, `research/naming_rd_brief.md` (including L185, B14) and the season arc-lock files (`seasons/S2_ARC_LOCK.md`, `seasons/S3_ARC_LOCK.md`)
 
 ## Open decisions (`ISSUE_01_PRODUCTION.md` §11)
 
@@ -89,4 +90,5 @@ Inked v3 build: `covers/inked/v3/build_v3.py` with `lib/`. Paths are repo-relati
 - Interior panels: D1, D3, D4, D5, D6 and D16 affect specific panels; §6 is not ratified.
 - Cover: inked v3 predates the LOOK LOCK and needs a redraw to the locked look; the ™ question. The raised hammer stays as the recorded D23 pose exception.
 - Promo: refresh to the LOOK LOCK owed (not blocking interior art).
+- **Do not render from the unsynced files** listed under MISSING (S1–S3 episodes, `production/S*/*/ART_PROMPTS.md`, `screen/*/STORYBOARD_PROMPTS.md`, `docs/TRAILER_S1E01.md`, `research/naming_rd_brief.md`, the season arc-lock files) until CANON-SYNC-LOOK-LOCK-2 lands. Their costume text predates the LOOK LOCK.
 - Consistency: no turnaround sheet or height lineup yet.
