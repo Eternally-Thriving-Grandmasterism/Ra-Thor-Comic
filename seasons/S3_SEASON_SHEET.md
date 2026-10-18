@@ -104,7 +104,7 @@ Each episode needs a fresh bluff and a fresh way to see through it. Already used
 | plain-view strings | S2E01 | the strings are in plain view on the tile; the shield's rim slackens them |
 | side view | S2E02 | a second tile shows the same parade from the side: painted flats on one cart |
 | sound tap | S2E03 | one light tap with the shield's rim; the egg rings hollow |
-| hawk-seal probe | S2E04 | the shoulder hawk seal lights emerald when the stamp touches the shield's rim |
+| hawk-seal probe | S2E04 | the shoulder hawk seal lights emerald when the stamp touches the shield's rim (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: emerald appears only on the pauldron Eyes; the shoulder emblem is an emerald Eye of Horus outlined in gold on each pauldron. Current look: `01_VISUAL_STYLE_GUIDE.md` (LOOK LOCK section) and `production/ISSUE_01/bible/CHARACTER_BIBLE.md` (LOOK LOCK section).) |
 | maker's-tag reveal | S2E05 | the pop-up world's pieces each carry a different maker's tag, none the guest's |
 | one-sided loop | S2E06 | a finger traced along the ribbon's edge never reaches an end |
 | hidden siphon (the lift) | S3E01 | lifting the jar off its base shows a thin tube feeding it from the commons |

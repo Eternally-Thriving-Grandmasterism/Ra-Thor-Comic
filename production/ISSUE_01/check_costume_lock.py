@@ -20,11 +20,12 @@ governs: it must sit within a few words before the match in the same clause.
 A line that puts emerald on any figure part other than the pauldron Eyes fails
 the same way. The kite shield is canon again, so "kite shield" no longer fails.
 
-Scan scope: the stale check covers only the files in SCAN and STALE_SCAN.
-Other docs (the S1-S3 episodes, production/S*/*/ART_PROMPTS.md,
+Scan scope: the stale check covers the files in SCAN and STALE_SCAN.
+STALE_SCAN includes the episode files, production/S*/*/ART_PROMPTS.md,
 screen/*/STORYBOARD_PROMPTS.md, docs/TRAILER_S1E01.md,
-research/naming_rd_brief.md and the season arc-lock files) are not checked
-until the follow-up card CANON-SYNC-LOOK-LOCK-2 lands; do not render from them.
+research/naming_rd_brief.md and the season files. (The deferral to
+CANON-SYNC-LOOK-LOCK-2 is resolved: that card tagged those files and added
+LOOK LOCK prompts to the prompt files, 2026-10-18.)
 
 Type margin: every type pixel whose alpha is greater than ALPHA_THRESHOLD
 must sit at least 75 px (0.25 in) inside the trim at 300 dpi. The trim line
@@ -56,7 +57,22 @@ STALE_SCAN = [
     'production/ISSUE_01/CREDITS_AND_INDICIA.md',
     'production/ISSUE_01/PROPOSED_SPEAKER_RULINGS.md',
     'production/ISSUE_01/bible/kdp/README.md',
+    # CANON-SYNC-LOOK-LOCK-2 (2026-10-18): the deferred docs.
+    'docs/TRAILER_S1E01.md',
+    'research/naming_rd_brief.md',
 ]
+STALE_GLOBS = (
+    'episodes/*.md',
+    'production/S*/*/ART_PROMPTS.md',
+    'screen/*/STORYBOARD_PROMPTS.md',
+    'seasons/*.md',
+)
+import glob as _glob
+for _g in STALE_GLOBS:
+    for _f in sorted(_glob.glob(os.path.join(ROOT, _g))):
+        _rel = os.path.relpath(_f, ROOT)
+        if _rel not in SCAN and _rel not in STALE_SCAN:
+            STALE_SCAN.append(_rel)
 # A counted type pixel has alpha strictly greater than this fraction of 255.
 ALPHA_THRESHOLD = 0.03
 DPI = 300
@@ -165,13 +181,23 @@ def term_start(m):
         return m.start('term')
     return m.start()
 
+# A negation does not reach past a verb or an "and" to the retired term:
+# in "the buckle not silver is rose gold" the "not" governs "silver" only.
+NEG_BLOCK = re.compile(
+    r'\b(?:is|are|be|becomes?|reads?|stays?|has|have|carries|shows?|bears?|'
+    r'holds?|wears?|and)\b', re.I)
+
 def negated(line, start):
     """True if a negation directly governs the phrase starting at `start`."""
     before = line[max(0, start - 80):start]
     parts = CLAUSE_BREAK.split(before)
     clause = parts[-1] if parts else ''
-    words = clause.split()[-NEG_WINDOW:]
-    return bool(NEG_WORD.search(' '.join(words)))
+    window = ' '.join(clause.split()[-NEG_WINDOW:])
+    negs = list(NEG_WORD.finditer(window))
+    if not negs:
+        return False
+    between = window[negs[-1].end():]
+    return not NEG_BLOCK.search(between)
 
 # Emerald on a figure part other than the pauldron Eyes. Cover type (the coin)
 # and the R1 reference record are not costume.

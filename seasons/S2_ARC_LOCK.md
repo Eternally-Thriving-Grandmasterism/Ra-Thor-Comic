@@ -93,7 +93,7 @@ The Snap button panel uses only the fixed stinger. There is no Snap cue, because
 - [x] Notebook mistakes go to the Recycler and are never real personal details (bound 5).
 - [x] No third parties and no real people (bound 3, rule 8).
 - [x] TOLC is named only, never defined; the mercy checks and the Mercy-Ways are never numbered.
-- [x] Canon armor unchanged: winged-halo closed helm, warm gold visor slit, emerald eye-seal kite shield, hammer head-down on stone, cape dark, emerald only on the shield eye-seal and the shoulder hawk seal (00, 04).
+- [x] Canon armor unchanged: winged-halo closed helm, warm gold visor slit, emerald eye-seal kite shield, hammer head-down on stone, cape dark, emerald only on the shield eye-seal and the shoulder hawk seal (00, 04). (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: emerald appears only on the pauldron Eyes; the shield is the black kite shield with a gold sun-spoke design and central gold boss, with no eye-seal; the shoulder emblem is an emerald Eye of Horus outlined in gold on each pauldron; the halo is all gold with no eye in the halo, and large gold wings rise from behind the head. Current look: `01_VISUAL_STYLE_GUIDE.md` (LOOK LOCK section) and `production/ISSUE_01/bible/CHARACTER_BIBLE.md` (LOOK LOCK section).)
 - [x] Music: A4 = 432, 543 only over C# chords, 528 only as a short chime, no darksynth (no siege), in-episode cues wordless, every episode ends on Grounded; E-major drones on E2 or B2.
 - [x] Sourcing bound respected (no `docs/WifeShow/`, no `docs/FACTIONS_OVERVIEW.md`). No outside IP named.
 - [x] No episode files written in this doc; the six episodes were merged in separate PRs (#23–#28, §10).
