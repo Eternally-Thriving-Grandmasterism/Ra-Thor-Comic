@@ -14,9 +14,11 @@ The Vegvísir shield (and its elongated form), the Eye of Horus in the halo,
 the eight halo spokes, the rose-gold buckle, the stacked-hands rest, the
 bronze-gold cape lining and the helm-side wings are history. A scanned line
 that still states one of them as current fails, unless the same line marks it
-superseded, history, retired, amended or a reject, or negates it. A line that
-puts emerald on any figure part other than the pauldron Eyes fails the same
-way. The kite shield is canon again, so "kite shield" no longer fails.
+superseded, history, retired, amended, moot, resolved or a reject. A negation
+word (no, not, never, without, was, ...) exempts only the phrase it directly
+governs: it must sit within a few words before the match in the same clause.
+A line that puts emerald on any figure part other than the pauldron Eyes fails
+the same way. The kite shield is canon again, so "kite shield" no longer fails.
 
 Type margin: every type pixel whose alpha is greater than ALPHA_THRESHOLD
 must sit at least 75 px (0.25 in) inside the trim at 300 dpi. The trim line
@@ -38,6 +40,16 @@ SCAN = [
     '04_VISUAL_CANON.md',
     'episodes/E01_TOLC.md',
     '12_SCALE_ENVIRONMENT_BIBLE.md',
+]
+# Further docs scanned for stale current-tense costume lines only
+# (CANON-SYNC-LOOK-LOCK-1 AMEND).
+STALE_SCAN = [
+    'README.md',
+    'production/ISSUE_01/HANDOFF.md',
+    'production/ISSUE_01/STORE_LISTING_AND_EXPORT.md',
+    'production/ISSUE_01/CREDITS_AND_INDICIA.md',
+    'production/ISSUE_01/PROPOSED_SPEAKER_RULINGS.md',
+    'production/ISSUE_01/bible/kdp/README.md',
 ]
 # A counted type pixel has alpha strictly greater than this fraction of 255.
 ALPHA_THRESHOLD = 0.03
@@ -93,8 +105,17 @@ LOOK_REQUIRED = (
         r'emerald (?:appears )?only on the (?:two )?pauldron Eyes', re.I)),
     ('tall look-lock ref', re.compile(r'rathor_look_lock_imagine_tall_2026-10-18\.jpg')),
 )
-# Retired costume parts stated as current. A same-line tag, negation or reject
-# note keeps the historical sentence. Dated history-table rows are skipped.
+# Retired costume parts stated as current (CANON-SYNC-LOOK-LOCK-1, Hands and
+# Wild AMEND 2026-10-18). Two kinds of exemption:
+#   * a supersession tag (superseded, history, retired, amended, moot,
+#     resolved, reject) anywhere on the line exempts the whole line;
+#   * a negation word (no, not, never, without, nor, was, were, once, ...)
+#     exempts only the phrase it directly negates: it must sit within the
+#     NEG_WINDOW words just before the match, in the same clause (no , ; : .
+#     ( ) between). So "no eye in the halo" never exempts a Vegvísir shield
+#     elsewhere on the line.
+# Headings of superseded, history, reject or conflict sections, and dated
+# history-table rows, are skipped.
 STALE_CURRENT = (
     ('vegvisir', re.compile(r'Vegv[ií]sir', re.I)),
     ('halo-eye', re.compile(
@@ -102,27 +123,46 @@ STALE_CURRENT = (
         r'Eye of Horus sigil|halo sigil', re.I)),
     ('eight-spokes', re.compile(r'eight (?:fine )?(?:radial )?spokes', re.I)),
     ('rose-gold-buckle', re.compile(
-        r'rose[- ]gold (?:lightning[- ])?(?:bolt )?buckle|buckle[^.;]{0,40}rose[- ]gold|'
-        r'rose[- ]gold lightning[- ]bolt', re.I)),
+        r'rose[- ]gold (?:lightning[- ])?(?:bolt )?buckle|buckle[^.;]{0,40}rose[- ]gold', re.I)),
+    # The rose-gold bolt (buckle bolt, hammer-face bolt). The cover title
+    # hyphen is type, not costume, and is exempted below.
+    ('rose-gold-bolt', re.compile(
+        r'rose[- ]gold (?:lightning[- ]?)?bolt|rose gold only for the bolt|'
+        r'buckle-centre bolt|bolt[^.;]{0,25}\bis rose gold', re.I)),
     ('stacked-hands', re.compile(r'stacked hands|both stacked hands|hands stacked|relaxed and stacked', re.I)),
     ('bronze-gold-lining', re.compile(r'bronze-gold', re.I)),
     ('helm-side-wings', re.compile(
-        r'wings are fixed to the sides|compact (?:up-swept )?(?:gold )?(?:helm )?wings', re.I)),
+        r'wings are fixed to the sides|compact (?:up-swept )?(?:gold )?(?:helm )?wings|'
+        r'wings? no wider than the shoulders', re.I)),
+    ('polished-gold-hammer', re.compile(
+        r'all metal polished antique gold|polished antique[- ]gold (?:thunder )?hammer|'
+        r'hammer[^.;]{0,20}\bpolished antique gold', re.I)),
 )
-STALE_NEG = re.compile(
-    r'supersed|history|historical|retired|amended|reject|2026-10-18|LOOK LOCK|moot|'
-    r'resolved|\bno\b|\bnot\b|never|without|instead of|dropped|replaced|was |were |once ',
+LINE_TAG = re.compile(
+    r'supersed|history|historical|retired|amended|\bmoot\b|resolved|reject', re.I)
+NEG_WORD = re.compile(
+    r'\b(?:no|not|never|without|nor|was|were|once|formerly|instead of|rather than|no longer)\b',
     re.I)
+NEG_WINDOW = 6
+CLAUSE_BREAK = re.compile(r'[,;:.()\[\]!?]')
+TYPE_CONTEXT = re.compile(r'title|hyphen|lettering|cover[- ]mark|\bmark\b|RA⚡THOR|type', re.I)
 HISTORY_ROW = re.compile(r'^\s*\|\s*(?:Oct |Sep |~|PR |#|R\d)')
 RECORD_HEAD = re.compile(r'supersed|history|reject|conflict', re.I)
+
+def negated(line, start):
+    """True if a negation directly governs the phrase starting at `start`."""
+    before = line[max(0, start - 80):start]
+    parts = CLAUSE_BREAK.split(before)
+    clause = parts[-1] if parts else ''
+    words = clause.split()[-NEG_WINDOW:]
+    return bool(NEG_WORD.search(' '.join(words)))
+
 # Emerald on a figure part other than the pauldron Eyes. Cover type (the coin)
-# is type, not costume.
+# and the R1 reference record are not costume.
 EMERALD_FIG = re.compile(
     r'emerald[^.;,]{0,25}\b(?:shield|halo|buckle|chest|hammer|visor|helm|cape|wings?)\b|'
     r'\b(?:shield|halo|buckle|chest|hammer|visor|helm|cape)\b[^.;,]{0,20}\bemerald', re.I)
-EMERALD_FIG_NEG = re.compile(
-    r'supersed|history|historical|retired|amended|reject|\bno\b|\bnot\b|never|'
-    r'only on the (?:two )?pauldron|pauldron seal|coin|R1|moot|dropped', re.I)
+EMERALD_LINE_OK = re.compile(r'\bcoin\b|\bR1\b', re.I)
 # Hammer head (ISSUE01-HAMMER-BLOCK-HEAD-1, Sherif 2026-10-16, 6:45 PM ET).
 # The live lock is a plain rectangular block head. A triangle top stated as a
 # current requirement fails unless the same line marks it retired, superseded,
@@ -295,13 +335,23 @@ def stale_failures(path):
             # history, rejects or conflicts lists retired parts on purpose.
             in_record = bool(RECORD_HEAD.search(line))
             continue
-        if in_record or HISTORY_ROW.match(line):
+        if in_record or HISTORY_ROW.match(line) or LINE_TAG.search(line):
             continue
         for kind, pat in STALE_CURRENT:
-            if pat.search(line) and not STALE_NEG.search(line):
+            for m in pat.finditer(line):
+                if negated(line, m.start()):
+                    continue
+                if kind == 'rose-gold-bolt' and TYPE_CONTEXT.search(
+                        line[max(0, m.start() - 60):m.end() + 60]):
+                    continue
                 fails.append((n, kind, line.strip()[:220]))
-        if EMERALD_FIG.search(line) and not EMERALD_FIG_NEG.search(line):
-            fails.append((n, 'emerald-off-pauldron', line.strip()[:220]))
+                break
+        if not EMERALD_LINE_OK.search(line):
+            for m in EMERALD_FIG.finditer(line):
+                if negated(line, m.start()) or 'pauldron' in m.group(0).lower():
+                    continue
+                fails.append((n, 'emerald-off-pauldron', line.strip()[:220]))
+                break
     return fails
 
 def hammer_lock_missing(path, required):
@@ -392,6 +442,10 @@ def main():
         if rel not in BIBLE_NOTE_FILES and MEANING_RE.search(open(path, encoding='utf-8').read()):
             bad += 1
             print('MEANING %s must stay in the character bibles' % rel)
+    for rel in STALE_SCAN:
+        for n, kind, text in stale_failures(os.path.join(ROOT, rel)):
+            bad += 1
+            print('STALE %s %s:%d %s' % (kind, rel, n, text))
     for rel in HAMMER_LOCK_FILES:
         if rel in SCAN:
             continue

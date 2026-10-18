@@ -141,7 +141,7 @@ The bolt is allowed here: a Patreon post is not store metadata under this card, 
 
 **Media and attachments:**
 
-- Header image: a 16:9 crop of the cover art (1920 × 1080), so the feed shows no bars. The thumbnail is square; check the crop keeps the visor and the shield's Vegvísir. The crop itself is **PROPOSED CANON — pending council ratification**.
+- Header image: a 16:9 crop of the cover art (1920 × 1080), so the feed shows no bars. The thumbnail is square; check the crop keeps the visor and the shield's Vegvísir. The crop itself is **PROPOSED CANON — pending council ratification**. (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: this describes the pre-lock painted V18 cover art; the locked look carries the black kite shield with a gold sun-spoke design and central gold boss, no Vegvísir. The copy is refreshed with the cover redraw.)
 - Gallery: the 11 page images in reading order (cover, title page, pages 1–8, credits), JPEG or PNG.
 - Attachments: the full-issue PDF (PDF is attachment-only on Patreon) and the page images, each 16 MB or less.
 
@@ -149,11 +149,11 @@ The bolt is allowed here: a Patreon post is not store metadata under this card, 
 
 | Image | Alt text |
 |---|---|
-| Cover | Ra-Thor in obsidian-black and gold circuit armor, a winged helm and a slim glowing halo ring, stands inside a thin gold arch at night, a plain gold disc on his chest, a huge black-and-gold tall shield with a gold Vegvísir rising over his shoulder, no Eye of Horus on the shield, his gold hammer raised and crackling with golden lightning. Title: Ra-Thor Living Thunder. Issue #1. |
+| Cover | Ra-Thor in obsidian-black and gold circuit armor, a winged helm and a slim glowing halo ring, stands inside a thin gold arch at night, a plain gold disc on his chest, a huge black-and-gold tall shield with a gold Vegvísir rising over his shoulder, no Eye of Horus on the shield, his gold hammer raised and crackling with golden lightning. Title: Ra-Thor Living Thunder. Issue #1. (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: this describes the pre-lock painted V18 cover art; the locked look carries the black kite shield with a gold sun-spoke design and central gold boss, no Vegvísir. The copy is refreshed with the cover redraw.) |
 | Title page | Title page: Ra-Thor Living Thunder, Issue 1, Episode 01, TOLC. |
 | Page 1 | Splash. Ra-Thor under the gold arch at night, two lanes at his feet. Caption: THRESHOLD. NIGHT. SORT IN PROGRESS. |
 | Page 2 | The lane stamps NO and LIVE, then Ra-Thor under the arch. He says: "Left is noise. Right is live." |
-| Page 3 | Silent. A creature made of slides and charts approaches; the black-and-gold shield with its gold Vegvísir, no Eye of Horus on the shield; the visor narrows. |
+| Page 3 | Silent. A creature made of slides and charts approaches; the black-and-gold shield with its gold Vegvísir, no Eye of Horus on the shield; the visor narrows. (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: this describes the pre-lock painted V18 cover art; the locked look carries the black kite shield with a gold sun-spoke design and central gold boss, no Vegvísir. The copy is refreshed with the cover redraw.) |
 | Page 4 | The creature crumples into chart confetti against the shield. Ra-Thor: "Blocked." Confetti settles at the shield's foot. |
 | Page 5 | A small device with one warm light in the LIVE lane. Ra-Thor: "That one is live." His visor widens gold. |
 | Page 6 | A recycler hopper eats the confetti. Ra-Thor, not looking: "Recycle it." Three cards: OBVIOUS, FERAL, CLEAN. |

@@ -12,7 +12,7 @@ If this file conflicts with a canon file, the canon file wins. Read `00_FIDELITY
 - **Use the repo versions of canon.** The bot-store copies of `CHARACTER_BIBLE.md` and `BIBLE_FINAL_SHA256.txt` are stale and differ from the repo.
 - **The ten locked names are not trademark-cleared** (`13_AGI_SYSTEM_LORE.md`, Names): Stormhearth, Moonglass, Pearl, Hesper, Emery, Clara, the Kinglets, Laurel, Bobby, Nixie. None has a visual design yet.
 - Follow `00_FIDELITY_PROTOCOL.md` and `production/README.md` rules 1–6: restate, never author; flag gaps, never fill them.
-- Images are allowed in the repo only under `production/ISSUE_01/` (D27; ISSUE01-HANDOFF-ASSETS-1 added `covers/` and `imagine/` beside `bible/`) and under `promo/` (Sherif approved the `promo/` folder 2026-10-17 8:38 PM ET; PR #109, merged as `debb0f32`).
+- Images are allowed in the repo only under `production/ISSUE_01/` (D27; ISSUE01-HANDOFF-ASSETS-1 added `covers/` and `imagine/` beside `bible/`) and under `promo/` (Sherif approved the `promo/` folder 2026-10-17 8:38 PM ET; PR #109, merged as `debb0f32`). That is folder approval only; the promo copy stays draft.
 - Before any costume or lock change, run `python3 production/ISSUE_01/check_costume_lock.py`, then `sha256sum -c --strict BIBLE_FINAL_SHA256.txt` from `production/ISSUE_01/bible/`.
 
 ## Where things live (all in this repo)
@@ -51,7 +51,7 @@ Inked v3 build: `covers/inked/v3/build_v3.py` with `lib/`. Paths are repo-relati
 
 **DRAFT**
 - Page layout and panel prompts: `ISSUE_01_PRODUCTION.md` §6 (status "draft, until council review")
-- Inked cover v3 front and back: `covers/inked/v3/` (waiting on Sherif's shoulder Eye feedback; no cover PR merged). It predates the LOOK LOCK (Vegvísir-era costume), so it needs a redraw to the locked look
+- Inked cover v3 front and back: `covers/inked/v3/` (waiting on Sherif's shoulder Eye feedback; no cover PR merged). It predates the LOOK LOCK (it draws the pre-lock costume, whose Vegvísir shield is now retired), so it needs a redraw to the locked look
 - Credits and indicia: `CREDITS_AND_INDICIA.md` (PROPOSED); speaker rulings: `PROPOSED_SPEAKER_RULINGS.md`
 
 **MISSING**
@@ -70,16 +70,16 @@ Inked v3 build: `covers/inked/v3/build_v3.py` with `lib/`. Paths are repo-relati
 | D3 | Lead mode for the E01 status line | Sherif or council |
 | D4 | The slide-deck creature's lane in P2 | Sherif or council |
 | D5 | The pass device's design | Sherif or council |
-| D6 | P5 visor (eye) state (the LOOK LOCK ref shows the eyes dark at rest) | Sherif or council |
+| D6 | P5 visor (eye) state: open. The LOOK LOCK ref shows the eyes dark at rest; lit eyes stay a panel choice | Sherif or council |
 | D7 | Cover and title page: issue-line wording, publisher mark | Sherif or council |
 | D9 | Print route; age rating | Sherif or council |
 | D16 | Splash bleed (inside the cream border vs full bleed) | Sherif or council |
-| D29 | Shoulder-seal field: resolved by the LOOK LOCK (emerald Eye outlined in gold on black pauldrons) | Closed |
-| D30 | God-rays: the LOOK LOCK chest disc has no rays; whether cover god-rays stay | Sherif or council |
-| D31 | Shield height: superseded by the LOOK LOCK (kite shield as painted, top at about the elbow) | Closed unless Sherif reopens |
+| D29 | Shoulder-seal field: resolved as painted by the LOOK LOCK (emerald Eye outlined in gold on black pauldrons) | Closed |
+| D30 | Cover god-rays: open. The chest rays they echoed are gone, but the halo's seven gold rays echo them; lean: keep them faint at most | Council |
+| D31 | Shield height: superseded by the LOOK LOCK. The kite shield is applied as painted (top at about the elbow, point by his left foot), matching the Bible's readings, which are applied as painted | Closed |
 | D32 | Rose-gold edge on the chest disc: moot (rose gold retired on the figure) | Closed |
-| LOOK LOCK readings | Nine readings to confirm in `bible/CHARACTER_BIBLE.md` LOOK LOCK section (halo about 2.5 heads, shield height, pauldron size, 12 shield arms, wing tips, pommel, etc.); the sync applies them as painted | Sherif |
-| Cover pose | Keep the raised cover hammer (D23) or take the LOOK LOCK Sentinel Rest pose | **Sherif** |
+| LOOK LOCK readings | The nine readings in `bible/CHARACTER_BIBLE.md` LOOK LOCK section (halo about 2.5 heads, shield height, pauldron size, 12 shield arms, wing tips, pommel, etc.) are applied as painted under the 1:58 AM ET ruling; a council may still fix a countable shield-arm number without changing the art | Closed (council may fix the arm count) |
+| Cover pose | The raised cover hammer is a recorded cover-pose exception (D23): pose only, the costume follows the LOOK LOCK. Only a switch to the Sentinel Rest pose needs Sherif | **Sherif** (only if he wants the switch) |
 | ™ | "™ pending" on the masthead, and the v3 back cover's printed "™ (application pending)" line | **Sherif** |
 | ISBN | ISBN or barcode for the print route (eBook needs none) | **Sherif** |
 | Cover v3 | Feedback on the shoulder (pauldron) Eye art | **Sherif** |
@@ -87,6 +87,6 @@ Inked v3 build: `covers/inked/v3/build_v3.py` with `lib/`. Paths are repo-relati
 ## Blockers to image generation
 
 - Interior panels: D1, D3, D4, D5, D6 and D16 affect specific panels; §6 is not ratified.
-- Cover: inked v3 predates the LOOK LOCK and needs a redraw; the cover pose question; the ™ question.
+- Cover: inked v3 predates the LOOK LOCK and needs a redraw to the locked look; the ™ question. The raised hammer stays as the recorded D23 pose exception.
 - Promo: refresh to the LOOK LOCK owed (not blocking interior art).
 - Consistency: no turnaround sheet or height lineup yet.

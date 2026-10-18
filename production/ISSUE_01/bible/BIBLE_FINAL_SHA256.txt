@@ -256,5 +256,7 @@ e2df18141994f7be0693158e6b07be00d2e4f8bf6653e906428a4d1359fc1612  refs/x_ref_pho
 f66df67e276ad3c0ba409e0286c63ad51ddf7d2f6dd6ca4832a814e81228c76f  refs/rathor_look_lock_imagine_wide_2026-10-18.jpg
 
 # 2026-10-18. CANON-SYNC-LOOK-LOCK-1. The LOOK LOCK is owner-locked as CANON and synced into the canon files, the Issue #1 prompts, the checklist and the KDP notes. Superseded lines are tagged, not deleted. Art files untouched.
-9b7a2bf71a7ef9ff4834277cbcbff042f5d18cc8c4a41089ec45ca5b5b7796b5  CHARACTER_BIBLE.md
+# 9b7a2bf71a7ef9ff4834277cbcbff042f5d18cc8c4a41089ec45ca5b5b7796b5  CHARACTER_BIBLE.md  (superseded: 2026-10-18, CANON-SYNC-LOOK-LOCK-1 AMEND, readings applied as painted and three V18-record lines tagged)
 fcac80537e95dc14abefec4f1cf1dcc76db5d8cd5fdc74a5e3ebe9baf3af6310  kdp/README.md
+# 2026-10-18. CANON-SYNC-LOOK-LOCK-1 AMEND (Hands, Wild). CHARACTER_BIBLE.md: readings marked applied as painted; V18-record rows and the X-ref style line tagged. Art files untouched.
+58657c936610da52ebaf8f94abea70f4e47855e9a906fe3ee9488932200f4dcd  CHARACTER_BIBLE.md
