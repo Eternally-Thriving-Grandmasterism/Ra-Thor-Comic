@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-10-18
+
+- BIBLE-LOOK-LOCK-1. Sherif, 2026-10-18 1:58 AM ET: "Lock it as is, and update the bible to match the art." His Grok Imagine render of Ra-Thor is the LOCKED look. `production/ISSUE_01/bible/CHARACTER_BIBLE.md` gains a LOOK LOCK section that describes the art, and two refs: `refs/rathor_look_lock_imagine_tall_2026-10-18.jpg` (primary) and `refs/rathor_look_lock_imagine_wide_2026-10-18.jpg` (secondary). Superseded and kept as tagged history: the Vegvísir shield (now a black kite shield with a gold sun-spoke design and central boss), the Eye of Horus in the halo, the eight halo spokes and rose-gold thread, the rose-gold buckle (now round gold with a gold bolt), compact helm-side wings, and the both-hands Sentinel Rest. Other canon files are not edited here; the conflicts are listed in that Bible's §9. This unparks the D27 / HANDOFF card and the promo art refresh (noted only).
+
 ## 2026-10-16
 
 - Shield border (Wild, 2026-10-16 11:33 PM ET). The marks inside the gold rim are a band of gold knotwork and abstract glyph marks, decorative only, never letter-like (no real runic or Latin letter shapes). This amends the 11:00 PM ornamental runic border.
