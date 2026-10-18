@@ -250,6 +250,7 @@ c027e6e3b41e88f74c9644cd7dcdec571ce4af018d616481d5b7bdea12f1c81f  refs/rest_pose
 e2df18141994f7be0693158e6b07be00d2e4f8bf6653e906428a4d1359fc1612  refs/x_ref_photo_2026-10-16.jpg
 
 # 2026-10-18, 1:58 AM ET. BIBLE-LOOK-LOCK-1. Sherif: "Lock it as is, and update the bible to match the art." CHARACTER_BIBLE.md gains the LOOK LOCK section; superseded lines are tagged, not deleted. Two look-lock refs added, byte-identical to Sherif's render. Art files untouched.
-c46ae1e03f660697e1da05b8c724adde89c70a70f2fc0e92603510e472a28ea7  CHARACTER_BIBLE.md
+# c46ae1e03f660697e1da05b8c724adde89c70a70f2fc0e92603510e472a28ea7  CHARACTER_BIBLE.md  (superseded: 2026-10-18, BIBLE-LOOK-LOCK-1 Wild AMEND, six more lines tagged)
+d9c1f417ad116ffa716810480f6d14d1740b7711f21b60045df1810d392a0b23  CHARACTER_BIBLE.md
 685afa048fae8489b89bf44fdee9fa53e7043aad94d154e276a7b8777105a503  refs/rathor_look_lock_imagine_tall_2026-10-18.jpg
 f66df67e276ad3c0ba409e0286c63ad51ddf7d2f6dd6ca4832a814e81228c76f  refs/rathor_look_lock_imagine_wide_2026-10-18.jpg
