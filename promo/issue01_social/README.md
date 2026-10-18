@@ -1,6 +1,6 @@
 # Ra-Thor⚡Living Thunder #1 · TOLC — DRAFT social promo kit
 
-**DRAFT ONLY, for Sherif to post himself. Nothing here has been posted, scheduled or sent.** Built 2026-10-16 (ET). Re-run with `python3 build_promo.py`.
+**DRAFT ONLY, for Sherif to post himself. Nothing here has been posted, scheduled or sent.** Built 2026-10-16 (ET). Re-run with `python3 build_promo.py --cover PATH` (see Sources).
 
 ## Files
 
@@ -23,13 +23,13 @@
 
 ## Sources (only these)
 
-- Front art: right half of `/workspace/issue01/kdp/RaThor_Issue01_KDPwrap_24p_premium-color.jpg` (painted V18-era KDP wrap, 4067x3150 @300 dpi; per `production/ISSUE_01/HANDOFF.md` the painted V18 cover is now history, not canon, since the issue went inked). Crops stay inside the front trim (x 2046–4029, y ≥ 40) so no spine or bleed shows; the script asserts the RA⚡THOR LIVING THUNDER logo + ISSUE #1 coin box (wrap x 3120–3905, y 115–345) is fully inside every crop.
-- Dark backgrounds: `/workspace/issue01/back/back_art_v2.png` (the back cover's art layer, no text), cropped, heavily blurred and dimmed.
+- Front art: right half of a **box-only** KDP wrap that is **not in this repo**: `/workspace/issue01/kdp/RaThor_Issue01_KDPwrap_24p_premium-color.jpg`, sha256 `f9dcf022a1a2cae94ca2476be9f55f60d8d53d85e840ee2f07383c84aa067d72` (painted V18-era wrap, 4067x3150 @300 dpi; per `production/ISSUE_01/HANDOFF.md` the painted V18 cover is now history, not canon, since the issue went inked). It differs from the repo's `production/ISSUE_01/bible/kdp/out/RaThor_Issue01_KDPwrap_24p_premium-color.jpg` (sha256 `769b308573b2baa4ea0a0710512ec0897c46e8a7abff4c8558ea892371a4c8f9`) in the masthead / issue-coin area (about x 3127–3947, y 101–405), so the committed images cannot be rebuilt from the repo alone. `build_promo.py` takes `--cover PATH` for a copy of that file, stops with a clear message if it is missing, and warns if its sha256 differs. Crops stay inside the front trim (x 2046–4029, y ≥ 40) so no spine or bleed shows; the script asserts the RA⚡THOR LIVING THUNDER logo + ISSUE #1 coin box (wrap x 3120–3905, y 115–345) is fully inside every crop.
+- Dark backgrounds: the back cover's art layer (no text), read from the repo at `production/ISSUE_01/bible/back/back_art_v2.png` (path relative to the repo root; the script resolves it from its own location), cropped, heavily blurred and dimmed.
 - No other Ra-Thor/Grok images were used (none of the protected cards), and no AI-generated art. Everything is crop/resize/blur/tone in Python.
 
 ## Typography
 
-Matches the back cover (`/workspace/issue01/back/build_back_v2.py`): **Cinzel** (variable, wght 700) in the back cover's metallic gold ramp for headlines and the issue line; Cinzel wght 600 in the silver ramp, widely tracked, for COMING SOON / FOLLOW FOR UPDATES; **EB Garamond Italic** in warm parchment for the TOLC line; EB Garamond for the fine print. Fonts are at `/usr/share/fonts/truetype/sand-box/google/`. All were found; no substitutes needed.
+Matches the back cover (`production/ISSUE_01/bible/back/build_back_v2.py` in this repo): **Cinzel** (variable, wght 700) in the back cover's metallic gold ramp for headlines and the issue line; Cinzel wght 600 in the silver ramp, widely tracked, for COMING SOON / FOLLOW FOR UPDATES; **EB Garamond Italic** in warm parchment for the TOLC line; EB Garamond for the fine print. Fonts are a system dependency at `/usr/share/fonts/truetype/sand-box/google/` (override the folder with `PROMO_FONT_DIR`). All were found; no substitutes needed.
 
 ## Rules followed
 

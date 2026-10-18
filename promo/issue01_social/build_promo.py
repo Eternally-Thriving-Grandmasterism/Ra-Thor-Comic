@@ -1,22 +1,34 @@
 #!/usr/bin/env python3
 """Ra-Thor⚡Living Thunder #1 · TOLC — DRAFT social promo images (nothing is posted; files only).
 
-Re-run:  python3 build_promo.py            (writes next to this script)
+Re-run:  python3 build_promo.py [--cover PATH]     (writes next to this script)
+
+COVER SOURCE IS A BOX-ONLY FILE (not in this repo). The committed images were built from
+  /workspace/issue01/kdp/RaThor_Issue01_KDPwrap_24p_premium-color.jpg
+  sha256 f9dcf022a1a2cae94ca2476be9f55f60d8d53d85e840ee2f07383c84aa067d72
+That wrap variant differs from the repo's production/ISSUE_01/bible/kdp/out/RaThor_Issue01_KDPwrap_24p_premium-color.jpg
+(sha256 769b308573b2baa4ea0a0710512ec0897c46e8a7abff4c8558ea892371a4c8f9) in the masthead / issue-coin area
+(about x 3127-3947, y 101-405), so the committed PNG/JPGs cannot be rebuilt from the repo alone. Pass --cover to
+point at a copy of the box file; the script stops with this message if the file is missing, and warns if the
+sha256 differs. Back-cover art is read from the repo: production/ISSUE_01/bible/back/back_art_v2.png.
+Fonts are a system dependency (override the folder with the PROMO_FONT_DIR environment variable).
 
 SOURCE ART (only): the painted V18-era KDP wrap (history, not canon, per production/ISSUE_01/HANDOFF.md) (front = right half) and the back-cover art layer.
 No other Ra-Thor/Grok images, no AI-generated art: every pixel of art is a crop/resize/blur/tone of these two files.
 TYPE IS KEPT SEPARATE: for every image the script writes layers/<name>_art.png (art only, no words) and
 layers/<name>_type.png (all words/rules, straight-alpha RGBA). Final = art*(1-a) + type*a.
-Typography matches the back cover (issue01/back/build_back_v2.py): Cinzel caps in a metallic gold ramp for
+Typography matches the back cover (production/ISSUE_01/bible/back/build_back_v2.py): Cinzel caps in a metallic gold ramp for
 headlines, Cinzel silver caps for kickers, EB Garamond for body lines, all with soft dark drop shadows.
 """
-import os, numpy as np, cv2
+import os, sys, hashlib, argparse, numpy as np, cv2
 from PIL import Image, ImageDraw, ImageFont, ImageCms
 
 OUT = os.path.dirname(os.path.abspath(__file__)); LAY = os.path.join(OUT, 'layers'); os.makedirs(LAY, exist_ok=True)
-WRAP = '/workspace/issue01/kdp/RaThor_Issue01_KDPwrap_24p_premium-color.jpg'   # 4067x3150 @300 dpi
-BACK_ART = '/workspace/issue01/back/back_art_v2.png'                            # back cover, art layer only (2063x3150)
-GF = '/usr/share/fonts/truetype/sand-box/google/'
+REPO = os.path.abspath(os.path.join(OUT, '..', '..'))                          # repo root (script is promo/issue01_social/)
+WRAP_DEFAULT = '/workspace/issue01/kdp/RaThor_Issue01_KDPwrap_24p_premium-color.jpg'   # BOX-ONLY, 4067x3150 @300 dpi
+WRAP_SHA256 = 'f9dcf022a1a2cae94ca2476be9f55f60d8d53d85e840ee2f07383c84aa067d72'
+BACK_ART = os.path.join(REPO, 'production', 'ISSUE_01', 'bible', 'back', 'back_art_v2.png')   # back cover, art layer only (2063x3150)
+GF = os.environ.get('PROMO_FONT_DIR', '/usr/share/fonts/truetype/sand-box/google/').rstrip('/') + '/'
 CINZEL = GF + 'Cinzel/Cinzel-VariableFont_wght.ttf'
 GARA = GF + 'EB Garamond/EBGaramond-VariableFont_wght.ttf'
 GARA_I = GF + 'EB Garamond/EBGaramond-Italic-VariableFont_wght.ttf'
@@ -42,7 +54,24 @@ BODY = (238, 222, 198)   # warm parchment
 FINE = (186, 170, 150)   # muted warm grey-gold
 
 def load_rgb(p): return np.asarray(Image.open(p).convert('RGB'), np.float32)
-WR = load_rgb(WRAP); BA = load_rgb(BACK_ART)
+WR = BA = None   # loaded in main()
+
+COVER_MISSING = (
+    "Cover source not found: {path}\n"
+    "The promo images were built from a BOX-ONLY KDP wrap that is not in this repo:\n"
+    "  /workspace/issue01/kdp/RaThor_Issue01_KDPwrap_24p_premium-color.jpg\n"
+    "  sha256 " + WRAP_SHA256 + "\n"
+    "It differs from the repo's production/ISSUE_01/bible/kdp/out/ wrap in the masthead / issue-coin area.\n"
+    "Pass --cover PATH to a copy of that exact file.")
+
+def load_sources(cover):
+    global WR, BA
+    if not os.path.isfile(cover): sys.exit(COVER_MISSING.format(path=cover))
+    if not os.path.isfile(BACK_ART): sys.exit('Back-cover art not found in the repo: ' + BACK_ART)
+    h = hashlib.sha256(open(cover, 'rb').read()).hexdigest()
+    if h != WRAP_SHA256:
+        print('WARNING: cover sha256 ' + h + ' != ' + WRAP_SHA256 + '; output will not match the committed images', file=sys.stderr)
+    WR = load_rgb(cover); BA = load_rgb(BACK_ART)
 
 def crop_resize(src, box, size):
     x0, y0, x1, y1 = box
@@ -189,4 +218,7 @@ def build_card():
     finish('rathor01_card_1600x900', art, L)
 
 if __name__ == '__main__':
+    ap = argparse.ArgumentParser(description='Build the DRAFT Issue #1 social promo images.')
+    ap.add_argument('--cover', default=WRAP_DEFAULT, help='path to the box-only KDP wrap JPG (sha256 ' + WRAP_SHA256 + ')')
+    load_sources(ap.parse_args().cover)
     build_square(); build_story(); build_card()
