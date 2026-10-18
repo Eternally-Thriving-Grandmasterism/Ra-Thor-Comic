@@ -18,7 +18,7 @@ Lettering: caption first, bubble second.
 
 Bubble: "Blocked."
 Stillness first. He does not lunge. Then the shield meets the slide-deck creature and breaks the threat into chart confetti. This is the keeper frame.
-The Vegvísir and a band of gold knotwork and abstract glyph marks inside the gold rim, decorative only, never letter-like (no real runic or Latin letter shapes) read on the shield face (`04_VISUAL_CANON.md` Q1). No Eye of Horus on the shield. Paper and charts only. Golden lightning answers along the shield rim and the grounded hammer, and stops there. It does not touch a body. Nobody is hurt. The one word is the whole speech.
+The Vegvísir and a band of gold knotwork and abstract glyph marks inside the gold rim, decorative only, never letter-like (no real runic or Latin letter shapes) read on the shield face (`04_VISUAL_CANON.md` Q1). No Eye of Horus on the shield. Paper and charts only. Golden lightning answers along the shield rim and the grounded hammer, and stops there. It does not touch a body. Nobody is hurt. The one word is the whole speech. (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: per `04_VISUAL_CANON.md` Q1 as updated (LOOK LOCK section), the black kite shield with a riveted gold rim and a gold sun-spoke design around a central gold boss reads on the shield face; no Vegvísir, no knotwork border.)
 Lettering: keep the bubble clear of the Vegvísir. Amendment: the earlier line, "keep the bubble clear of the eye-seal", is amended (Sherif, 2026-10-16, 2:15 AM and 2:16 AM ET).
 
 ## Panel 3 — Pass

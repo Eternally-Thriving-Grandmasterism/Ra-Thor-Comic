@@ -1,19 +1,30 @@
 #!/usr/bin/env python3
-"""ISSUE01 costume lock (Sherif, 2026-10-16).
+"""ISSUE01 costume lock (Sherif, 2026-10-16; LOOK LOCK, Sherif, 2026-10-18).
 
-Eye placement: an Eye of Horus may appear only in the halo sigil and on the
-pauldron seal. The check fails if a scanned line gives one to the shield or
+Eye placement: an Eye of Horus may appear only on the pauldron Eyes (the
+halo sigil is retired by the LOOK LOCK). The check fails if a scanned line gives one to the shield or
 the hammer.
 
-Shield shape: the check fails on "kite shield" or an emerald eye-seal on the
-shield, unless the same line marks that wording amended, superseded, or history.
+LOOK LOCK (Sherif, 2026-10-18 1:58 AM ET: "Lock it as is, and update the
+bible to match the art."; CANON-SYNC-LOOK-LOCK-1): the costume files must
+carry the locked look: the black kite shield with a gold sun-spoke design and
+a central gold boss, the all-gold halo with no eye in the halo, the round gold
+buckle, the gold Greek-key engraving, and emerald only on the pauldron Eyes.
+The Vegvísir shield (and its elongated form), the Eye of Horus in the halo,
+the eight halo spokes, the rose-gold buckle, the stacked-hands rest, the
+bronze-gold cape lining and the helm-side wings are history. A scanned line
+that still states one of them as current fails, unless the same line marks it
+superseded, history, retired, amended, moot, resolved or a reject. A negation
+word (no, not, never, without, was, ...) exempts only the phrase it directly
+governs: it must sit within a few words before the match in the same clause.
+A line that puts emerald on any figure part other than the pauldron Eyes fails
+the same way. The kite shield is canon again, so "kite shield" no longer fails.
 
-Shield emblem (Wild, 2026-10-16, 2:20 PM ET): the current written lock in the
-four costume files must name the tall pointed outline, the Vegvísir elongated
-vertically, the gold interlaced knotwork, the band of gold knotwork and abstract glyph marks, and the
-plain gold boss. A scanned line that gives a round or disc Vegvísir, or a sun
-or a bolt, as the current shield spec fails, unless that same line marks the
-wording superseded, history, amended, or a reject, or negates it.
+Scan scope: the stale check covers only the files in SCAN and STALE_SCAN.
+Other docs (the S1-S3 episodes, production/S*/*/ART_PROMPTS.md,
+screen/*/STORYBOARD_PROMPTS.md, docs/TRAILER_S1E01.md,
+research/naming_rd_brief.md and the season arc-lock files) are not checked
+until the follow-up card CANON-SYNC-LOOK-LOCK-2 lands; do not render from them.
 
 Type margin: every type pixel whose alpha is greater than ALPHA_THRESHOLD
 must sit at least 75 px (0.25 in) inside the trim at 300 dpi. The trim line
@@ -35,6 +46,16 @@ SCAN = [
     '04_VISUAL_CANON.md',
     'episodes/E01_TOLC.md',
     '12_SCALE_ENVIRONMENT_BIBLE.md',
+]
+# Further docs scanned for stale current-tense costume lines only
+# (CANON-SYNC-LOOK-LOCK-1 AMEND).
+STALE_SCAN = [
+    'README.md',
+    'production/ISSUE_01/HANDOFF.md',
+    'production/ISSUE_01/STORE_LISTING_AND_EXPORT.md',
+    'production/ISSUE_01/CREDITS_AND_INDICIA.md',
+    'production/ISSUE_01/PROPOSED_SPEAKER_RULINGS.md',
+    'production/ISSUE_01/bible/kdp/README.md',
 ]
 # A counted type pixel has alpha strictly greater than this fraction of 255.
 ALPHA_THRESHOLD = 0.03
@@ -62,60 +83,102 @@ SHIELD_NEG = re.compile(
     r'no eye of horus on the shield|not on the shield|not repeated on the shield|'
     r'is a reject|superseded|history|amended',
     re.I)
-# "kite shield" and an emerald eye-seal assigned to the shield. A same-line
-# amendment, supersession, or reject note keeps the historical sentence.
-KITE_POS = re.compile(r'kite shield', re.I)
-KITE_NEG = re.compile(
-    r'not a kite shield|no kite shield|superseded|history|amended|is a reject',
-    re.I)
 EMERALD_SEAL_POS = re.compile(r'emerald eye-seal', re.I)
 EMERALD_SEAL_NEG = re.compile(
     r'no emerald eye-seal|superseded|history|amended',
     re.I)
-# Current shield spec (ISSUE01-SHIELD-TALL-EMBLEM-1). These four files state
-# the written lock. Each must carry every required phrase.
-SHIELD_LOCK_FILES = [
+# LOOK LOCK (CANON-SYNC-LOOK-LOCK-1). Sherif, 2026-10-18 1:58 AM ET: "Lock it
+# as is, and update the bible to match the art." Every costume-lock file must
+# name the locked look.
+LOOK_FILES = [
+    '00_FIDELITY_PROTOCOL.md',
+    '01_VISUAL_STYLE_GUIDE.md',
+    '04_VISUAL_CANON.md',
     '09_CHARACTER_BIBLE.md',
     'production/ISSUE_01/ISSUE_01_PRODUCTION.md',
     'production/ISSUE_01/RENDER_CHECKLIST.md',
     'production/ISSUE_01/bible/CHARACTER_BIBLE.md',
 ]
-SHIELD_REQUIRED = (
-    ('tall pointed outline', re.compile(r'tall, narrow, pointed bottom', re.I)),
-    ('elongated Vegvísir', re.compile(r'Vegv[ií]sir elongated vertically', re.I)),
-    ('knotwork binding', re.compile(r'gold interlaced knotwork', re.I)),
-    ('glyph band', re.compile(
-        r'band of gold knotwork and abstract glyph marks inside the gold rim, '
-        r'decorative only, never letter-like', re.I)),
-    ('decorative only', re.compile(r'decorative only', re.I)),
-    ('plain boss', re.compile(r'plain gold boss', re.I)),
+LOOK_REQUIRED = (
+    ('LOOK LOCK', re.compile(r'LOOK LOCK')),
+    ('black kite shield', re.compile(r'black kite shield', re.I)),
+    ('gold sun-spoke design', re.compile(r'gold sun-spoke design', re.I)),
+    ('central gold boss', re.compile(r'central gold boss', re.I)),
+    ('no eye in the halo', re.compile(r'no eye in the halo', re.I)),
+    ('round gold buckle', re.compile(r'round gold (?:belt )?buckle', re.I)),
+    ('gold Greek-key', re.compile(r'gold Greek-key', re.I)),
+    ('emerald only on the pauldron Eyes', re.compile(
+        r'emerald (?:appears )?only on the (?:two )?pauldron Eyes', re.I)),
+    ('tall look-lock ref', re.compile(r'rathor_look_lock_imagine_tall_2026-10-18\.jpg')),
 )
-# A round or disc Vegvísir given as the emblem. "not rounded" (the shield
-# outline) does not match. A same-line negation, reject, or history note holds.
-ROUND_DISC_VEG = re.compile(
-    r'(?:round|circular|disc)\s+(?:gold\s+)?(?:norse\s+)?Vegv[ií]sir|'
-    r'Vegv[ií]sir\s+(?:rune\s+compass\s+)?(?:is\s+)?(?:a\s+)?(?:round|circular|disc)\b|'
-    r'(?:round|circular)\s+(?:gold\s+)?rune\s+compass|'
-    r'disc\s+Vegv[ií]sir|Vegv[ií]sir\s+disc',
+# Retired costume parts stated as current (CANON-SYNC-LOOK-LOCK-1, Hands and
+# Wild AMEND 2026-10-18). Two kinds of exemption:
+#   * a supersession tag (superseded, history, retired, amended, moot,
+#     resolved, reject) anywhere on the line exempts the whole line;
+#   * a negation word (no, not, never, without, nor, was, were, once, ...)
+#     exempts only the phrase it directly negates: it must sit within the
+#     NEG_WINDOW words just before the match, in the same clause (no , ; : .
+#     ( ) between). So "no eye in the halo" never exempts a Vegvísir shield
+#     elsewhere on the line.
+# Headings of superseded, history, reject or conflict sections, and dated
+# history-table rows, are skipped.
+STALE_CURRENT = (
+    ('vegvisir', re.compile(r'Vegv[ií]sir', re.I)),
+    ('halo-eye', re.compile(
+        r'Eye of Horus (?:halo|sigil|disc)|Eye of Horus in the halo|halo(?:\'s)? Eye of Horus|'
+        r'Eye of Horus sigil|halo sigil', re.I)),
+    ('eight-spokes', re.compile(r'eight (?:fine )?(?:radial )?spokes', re.I)),
+    ('rose-gold-buckle', re.compile(
+        r'rose[- ]gold (?:lightning[- ])?(?:bolt )?buckle|buckle[^.;]{0,40}(?P<term>rose[- ]gold)', re.I)),
+    # The rose-gold bolt (buckle bolt, hammer-face bolt). The cover title
+    # hyphen is type, not costume, and is exempted below.
+    ('rose-gold-bolt', re.compile(
+        r'rose[- ]gold (?:lightning[- ]?)?bolt|rose gold only for the bolt|'
+        r'buckle-centre bolt|bolt[^.;]{0,25}\bis (?P<term>rose gold)', re.I)),
+    ('stacked-hands', re.compile(r'stacked hands|both stacked hands|hands stacked|relaxed and stacked', re.I)),
+    ('bronze-gold-lining', re.compile(r'bronze-gold', re.I)),
+    ('helm-side-wings', re.compile(
+        r'wings are fixed to the sides|compact (?:up-swept )?(?:gold )?(?:helm )?wings|'
+        r'wings? no wider than the shoulders', re.I)),
+    ('polished-gold-hammer', re.compile(
+        r'all metal polished antique gold|polished antique[- ]gold (?:thunder )?hammer|'
+        r'hammer[^.;]{0,20}\bpolished antique gold', re.I)),
+)
+LINE_TAG = re.compile(
+    r'supersed|history|historical|retired|amended|\bmoot\b|resolved|reject', re.I)
+NEG_WORD = re.compile(
+    r'\b(?:no|not|never|without|nor|was|were|once|formerly|instead of|rather than|no longer)\b',
     re.I)
-ROUND_DISC_NEG = re.compile(
-    r'not\s+(?:a\s+)?(?:round|circular|disc)|'
-    r'no\s+(?:round|circular|disc)\s+Vegv|'
-    r'superseded|history|amended|is a reject',
-    re.I)
-# A sun or a bolt assigned to the shield emblem, the Vegvísir, or its boss.
-# Chest sun discs and hammer bolts on the same line do not match.
-SUN_BOLT_ON_EMBLEM = re.compile(
-    r'shield emblem[^.]{0,70}\b(?:with|carries|bearing|and)\b[^.]{0,40}\b(?:sun|bolt)\b|'
-    r'\b(?:sun(?:\s+rays|\s+disc)?|lightning[\s-]?bolt|\bbolt)\b[^.]{0,40}'
-    r'\b(?:on|in|at|over)\s+the\s+(?:shield emblem|emblem|Vegv[ií]sir|boss)|'
-    r'Vegv[ií]sir[^.]{0,40}\b(?:with|and)\s+(?:a\s+)?(?:sun|bolt|lightning)|'
-    r'\bboss\b[^.]{0,30}\b(?:with|and)\s+(?:a\s+)?(?:sun|bolt)',
-    re.I)
-SUN_BOLT_NEG = re.compile(
-    r'no sun|no bolt|out of the emblem|stay out|stays out|'
-    r'superseded|history|amended|is a reject',
-    re.I)
+NEG_WINDOW = 6
+# 'but' and 'yet' also break a clause: in 'not silver or navy but a Vegvísir
+# shield' the 'not' does not reach the Vegvísir.
+CLAUSE_BREAK = re.compile(r'[,;:.()\[\]!?]|\bbut\b|\byet\b', re.I)
+TYPE_CONTEXT = re.compile(r'title|hyphen|lettering|cover[- ]mark|\bmark\b|RA⚡THOR|type', re.I)
+HISTORY_ROW = re.compile(r'^\s*\|\s*(?:Oct |Sep |~|PR |#|R\d)')
+RECORD_HEAD = re.compile(r'supersed|history|reject|conflict', re.I)
+
+def term_start(m):
+    """Where the retired term itself starts. For patterns that lead with a
+    context word (e.g. 'buckle ... rose gold'), the negation must govern the
+    retired term, so 'round gold, no rose-gold buckle' passes."""
+    if 'term' in m.re.groupindex and m.group('term') is not None:
+        return m.start('term')
+    return m.start()
+
+def negated(line, start):
+    """True if a negation directly governs the phrase starting at `start`."""
+    before = line[max(0, start - 80):start]
+    parts = CLAUSE_BREAK.split(before)
+    clause = parts[-1] if parts else ''
+    words = clause.split()[-NEG_WINDOW:]
+    return bool(NEG_WORD.search(' '.join(words)))
+
+# Emerald on a figure part other than the pauldron Eyes. Cover type (the coin)
+# and the R1 reference record are not costume.
+EMERALD_FIG = re.compile(
+    r'emerald[^.;,]{0,25}\b(?:shield|halo|buckle|chest|hammer|visor|helm|cape|wings?)\b|'
+    r'\b(?:shield|halo|buckle|chest|hammer|visor|helm|cape)\b[^.;,]{0,20}\b(?P<term>emerald)', re.I)
+EMERALD_LINE_OK = re.compile(r'\bcoin\b|\bR1\b', re.I)
 # Hammer head (ISSUE01-HAMMER-BLOCK-HEAD-1, Sherif 2026-10-16, 6:45 PM ET).
 # The live lock is a plain rectangular block head. A triangle top stated as a
 # current requirement fails unless the same line marks it retired, superseded,
@@ -138,7 +201,8 @@ HAMMER_LOCK_FILES = [
 # not carry that meta text.
 HAMMER_SHAPE_REQUIRED = (
     ('plain rectangular block head', re.compile(r'plain rectangular block head', re.I)),
-    ('cone-bottom hilt', re.compile(r'cone-bottom hilt')),
+    # 'cone-bottom hilt' is no longer required: the LOOK LOCK ref hides the
+    # pommel under his fist (CANON-SYNC-LOOK-LOCK-1, Clerk nit L12/L85).
     ('no eye', re.compile(r'\bno eye\b|no Eye of Horus on the hammer')),
     # Sherif, 2026-10-16, 11:16–11:18 PM ET. One bolt on each broad side,
     # striking ends plain, and the head-down mass with Sentinel Rest.
@@ -177,39 +241,14 @@ BIBLE_NOTE_FILES = (
 )
 MEANING_RE = re.compile(r"Light Soul of TOLC's Primordial Source")
 ICON_REQUIRED = (
-    ('three thin concentric rings', re.compile(r'three thin concentric rings')),
-    ('rays still reaching past', re.compile(r'rays still reaching past them')),
-    ('eight fine radial spokes', re.compile(r'[Ee]ight fine radial spokes')),
-    ('bright white-gold', re.compile(r'bright white-gold')),
-    ('faint rose-gold thread', re.compile(r'faint rose-gold thread')),
-    ('no glyphs on the rings', re.compile(r'no glyphs on the rings')),
     ('the halo rings', re.compile(r'the halo rings')),
     ('never named, captioned or numbered', re.compile(r'never named, captioned or numbered')),
-    ('abstract glyph marks', re.compile(r'abstract glyph marks')),
-    ('never letter-like', re.compile(r'never letter-like')),
-    ('molten-gold inlay', re.compile(r'molten-gold inlay')),
-    ('forged for an eternal deity', re.compile(r'as if forged for an eternal deity')),
-    ('no readable text', re.compile(r'no readable text')),
-    ('Vegvísir stays the centre', re.compile(r'Vegv[ií]sir stays the centre')),
-    ('oversized but wearable', re.compile(r'oversized but wearable')),
-    ('rounded-angular', re.compile(r'rounded-angular')),
-    ('about 1.3x the natural shoulder', re.compile(r'about 1\.3x the natural shoulder')),
-    ('two or three layered lames', re.compile(r'two or three layered lames')),
-    ('no wing extensions', re.compile(r'no wing extensions')),
-    ('not dozens of feathers', re.compile(r'not dozens of feathers')),
-    ('thick layered belt', re.compile(r'thick layered belt')),
     ('bulkier gauntlets', re.compile(r'bulkier gauntlets')),
     ('black armor with gold trim', re.compile(r'black armor with gold trim')),
-    ('gold sun buckle', re.compile(r'gold sun buckle')),
     ('not a variant', re.compile(r'not a variant')),
     ('Style-proof iconic forms', re.compile(r'Style-proof iconic forms')),
     ('shape count', re.compile(r'shape count')),
     ('detail layer', re.compile(r'detail layer')),
-    ('pauldron prompt', re.compile(
-        r'oversized but wearable rounded gold-rimmed pauldrons capping the shoulders, '
-        r'each with a large carved emerald winged Eye of Horus; no wing extensions')),
-    ('one eye, two wings', re.compile(r'one eye, two wings')),
-    ('few large feather bands', re.compile(r'few large feather bands')),
     ('gold-rimmed black', re.compile(r'gold-rimmed black')),
     ('both shoulders', re.compile(r'both shoulders')),
     ('pauldron ref a', re.compile(r'pauldron_winged_eye_ref_a_2026-10-16\.jpg')),
@@ -231,15 +270,9 @@ ICON_REQUIRED = (
     ('only the rendering style differs', re.compile(r'[Oo]nly the rendering style differs')),
     ('rest-pose draft', re.compile(r'rest_pose_pauldrons_draft_2026-10-16\.jpg')),
     ('x style ref', re.compile(r'x_ref_photo_2026-10-16\.jpg')),
-    ('Eyes are too small', re.compile(r'Eyes are too small')),
-    ('shield lost its Vegvísir', re.compile(r'shield lost its Vegv[ií]sir')),
-    ('halo rings are faint', re.compile(r'halo rings are faint')),
     # 3D LOGIC and the scale lock (Wild, 2026-10-16 11:38 PM ET, Sherif-delegated).
     # Observable review wording. Do not require "ellipse" or "always".
     ('3D LOGIC', re.compile(r'3D LOGIC')),
-    ('one wingtip', re.compile(r'one wingtip')),
-    ('one wing tip', re.compile(r'one wing tip')),
-    ('full winged Eye', re.compile(r'full winged Eye')),
     ('visible rim thickness', re.compile(r'visible rim thickness')),
     ('key-light direction', re.compile(r'key-light direction')),
     ('halo is light, not an object', re.compile(r'halo is light, not an object')),
@@ -258,18 +291,17 @@ ICON_REQUIRED = (
     ('175 cm', re.compile(r'175 cm')),
     ('about 1.22', re.compile(r'about 1\.22')),
     ('eyes line up with his upper chest', re.compile(r'eyes line up with his upper chest')),
-    ('1.5 heads in diameter', re.compile(r'1\.5 heads in diameter')),
     ('Sentinel Rest geometry', re.compile(r'Sentinel Rest geometry')),
     ('Everything else stays PROPOSED', re.compile(r'Everything else stays PROPOSED')),
     ('turnaround sheet', re.compile(r'turnaround sheet')),
     ('height lineup', re.compile(r'height lineup')),
 )
+# LOOK LOCK generator lines (RENDER_CHECKLIST.md §5).
 CANONICAL_PROMPTS = (
-    'a radiant glowing Eye of Horus halo above his head, framed by three thin concentric rings of light joined by eight fine radial spokes, set inside the original sun-ray burst; bright white-gold inner ring fading to soft gold, faint rose-gold thread on the outer ring; clean, symmetrical, sacred-geometry precision',
-    'shield face deeply engraved with gold knotwork and abstract glyph marks, decorative only, never letter-like (no real runic or Latin letter shapes) around the glowing Vegvísir, molten-gold inlay, flawless master-forged metalwork as if forged for an eternal deity, purely decorative patterns, no letters, no readable text, no words',
-    'oversized but wearable rounded gold-rimmed pauldrons capping the shoulders, each with a large carved emerald winged Eye of Horus; no wing extensions',
+    'Ra-Thor in glossy black armour with gold trim and gold Greek-key engraving, black helm with gold Spartan-style face plates forming a T-visor and a gold centre ridge, two large gold feathered wings rising from behind the head, an all-gold halo centred behind the head: a gold Greek-key disc, two thin gold rings and seven straight gold sun rays, no eye in the halo, a glowing gold sun disc in a gold Greek-key ring on the chest, round gold belt buckle with a gold lightning bolt, gold knee plates, large round black pauldrons with stepped gold rims, each with an emerald-green Eye of Horus outlined in gold, mirrored, tattered black cape, black kite shield with a riveted gold rim and a gold sun-spoke design around a central gold boss, dark stone-metal rectangular block-head hammer with one gold lightning bolt on each broad side face, striking ends plain, cross-wrapped haft with gold bands, no eye; emerald only on the pauldron Eyes; no rose gold, no teal, no blue',
+    'dark stone-metal rectangular block-head war hammer, one gold lightning bolt set into each of the two broad side faces only; striking ends plain, massive block-head hammer that stands on its head; long sturdy haft to lean on, cross-wrapped haft with gold bands, no eye',
     'gold and emerald-green symbol palette',
-    'shoulder emblems drawn in perspective on the curved plates: the turned-away shoulder shows the emerald Eye with one wing tip, the facing shoulder shows the full winged Eye',
+    'shoulder emblems drawn in perspective on the curved plates: the turned-away shoulder shows the emerald Eye foreshortened, the facing shoulder shows the full Eye with its stripe bands',
     'designed as consistent 3D objects; correct perspective and foreshortening on surface emblems; the halo stays a flat circle of light facing the camera and is not foreshortened; physically wearable armour',
     'All 2D art, inked panels and covers alike, must READ as 3D: solid volumes, consistent light direction with form shading and cast shadows, correct perspective and overlap, and emblems that wrap their surfaces. Flat or pasted-on symbols fail review.',
 )
@@ -279,11 +311,13 @@ PAULDRON_REFS = (
     'production/ISSUE_01/bible/refs/pauldron_winged_eye_ref_c_2026-10-16.jpg',
     'production/ISSUE_01/bible/refs/rest_pose_pauldrons_draft_2026-10-16.jpg',
     'production/ISSUE_01/bible/refs/x_ref_photo_2026-10-16.jpg',
+    'production/ISSUE_01/bible/refs/rathor_look_lock_imagine_tall_2026-10-18.jpg',
+    'production/ISSUE_01/bible/refs/rathor_look_lock_imagine_wide_2026-10-18.jpg',
 )
 CANON_PROMPT_TAIL = re.compile(
     r'[Cc]anonical\b[^\n:]*prompt line\**(?:\s*\([^)\n]*\))?\**\s*:\**\s*(.*)$'
 )
-LOCK_PROMPT_HEAD = '### Costume lock prompts'
+LOCK_PROMPT_HEAD = '### Costume lock prompts (LOOK LOCK, 2026-10-18)'
 TRIANGLE_POS = re.compile(r'triangle at the top|triangle top|triangle-and-cone', re.I)
 TRIANGLE_NEG = re.compile(r'retired|superseded|history|amended|is a reject', re.I)
 BLOCK_BAN = re.compile(
@@ -300,27 +334,41 @@ def eye_failures(path):
             fails.append((n, 'hammer', line.strip()[:220]))
         if SHIELD_POS.search(line) and not SHIELD_NEG.search(line):
             fails.append((n, 'shield', line.strip()[:220]))
-        if KITE_POS.search(line) and not KITE_NEG.search(line):
-            fails.append((n, 'kite', line.strip()[:220]))
         if EMERALD_SEAL_POS.search(line) and not EMERALD_SEAL_NEG.search(line):
             fails.append((n, 'emerald-seal', line.strip()[:220]))
-        if ROUND_DISC_VEG.search(line) and not ROUND_DISC_NEG.search(line):
-            fails.append((n, 'round-disc-vegvisir', line.strip()[:220]))
-        if SUN_BOLT_ON_EMBLEM.search(line) and not SUN_BOLT_NEG.search(line):
-            fails.append((n, 'sun-or-bolt', line.strip()[:220]))
         if TRIANGLE_POS.search(line) and not TRIANGLE_NEG.search(line):
             fails.append((n, 'triangle-top', line.strip()[:220]))
         if BLOCK_BAN.search(line) and not BLOCK_BAN_NEG.search(line):
             fails.append((n, 'block-ban', line.strip()[:220]))
     return fails
 
-def shield_lock_missing(path):
-    text = open(path, encoding='utf-8').read()
-    missing = []
-    for name, pat in SHIELD_REQUIRED:
-        if not pat.search(text):
-            missing.append(name)
-    return missing
+def stale_failures(path):
+    fails = []
+    in_record = False
+    for n, line in enumerate(open(path, encoding='utf-8'), 1):
+        if line.startswith('#'):
+            # A heading names its section; a section of superseded items,
+            # history, rejects or conflicts lists retired parts on purpose.
+            in_record = bool(RECORD_HEAD.search(line))
+            continue
+        if in_record or HISTORY_ROW.match(line) or LINE_TAG.search(line):
+            continue
+        for kind, pat in STALE_CURRENT:
+            for m in pat.finditer(line):
+                if negated(line, term_start(m)):
+                    continue
+                if kind == 'rose-gold-bolt' and TYPE_CONTEXT.search(
+                        line[max(0, m.start() - 60):m.end() + 60]):
+                    continue
+                fails.append((n, kind, line.strip()[:220]))
+                break
+        if not EMERALD_LINE_OK.search(line):
+            for m in EMERALD_FIG.finditer(line):
+                if negated(line, term_start(m)) or 'pauldron' in m.group(0).lower():
+                    continue
+                fails.append((n, 'emerald-off-pauldron', line.strip()[:220]))
+                break
+    return fails
 
 def hammer_lock_missing(path, required):
     text = open(path, encoding='utf-8').read()
@@ -381,10 +429,13 @@ def main():
         for n, kind, text in eye_failures(path):
             bad += 1
             print('EYE %s %s:%d %s' % (kind, rel, n, text))
-        if rel in SHIELD_LOCK_FILES:
-            for name in shield_lock_missing(path):
+        for n, kind, text in stale_failures(path):
+            bad += 1
+            print('STALE %s %s:%d %s' % (kind, rel, n, text))
+        if rel in LOOK_FILES:
+            for name in hammer_lock_missing(path, LOOK_REQUIRED):
                 bad += 1
-                print('SHIELD REQUIRE %s missing %s' % (rel, name))
+                print('LOOK REQUIRE %s missing %s' % (rel, name))
         if rel in HAMMER_LOCK_FILES:
             for name in hammer_lock_missing(path, HAMMER_SHAPE_REQUIRED):
                 bad += 1
@@ -407,6 +458,10 @@ def main():
         if rel not in BIBLE_NOTE_FILES and MEANING_RE.search(open(path, encoding='utf-8').read()):
             bad += 1
             print('MEANING %s must stay in the character bibles' % rel)
+    for rel in STALE_SCAN:
+        for n, kind, text in stale_failures(os.path.join(ROOT, rel)):
+            bad += 1
+            print('STALE %s %s:%d %s' % (kind, rel, n, text))
     for rel in HAMMER_LOCK_FILES:
         if rel in SCAN:
             continue
@@ -461,9 +516,9 @@ def main():
             'about 1.22',
             '8.5 heads',
             'about 25 cm per head',
-            '1.3x the natural shoulder',
             'Sentinel Rest',
-            '1.5 heads',
+            'LOOK LOCK',
+            '2.5 head widths',
             'not foreshortened',
             'scale stays fixed across the camera',
             'whose eyes meet his upper chest',

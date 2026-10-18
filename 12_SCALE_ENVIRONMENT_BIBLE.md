@@ -18,8 +18,8 @@ Ra-Thor's armoured height is the ruler. Other rows are measured against it.
 |---|---|---|
 | Armoured height | 7 ft 0 in (213 cm), sole to helm crest top. Helm wings are not included. | LOCKED (Wild, 2026-10-16 11:38 PM ET, Sherif-delegated). The 8.5-head proportion is already written: `production/ISSUE_01/ISSUE_01_PRODUCTION.md` L57 and L116. |
 | Heads | 8.5 heads, about 25 cm per head. | LOCKED (same ruling; 213 cm / 8.5). |
-| Build | Heroic armored build, commanding planted stance, broad shoulders. Pauldrons about 1.3x the natural shoulder. | Stance: `09_CHARACTER_BIBLE.md` L9. Pauldrons: LOCKED (Sherif, 2026-10-16 11:19 PM ET). |
-| Helm wings | Rise at most about 1/4 head above the crest (about 6 cm). No wider than the shoulders. | Height cap: LOCKED (11:38 PM ET ruling). Width: `production/ISSUE_01/ISSUE_01_PRODUCTION.md` L57. |
+| Build | Heroic armored build, commanding planted stance, broad shoulders. Pauldrons about 1.3x the natural shoulder. | Stance: `09_CHARACTER_BIBLE.md` L9. Pauldrons: LOCKED (Sherif, 2026-10-16 11:19 PM ET). (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: pauldrons are large round domes as painted. Current: §8 (LOOK LOCK scale reading).) |
+| Helm wings | Rise at most about 1/4 head above the crest (about 6 cm). No wider than the shoulders. | Height cap: LOCKED (11:38 PM ET ruling). Width: `production/ISSUE_01/ISSUE_01_PRODUCTION.md` L57. (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the wings rise from behind the head and span nearly the width of the pauldrons; the 1/4-head height cap still holds. Current: §8 (LOOK LOCK scale reading).) |
 | Unarmoured, Issue #1 | He is not shown unarmoured in Issue #1. | LOCKED (11:38 PM ET ruling). |
 | Unarmoured height | 6 ft 4 in (193 cm), bare sole to the top of the head, no helm and no crest. | LOCKED (Wild, 2026-10-17 12:21 AM ET) |
 | Versus himself | Armoured crest is the 213 cm mark. Wing tips may reach about 219 cm and still are not his height. | LOCKED (Wild, 2026-10-17 12:21 AM ET). Wing cap is the 1/4-head lock. |
@@ -87,39 +87,39 @@ Jacque Fresco is named in docs and the end-credits crawl only. He is not a chara
 
 ### Hammer
 
-Plain rectangular block head, cone-bottom hilt, no eye. No Eye of Horus on the hammer.
+Plain rectangular block head, cone-bottom hilt, no eye. No Eye of Horus on the hammer. (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the pommel is hidden under the fist in the ref, so the cone pommel is unconfirmed. Current: §8 (LOOK LOCK scale reading).)
 
 | Measure | Value | Status |
 |---|---|---|
 | Head | About the size of the helm. | LOCKED (`production/ISSUE_01/ISSUE_01_PRODUCTION.md` L57). |
 | Head block | About 1 head tall, about 0.7 head wide on each broad face, about 0.5 head deep. | LOCKED (Wild, 2026-10-17 12:21 AM ET) |
-| Haft and total length | No centimetre length. Sentinel Rest (Sherif, 2026-10-16 11:18 PM ET): the block head stands on the ground, and the pommel is where both stacked hands rest with the arms relaxed. Total length is that distance. A long sturdy haft reads about chest height in that pose. | Geometry LOCKED (Wild, 2026-10-16 11:38 PM ET, Sherif-delegated). |
-| In the lineup | Draw the hands first, relaxed and stacked. Then set the pommel in the hands. Do not pick a length and pose him around it. | Method, not a new number. |
+| Haft and total length | No centimetre length. Sentinel Rest (Sherif, 2026-10-16 11:18 PM ET): the block head stands on the ground, and the pommel is where both stacked hands rest with the arms relaxed. Total length is that distance. A long sturdy haft reads about chest height in that pose. | Geometry LOCKED (Wild, 2026-10-16 11:38 PM ET, Sherif-delegated). (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: Sentinel Rest is now the right hand on the pommel with the shield grounded at his left. Current: §8 (LOOK LOCK scale reading).) |
+| In the lineup | Draw the hands first, relaxed and stacked. Then set the pommel in the hands. Do not pick a length and pose him around it. | Method, not a new number. (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: Sentinel Rest is now the right hand on the pommel with the shield grounded at his left. Current: §8 (LOOK LOCK scale reading).) |
 
 ### Shield
 
 | Measure | Value | Status |
 |---|---|---|
-| Height | Tall, narrow, pointed bottom. The top covers his shoulder when he holds it (`production/ISSUE_01/ISSUE_01_PRODUCTION.md` L152). The pointed base reaches mid-shin (L76: the council shield ruling's mid-shin reach stands). | LOCKED (Wild, 2026-10-17 12:21 AM ET). Shoulder to mid-shin. |
-| Height in heads | About 5.5 to 6 of his heads, shoulder down to mid-shin. | LOCKED (Wild, 2026-10-17 12:21 AM ET) |
+| Height | Tall, narrow, pointed bottom. The top covers his shoulder when he holds it (`production/ISSUE_01/ISSUE_01_PRODUCTION.md` L152). The pointed base reaches mid-shin (L76: the council shield ruling's mid-shin reach stands). | LOCKED (Wild, 2026-10-17 12:21 AM ET). Shoulder to mid-shin. (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: shield height as painted: top at about the elbow, point by his left foot. Current: §8 (LOOK LOCK scale reading).) |
+| Height in heads | About 5.5 to 6 of his heads, shoulder down to mid-shin. | LOCKED (Wild, 2026-10-17 12:21 AM ET) (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: shield height as painted: top at about the elbow, point by his left foot. Current: §8 (LOOK LOCK scale reading).) |
 | Width | About 1 of his heads across the upper face, narrowing to the point. | LOCKED (Wild, 2026-10-17 12:21 AM ET) |
 
 ### Halo
 
 | Measure | Value | Status |
 |---|---|---|
-| Place | Floats 1/2 to 1 head above the crest. | LOCKED (11:38 PM ET ruling). |
-| Diameter | About 1.5 heads (about 38 cm). | LOCKED as 1.5 heads (same ruling). The centimetre is that lock read at 25 cm per head. |
+| Place | Floats 1/2 to 1 head above the crest. | LOCKED (11:38 PM ET ruling). (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the halo is centred behind the head, outer ring about 2.5 head widths as painted. Current: §8 (LOOK LOCK scale reading).) |
+| Diameter | About 1.5 heads (about 38 cm). | LOCKED as 1.5 heads (same ruling). The centimetre is that lock read at 25 cm per head. (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the halo is centred behind the head, outer ring about 2.5 head widths as painted. Current: §8 (LOOK LOCK scale reading).) |
 | Counted in his height | No. | LOCKED (same ruling). |
 | Camera | A flat circle of light facing the camera. Not foreshortened. | Under 3D LOGIC. |
 
 ### Pauldrons
 
-About 1.3x the natural shoulder. LOCKED (Sherif, 2026-10-16 11:19 PM ET). They cap the shoulder and curve down over the upper arm. They are not wings.
+About 1.3x the natural shoulder. LOCKED (Sherif, 2026-10-16 11:19 PM ET). They cap the shoulder and curve down over the upper arm. They are not wings. (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: pauldrons are large round domes as painted. Current: §8 (LOOK LOCK scale reading).)
 
 ### Cape
 
-Obsidian outside, bronze-gold lining. Length is not written in the repo. LOCKED (Wild, 2026-10-17 12:21 AM ET): the hem clears the floor by about 1/4 head, measured from the shoulder clasp, so the cloth can move and does not pool.
+Obsidian outside, bronze-gold lining. Length is not written in the repo. LOCKED (Wild, 2026-10-17 12:21 AM ET): the hem clears the floor by about 1/4 head, measured from the shoulder clasp, so the cloth can move and does not pool. (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the cape is black and tattered; no lining shows. Current: §8 (LOOK LOCK scale reading).)
 
 ## 3. Environment scale
 
@@ -169,7 +169,7 @@ Review fails a figure who is the right costume and the wrong size for the room, 
 
 Art comes later. This is the text those cards have to hit.
 
-**Height lineup.** One flat ground line. No perspective and no lens. Same scale for every figure. Left to right: the kid, the human reference, the slide-deck creature, the Watcher (as the adult-guest sample), Ra-Thor armoured. Tick marks: sole, mid-shin, belt, gorget, crest, wing cap. The human's eyes get a tick that meets his upper chest. The halo is a flat circle above the crest, drawn beside the ticks, and labelled as not part of the 213 cm. The hammer stands in Sentinel Rest beside him, pommel in the stacked hands. Caption each tick with cm and with heads. Figures are labelled LOCKED on the sheet.
+**Height lineup.** One flat ground line. No perspective and no lens. Same scale for every figure. Left to right: the kid, the human reference, the slide-deck creature, the Watcher (as the adult-guest sample), Ra-Thor armoured. Tick marks: sole, mid-shin, belt, gorget, crest, wing cap. The human's eyes get a tick that meets his upper chest. The halo is a flat circle above the crest, drawn beside the ticks, and labelled as not part of the 213 cm. The hammer stands in Sentinel Rest beside him, pommel in the stacked hands. Caption each tick with cm and with heads. Figures are labelled LOCKED on the sheet. (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: Sentinel Rest is now the right hand on the pommel with the shield grounded at his left; shield height as painted: top at about the elbow, point by his left foot. Current: §8 (LOOK LOCK scale reading).)
 
 **Turnaround.** Four views of Ra-Thor armoured at 7 ft 0 in to the crest: front, three-quarter, side, back. Same ground line. Helm wings, pauldrons, shield, hammer in Sentinel Rest, and the cape. The halo stays a flat circle facing the camera in every view, including the side view, and is not drawn as a turning disc. Include a small human-reference silhouette in the front view only, for the upper-chest line.
 
@@ -239,3 +239,18 @@ LOCKED (Wild, 2026-10-17 12:21 AM ET).
 - A device assist is not an extra body. It is one gold glow pulse on a device already in the room: a lamp, a door, a sign, a phone, or a vehicle. A panel shows at most two pulses. No screen text, no brand, no interface, no code, and no surveillance picture (`09_CHARACTER_BIBLE.md` L88). The pulse lasts one beat. Then the protective result reads: the lamp shows the path, the door opens onto a safe way, the sign points, the phone goes dark to cut a harmful connection, or the vehicle stops.
 
 Canonical support prompt line, added when a helper or a device assist is in the panel: black and gold helper drones and robots with a small plain gold disc light, no green, thin gold light threads linking them to Ra-Thor, simple countable silhouettes; a scout about the size of his palm to his forearm, a carrier drone spanning 1 to 1.5 m, a helper robot 150 to 180 cm; a connected device assists with one gold glow pulse; they shield, guide, and cut a harmful connection, and they do not harm anyone
+
+## 8. LOOK LOCK scale reading (2026-10-18)
+
+Sherif, 2026-10-18 1:58 AM ET: "Lock it as is, and update the bible to match the art." The look lock refs are `production/ISSUE_01/bible/refs/rathor_look_lock_imagine_tall_2026-10-18.jpg` (primary) and `production/ISSUE_01/bible/refs/rathor_look_lock_imagine_wide_2026-10-18.jpg`. This section sits at the end so that existing section citations into `12` do not move. Where it disagrees with §1–§5, it wins; those rows stay, tagged. The height lock is unchanged: 7 ft 0 in (213 cm) armoured, sole to helm crest, 8.5 heads.
+
+| Measure | LOOK LOCK reading | Status |
+|---|---|---|
+| Helm wings | Large gold wings rise from behind the head, not from the helm sides. Their tips sit at about crest height, so the 1/4-head wing cap above the crest still holds. They span nearly the width of the pauldrons. | As painted in the tall ref. |
+| Halo | Centred behind the head, not floating above the crest. A gold Greek-key back disc, two thin gold rings and seven gold rays. The outer ring is about 2.5 head widths across. Not counted in his height. A flat circle of light facing the camera, not foreshortened. | As painted; the head count is a reading from the ref, to be measured on the turnaround card. |
+| Shield | A black kite shield. Held at his left side with its point grounded by his left foot, its top at about the elbow. | As painted; supersedes the shoulder-to-mid-shin reach (D31) for the look. A head count is for the turnaround card. |
+| Pauldrons | Large round black domes with stepped gold rims, larger than the earlier 1.3x figure. | As painted; measure on the turnaround card. |
+| Hammer and Sentinel Rest | The block head stands on the ground at his right side and his right hand rests on the pommel, arm relaxed. Total length is that distance; the left arm holds the grounded shield. | Geometry method unchanged; one hand instead of two. |
+| Cape | Black and tattered; no lining shows. The hem clearance rule is unchanged. | As painted. |
+
+The height lineup and turnaround cards (§5) draw the LOOK LOCK costume.

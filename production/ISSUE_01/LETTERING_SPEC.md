@@ -64,7 +64,7 @@ Sizes are at print size on the 6.625 × 10.25 in trim (`ISSUE_01_PRODUCTION.md` 
 - Text: 100% K, centred, at least 1.5× cap height of white space between text and outline.
 - Tail: one tail per bubble, aimed at the visor slit. The tip stops about 1 mm short of the slit so the gold slit stays visible.
 - 6.1: the tail runs from the bubble near the hopper back to Ra-Thor's visor in the background. Do not turn or redraw him.
-- No bubble covers the shield's Vegvísir, the visor slit, the NO or LIVE stamps where a panel shows them, the three cards in 6.2, or the hammer's contact point.
+- No bubble covers the shield's Vegvísir, the visor slit, the NO or LIVE stamps where a panel shows them, the three cards in 6.2, or the hammer's contact point. (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: read "the shield's Vegvísir" as the shield's gold sun-spoke design and central gold boss; the Vegvísir is retired.)
 - No bursts, no whispers, no colour fills. Canon describes one bubble type (`04` L43).
 
 ## 5. Caption style
