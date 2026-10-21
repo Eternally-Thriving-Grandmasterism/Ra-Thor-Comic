@@ -101,7 +101,7 @@ TOLC is named only, never defined. Captions and bubbles say **TOLC** and nothing
 | plain-view strings | S2E01 |
 | side view | S2E02 |
 | sound tap | S2E03 |
-| hawk-seal probe | S2E04 |
+| hawk-seal probe | S2E04 (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the probe now lights the pauldron Eyes of Horus, not a hawk seal. Current look: `01_VISUAL_STYLE_GUIDE.md` (LOOK LOCK section) and `production/ISSUE_01/bible/CHARACTER_BIBLE.md` (LOOK LOCK section).) |
 | maker's-tag reveal | S2E05 |
 | one-sided loop | S2E06 |
 

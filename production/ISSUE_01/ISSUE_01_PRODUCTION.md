@@ -421,7 +421,7 @@ The raised hammer with lightning, after the video's first second, is no longer a
 |---|---|---|
 | 2 | Green visor glyph | `04` Q3; ruling 7 (two glowing eyes; white-hot gold, C13) |
 | 2 | Chest seal (emerald kite emblem with an eye) | C10 (plain gold sun disc, never an eye); `04` Q3 (still a reject under the LOOK LOCK, §13.6) |
-| 1 | Pharaoh-style striped headdress helm | `04` Q4; ruling 5 (great-helm with the winged halo ring) |
+| 1 | Pharaoh-style striped headdress helm | `04` Q4; ruling 5 (great-helm with the winged halo ring) (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the halo is all gold with no eye in the halo, and large gold wings rise from behind the head. Current look: `01_VISUAL_STYLE_GUIDE.md` (LOOK LOCK section) and `production/ISSUE_01/bible/CHARACTER_BIBLE.md` (LOOK LOCK section).) |
 
 Also in the post and already Rejects under canon, listed so a render that copies them is caught:
 

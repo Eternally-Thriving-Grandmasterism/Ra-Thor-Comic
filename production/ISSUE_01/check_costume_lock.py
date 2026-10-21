@@ -60,6 +60,10 @@ STALE_SCAN = [
     # CANON-SYNC-LOOK-LOCK-2 (2026-10-18): the deferred docs.
     'docs/TRAILER_S1E01.md',
     'research/naming_rd_brief.md',
+    # CANON-SYNC-LOOK-LOCK-2 AMEND-2.
+    '03_TONE_SPECS.md',
+    '05_LORE_BIBLE.md',
+    'docs/LORE_BRIDGE_POWRUSH_RATHOR.md',
 ]
 STALE_GLOBS = (
     'episodes/*.md',
@@ -156,6 +160,21 @@ STALE_CURRENT = (
     ('helm-side-wings', re.compile(
         r'wings are fixed to the sides|compact (?:up-swept )?(?:gold )?(?:helm )?wings|'
         r'wings? no wider than the shoulders', re.I)),
+    # CANON-SYNC-LOOK-LOCK-2 AMEND-2: pre-lock costume terms, scoped to
+    # Ra-Thor's costume. Keep-clear uses ("eye-seal zone", "clear of the
+    # eye-seal", "eye-seal rerun") and scenery ("circuit-plate workshop",
+    # "lab", "walls") do not match.
+    ('eye-seal', re.compile(
+        r'(?P<term>(?:emerald |gold )?eye-seal) (?:kite )?shield|'
+        r'shield with (?:the |an |its )?(?P<term2>(?:emerald )?eye-seal)|'
+        r'(?P<term3>eye-seal) (?:in circuit inlay )?on (?:the|a|its) (?:gold )?(?:kite )?shield|'
+        r'emerald (?:only )?(?:on|for) the (?P<term4>eye-seal)|(?P<term5>eye-seal) only|'
+        r'reserved for the (?P<term6>eye-seal)|[Cc]anon emblem[^.;|]{0,40}(?P<term7>eye-seal)', re.I)),
+    ('hawk-seal', re.compile(r'(?P<term>hawk[- ](?:shaped )?(?:pauldron |shoulder )?seal)', re.I)),
+    ('circuit-plate-armour', re.compile(
+        r'(?P<term>circuit[- ]plate) armou?r|Ra-Thor[^.;]{0,40}(?P<term2>circuit[- ]?plate)(?! workshop| lab| walls?)|'
+        r'(?P<term3>circuit[- ]plate) is Ra-Thor|(?P<term4>gold circuit plate) \(winged', re.I)),
+    ('winged-halo', re.compile(r'(?P<term>\bwinged[- ]halo)', re.I)),
     ('polished-gold-hammer', re.compile(
         r'all metal polished antique gold|polished antique[- ]gold (?:thunder )?hammer|'
         r'hammer[^.;]{0,20}\bpolished antique gold', re.I)),
@@ -177,8 +196,9 @@ def term_start(m):
     """Where the retired term itself starts. For patterns that lead with a
     context word (e.g. 'buckle ... rose gold'), the negation must govern the
     retired term, so 'round gold, no rose-gold buckle' passes."""
-    if 'term' in m.re.groupindex and m.group('term') is not None:
-        return m.start('term')
+    for g in m.re.groupindex:
+        if g.startswith('term') and m.group(g) is not None:
+            return m.start(g)
     return m.start()
 
 # A negation does not reach past a verb or an "and" to the retired term:
@@ -358,7 +378,10 @@ def eye_failures(path):
     for n, line in enumerate(open(path, encoding='utf-8'), 1):
         if HAMMER_POS.search(line) and not HAMMER_NEG.search(line):
             fails.append((n, 'hammer', line.strip()[:220]))
-        if SHIELD_POS.search(line) and not SHIELD_NEG.search(line):
+        # AMEND-2: a directly negated hit ('no eye-seal shield') is a guard,
+        # not a stale shield eye.
+        if (any(not negated(line, m.start()) for m in SHIELD_POS.finditer(line))
+                and not SHIELD_NEG.search(line)):
             fails.append((n, 'shield', line.strip()[:220]))
         if EMERALD_SEAL_POS.search(line) and not EMERALD_SEAL_NEG.search(line):
             fails.append((n, 'emerald-seal', line.strip()[:220]))

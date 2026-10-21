@@ -14,7 +14,7 @@ The fast, bright, punchy register. A problem shows up, gets sorted, and the page
 
 - **Pacing and beats.** 4 to 5 panels. Setup, one escalation, one clean reversal, button. Every panel moves the situation forward; no idle panels.
 - **Framing and camera.** Bold, readable silhouettes at medium-wide. Straight-on or slight low angle on Ra-Thor so he reads as planted. Hard cut between panels, no transitional shots.
-- **Lighting and palette.** Flat, high-key gold against obsidian, emerald on the eye-seal, one electric accent for the impact frame. Shapes over texture.
+- **Lighting and palette.** Flat, high-key gold against obsidian, emerald on the eye-seal, one electric accent for the impact frame. Shapes over texture. (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: emerald appears only on the pauldron Eyes of Horus; the shield is the black kite shield with a gold sun-spoke design and central gold boss, with no eye-seal. Current look: `01_VISUAL_STYLE_GUIDE.md` (LOOK LOCK section) and `production/ISSUE_01/bible/CHARACTER_BIBLE.md` (LOOK LOCK section).)
 - **Dialogue rhythm.** One line per bubble, two to four words where possible. The reversal panel gets the shortest line on the page.
 - **Mechanism.** Speed and certainty. The joke is how little effort the sort takes: the bad thing arrives big, the answer arrives small.
 - **What it is NOT.** Not frantic. Not loud for its own sake. Not a beat-down; nobody is flattened for the laugh. No sugar-coating either: the block is a real block.
@@ -29,7 +29,7 @@ Cartoon-lab gag timing in the Recycler Bay. Machines misbehave, councils bicker,
 
 - **Pacing and beats.** 4 to 6 panels. Hold, hiccup, hold, payoff. The machine gets a beat of its own (a hiccup, a puff of steam, a stuck card) before anyone reacts.
 - **Framing and camera.** Wide on the machine so the twin THEORY IN / CONCEPTS IN hoppers, gauge, power core, and OUTPUT tray read in one frame; then tight inserts on the cards. Ra-Thor often at frame edge, motionless, as the straight man.
-- **Lighting and palette.** Workshop glow: gold circuit walls, warm panel lights, white steam. Emerald for the eye-seal only; the good card glows gold. One electric accent for the drum fault.
+- **Lighting and palette.** Workshop glow: gold circuit walls, warm panel lights, white steam. Emerald for the eye-seal only; the good card glows gold. One electric accent for the drum fault. (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: emerald appears only on the pauldron Eyes of Horus; the shield is the black kite shield with a gold sun-spoke design and central gold boss, with no eye-seal. Current look: `01_VISUAL_STYLE_GUIDE.md` (LOOK LOCK section) and `production/ISSUE_01/bible/CHARACTER_BIBLE.md` (LOOK LOCK section).)
 - **Dialogue rhythm.** One line per bubble. Council bubbles are four words. Ra-Thor speaks last and least, often just reading the third card.
 - **Mechanism.** Contrast between chaos and stillness, and the rule of three: obvious, feral, clean. The laugh comes from the feral option trying its luck and the stillness not moving.
 - **What it is NOT.** Not real science. No reagents, procedures, or equipment detail. Not mad-scientist cruelty, no explosions that hurt anyone, no mocking the guest.
@@ -44,7 +44,7 @@ The pose-and-shadow register for establishing shots and closers. The armor alone
 
 - **Pacing and beats.** Used for one or two panels per episode, not a full episode by itself: the opener that sets the threshold, or the closer that confirms it held.
 - **Framing and camera.** Full figure or three-quarter, low angle, against the gold lattice arch or a dark doorway. Wings and halo ring break the skyline. Cape dark and heavy. Negative space around the figure.
-- **Lighting and palette.** Backlight and rim light. Obsidian mass, gold edges, the visor slit as the brightest small point. Emerald only on the eye-seal.
+- **Lighting and palette.** Backlight and rim light. Obsidian mass, gold edges, the visor slit as the brightest small point. Emerald only on the eye-seal. (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: emerald appears only on the pauldron Eyes of Horus; the shield is the black kite shield with a gold sun-spoke design and central gold boss, with no eye-seal. Current look: `01_VISUAL_STYLE_GUIDE.md` (LOOK LOCK section) and `production/ISSUE_01/bible/CHARACTER_BIBLE.md` (LOOK LOCK section).)
 - **Dialogue rhythm.** One short bubble or none. The caption carries the context.
 - **Mechanism.** Presence. Stillness reads as strength; the hammer resting head-down on stone says the watch never needed it.
 - **What it is NOT.** Not brooding self-pity. Not menace aimed at civilians. Not a fight pose: no raised hammer, no lunge, no chase.
@@ -74,7 +74,7 @@ Spy-thriller elegance with the armor on. A negotiation where the line does the w
 
 - **Pacing and beats.** 5 to 6 panels. Set the table, opening line, counter, the offer, the block, the clean close. Every exchange is a volley of one line each.
 - **Framing and camera.** Two-shots across a table, over-the-shoulder on the offer, tight on gloves, cards, and glasses. Low, level camera; no frantic angles.
-- **Lighting and palette.** One practical, deep shadow, lamp glint on gold filigree. Crystal and cards catch the light. Emerald reserved for the eye-seal.
+- **Lighting and palette.** One practical, deep shadow, lamp glint on gold filigree. Crystal and cards catch the light. Emerald reserved for the eye-seal. (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: emerald appears only on the pauldron Eyes of Horus; the shield is the black kite shield with a gold sun-spoke design and central gold boss, with no eye-seal. Current look: `01_VISUAL_STYLE_GUIDE.md` (LOOK LOCK section) and `production/ISSUE_01/bible/CHARACTER_BIBLE.md` (LOOK LOCK section).)
 - **Dialogue rhythm.** One line per bubble, dry and slightly fond. A line that could cut both ways. The best line is usually the reply, not the opener.
 - **Mechanism.** Poise under temptation. The counterpart offers something with strings; Ra-Thor stays composed, blocks it, and still leaves a fair deal on the table. Spice ceiling is a raised eyebrow.
 - **What it is NOT.** Not seduction. Not gadget worship, gunplay, or violence as style. The armor does not come off. No real people, no recognizable characters.
