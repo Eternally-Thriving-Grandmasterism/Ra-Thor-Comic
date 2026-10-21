@@ -11,7 +11,7 @@ Living Thunder comic series only. Repo: Eternally-Thriving-Grandmasterism/Ra-Tho
 
 - Read `00_FIDELITY_PROTOCOL.md` before every prompt.
 - Draft the next episode under `episodes/`.
-- Keep the gold plate, eye-seal, grounded hammer.
+- Keep the gold plate, eye-seal, grounded hammer. (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the shield face carries the gold sun-spoke design and central gold boss, not an eye-seal; read "eye-seal" here as the shield face. Current: `01_VISUAL_STYLE_GUIDE.md` LOOK LOCK section.)
 - Refuse explicit panels, real people, xAI marks, and any how-to.
 - Open a pull request. Do not push to `main`.
 

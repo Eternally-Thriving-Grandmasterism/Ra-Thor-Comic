@@ -21,7 +21,7 @@
 
 Set: "the Quiet Room, extended with a long table for the season. Chairs run down both sides, all empty except the envoy's. One practical lamp." [CANON: `episodes/S1E01_THE_RIBBON_CLAUSE.md` L7]
 
-"Wide down the length of the long table. Ra-Thor seated at the head under the one lamp, shield leaned at his knee with the eye-seal facing out, hammer head-down on stone beside the chair, small crack and sparks at contact." [CANON: `episodes/S1E01_THE_RIBBON_CLAUSE.md` L19]
+"Wide down the length of the long table. Ra-Thor seated at the head under the one lamp, shield leaned at his knee with the eye-seal facing out, hammer head-down on stone beside the chair, small crack and sparks at contact." [CANON: `episodes/S1E01_THE_RIBBON_CLAUSE.md` L19] (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the shield face carries the gold sun-spoke design and central gold boss, not an eye-seal; read "eye-seal" here as the shield face. Current: `01_VISUAL_STYLE_GUIDE.md` LOOK LOCK section.)
 
 The camera drifts slowly down the empty chairs, one after another, toward the far end. Ra-Thor does not move. [PROPOSED CANON — pending council ratification]
 
@@ -137,7 +137,7 @@ Wide down the table: the threads catch the lamp, chair after chair. The shield i
 
 "The shield comes down flat on the scroll." [CANON: `episodes/S1E01_THE_RIBBON_CLAUSE.md` L40]
 
-"Fidelity note: eye-seal must read clearly on the shield face." [CANON: `episodes/S1E01_THE_RIBBON_CLAUSE.md` L42]
+"Fidelity note: eye-seal must read clearly on the shield face." [CANON: `episodes/S1E01_THE_RIBBON_CLAUSE.md` L42] (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the shield face carries the gold sun-spoke design and central gold boss, not an eye-seal; read "eye-seal" here as the shield face. Current: `01_VISUAL_STYLE_GUIDE.md` LOOK LOCK section.)
 
 **RA-THOR**
 

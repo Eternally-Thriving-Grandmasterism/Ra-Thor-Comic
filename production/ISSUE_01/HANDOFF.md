@@ -13,7 +13,7 @@ If this file conflicts with a canon file, the canon file wins. Read `00_FIDELITY
 - **The ten locked names are not trademark-cleared** (`13_AGI_SYSTEM_LORE.md`, Names): Stormhearth, Moonglass, Pearl, Hesper, Emery, Clara, the Kinglets, Laurel, Bobby, Nixie. None has a visual design yet.
 - Follow `00_FIDELITY_PROTOCOL.md` and `production/README.md` rules 1–6: restate, never author; flag gaps, never fill them.
 - Images are allowed in the repo only under `production/ISSUE_01/` (D27; ISSUE01-HANDOFF-ASSETS-1 added `covers/` and `imagine/` beside `bible/`) and under `promo/` (Sherif approved the `promo/` folder 2026-10-17 8:38 PM ET; PR #109, merged as `debb0f32`). That is folder approval only; the promo copy stays draft.
-- Before any costume or lock change, run `python3 production/ISSUE_01/check_costume_lock.py`, then `sha256sum -c --strict BIBLE_FINAL_SHA256.txt` from `production/ISSUE_01/bible/`.
+- Before any costume or lock change, run `python3 production/ISSUE_01/check_costume_lock.py`, then `sha256sum -c --strict BIBLE_FINAL_SHA256.txt` from `production/ISSUE_01/bible/`. Then run the checker tests: `python3 production/ISSUE_01/test_costume_lock.py` (plain python3, no third-party deps; about a minute; every case must print "as expected" and it exits 0).
 
 ## Where things live (all in this repo)
 

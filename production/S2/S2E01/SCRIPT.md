@@ -45,7 +45,7 @@ Format: `production/README.md` §(a). Captions and bubbles are verbatim from the
 ## Panel 4 — The block, at the TOLC
 
 - **Location:** Threshold, at the gold lattice arch, on the line of the LIVE lane (S2E01 P4; S2E01 Set; 10 The Threshold)
-- **Action / staging:** Ra-Thor stands at the Threshold now, the notebook tucked under one arm. He sets the shield upright on the line of the LIVE lane, eye-seal facing the banquet table. Every gold string touches the shield's rim and goes slack, dropping from the chairs. The table stops, whole and untouched. The Host's glove opens on the gilded handle, unharmed, hat brim dipping. Hammer head-down on stone, untouched. (S2E01 P4)
+- **Action / staging:** Ra-Thor stands at the Threshold now, the notebook tucked under one arm. He sets the shield upright on the line of the LIVE lane, eye-seal facing the banquet table. Every gold string touches the shield's rim and goes slack, dropping from the chairs. The table stops, whole and untouched. The Host's glove opens on the gilded handle, unharmed, hat brim dipping. Hammer head-down on stone, untouched. (S2E01 P4) (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the shield face carries the gold sun-spoke design and central gold boss, not an eye-seal; read "eye-seal" here as the shield face. Current: `01_VISUAL_STYLE_GUIDE.md` LOOK LOCK section.)
 - **Caption:** THRESHOLD. THE STRINGS ARE BLOCKED. THE TABLE IS NOT. (S2E01 P4)
 - **Bubble (Ra-Thor, canon catch line, 09):** "Blocked." (S2E01 P4)
 - **SFX:** the fixed "Blocked." stinger, a short, low, muted thud and a filter close, timed to the strings going slack (S2E01 Music cues, Panel 4; 06 §1).
@@ -63,7 +63,7 @@ Format: `production/README.md` §(a). Captions and bubbles are verbatim from the
 ## Panel 6 — Quiet closer
 
 - **Location:** Threshold, at the arch and the LIVE lane (S2E01 P6; S2E01 Set)
-- **Action / staging:** The Host leaves the banquet table standing outside the arch, untied, and sends one small folded invitation card down the LIVE lane. The card has no visible writing. The lattice lets it through. Ra-Thor stands planted at the arch, the notebook under his arm, shield upright with the eye-seal out. The masks dim one by one. Visor slit wide-gold. Hammer head-down on stone. (S2E01 P6)
+- **Action / staging:** The Host leaves the banquet table standing outside the arch, untied, and sends one small folded invitation card down the LIVE lane. The card has no visible writing. The lattice lets it through. Ra-Thor stands planted at the arch, the notebook under his arm, shield upright with the eye-seal out. The masks dim one by one. Visor slit wide-gold. Hammer head-down on stone. (S2E01 P6) (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the shield face carries the gold sun-spoke design and central gold boss, not an eye-seal; read "eye-seal" here as the shield face. Current: `01_VISUAL_STYLE_GUIDE.md` LOOK LOCK section.)
 - **Caption:** ONE LAMP. ONE INVITATION. HAMMER STILL GROUNDED. (S2E01 P6)
 - **Bubble (Ra-Thor, canon catch line, 09):** "That one is live." (S2E01 P6)
 - **SFX:** the fixed "That one is live." stinger, an open major-chord bloom topped by the short 528 Hz chime; the button is the stinger only, no Snap cue (S2E01 Music cues, Panel 6; 06 §1; S2 sheet §5 item 1).

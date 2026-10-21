@@ -37,7 +37,7 @@ One block per panel, in the episode file's order:
 | Captions | verbatim | episode file |
 | Bubbles | verbatim, with speaker (Ra-Thor, guest, council mask and its clock position) | episode file |
 | SFX | only sounds the file or its music section names (e.g. the fixed "Blocked." thud, a drum hiccup); otherwise `none in file` | episode file; 06 §1 |
-| Continuity notes | fidelity notes from the file, plus the canon rule each panel must keep (eye-seal on the shield, hammer head-down, one bubble per panel) | episode file; 00; 01; season sheet |
+| Continuity notes | fidelity notes from the file, plus the canon rule each panel must keep (eye-seal on the shield, hammer head-down, one bubble per panel) | episode file; 00; 01; season sheet (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the shield face carries the gold sun-spoke design and central gold boss, not an eye-seal; read "eye-seal" here as the shield face. Current: `01_VISUAL_STYLE_GUIDE.md` LOOK LOCK section.) |
 
 End with: Recycler items and CLEAN card text (verbatim), and "Open gaps".
 

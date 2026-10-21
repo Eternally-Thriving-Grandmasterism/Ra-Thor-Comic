@@ -21,6 +21,13 @@ A line that puts emerald on any figure part other than the pauldron Eyes fails
 the same way. The kite shield is canon again, so "kite shield" no longer fails.
 
 Scan scope: the stale check covers the files in SCAN and STALE_SCAN.
+Untagged-term guard (AMEND-3): any eye-seal or hawk-seal mention in a scanned
+file fails unless it is tagged, directly negated, or a keep-clear-zone phrase.
+
+Tests: run `python3 production/ISSUE_01/test_costume_lock.py` from the repo
+root (plain python3, no third-party deps). It copies the repo's .md files to
+a temp dir, injects each must-fail / must-pass line, and runs the text checks
+(the type-margin check needs numpy and cv2 and is skipped there).
 STALE_SCAN includes the episode files, production/S*/*/ART_PROMPTS.md,
 screen/*/STORYBOARD_PROMPTS.md, docs/TRAILER_S1E01.md,
 research/naming_rd_brief.md and the season files. (The deferral to
@@ -33,7 +40,6 @@ is 0.125 in, which is 37.5 px, not the 37 px bleed constant used by the
 sheet builders.
 """
 import os, sys, re
-import numpy as np
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
 SCAN = [
@@ -64,12 +70,22 @@ STALE_SCAN = [
     '03_TONE_SPECS.md',
     '05_LORE_BIBLE.md',
     'docs/LORE_BRIDGE_POWRUSH_RATHOR.md',
+    # CANON-SYNC-LOOK-LOCK-2 AMEND-3.
+    'screen/SCREEN_BIBLE_ADDENDUM.md',
+    'production/README.md',
+    'bots/GROKBOT_COMIC_SEAT.md',
+    'OWNERSHIP-NOTE-2026-10.md',
+    'docs/LIGHT_OCEAN_FORGED_BY_TOLC_SERIES_SEED.md',
 ]
 STALE_GLOBS = (
     'episodes/*.md',
     'production/S*/*/ART_PROMPTS.md',
     'screen/*/STORYBOARD_PROMPTS.md',
     'seasons/*.md',
+    # AMEND-3.
+    'production/S*/*/SCRIPT.md',
+    'production/S*/*/MUSIC_CUES.md',
+    'screen/S1E0[12]/*.md',
 )
 import glob as _glob
 for _g in STALE_GLOBS:
@@ -391,6 +407,13 @@ def eye_failures(path):
             fails.append((n, 'block-ban', line.strip()[:220]))
     return fails
 
+# AMEND-3 untagged-term guard: in a scanned file every eye-seal or hawk-seal
+# mention must be tagged (LINE_TAG), directly negated (a guard such as 'no
+# eye-seal'), or a recognised layout keep-clear-zone phrase.
+SEAL_TERM = re.compile(r'eye[- ]seal|hawk[- ](?:shaped )?(?:pauldron |shoulder )?seal', re.I)
+KEEP_CLEAR = re.compile(
+    r'keep-clear|clear of the eye[- ]seal|eye[- ]seal (?:keep-clear )?zone|layout (?:keep-clear )?zone', re.I)
+
 def stale_failures(path):
     fails = []
     in_record = False
@@ -402,6 +425,9 @@ def stale_failures(path):
             continue
         if in_record or HISTORY_ROW.match(line) or LINE_TAG.search(line):
             continue
+        if not KEEP_CLEAR.search(line) and any(
+                not negated(line, m.start()) for m in SEAL_TERM.finditer(line)):
+            fails.append((n, 'untagged-seal', line.strip()[:220]))
         for kind, pat in STALE_CURRENT:
             for m in pat.finditer(line):
                 if negated(line, term_start(m)):
@@ -459,6 +485,7 @@ def prompt_meta_failures(path):
     return fails
 
 def type_margin():
+    import numpy as np
     import cv2
     T = cv2.imread(TYPE_LAYER, cv2.IMREAD_UNCHANGED)
     if T is None or T.shape[2] < 4:
@@ -471,7 +498,7 @@ def type_margin():
     margin = ymin - TRIM_PX
     return ymin, margin, margin / DPI
 
-def main():
+def main(type_check=True):
     bad = 0
     for rel in SCAN:
         path = os.path.join(ROOT, rel)
@@ -599,6 +626,9 @@ def main():
         if support_prompt not in open(os.path.join(ROOT, rel), encoding='utf-8').read():
             bad += 1
             print('SUPPORT PROMPT missing %s' % rel)
+    if not type_check:
+        # test_costume_lock.py runs the text checks only (no numpy/cv2).
+        return bad
     ymin, margin, inches = type_margin()
     print('TYPE alpha > %.2f ymin %d trim_px %.1f margin_px %.1f (%.4f in)' % (
         ALPHA_THRESHOLD, ymin, TRIM_PX, margin, inches))

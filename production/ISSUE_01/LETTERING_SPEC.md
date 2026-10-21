@@ -80,7 +80,7 @@ Do these steps in order, on the print master first.
 
 1. **Lock the render.** Only renders that pass `RENDER_CHECKLIST.md` (fidelity check plus 4–5/5) are lettered.
 2. **Place art in the page template** at final size, with bleed. Panel borders and gutters live on the template, not in the render (`ISSUE_01_PRODUCTION.md` §10).
-3. **Mark keep-clear zones** on a guide layer: eye-seal, visor slit, lane stamps, cards, hammer contact, safe area.
+3. **Mark keep-clear zones** on a guide layer: eye-seal, visor slit, lane stamps, cards, hammer contact, safe area. (LOOK LOCK note 2026-10-18: "eye-seal" here names a layout keep-clear zone at the shield-face centre, now the gold sun-spoke boss; it is not the retired emblem.)
 4. **Place captions** (1.1, then 8.1), bottom-left.
 5. **Place bubbles in reading order:** 2.3, 4.1, 5.2, 6.1, 8.1. Within 8.1, the bubble sits higher or further left than the caption, so the caption reads second.
 6. **Draw tails last**, to the visor slit, checking the keep-clear zones.

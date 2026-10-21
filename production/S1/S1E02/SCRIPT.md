@@ -15,11 +15,11 @@ Format: `production/README.md` §(a). Captions and bubbles are verbatim from the
 ## Panel 1 — The feed (borrowed Quiet Board)
 
 - **Location:** Quiet Room, the head of the long table, facing the Board (S1E02 P1; S1E02 Set; 10 The Quiet Room). The tile shows a dark corridor, not named in the file.
-- **Action / staging:** Wide. Ra-Thor seated at the head of the long table, facing the Board. Shield upright beside the chair, eye-seal out. Hammer head-down on stone, small crack and sparks at contact. One tile glows: down a dark corridor, the Stair Envoy wheels in a gilded chair whose back rises far above any chair at the table. The bubble comes from the figure on the tile. (S1E02 P1)
+- **Action / staging:** Wide. Ra-Thor seated at the head of the long table, facing the Board. Shield upright beside the chair, eye-seal out. Hammer head-down on stone, small crack and sparks at contact. One tile glows: down a dark corridor, the Stair Envoy wheels in a gilded chair whose back rises far above any chair at the table. The bubble comes from the figure on the tile. (S1E02 P1) (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the shield face carries the gold sun-spoke design and central gold boss, not an eye-seal; read "eye-seal" here as the shield face. Current: `01_VISUAL_STYLE_GUIDE.md` LOOK LOCK section.)
 - **Caption:** QUIET ROOM. TILE TWO. THE SECOND ENVOY IS BRINGING FURNITURE. (S1E02 P1)
 - **Bubble (the Stair Envoy, on the tile):** "My house asks one small favor." (S1E02 P1)
 - **SFX:** none in file. Music: the cue starts sparse under the feed (S1E02 Music cues, Panel 1).
-- **Continuity:** borrowed Quiet Board panel: feed tiles, no readable data (S1E02 Status; S1E02 P1 prompt; 03 Quiet Board mode). Eye-seal out; hammer head-down on stone, small crack and sparks at contact (S1E02 P1; 04 Q5). Envoy's face hidden behind the plain gold mask (S1E02 Guest; set add-on). One bubble (00 rule 3).
+- **Continuity:** borrowed Quiet Board panel: feed tiles, no readable data (S1E02 Status; S1E02 P1 prompt; 03 Quiet Board mode). Eye-seal out; hammer head-down on stone, small crack and sparks at contact (S1E02 P1; 04 Q5). Envoy's face hidden behind the plain gold mask (S1E02 Guest; set add-on). One bubble (00 rule 3). (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the shield face carries the gold sun-spoke design and central gold boss, not an eye-seal; read "eye-seal" here as the shield face. Current: `01_VISUAL_STYLE_GUIDE.md` LOOK LOCK section.)
 
 ## Panel 2 — Bubble beat
 

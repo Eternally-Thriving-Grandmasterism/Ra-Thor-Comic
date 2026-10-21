@@ -13,7 +13,7 @@ Primary set (six images, take priority):
 | R5 | Dark variant. Gold constellation halo, blue lightning, navy cape, no emerald |
 | R6 | Idea-Recycler MODEL: Ω-7. THEORY IN / CONCEPTS IN hoppers, COUNCIL OF PRACTICALS window, OBVIOUS / FERAL / CLEAN cards, OUTPUT plaque, "Recycle it." |
 
-Earlier set (lower priority, kept only where it adds something): a "Blocked." threshold panel (green circuit shield with a gold eye in a diamond, slide-deck creature crumbling into chart confetti) and a "Next." doorway panel (round gold winged eye-seal with an emerald iris). One image in the earlier set was a chat screenshot, not art, and is not used.
+Earlier set (lower priority, kept only where it adds something): a "Blocked." threshold panel (green circuit shield with a gold eye in a diamond, slide-deck creature crumbling into chart confetti) and a "Next." doorway panel (round gold winged eye-seal with an emerald iris). One image in the earlier set was a chat screenshot, not art, and is not used. (historical reference-art description, superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the shield is the black kite shield with a gold sun-spoke design and central gold boss; no eye-seal, no green circuit shield. Current: `01_VISUAL_STYLE_GUIDE.md` LOOK LOCK section.)
 
 ## Ra-Thor, as drawn
 

@@ -15,11 +15,11 @@ Format: `production/README.md` §(a). Captions and bubbles are verbatim from the
 ## Panel 1 — Establishing
 
 - **Location:** Quiet Room, down the long table (S1E04 P1; S1E04 Set; 10 The Quiet Room)
-- **Action / staging:** Wide. Ra-Thor seated at the head of the long table, shield leaned at his knee with the eye-seal facing out, hammer head-down on stone beside the chair, small crack and sparks at contact. Halfway down the table stands a tall gilded folding screen. A gloved hand reaches around its edge, sets a gold hourglass on the table, and flips it. Sand starts to fall. (S1E04 P1)
+- **Action / staging:** Wide. Ra-Thor seated at the head of the long table, shield leaned at his knee with the eye-seal facing out, hammer head-down on stone beside the chair, small crack and sparks at contact. Halfway down the table stands a tall gilded folding screen. A gloved hand reaches around its edge, sets a gold hourglass on the table, and flips it. Sand starts to fall. (S1E04 P1) (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the shield face carries the gold sun-spoke design and central gold boss, not an eye-seal; read "eye-seal" here as the shield face. Current: `01_VISUAL_STYLE_GUIDE.md` LOOK LOCK section.)
 - **Caption:** QUIET ROOM. FOURTH ENVOY. THE SAND IS ALREADY FALLING. (S1E04 P1)
 - **Bubble (the Glass Envoy, from behind the screen):** "A fair offer, for one turn of the glass." (S1E04 P1)
 - **SFX:** none in file. Music: the clock, a dry ticking hi-hat, runs from this panel on (S1E04 Music cues, The clock).
-- **Continuity:** eye-seal faces out; hammer head-down on stone, small crack and sparks at contact (S1E04 P1; 04 Q5). Envoy fully hidden behind the screen; only gloved hands appear (S1E04 Guest; set add-on). One bubble (00 rule 3).
+- **Continuity:** eye-seal faces out; hammer head-down on stone, small crack and sparks at contact (S1E04 P1; 04 Q5). Envoy fully hidden behind the screen; only gloved hands appear (S1E04 Guest; set add-on). One bubble (00 rule 3). (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the shield face carries the gold sun-spoke design and central gold boss, not an eye-seal; read "eye-seal" here as the shield face. Current: `01_VISUAL_STYLE_GUIDE.md` LOOK LOCK section.)
 
 ## Panel 2 — The pass
 
