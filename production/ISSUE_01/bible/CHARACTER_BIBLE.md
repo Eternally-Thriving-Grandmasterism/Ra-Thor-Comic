@@ -386,3 +386,36 @@ No eye (no Eye of Horus, no eye-seal). No emerald. No sun-spokes. No blue or nav
 ### Open flag
 
 5. **Right-border marks.** The ruling describes the rune column on the left only. The ref shows faint marks along the right border too. Keep it left only, or draw both sides as painted?
+
+### Shield symbolism (PROPOSED CANON, pending owner; Sherif 2026-10-21: "Make sure the symbolism is meaningful thoughtfully on the shield.")
+
+This is the in-story meaning of each element, for writers and artists. It is story lore, not a claim about history or about any real system. The real-world origins are given separately and honestly. Nothing here changes the art: the SHIELD LOCK ref still wins.
+
+**Real-world origins, stated honestly.**
+- The Vegvísir ("way-shower") is an Icelandic magical stave known from 19th-century manuscripts, most often cited from the Huld manuscript (collected around 1860). There it is described as a sign that keeps its bearer from losing the way in storms or bad weather. It is not attested as an ancient Viking-age symbol, and the story should never call it one.
+- Kite shields are a medieval European shape, associated with the 11th and 12th centuries. Viking-age shields were mostly round. The pairing here is a design choice, not a historical claim.
+- The knotwork is Celtic-style interlace, an Insular art tradition. Here it is decorative.
+- The rune border uses rune-like marks. They are decorative and spell nothing (standing ruling: never letter-like words). If the owner ever wants a real inscription, see "Owner choice" below.
+
+**In-story meaning, element by element.**
+- **Black kite shape.** The long point reaches the ground so he can plant the shield the way he plants the hammer: a guard that stands still instead of striking. Black is the night he keeps watch through.
+- **Riveted bronze-gold rim.** The promise that holds everything together. Each rivet is a kept word; the rim is the edge he does not cross. Artist note: keep the rivets evenly spaced and unbroken, since a gap reads as a broken promise.
+- **Domed gold boss (riveted collar).** The still centre: Ra-Thor himself, or the calm before any choice. Every stave starts here, so every way out begins with being still first. Artist note: the boss carries the brightest highlight on the shield.
+- **The eight staves of the Vegvísir.** Wayfinding, in the storm, for whoever is lost. The story reads them clockwise from the top as eight vows. One vow per direction, matching the end-marks as painted:
+  1. **N, trident tip: Truth.** See clearly before acting.
+  2. **NE, nested forks: Mercy.** Leave a way back for the one who erred.
+  3. **E, curl and bracket: Dawn.** Every offer gets a fresh hearing; a second chance.
+  4. **SE, crossbars and fork: Shelter.** Cover the small and the frightened first.
+  5. **S, downward trident: Ground.** Plant the hammer; restraint over force.
+  6. **SW, fork tip: Return.** Show the lost the road home, even an enemy.
+  7. **W, open bracket: Rest.** End things gently; let the tired stop.
+  8. **NW, square hook: Watch.** Keep the gate; the vigil does not sleep.
+  Writers can light one stave in a scene when its vow is the one being kept. That stays a panel choice, never a power the shield uses on its own. Artist note: draw eight staves, evenly spaced at 45°, each with its own end-mark. Never mirror two of them into the same mark.
+- **Knotwork, top and bottom.** One unbroken thread with no start and no end: the bond between the councils, the guests and the people he guards. The top band is the bonds above him; the band closing toward the point is the ground and those who stand on it.
+- **Left-side rune border.** Kept memory: the names of those he has turned back from harm and sent home. In story, the marks are deliberately unreadable, because the shield keeps names without exposing them. Artist note: left side only (see open flag 5), small, evenly spaced, never forming letters or words.
+- **Why there is no eye.** The watch is already worn on his shoulders: the emerald Eye of Horus on each pauldron. The shield does not watch; it guides and shelters. Keeping the eye off the shield keeps the two roles apart: the shoulders see, the shield shows the way. No eye, no emerald, no sun-spokes, no blue (negative list above).
+
+**Owner choice (not decided).**
+1. Keep the rune border decorative, which is the standing ruling. This is the recommendation.
+2. Or spell one real inscription in Elder Futhark, English-first, transliterated letter by letter. That would amend the standing ruling. Proposal: **MERCY**, written ᛗ ᛖ ᚱ ᚲ ᛁ (M = mannaz ᛗ, E = ehwaz ᛖ, R = raido ᚱ, C written as K = kaunan ᚲ, Y written as I = isaz ᛁ). This is an English word in runic letters, not an Old Norse word. Alternative: **FIND THE WAY**, ᚠᛁᚾᛞ ᚦᛖ ᚹᚨᛁ (F ᚠ, I ᛁ, N ᚾ, D ᛞ / TH = thurisaz ᚦ, E ᛖ / W = wunjo ᚹ, A ᚨ, Y as I ᛁ).
+3. Whether the eight vows above become canon, or are renamed.

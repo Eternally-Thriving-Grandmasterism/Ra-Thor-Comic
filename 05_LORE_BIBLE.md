@@ -254,3 +254,7 @@ Wild ruled for the councils on the visual options in the TOLC8 canon report, §6
 ## AGI system lore (council ruling 2026-10-16)
 
 Wild, 2026-10-16 11:42 PM ET and 11:49 PM ET. The Knock, the strategy principle, the script-review checklist, and the writers'-room appendix live in `13_AGI_SYSTEM_LORE.md`. This pointer sits at the end of the file so existing line citations into 05 do not move. Merged Season 1–3 episodes are not rewritten. Season titles stay The Long Table, The Lamp Before the TOLC, and The Full Hopper.
+
+## Shield symbolism (pointer, 2026-10-21)
+
+The optional shield prop (SHIELD LOCK, Sherif 2026-10-21 2:35 PM ET) has its in-story meanings in the "Shield symbolism" subsection of `production/ISSUE_01/bible/CHARACTER_BIBLE.md`. That covers the eight staves as eight vows (Truth, Mercy, Dawn, Shelter, Ground, Return, Rest, Watch), the rim, the boss, the knotwork, the rune border and why the shield carries no eye. The Vegvísir is an Icelandic stave from 19th-century manuscripts (the Huld manuscript), not a Viking-age symbol. It is PROPOSED CANON, pending the owner.
