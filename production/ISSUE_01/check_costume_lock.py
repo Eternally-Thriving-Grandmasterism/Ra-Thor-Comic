@@ -24,7 +24,10 @@ DUAL LOOK LOCK (Sherif 2026-10-21 2:30 PM ET): two locked looks, PRINT
 (comic pages, covers, KDP) and ANIMATED (screen/, trailer, 3D, Blender). The
 check requires both refs, the DUAL LOOK LOCK section in the Issue #1 Bible
 and both prompt stems in 01. The stacked-hands rest is valid again; the
-sun-spoke kite shield is an optional prop (Sherif 2:31 PM ET).
+shield is an optional prop (Sherif 2:31 PM ET). SHIELD LOCK (Sherif 2:35 PM
+ET): the prop is the gold Vegvísir kite shield (refs/rathor_shield_lock_2026-10-21.jpg).
+The Vegvísir is valid on the shield and fails on the halo, chest or figure;
+sun-spoke, emerald and eye-seal shields fail.
 
 Scan scope: the stale check covers the files in SCAN and STALE_SCAN.
 Untagged-term guard (AMEND-3): any eye-seal or hawk-seal mention in a scanned
@@ -144,7 +147,6 @@ LOOK_FILES = [
 LOOK_REQUIRED = (
     ('LOOK LOCK', re.compile(r'LOOK LOCK')),
     ('black kite shield', re.compile(r'black kite shield', re.I)),
-    ('gold sun-spoke design', re.compile(r'gold sun-spoke design', re.I)),
     ('central gold boss', re.compile(r'central gold boss', re.I)),
     ('no eye in the halo', re.compile(r'no eye in the halo', re.I)),
     ('round gold buckle', re.compile(r'round gold (?:belt )?buckle', re.I)),
@@ -165,7 +167,17 @@ LOOK_REQUIRED = (
 # Headings of superseded, history, reject or conflict sections, and dated
 # history-table rows, are skipped.
 STALE_CURRENT = (
-    ('vegvisir', re.compile(r'Vegv[ií]sir', re.I)),
+    # SHIELD LOCK (Sherif 2026-10-21 2:35 PM ET): the Vegvísir is valid ON THE
+    # SHIELD PROP again. It still fails on the halo, chest, helm, pauldrons,
+    # buckle, belt, cape or hammer.
+    ('vegvisir-off-shield', re.compile(
+        r'\b(?:halo|chest|helm|pauldrons?|buckle|belt|cape|hammer|breastplate)\b(?:(?!shield)[^.;,()|]){0,30}(?P<term>Vegv[ií]sir)|'
+        r'(?P<term2>Vegv[ií]sir)(?:(?!shield)[^.;,()|]){0,25}\b(?:halo|chest|helm|pauldrons?|buckle|belt|cape|hammer|breastplate)\b', re.I)),
+    # The sun-spoke shield design is history (SHIELD LOCK 2:35 PM ET).
+    ('sun-spoke', re.compile(r'(?P<term>sun[- ]spoke)', re.I)),
+    ('emerald-shield', re.compile(
+        r'(?P<term>emerald)(?: green)? (?:kite |gold |black )?shield|'
+        r'shield\b(?:(?!pauldron)[^.;,()|]){0,25}(?P<term2>emerald)(?! only| appears only)', re.I)),
     ('halo-eye', re.compile(
         r'Eye of Horus (?:halo|sigil|disc)|Eye of Horus in the halo|halo(?:\'s)? Eye of Horus|'
         r'Eye of Horus sigil|halo sigil', re.I)),
@@ -179,7 +191,8 @@ STALE_CURRENT = (
         r'buckle-centre bolt|bolt[^.;]{0,25}\bis (?P<term>rose gold)', re.I)),
     # BIBLE-DUAL-LOOK-LOCK-1 (2026-10-21): both hands stacked on the pommel is
     # the rest in both locked looks again, so 'stacked-hands' is no longer stale.
-    ('bronze-gold-lining', re.compile(r'bronze-gold', re.I)),
+    # Narrowed 2026-10-21: the SHIELD LOCK rim is bronze-gold; only the cape lining is stale.
+    ('bronze-gold-lining', re.compile(r'bronze-gold (?:cape )?lining|(?:cape|lining)[^.;]{0,30}(?P<term>bronze-gold)', re.I)),
     ('helm-side-wings', re.compile(
         r'wings are fixed to the sides|compact (?:up-swept )?(?:gold )?(?:helm )?wings|'
         r'wings? no wider than the shoulders', re.I)),
@@ -218,15 +231,19 @@ RECORD_HEAD = re.compile(r'supersed|history|reject|conflict', re.I)
 DUAL_REFS = [
     'production/ISSUE_01/bible/refs/rathor_look_lock_print_2026-10-21.jpg',
     'production/ISSUE_01/bible/refs/rathor_look_lock_animated_2026-10-21.jpg',
+    'production/ISSUE_01/bible/refs/rathor_shield_lock_2026-10-21.jpg',
 ]
 DUAL_REQUIRED = [
     ('production/ISSUE_01/bible/CHARACTER_BIBLE.md', (
         '## DUAL LOOK LOCK 2026-10-21', 'rathor_look_lock_print_2026-10-21.jpg',
         'rathor_look_lock_animated_2026-10-21.jpg', 'PRINT LOOK prompt line:',
-        'ANIMATED LOOK prompt line:', 'OPTIONAL prop', '**Buckle bolt.**')),
+        'ANIMATED LOOK prompt line:', 'OPTIONAL prop', '**Buckle bolt.**',
+        '## SHIELD LOCK 2026-10-21', 'rathor_shield_lock_2026-10-21.jpg',
+        'SHIELD PRINT prompt line:', 'SHIELD ANIMATED prompt line:',
+        'SHIELD ORTHOGRAPHIC prompt line:', 'No eye (no Eye of Horus, no eye-seal). No emerald. No sun-spokes. No blue')),
     ('01_VISUAL_STYLE_GUIDE.md', (
         '## DUAL LOOK LOCK (2026-10-21)', '**Prompt stem, PRINT look',
-        '**Prompt stem, ANIMATED look')),
+        '**Prompt stem, ANIMATED look', 'Shield prop prompts (SHIELD LOCK')),
     ('04_VISUAL_CANON.md', ('## DUAL LOOK LOCK (2026-10-21)',)),
     ('09_CHARACTER_BIBLE.md', ('**DUAL LOOK LOCK',)),
     ('production/ISSUE_01/HANDOFF.md', ('DUAL LOOK LOCK',)),

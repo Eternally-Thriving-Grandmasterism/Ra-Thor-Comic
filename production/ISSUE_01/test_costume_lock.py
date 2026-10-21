@@ -83,23 +83,20 @@ def case(name, expect, mutate):
 
 # --- earlier cases (CANON-SYNC-LOOK-LOCK-1 / -2 and AMEND-2) ---
 case("Wild edge: 'the buckle not silver is rose gold'", 'FAIL', append(V, '- Buckle: the buckle not silver is rose gold.'))
-case("'no blue and a Vegvísir shield'", 'FAIL', append(V, '- Shield: no blue and a Vegvísir shield.'))
-case('§13.3 cover prompt swap (L832)', 'FAIL', replace(P, [
-    ('black kite shield with a riveted gold rim and a gold sun-spoke design around a central gold boss', 'tall shield bearing the elongated Vegvísir'),
-    ('round gold belt buckle with a gold lightning bolt', 'rose-gold lightning-bolt buckle'),
-    ('an all-gold halo centred behind the head: a gold Greek-key disc, two thin gold rings and seven straight gold sun rays, no eye in the halo', 'a radiant Eye of Horus halo')], line=832))
+case("SHIELD LOCK must-pass: 'no blue and a Vegvísir shield'", 'PASS', append(V, '- Shield: no blue and a Vegvísir shield.'))
+# §13.3 (L832) is history since the SHIELD LOCK tagged it; Wild's repro now targets the current PRINT stem in 01.
+case('Wild repro on the current PRINT stem in 01 (old halo eye + rose-gold buckle)', 'FAIL', replace('01_VISUAL_STYLE_GUIDE.md', [
+    ('a thin gold ring halo with sharp gold spikes behind the head, no eye in the halo', 'a radiant Eye of Horus halo'),
+    ('round gold sun-disc belt buckle with no bolt', 'rose-gold lightning-bolt buckle')]))
 case("§13.4 'Prompt: rose-gold bolt buckle on a thick belt, not silver.'", 'FAIL', replace(P, [
     ('**8.1** Prompt:', 'Prompt: rose-gold bolt buckle on a thick belt, not silver.\n\n**8.1** Prompt:')]))
 case('09: Vegvísir shield / rose-gold buckle / emerald halo', 'FAIL', append('09_CHARACTER_BIBLE.md',
     '- Shield: the Vegvísir elongated vertically on a tall shield.\n- Buckle: a rose-gold lightning bolt buckle.\n- Halo: emerald halo ring.'))
-for line in ['- Shield: the elongated Vegvísir shield, with no blue.',
-             '- Halo: no eye in the halo; a tall shield bearing the elongated Vegvísir.',
-             '- Proportions: compact helm wings no wider than the shoulders; never stretch art.',
+for line in ['- Proportions: compact helm wings no wider than the shoulders; never stretch art.',
              '- Hammer: polished antique gold hammer, no eye.',
              '- Cape: obsidian with a bronze-gold lining, no blue.',
              '- Halo: eight fine radial spokes, never letter-like.',
              '- Buckle: rose gold only for the bolt, no text.',
-             '- Shield: not silver or navy but a Vegvísir shield.',
              '- Shield: never blue yet an Eye of Horus halo.',
              '- Buckle: round gold, a rose-gold bolt.',
              '- Shield: black with an emerald boss.']:
@@ -116,7 +113,7 @@ for line in ['- Guard: no Vegvísir, no knotwork border and no Eye of Horus on t
 case("drop 'black kite shield' from 01", 'FAIL', replace('01_VISUAL_STYLE_GUIDE.md', [('black kite shield', 'black shield')]))
 case('STORE_LISTING stale line', 'FAIL', append('production/ISSUE_01/STORE_LISTING_AND_EXPORT.md', '- The cover shows the Vegvísir shield and a rose-gold bolt buckle.'))
 case('newly scanned ART_PROMPTS stale prompt', 'FAIL', append('production/S2/S2E01/ART_PROMPTS.md', 'Prompt: [stem] + gold kite shield with the emerald eye-seal clearly visible.'))
-case('newly scanned season file stale line', 'FAIL', append('seasons/S2_ARC_LOCK.md', '- Canon armor: Vegvísir shield.'))
+case('newly scanned season file stale line', 'FAIL', append('seasons/S2_ARC_LOCK.md', '- Canon armor: the sun-spoke shield.'))
 for line in ['- Shield: emerald eye-seal kite shield.',
              '- Shield: a gold kite shield with the emerald eye-seal.',
              '- Palette: emerald on the eye-seal, one accent.',
@@ -153,7 +150,7 @@ for rel, line in [(S, '- **Continuity:** Shield upright, eye-seal out.'),
                   ('production/README.md', '| Notes | eye-seal on the shield | 00 |'),
                   ('bots/GROKBOT_COMIC_SEAT.md', '- Keep the gold plate, eye-seal, grounded hammer.'),
                   ('OWNERSHIP-NOTE-2026-10.md', 'Ra-Thor with the eye-seal shield.'),
-                  ('docs/LIGHT_OCEAN_FORGED_BY_TOLC_SERIES_SEED.md', 'Ra-Thor, Vegvísir shield raised.'),
+                  ('docs/LIGHT_OCEAN_FORGED_BY_TOLC_SERIES_SEED.md', 'Ra-Thor, Vegvísir halo blazing.'),
                   ('production/ISSUE_01/LETTERING_SPEC.md', '- Bubble: tail away from the eye-seal.')]:
     case('AMEND-3 must-fail (%s): %s' % (rel, line), 'FAIL', append(rel, line))
 for rel, line in [(S, '- **Continuity:** shield face out (no eye-seal on the shield).'),
@@ -161,13 +158,13 @@ for rel, line in [(S, '- **Continuity:** shield face out (no eye-seal on the shi
                   ('production/ISSUE_01/LETTERING_SPEC.md', '4. Keep-clear zones on the guide layer: eye-seal, visor slit.'),
                   ('production/ISSUE_01/LETTERING_SPEC.md', '- Bubble: clear of the eye-seal and the confetti.'),
                   ('production/S2/S2E04/MUSIC_CUES.md', '| P9 | The tick stops as the pauldron Eyes light. |'),
-                  ('OWNERSHIP-NOTE-2026-10.md', 'Ra-Thor with the black kite shield and gold sun-spoke design.')]:
+                  ('OWNERSHIP-NOTE-2026-10.md', 'Ra-Thor with the Vegvísir kite shield as an optional prop.')]:
     case('AMEND-3 must-pass (%s): %s' % (rel, line), 'PASS', append(rel, line))
 
 # --- BIBLE-DUAL-LOOK-LOCK-1 (2026-10-21): two locked looks ---
 B = 'production/ISSUE_01/bible/CHARACTER_BIBLE.md'
-PRINT_LINE = 'Ra-Thor, inked comic art with bold outlines and flat colour on parchment: black dome helm with gold Spartan-style face plates forming a T-visor and a gold centre ridge, two small gold feathered wings behind the head, a thin gold ring halo with sharp gold spikes behind the head, no eye in the halo, black armour with simple gold line trim and no Greek-key, large round black pauldrons with gold rims, each with an emerald-green Eye of Horus outlined in gold, mirrored, round gold sun-disc belt buckle with no bolt, black knee plates with gold trim, long tattered black cape, dark stone block-head hammer with a gold band near each end and one gold lightning bolt on the broad side face, head-down on rock, both hands resting on the pommel; no shield unless the scene calls for it (then the black kite shield with a riveted gold rim and the gold sun-spoke design); emerald only on the pauldron Eyes; no rose gold, no teal, no blue.'
-ANIM_LINE = 'Ra-Thor, painted realistic render ready for 3D, storm sky: glossy black armour with gold trim and gold Greek-key engraving, black dome helm with gold Spartan-style face plates forming a T-visor and a gold centre ridge, two large gold feathered wings rising behind the head, an all-gold halo: a gold Greek-key disc with long straight gold sun rays, no eye in the halo, a glowing gold sun disc in a gold Greek-key ring on the chest, round gold belt buckle with a gold lightning bolt, black knee plates with gold trim, large round black pauldrons with stepped gold rims, each with an emerald-green Eye of Horus outlined in gold, mirrored, long intact black cape with a gold Greek-key border, dark stone block-head hammer with one gold lightning bolt on each visible face, head-down on rock, both hands stacked on the pommel; no shield unless the scene calls for it (then the black kite shield with a riveted gold rim and the gold sun-spoke design); emerald only on the pauldron Eyes; no rose gold, no teal, no blue.'
+PRINT_LINE = 'Ra-Thor, inked comic art with bold outlines and flat colour on parchment: black dome helm with gold Spartan-style face plates forming a T-visor and a gold centre ridge, two small gold feathered wings behind the head, a thin gold ring halo with sharp gold spikes behind the head, no eye in the halo, black armour with simple gold line trim and no Greek-key, large round black pauldrons with gold rims, each with an emerald-green Eye of Horus outlined in gold, mirrored, round gold sun-disc belt buckle with no bolt, black knee plates with gold trim, long tattered black cape, dark stone block-head hammer with a gold band near each end and one gold lightning bolt on the broad side face, head-down on rock, both hands resting on the pommel; no shield unless the scene calls for it (then the SHIELD LOCK prop: an elongated black kite shield with a riveted bronze-gold rim, the gold Vegvísir with eight staves around a domed gold boss, gold Celtic knotwork at top and bottom, a decorative rune column on the left); emerald only on the pauldron Eyes; no rose gold, no teal, no blue.'
+ANIM_LINE = 'Ra-Thor, painted realistic render ready for 3D, storm sky: glossy black armour with gold trim and gold Greek-key engraving, black dome helm with gold Spartan-style face plates forming a T-visor and a gold centre ridge, two large gold feathered wings rising behind the head, an all-gold halo: a gold Greek-key disc with long straight gold sun rays, no eye in the halo, a glowing gold sun disc in a gold Greek-key ring on the chest, round gold belt buckle with a gold lightning bolt, black knee plates with gold trim, large round black pauldrons with stepped gold rims, each with an emerald-green Eye of Horus outlined in gold, mirrored, long intact black cape with a gold Greek-key border, dark stone block-head hammer with one gold lightning bolt on each visible face, head-down on rock, both hands stacked on the pommel; no shield unless the scene calls for it (then the SHIELD LOCK prop: an elongated black kite shield with a riveted bronze-gold rim, the gold Vegvísir with eight staves around a domed gold boss, gold Celtic knotwork at top and bottom, a decorative rune column on the left); emerald only on the pauldron Eyes; no rose gold, no teal, no blue.'
 # Was must-fail under the 2026-10-18 lock; both dual looks rest both hands on the pommel.
 case('DUAL must-pass: - Rest: both hands stacked on the pommel, never swung.', 'PASS', append(V, '- Rest: both hands stacked on the pommel, never swung.'))
 case('DUAL must-pass: PRINT prompt line in 04', 'PASS', append(V, '- Prompt: ' + PRINT_LINE))
@@ -175,13 +172,38 @@ case('DUAL must-pass: ANIMATED prompt line in a screen file', 'PASS', append('sc
 case('DUAL must-pass: print buckle with no bolt', 'PASS', append(V, '- Buckle (print): a round gold sun-disc buckle with no bolt.'))
 case('DUAL must-pass: no shield in the base silhouette', 'PASS', append(V, '- Shield: none in the base silhouette; optional prop only.'))
 case('DUAL must-pass: tattered print cape / intact animated cape', 'PASS', append(V, '- Cape: tattered in print; intact with a gold Greek-key border in animation.'))
-case('DUAL must-fail: Vegvísir shield still fails', 'FAIL', append(V, '- Shield (prop): the Vegvísir shield.'))
+case('SHIELD LOCK must-pass: Vegvísir shield prop', 'PASS', append(V, '- Shield (prop): the Vegvísir shield.'))
 case('DUAL must-fail: eye in the halo still fails', 'FAIL', append(V, '- Halo (animated): an Eye of Horus halo.'))
 case('DUAL must-fail: rose-gold buckle still fails', 'FAIL', append(V, '- Buckle (print): a rose-gold buckle.'))
 case('DUAL must-fail: DUAL section removed from the Bible', 'FAIL', replace(B, [('## DUAL LOOK LOCK 2026-10-21', '## Removed 2026-10-21')]))
 case('DUAL must-fail: PRINT prompt stem removed from 01', 'FAIL', replace('01_VISUAL_STYLE_GUIDE.md', [('**Prompt stem, PRINT look', '**Prompt stem, removed')]))
 case('DUAL must-fail: shield ruling removed from the Bible', 'FAIL', replace(B, [('OPTIONAL prop', 'prop')]))
 case('DUAL must-fail: buckle flag removed from the Bible', 'FAIL', replace(B, [('**Buckle bolt.**', '**Buckle.**')]))
+
+# --- SHIELD LOCK (Sherif 2026-10-21 2:35 PM ET) ---
+for line in ['- Shield: the elongated Vegvísir shield, with no blue.',
+             '- Halo: no eye in the halo; a tall shield bearing the elongated Vegvísir.',
+             '- Shield: not silver or navy but a Vegvísir shield.',
+             '- Shield prop: the gold Vegvísir on the black kite shield, hammer grounded.',
+             '- Shield: the Vegvísir on the shield and a hammer at his side.',
+             '- Guard: no sun-spokes, no emerald, no eye on the shield.',
+             '- Shield: black field, never emerald.',
+             '- Shield rim: a riveted bronze-gold rim.',
+             '- Prompt: ' + 'Shield prop, inked comic art, bold outlines, flat colour on parchment: an elongated black kite shield (height about 2.5 times the width, straight top with clipped corners, sides tapering to a point), a riveted bronze-gold rim, on the face the gold Vegvísir: eight gold staves radiating from a domed gold boss in a riveted gold collar, each stave ending in its own mark (tridents, forks, crossbars, square hooks), gold Celtic knotwork arching over the top and closing in a V toward the point, a narrow border column of small decorative gold rune marks down the left side only, never spelling words; warm gold on black; no eye, no emerald, no sun-spokes, no blue.',
+             '- Prompt: ' + 'Shield prop, painted realistic render ready for 3D, warm key light: an elongated kite shield with a black textured leather-or-metal field (height about 2.5 times the width, straight top with clipped corners, sides tapering to a point), a riveted bronze-gold rim, raised gold Vegvísir with eight staves around a polished domed gold boss in a riveted gold collar, each stave ending in its own mark (tridents, forks, crossbars, square hooks), raised gold Celtic knotwork at top and bottom, a narrow column of small decorative gold rune marks down the left side only, never spelling words; warm gold and bronze on black; no eye, no emerald, no sun-spokes, no blue.',
+             '- Prompt: ' + 'Shield prop, front-view orthographic reference for 3D modelling, flat even light, no perspective, centred on neutral grey: elongated black kite shield, height 2.5 times the width, riveted bronze-gold rim, gold Vegvísir with eight staves at 45 degree spacing around a domed gold boss in a riveted gold collar, gold Celtic knotwork at top and bottom, decorative gold rune column on the left side only; no eye, no emerald, no sun-spokes, no blue.']:
+    case('SHIELD LOCK must-pass: ' + line[:90], 'PASS', append(V, line))
+for line in ['- Halo: a Vegvísir in the halo.',
+             '- Chest: a gold Vegvísir on the chest.',
+             '- Helm: the Vegvísir engraved on the helm.',
+             '- Shield: an emerald kite shield.',
+             '- Shield: a black kite shield edged in emerald.',
+             '- Shield: black kite shield with the gold sun-spoke design.',
+             '- Shield: the eye-seal shield.']:
+    case('SHIELD LOCK must-fail: ' + line, 'FAIL', append(V, line))
+case('SHIELD LOCK must-fail: SHIELD LOCK section removed', 'FAIL', replace(B, [('## SHIELD LOCK 2026-10-21', '## Removed')]))
+case('SHIELD LOCK must-fail: shield prompts removed from 01', 'FAIL', replace('01_VISUAL_STYLE_GUIDE.md', [('Shield prop prompts (SHIELD LOCK', 'Removed')]))
+case('SHIELD LOCK must-fail: shield ref missing', 'FAIL', lambda root: os.remove(os.path.join(root, 'production/ISSUE_01/bible/refs/rathor_shield_lock_2026-10-21.jpg')))
 
 
 def main():

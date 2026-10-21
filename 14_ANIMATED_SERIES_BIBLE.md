@@ -33,7 +33,7 @@ Massive dark stone-metal rectangular block head, long sturdy haft, head planted 
 
 ## Shield lock
 
-Black kite. Thick plain gold rim with evenly spaced round gold rivets. Large smooth gold central boss. Exactly eight thick gold sun-spokes, evenly spaced, gently curved, same length, same thickness. No Vegvísir. No knotwork. No Eye. No runes. No text.
+Black kite. Thick plain gold rim with evenly spaced round gold rivets. Large smooth gold central boss. Exactly eight thick gold sun-spokes, evenly spaced, gently curved, same length, same thickness. No Vegvísir. No knotwork. No Eye. No runes. No text. (superseded 2026-10-21 2:35 PM ET by the SHIELD LOCK: the optional shield prop is the gold Vegvísir kite shield, `production/ISSUE_01/bible/refs/rathor_shield_lock_2026-10-21.jpg`; the sun-spoke design is history.)
 
 ## Paste prompt, animated series
 
