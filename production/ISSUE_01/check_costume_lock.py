@@ -240,10 +240,10 @@ DUAL_REQUIRED = [
         'ANIMATED LOOK prompt line:', 'OPTIONAL prop', '**Buckle bolt.**',
         '## SHIELD LOCK 2026-10-21', 'rathor_shield_lock_2026-10-21.jpg',
         'SHIELD PRINT prompt line:', 'SHIELD ANIMATED prompt line:',
-        'SHIELD ORTHOGRAPHIC prompt line:', 'No eye (no Eye of Horus, no eye-seal). No emerald. No sun-spokes. No blue')),
+        'SHIELD ORTHOGRAPHIC prompt line:', 'Left-side rune border: MERCY', 'five runes, evenly spaced, gold, left border only', 'ᛗᛖᚱᚲᛁ (MERCY)', 'No eye (no Eye of Horus, no eye-seal). No emerald. No sun-spokes. No blue')),
     ('01_VISUAL_STYLE_GUIDE.md', (
         '## DUAL LOOK LOCK (2026-10-21)', '**Prompt stem, PRINT look',
-        '**Prompt stem, ANIMATED look', 'Shield prop prompts (SHIELD LOCK')),
+        '**Prompt stem, ANIMATED look', 'Shield prop prompts (SHIELD LOCK', 'ᛗᛖᚱᚲᛁ (MERCY)')),
     ('04_VISUAL_CANON.md', ('## DUAL LOOK LOCK (2026-10-21)',)),
     ('09_CHARACTER_BIBLE.md', ('**DUAL LOOK LOCK',)),
     ('production/ISSUE_01/HANDOFF.md', ('DUAL LOOK LOCK',)),
