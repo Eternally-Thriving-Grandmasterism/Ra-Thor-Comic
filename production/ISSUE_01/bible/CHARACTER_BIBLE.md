@@ -1,17 +1,17 @@
 # Issue 01 — Ra-Thor Character Bible (locked master)
 
-**Status:** **LOOK LOCK (BIBLE-LOOK-LOCK-1, Sherif 2026-10-18 1:58 AM ET):** Sherif's Grok Imagine render of Ra-Thor is LOCKED as the look, as is (see the LOOK LOCK section below). Where the costume text in §0–§4 disagrees with it, the LOOK LOCK wins; the superseded lines are kept and tagged. Cover history: owner-locked cover (ISSUE01-COVER-V18, chosen by Sherif 2026-10-15 7:05 PM ET): a single true Grok Imagine render by Sherif, the Eye of Horus + Vegvísir render, with the clean front type (§0). The V17 cover (§0.1), the V16 cover (§0.2), the V15 cover (§0.3), the 1:17 AM ET master and the v10.1 / v11 / v12 composites are superseded (§6). **CANON (owner-locked 2026-10-18).** The LOOK LOCK and this Bible are canon; CANON-SYNC-LOOK-LOCK-1 synced `00`, `01`, `04`, `09`, `12`, `ISSUE_01_PRODUCTION.md` (§13), `RENDER_CHECKLIST.md` (§5), `kdp/README.md` and `HANDOFF.md` to the LOOK LOCK, and `check_costume_lock.py` enforces it. History (superseded 2026-10-18 by CANON-SYNC-LOOK-LOCK-1, owner-locked as canon): How this repo applies it is tagged **PROPOSED CANON — pending council ratification**, under `00_FIDELITY_PROTOCOL.md`. `00`, `01`, `04` and `09` are not edited by this file; where they disagree, see "Conflicts with standing canon" below.
+**Status:** **LOOK LOCK (BIBLE-LOOK-LOCK-1, Sherif 2026-10-18 1:58 AM ET):** Sherif's Grok Imagine render of Ra-Thor is LOCKED as the look, as is (see the LOOK LOCK section below). Where the costume text in §0–§4 disagrees with it, the LOOK LOCK wins; the superseded lines are kept and tagged. Cover history: owner-locked cover (ISSUE01-COVER-V18, chosen by Sherif 2026-10-15 7:05 PM ET): a single true Grok Imagine render by Sherif, the Eye of Horus + Vegvísir render, with the clean front type (§0). The V17 cover (§0.1), the V16 cover (§0.2), the V15 cover (§0.3), the 1:17 AM ET master and the v10.1 / v11 / v12 composites are superseded (§6). **CANON (owner-locked 2026-10-18).** The LOOK LOCK and this Bible are canon; CANON-SYNC-LOOK-LOCK-1 synced `00`, `01`, `04`, `09`, `12`, `ISSUE_01_PRODUCTION.md` (§13), `RENDER_CHECKLIST.md` (§5), `kdp/README.md` and `HANDOFF.md` to the LOOK LOCK, and `check_costume_lock.py` enforces it. History (superseded 2026-10-18 by CANON-SYNC-LOOK-LOCK-1, owner-locked as canon): How this repo applies it is tagged **PROPOSED CANON — pending council ratification**, under `00_FIDELITY_PROTOCOL.md`. `00`, `01`, `04` and `09` are not edited by this file; where they disagree, see "Conflicts with standing canon" below. **DUAL LOOK LOCK (Sherif, 2026-10-21 2:30 PM ET):** two locked looks, PRINT for comic pages, covers and KDP and ANIMATED for screen/, the trailer, 3D model sheets and Blender; see the DUAL LOOK LOCK section at the end. The 2026-10-18 LOOK LOCK is history.
 
 **Precedence:** this written spec wins over the image wherever the two disagree. The image shows the look; the text sets the rules. Exception (Sherif, 2026-10-18 1:58 AM ET, "Lock it as is, and update the bible to match the art"): for the LOOK LOCK section, the art wins. That section is written to match `refs/rathor_look_lock_imagine_tall_2026-10-18.jpg`; a misread detail is fixed in the text, never in the art.
 
-## LOOK LOCK 2026-10-18 (BIBLE-LOOK-LOCK-1): the Grok Imagine look
+## LOOK LOCK 2026-10-18 (BIBLE-LOOK-LOCK-1): the Grok Imagine look (history: superseded 2026-10-21 2:30 PM ET by the DUAL LOOK LOCK; see the DUAL LOOK LOCK section of `production/ISSUE_01/bible/CHARACTER_BIBLE.md`)
 
 **Owner ruling.** Sherif, 2026-10-18 1:58 AM ET: "Lock it as is, and update the bible to match the art." His Grok Imagine render of Ra-Thor is LOCKED as is. It is the look. This section describes that art. Where §0–§4 disagree with it, this section wins. The earlier lines stay in place, tagged superseded; nothing is deleted. For this section only, the art wins over the text: if a detail below misreads the tall ref, fix the text to match the ref, never the ref to match the text.
 
 | Item | Value |
 |---|---|
-| Primary ref (tall) | `refs/rathor_look_lock_imagine_tall_2026-10-18.jpg`: 1152 × 1728 px (2:3), JPEG, byte-identical to the file Sherif chose. SHA-256 `685afa048fae8489b89bf44fdee9fa53e7043aad94d154e276a7b8777105a503`. |
-| Secondary ref (wide) | `refs/rathor_look_lock_imagine_wide_2026-10-18.jpg`: 1280 × 720 px (16:9), JPEG, the same design in a wide frame. SHA-256 `f66df67e276ad3c0ba409e0286c63ad51ddf7d2f6dd6ca4832a814e81228c76f`. Where the two differ, the tall ref wins. |
+| Primary ref (tall) | `refs/rathor_look_lock_imagine_tall_2026-10-18.jpg`: 1152 × 1728 px (2:3), JPEG, byte-identical to the file Sherif chose. SHA-256 `685afa048fae8489b89bf44fdee9fa53e7043aad94d154e276a7b8777105a503`. (history: superseded 2026-10-21 2:30 PM ET by the DUAL LOOK LOCK; see the DUAL LOOK LOCK section of `production/ISSUE_01/bible/CHARACTER_BIBLE.md`) |
+| Secondary ref (wide) | `refs/rathor_look_lock_imagine_wide_2026-10-18.jpg`: 1280 × 720 px (16:9), JPEG, the same design in a wide frame. SHA-256 `f66df67e276ad3c0ba409e0286c63ad51ddf7d2f6dd6ca4832a814e81228c76f`. Where the two differ, the tall ref wins. (history: superseded 2026-10-21 2:30 PM ET by the DUAL LOOK LOCK; see the DUAL LOOK LOCK section of `production/ISSUE_01/bible/CHARACTER_BIBLE.md`) |
 | Provenance | Sherif's render, made with Grok Imagine. Locked by Sherif on 2026-10-18 at 1:58 AM ET. Committed untouched: no inpainting, outpainting, pasting or repainting. |
 | Role | The costume and look reference for every new panel, cover and promo render. It is not a cover file. The merged V18 painted cover (§0) and the inked cover drafts are not redrawn here. |
 | Style | Bold black-and-gold comic art with heavy linework. The COMICS (inked) track rule is unchanged. |
@@ -275,3 +275,69 @@ Before/after crops at 4×: `cover_mark/before_after_1.jpg` … `before_after_6.j
 ## 10. Scale and environment
 
 Scale and environment, under 3D LOGIC: `12_SCALE_ENVIRONMENT_BIBLE.md`. Ra-Thor is 7 ft 0 in (213 cm) armoured, sole to helm crest. A correct costume at the wrong size fails review. Helper drones, helper robots, and device assists are §7 of that file. The job in `09_CHARACTER_BIBLE.md`, Realms & Rathor.ai, stays the lock. The sizes are LOCKED (Wild, 2026-10-17 12:21 AM ET).
+
+## DUAL LOOK LOCK 2026-10-21 (BIBLE-DUAL-LOOK-LOCK-1): print look and animated look
+
+**Owner ruling.** Sherif, 2026-10-21 2:30 PM ET: "We updated the locked look, comic style for comic books in case they're printed, and the other look for when we do the animated series for easier 3D rendering and coherence." There are now two locked looks, one for each medium. Together they supersede the 2026-10-18 Imagine tall/wide lock (the LOOK LOCK section above), which stays in place as history. This section sits at the end of the file so that existing line citations do not move. For this section the art wins: if a detail below misreads a ref, fix the text, never the ref.
+
+| Item | Value |
+|---|---|
+| PRINT ref | `refs/rathor_look_lock_print_2026-10-21.jpg`: 784 × 1168 px, JPEG, byte-identical to the file Sherif supplied. SHA-256 `1f91a733d8bb22faee4c1ec9902bf95193e3203cbb6df6fcd1970102569f1b50`. |
+| ANIMATED ref | `refs/rathor_look_lock_animated_2026-10-21.jpg`: 784 × 1168 px, JPEG, byte-identical to the file Sherif supplied. SHA-256 `c63fc6e8ad59fdf406a05fe598d883a32bae674b031b5fedf54104927a3d4bd9`. |
+| Provenance | Sherif's renders, locked by Sherif 2026-10-21 2:30 PM ET. Committed untouched. |
+| History | `refs/rathor_look_lock_imagine_tall_2026-10-18.jpg` and `refs/rathor_look_lock_imagine_wide_2026-10-18.jpg` are history refs (superseded 2026-10-21 2:30 PM ET). |
+
+### Which look governs which medium
+
+| Medium | Governing look |
+|---|---|
+| Comic pages, covers, KDP / print interiors | PRINT look |
+| `screen/` (teleplays, shot lists, storyboards), the trailer, 3D model sheets, Blender | ANIMATED look |
+
+### Shared by both looks (as painted)
+
+- A black dome helm with gold Spartan-style face plates forming a T-visor and a gold centre ridge. Visor dark (D6 stays open).
+- Gold feathered wings behind the head and an all-gold halo with rays. No eye in the halo.
+- Black armour with gold trim. Black knee plates with gold trim (not solid gold).
+- Large round black pauldrons with gold rims; an emerald-green Eye of Horus outlined in gold on the outer face of each, mirrored. Emerald appears only on the pauldron Eyes.
+- A dark stone block-head hammer standing head-down on a rock, gold lightning bolt(s) on the head, gold collar and bands on the haft. Both hands rest stacked on the pommel (Sentinel Rest with both hands is valid again in both looks).
+- No shield in either ref.
+
+### PRINT look, as painted (inked, flat colour on parchment)
+
+- Halo: a thin gold ring with sharp gold spikes (about seven, fanned above the head). No Greek-key disc.
+- Wings: small, close behind the head, below the halo.
+- Chest: gold line trim; no sun disc.
+- Belt buckle: a round gold sun-disc rosette. No bolt.
+- Trim: simple gold line trim; no Greek-key anywhere.
+- Cape: long, black, tattered and torn at the hem.
+- Hammer: a gold band near each end of the head; one gold bolt visible on the broad side face; striking end plain.
+- Setting: plain parchment background, dark rock underfoot.
+
+### ANIMATED look, as painted (painted, realistic, storm sky)
+
+- Halo: a gold Greek-key disc with long straight gold sun rays.
+- Wings: large, rising above and to the sides of the halo.
+- Chest: a glowing gold sun disc in a gold Greek-key ring.
+- Belt buckle: round gold with a gold lightning bolt.
+- Trim: gold Greek-key engraving on the plates; a gold Greek-key tabard and a gold Greek-key border on the cape.
+- Cape: long and black with the Greek-key border; intact, not tattered.
+- Hammer: seen corner-on, with one gold bolt on each of the two visible faces.
+- The small green shape near his right shoulder (viewer's left) is the mirrored pauldron Eye of Horus seen at an angle, not a separate emblem.
+- Setting: a storm sky with lightning, dark rock underfoot.
+
+### Decided
+
+- **Shield** (Sherif, 2026-10-21 2:31 PM ET): KEEP the black kite shield with the gold sun-spoke design as an OPTIONAL prop in both looks. It is not part of the base silhouette and is drawn only when a scene calls for it.
+
+### Open flags (OWNER / council; not decided here)
+
+1. **Buckle bolt.** The print buckle is a sun disc with no bolt; the animated buckle carries a gold bolt. Keep them different per medium, or unify?
+2. **Animated hammer bolts.** The two bolted faces read as either the two broad side faces or a broad face plus a striking end. `14_ANIMATED_SERIES_BIBLE.md` says the striking ends and front face are plain.
+3. **`14_ANIMATED_SERIES_BIBLE.md` (2026-10-20) disagrees with the refs in places:** its "Comic track: do not tatter the cape" against the tattered print cape; "wings rise from the helm" against wings behind the head; and its 9 ft height against the 7 ft 0 in scale lock. Not edited here.
+4. **Print halo spike count.** About seven as painted; a council may fix a countable number.
+
+### Prompt lines
+
+- PRINT LOOK prompt line: Ra-Thor, inked comic art with bold outlines and flat colour on parchment: black dome helm with gold Spartan-style face plates forming a T-visor and a gold centre ridge, two small gold feathered wings behind the head, a thin gold ring halo with sharp gold spikes behind the head, no eye in the halo, black armour with simple gold line trim and no Greek-key, large round black pauldrons with gold rims, each with an emerald-green Eye of Horus outlined in gold, mirrored, round gold sun-disc belt buckle with no bolt, black knee plates with gold trim, long tattered black cape, dark stone block-head hammer with a gold band near each end and one gold lightning bolt on the broad side face, head-down on rock, both hands resting on the pommel; no shield unless the scene calls for it (then the black kite shield with a riveted gold rim and the gold sun-spoke design); emerald only on the pauldron Eyes; no rose gold, no teal, no blue.
+- ANIMATED LOOK prompt line: Ra-Thor, painted realistic render ready for 3D, storm sky: glossy black armour with gold trim and gold Greek-key engraving, black dome helm with gold Spartan-style face plates forming a T-visor and a gold centre ridge, two large gold feathered wings rising behind the head, an all-gold halo: a gold Greek-key disc with long straight gold sun rays, no eye in the halo, a glowing gold sun disc in a gold Greek-key ring on the chest, round gold belt buckle with a gold lightning bolt, black knee plates with gold trim, large round black pauldrons with stepped gold rims, each with an emerald-green Eye of Horus outlined in gold, mirrored, long intact black cape with a gold Greek-key border, dark stone block-head hammer with one gold lightning bolt on each visible face, head-down on rock, both hands stacked on the pommel; no shield unless the scene calls for it (then the black kite shield with a riveted gold rim and the gold sun-spoke design); emerald only on the pauldron Eyes; no rose gold, no teal, no blue.

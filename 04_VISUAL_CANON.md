@@ -100,7 +100,7 @@ This section sits at the end of the file so that existing line citations into 04
   - **Cape.** Cloth fastened at the shoulders, obsidian outside and a bronze-gold lining. Front: the outer fall behind the arms, with lining in an open fold. Three-quarter: the near fall and one lining fold. Side: the cape edge. Back: the outer cloth across the back. (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the cape is black and tattered; no lining shows. Current: the LOOK LOCK section at the end of this file.)
 - **Scale lock** (Wild, 2026-10-16 11:38 PM ET, Sherif-delegated; recorded for SCALE-BIBLE-1). LOCKED: Ra-Thor is 7 ft 0 in (213 cm) armoured, from sole to helm crest top. The helm wings are excluded from that height and rise at most about 1/4 head above the crest. He is 8.5 heads at about 25 cm per head. Unarmoured he is not shown in Issue #1. The human reference is 5 ft 9 in (175 cm), about 7.5 heads, a ratio of about 1.22, so a typical human's eyes line up with his upper chest. The halo floats 1/2 to 1 head above the crest, about 1.5 heads in diameter, and is not counted in his height. The hammer length is derived from the Sentinel Rest geometry (the pommel at his stacked hands with arms relaxed), not from an arbitrary number. Everything else stays PROPOSED. The merged V18 painted cover is history, not canon. The merged V18 cover is not redrawn here (a later re-render card). (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: Sentinel Rest is now the right hand on the pommel with the shield grounded at his left; the halo is centred behind the head, outer ring about 2.5 head widths as painted. Current: the LOOK LOCK section at the end of this file.)
 
-## LOOK LOCK (2026-10-18)
+## LOOK LOCK (2026-10-18) (history: superseded 2026-10-21 2:30 PM ET by the DUAL LOOK LOCK; see the DUAL LOOK LOCK section of `production/ISSUE_01/bible/CHARACTER_BIBLE.md`)
 
 This section sits at the end of the file so that existing line citations into 04 do not move. The canon answers to Q1 (shield), Q2 (chest), Q4 (helm), Q5 (hammer rest), Q6 (cape) and Q7 (the falcon's seal form) now follow the LOOK LOCK; the earlier answers stay above, tagged. The R1–R6 descriptions are a record of the 2026-09-30 reference art and are not changed.
 
@@ -111,3 +111,14 @@ This section sits at the end of the file so that existing line citations into 04
 - **Q5, hammer rest.** Sentinel Rest in the LOOK LOCK form: head-down at his right side under his right hand. Dark stone-metal block head, one gold bolt on each broad side face, striking ends plain, no eye.
 - **Q6, cape.** Black and tattered. The R5 navy/blue variant stays out of canon.
 - **Q7, falcon.** Not cast. Its canon form is the pauldron emblem: the emerald Eye of Horus outlined in gold, mirrored on both pauldrons.
+
+## DUAL LOOK LOCK (2026-10-21)
+
+This section sits at the end of the file so that existing line citations into 04 do not move. Sherif, 2026-10-21 2:30 PM ET: two locked looks supersede the 2026-10-18 LOOK LOCK above (kept as history). The PRINT look (`production/ISSUE_01/bible/refs/rathor_look_lock_print_2026-10-21.jpg`) governs comic pages, covers and KDP. The ANIMATED look (`production/ISSUE_01/bible/refs/rathor_look_lock_animated_2026-10-21.jpg`) governs `screen/`, the trailer, 3D model sheets and Blender. Full description, open flags and the shield ruling: the DUAL LOOK LOCK section of `production/ISSUE_01/bible/CHARACTER_BIBLE.md`.
+
+- **Q1, shield.** Optional prop in both looks (Sherif, 2026-10-21 2:31 PM ET): the black kite shield with the gold sun-spoke design, only when a scene calls for it. Neither ref shows it.
+- **Q2, chest.** PRINT: gold line trim, no sun disc. ANIMATED: a glowing gold sun disc in a gold Greek-key ring.
+- **Q4, helm.** Both: black dome helm, gold Spartan T-visor plates, gold centre ridge, gold wings behind the head, all-gold halo with no eye in the halo. PRINT: thin spiked ring halo, small wings. ANIMATED: Greek-key disc with long rays, large wings.
+- **Q5, hammer rest.** Both: head-down on rock, both hands stacked on the pommel. PRINT: gold bands near each end, one bolt visible. ANIMATED: one bolt on each visible face.
+- **Q6, cape.** PRINT: black and tattered. ANIMATED: black, intact, with a gold Greek-key border.
+- **Q7, falcon.** Unchanged: the emerald Eye of Horus on each pauldron, mirrored.

@@ -11,7 +11,7 @@ carry the locked look: the black kite shield with a gold sun-spoke design and
 a central gold boss, the all-gold halo with no eye in the halo, the round gold
 buckle, the gold Greek-key engraving, and emerald only on the pauldron Eyes.
 The Vegvísir shield (and its elongated form), the Eye of Horus in the halo,
-the eight halo spokes, the rose-gold buckle, the stacked-hands rest, the
+the eight halo spokes, the rose-gold buckle, the
 bronze-gold cape lining and the helm-side wings are history. A scanned line
 that still states one of them as current fails, unless the same line marks it
 superseded, history, retired, amended, moot, resolved or a reject. A negation
@@ -19,6 +19,12 @@ word (no, not, never, without, was, ...) exempts only the phrase it directly
 governs: it must sit within a few words before the match in the same clause.
 A line that puts emerald on any figure part other than the pauldron Eyes fails
 the same way. The kite shield is canon again, so "kite shield" no longer fails.
+
+DUAL LOOK LOCK (Sherif 2026-10-21 2:30 PM ET): two locked looks, PRINT
+(comic pages, covers, KDP) and ANIMATED (screen/, trailer, 3D, Blender). The
+check requires both refs, the DUAL LOOK LOCK section in the Issue #1 Bible
+and both prompt stems in 01. The stacked-hands rest is valid again; the
+sun-spoke kite shield is an optional prop (Sherif 2:31 PM ET).
 
 Scan scope: the stale check covers the files in SCAN and STALE_SCAN.
 Untagged-term guard (AMEND-3): any eye-seal or hawk-seal mention in a scanned
@@ -171,7 +177,8 @@ STALE_CURRENT = (
     ('rose-gold-bolt', re.compile(
         r'rose[- ]gold (?:lightning[- ]?)?bolt|rose gold only for the bolt|'
         r'buckle-centre bolt|bolt[^.;]{0,25}\bis (?P<term>rose gold)', re.I)),
-    ('stacked-hands', re.compile(r'stacked hands|both stacked hands|hands stacked|relaxed and stacked', re.I)),
+    # BIBLE-DUAL-LOOK-LOCK-1 (2026-10-21): both hands stacked on the pommel is
+    # the rest in both locked looks again, so 'stacked-hands' is no longer stale.
     ('bronze-gold-lining', re.compile(r'bronze-gold', re.I)),
     ('helm-side-wings', re.compile(
         r'wings are fixed to the sides|compact (?:up-swept )?(?:gold )?(?:helm )?wings|'
@@ -207,6 +214,23 @@ CLAUSE_BREAK = re.compile(r'[,;:.()\[\]!?]|\bbut\b|\byet\b', re.I)
 TYPE_CONTEXT = re.compile(r'title|hyphen|lettering|cover[- ]mark|\bmark\b|RA⚡THOR|type', re.I)
 HISTORY_ROW = re.compile(r'^\s*\|\s*(?:Oct |Sep |~|PR |#|R\d)')
 RECORD_HEAD = re.compile(r'supersed|history|reject|conflict', re.I)
+
+DUAL_REFS = [
+    'production/ISSUE_01/bible/refs/rathor_look_lock_print_2026-10-21.jpg',
+    'production/ISSUE_01/bible/refs/rathor_look_lock_animated_2026-10-21.jpg',
+]
+DUAL_REQUIRED = [
+    ('production/ISSUE_01/bible/CHARACTER_BIBLE.md', (
+        '## DUAL LOOK LOCK 2026-10-21', 'rathor_look_lock_print_2026-10-21.jpg',
+        'rathor_look_lock_animated_2026-10-21.jpg', 'PRINT LOOK prompt line:',
+        'ANIMATED LOOK prompt line:', 'OPTIONAL prop', '**Buckle bolt.**')),
+    ('01_VISUAL_STYLE_GUIDE.md', (
+        '## DUAL LOOK LOCK (2026-10-21)', '**Prompt stem, PRINT look',
+        '**Prompt stem, ANIMATED look')),
+    ('04_VISUAL_CANON.md', ('## DUAL LOOK LOCK (2026-10-21)',)),
+    ('09_CHARACTER_BIBLE.md', ('**DUAL LOOK LOCK',)),
+    ('production/ISSUE_01/HANDOFF.md', ('DUAL LOOK LOCK',)),
+]
 
 def term_start(m):
     """Where the retired term itself starts. For patterns that lead with a
@@ -626,6 +650,17 @@ def main(type_check=True):
         if support_prompt not in open(os.path.join(ROOT, rel), encoding='utf-8').read():
             bad += 1
             print('SUPPORT PROMPT missing %s' % rel)
+    for rel, phrases in DUAL_REQUIRED:
+        path = os.path.join(ROOT, rel)
+        text = open(path, encoding='utf-8').read() if os.path.isfile(path) else ''
+        for ph in phrases:
+            if ph not in text:
+                bad += 1
+                print('DUAL REQUIRE %s missing %s' % (rel, ph))
+    for rel in DUAL_REFS:
+        if not os.path.isfile(os.path.join(ROOT, rel)):
+            bad += 1
+            print('DUAL REF missing %s' % rel)
     if not type_check:
         # test_costume_lock.py runs the text checks only (no numpy/cv2).
         return bad

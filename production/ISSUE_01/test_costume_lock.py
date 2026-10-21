@@ -31,7 +31,8 @@ def make_tree():
                 dst = os.path.join(tmp, os.path.relpath(src, ROOT))
                 os.makedirs(os.path.dirname(dst), exist_ok=True)
                 shutil.copy2(src, dst)
-    extra = [CHECKER] + list(load(ROOT).PAULDRON_REFS)
+    m = load(ROOT)
+    extra = [CHECKER] + list(m.PAULDRON_REFS) + list(getattr(m, 'DUAL_REFS', []))
     for rel in extra:
         src = os.path.join(ROOT, rel)
         if os.path.isfile(src):
@@ -95,7 +96,6 @@ for line in ['- Shield: the elongated Vegvísir shield, with no blue.',
              '- Halo: no eye in the halo; a tall shield bearing the elongated Vegvísir.',
              '- Proportions: compact helm wings no wider than the shoulders; never stretch art.',
              '- Hammer: polished antique gold hammer, no eye.',
-             '- Rest: both hands stacked on the pommel, never swung.',
              '- Cape: obsidian with a bronze-gold lining, no blue.',
              '- Halo: eight fine radial spokes, never letter-like.',
              '- Buckle: rose gold only for the bolt, no text.',
@@ -163,6 +163,25 @@ for rel, line in [(S, '- **Continuity:** shield face out (no eye-seal on the shi
                   ('production/S2/S2E04/MUSIC_CUES.md', '| P9 | The tick stops as the pauldron Eyes light. |'),
                   ('OWNERSHIP-NOTE-2026-10.md', 'Ra-Thor with the black kite shield and gold sun-spoke design.')]:
     case('AMEND-3 must-pass (%s): %s' % (rel, line), 'PASS', append(rel, line))
+
+# --- BIBLE-DUAL-LOOK-LOCK-1 (2026-10-21): two locked looks ---
+B = 'production/ISSUE_01/bible/CHARACTER_BIBLE.md'
+PRINT_LINE = 'Ra-Thor, inked comic art with bold outlines and flat colour on parchment: black dome helm with gold Spartan-style face plates forming a T-visor and a gold centre ridge, two small gold feathered wings behind the head, a thin gold ring halo with sharp gold spikes behind the head, no eye in the halo, black armour with simple gold line trim and no Greek-key, large round black pauldrons with gold rims, each with an emerald-green Eye of Horus outlined in gold, mirrored, round gold sun-disc belt buckle with no bolt, black knee plates with gold trim, long tattered black cape, dark stone block-head hammer with a gold band near each end and one gold lightning bolt on the broad side face, head-down on rock, both hands resting on the pommel; no shield unless the scene calls for it (then the black kite shield with a riveted gold rim and the gold sun-spoke design); emerald only on the pauldron Eyes; no rose gold, no teal, no blue.'
+ANIM_LINE = 'Ra-Thor, painted realistic render ready for 3D, storm sky: glossy black armour with gold trim and gold Greek-key engraving, black dome helm with gold Spartan-style face plates forming a T-visor and a gold centre ridge, two large gold feathered wings rising behind the head, an all-gold halo: a gold Greek-key disc with long straight gold sun rays, no eye in the halo, a glowing gold sun disc in a gold Greek-key ring on the chest, round gold belt buckle with a gold lightning bolt, black knee plates with gold trim, large round black pauldrons with stepped gold rims, each with an emerald-green Eye of Horus outlined in gold, mirrored, long intact black cape with a gold Greek-key border, dark stone block-head hammer with one gold lightning bolt on each visible face, head-down on rock, both hands stacked on the pommel; no shield unless the scene calls for it (then the black kite shield with a riveted gold rim and the gold sun-spoke design); emerald only on the pauldron Eyes; no rose gold, no teal, no blue.'
+# Was must-fail under the 2026-10-18 lock; both dual looks rest both hands on the pommel.
+case('DUAL must-pass: - Rest: both hands stacked on the pommel, never swung.', 'PASS', append(V, '- Rest: both hands stacked on the pommel, never swung.'))
+case('DUAL must-pass: PRINT prompt line in 04', 'PASS', append(V, '- Prompt: ' + PRINT_LINE))
+case('DUAL must-pass: ANIMATED prompt line in a screen file', 'PASS', append('screen/S1E01/SHOT_LIST.md', 'Prompt: ' + ANIM_LINE))
+case('DUAL must-pass: print buckle with no bolt', 'PASS', append(V, '- Buckle (print): a round gold sun-disc buckle with no bolt.'))
+case('DUAL must-pass: no shield in the base silhouette', 'PASS', append(V, '- Shield: none in the base silhouette; optional prop only.'))
+case('DUAL must-pass: tattered print cape / intact animated cape', 'PASS', append(V, '- Cape: tattered in print; intact with a gold Greek-key border in animation.'))
+case('DUAL must-fail: Vegvísir shield still fails', 'FAIL', append(V, '- Shield (prop): the Vegvísir shield.'))
+case('DUAL must-fail: eye in the halo still fails', 'FAIL', append(V, '- Halo (animated): an Eye of Horus halo.'))
+case('DUAL must-fail: rose-gold buckle still fails', 'FAIL', append(V, '- Buckle (print): a rose-gold buckle.'))
+case('DUAL must-fail: DUAL section removed from the Bible', 'FAIL', replace(B, [('## DUAL LOOK LOCK 2026-10-21', '## Removed 2026-10-21')]))
+case('DUAL must-fail: PRINT prompt stem removed from 01', 'FAIL', replace('01_VISUAL_STYLE_GUIDE.md', [('**Prompt stem, PRINT look', '**Prompt stem, removed')]))
+case('DUAL must-fail: shield ruling removed from the Bible', 'FAIL', replace(B, [('OPTIONAL prop', 'prop')]))
+case('DUAL must-fail: buckle flag removed from the Bible', 'FAIL', replace(B, [('**Buckle bolt.**', '**Buckle.**')]))
 
 
 def main():
