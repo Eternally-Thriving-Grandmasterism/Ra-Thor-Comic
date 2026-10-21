@@ -68,7 +68,7 @@ The arc runs from a polite bid for rank to a fair deal at equal height. The seas
 - **Purpose:** establish the room, the one claimed chair and Ra-Thor's stillness before any word is spoken.
 - **Move / counter-move:** none yet. The board is set.
 - **Emotional turn:** quiet to expectant.
-- **Anchor (CANON):** Set: "the Quiet Room with the season's long table." and "The knot-glyph token from S1E01 still rests on one chair." (`episodes/S1E02_THE_TALL_CHAIR.md` L7). The staging is Ra-Thor at the head facing the Board, the shield upright with the eye-seal out, and the hammer head-down with a small crack and sparks (`episodes/S1E02_THE_TALL_CHAIR.md` L19).
+- **Anchor (CANON):** Set: "the Quiet Room with the season's long table." and "The knot-glyph token from S1E01 still rests on one chair." (`episodes/S1E02_THE_TALL_CHAIR.md` L7). The staging is Ra-Thor at the head facing the Board, the shield upright with the eye-seal out, and the hammer head-down with a small crack and sparks (`episodes/S1E02_THE_TALL_CHAIR.md` L19). (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the shield face carries the gold sun-spoke design and central gold boss, not an eye-seal; read "eye-seal" here as the shield face. Current: `01_VISUAL_STYLE_GUIDE.md` LOOK LOCK section.)
 - **Anchor (PROPOSED CANON — pending council ratification):** a slow push past the knot-glyph token toward the Board before the tile lights.
 - **Sound (ruled and CANON):** room tone per G5 C (`screen/S1E02/GAP_RULINGS.md` L76). "The cue starts sparse under the feed: pad and a soft kick only, the electric-piano chords waiting." (`episodes/S1E02_THE_TALL_CHAIR.md` L61).
 
@@ -135,7 +135,7 @@ The arc runs from a polite bid for rank to a fair deal at equal height. The seas
 - **Purpose:** the strategic block, the episode's central action.
 - **Move:** "Ra-Thor sets the shield gently against the tall chair's back." **Counter-move:** none possible; "The back folds down, section by section, until it is exactly as high as every other chair." (`episodes/S1E02_THE_TALL_CHAIR.md` L40).
 - **Emotional turn:** release, with no cruelty.
-- **Anchor (CANON):** "Blocked." (`episodes/S1E02_THE_TALL_CHAIR.md` L39). Title card "THE PRECEDENCE IS BLOCKED. THE TRADE ROUTES STAY ON THE TABLE." (`episodes/S1E02_THE_TALL_CHAIR.md` L38). The shield's eye-seal must read clearly (`episodes/S1E02_THE_TALL_CHAIR.md` L42).
+- **Anchor (CANON):** "Blocked." (`episodes/S1E02_THE_TALL_CHAIR.md` L39). Title card "THE PRECEDENCE IS BLOCKED. THE TRADE ROUTES STAY ON THE TABLE." (`episodes/S1E02_THE_TALL_CHAIR.md` L38). The shield's eye-seal must read clearly (`episodes/S1E02_THE_TALL_CHAIR.md` L42). (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the shield face carries the gold sun-spoke design and central gold boss, not an eye-seal; read "eye-seal" here as the shield face. Current: `01_VISUAL_STYLE_GUIDE.md` LOOK LOCK section.)
 - **Sound (CANON and ruled):** the fixed stinger, timed "to the chair back's last fold" (`episodes/S1E02_THE_TALL_CHAIR.md` L64); the fold itself per G5 C (`screen/S1E02/GAP_RULINGS.md` L76).
 
 ### 3.3 The envoy, unharmed (Act Three out)

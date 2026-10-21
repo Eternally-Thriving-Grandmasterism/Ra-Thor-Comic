@@ -24,7 +24,7 @@
 
 Set: "the Quiet Room with the season's long table. Chairs run down both sides, uncounted. The knot-glyph token from S1E01 still rests on one chair. One practical lamp. The Quiet Board glows on the far wall." [CANON: `episodes/S1E02_THE_TALL_CHAIR.md` L7]
 
-"Ra-Thor seated at the head of the long table, facing the Board. Shield upright beside the chair, eye-seal out. Hammer head-down on stone, small crack and sparks at contact." [CANON: `episodes/S1E02_THE_TALL_CHAIR.md` L19]
+"Ra-Thor seated at the head of the long table, facing the Board. Shield upright beside the chair, eye-seal out. Hammer head-down on stone, small crack and sparks at contact." [CANON: `episodes/S1E02_THE_TALL_CHAIR.md` L19] (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the shield face carries the gold sun-spoke design and central gold boss, not an eye-seal; read "eye-seal" here as the shield face. Current: `01_VISUAL_STYLE_GUIDE.md` LOOK LOCK section.)
 
 The camera pushes slowly past the knot-glyph token toward the Board before the tile lights. Ra-Thor does not move. [PROPOSED CANON — pending council ratification]
 
@@ -144,7 +144,7 @@ Wide down the row: the tall back towers over "a row of plain chairs" (`episodes/
 
 SFX: the chair back folding down, section by section (G5 C; `screen/S1E02/GAP_RULINGS.md` L76).
 
-"Fidelity note: eye-seal must read clearly on the shield face." [CANON: `episodes/S1E02_THE_TALL_CHAIR.md` L42]
+"Fidelity note: eye-seal must read clearly on the shield face." [CANON: `episodes/S1E02_THE_TALL_CHAIR.md` L42] (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the shield face carries the gold sun-spoke design and central gold boss, not an eye-seal; read "eye-seal" here as the shield face. Current: `01_VISUAL_STYLE_GUIDE.md` LOOK LOCK section.)
 
 **RA-THOR**
 

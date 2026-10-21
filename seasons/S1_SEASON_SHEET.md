@@ -69,7 +69,7 @@ Council note on E05's flag: a Night Watch bed borrowed as a closer is fine (one 
 
 ## 5. Production note: the shield by the kept chair (council ruling 2026-10-01)
 
-The shield leans against the kept chair's SIDE with the eye-seal facing the open door, and its gold face throws lamplight onto the empty seat. It blocks only the cord claim, never the person. The chair stays empty, lit and unexplained.
+The shield leans against the kept chair's SIDE with the eye-seal facing the open door, and its gold face throws lamplight onto the empty seat. It blocks only the cord claim, never the person. The chair stays empty, lit and unexplained. (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the shield is the black kite shield with a gold sun-spoke design and central gold boss, with no eye-seal. Current look: `01_VISUAL_STYLE_GUIDE.md` (LOOK LOCK section) and `production/ISSUE_01/bible/CHARACTER_BIBLE.md` (LOOK LOCK section).)
 
 Reject: "Shield placed in front of the kept seat, across the doorway path, or between the chair and the door; Ra-Thor standing guard over the kept chair."
 

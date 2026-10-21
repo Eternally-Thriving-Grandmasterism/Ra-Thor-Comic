@@ -15,11 +15,11 @@ Format: `production/README.md` §(a). Captions and bubbles are verbatim from the
 ## Panel 1 — Establishing
 
 - **Location:** Quiet Room, the long table (S1E01 P1 caption; S1E01 Set)
-- **Action / staging:** Wide down the length of the long table. Ra-Thor seated at the head under the one lamp, shield leaned at his knee with the eye-seal facing out, hammer head-down on stone beside the chair, small crack and sparks at contact. At the far end, the Ribbon Envoy stands with gloved hands folded over a gilded scroll tied in gold ribbon. Every other chair is empty. (S1E01 P1)
+- **Action / staging:** Wide down the length of the long table. Ra-Thor seated at the head under the one lamp, shield leaned at his knee with the eye-seal facing out, hammer head-down on stone beside the chair, small crack and sparks at contact. At the far end, the Ribbon Envoy stands with gloved hands folded over a gilded scroll tied in gold ribbon. Every other chair is empty. (S1E01 P1) (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the shield face carries the gold sun-spoke design and central gold boss, not an eye-seal; read "eye-seal" here as the shield face. Current: `01_VISUAL_STYLE_GUIDE.md` LOOK LOCK section.)
 - **Caption:** QUIET ROOM. THE TABLE GROWS LONGER. THE FIRST ENVOY ARRIVES. (S1E01 P1)
 - **Bubble (the Ribbon Envoy):** "My house sends gifts, not terms." (S1E01 P1)
 - **SFX:** none in file. Music: the cue enters (S1E01 Music cues, Panel 1).
-- **Continuity:** eye-seal faces out; hammer head-down on stone, small crack and sparks at contact (S1E01 P1; 04 Q5). Envoy's face hidden behind the gold mesh veil (S1E01 Guest; set add-on). One bubble (00 rule 3).
+- **Continuity:** eye-seal faces out; hammer head-down on stone, small crack and sparks at contact (S1E01 P1; 04 Q5). Envoy's face hidden behind the gold mesh veil (S1E01 Guest; set add-on). One bubble (00 rule 3). (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the shield face carries the gold sun-spoke design and central gold boss, not an eye-seal; read "eye-seal" here as the shield face. Current: `01_VISUAL_STYLE_GUIDE.md` LOOK LOCK section.)
 
 ## Panel 2 — Bubble beat
 
@@ -28,7 +28,7 @@ Format: `production/README.md` §(a). Captions and bubbles are verbatim from the
 - **Caption:** RIBBON COUNT: ONE. LOOSE ENDS: SEVERAL. (S1E01 P2)
 - **Bubble (speaker not named in file; tail aimed at the visor slit):** "A gift with knots is a contract." (S1E01 P2) — GAP: speaker.
 - **SFX:** none in file. Music: the episode-level "glassy bell on the lamp glint" (S1E01 Music cues, Lead cue); the lamp glint is staged in this panel (S1E01 P2). The file does not assign the bell to a panel.
-- **Continuity:** winged-halo closed helm, warm gold visor slit, never emerald (01 Locked details; 04 Q3–Q4). Bubble tail to the visor slit (01 Page grammar).
+- **Continuity:** winged-halo closed helm, warm gold visor slit, never emerald (01 Locked details; 04 Q3–Q4). Bubble tail to the visor slit (01 Page grammar). (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the helm is the black closed great-helm with large gold wings rising behind the head and an all-gold halo with no eye in the halo, not the old winged-halo helm. Current: `01_VISUAL_STYLE_GUIDE.md` LOOK LOCK section.)
 
 ## Panel 3 — Council in session
 

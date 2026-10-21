@@ -69,7 +69,7 @@ Guests (invented, no house, no faction, no glyph, no real name, no celebrity fac
 ## Panel 6 — Quiet closer
 
 - **Location:** Threshold, at the arch and the LIVE lane (S2E05 P6; S2E05 Set)
-- **Action / staging:** The Fitter steps up and carries one small brass gear down the LIVE lane. Its file marks still show, and it carries one small tag: the Fitter's own mark. The lattice lets it through. Behind, the Boxwright holds the CLEAN card, box hood bowed a little. Ra-Thor stands planted at the arch, the notebook under his arm, shield upright with the eye-seal out. The masks dim one by one. Visor slit wide-gold. Hammer head-down on stone. (S2E05 P6)
+- **Action / staging:** The Fitter steps up and carries one small brass gear down the LIVE lane. Its file marks still show, and it carries one small tag: the Fitter's own mark. The lattice lets it through. Behind, the Boxwright holds the CLEAN card, box hood bowed a little. Ra-Thor stands planted at the arch, the notebook under his arm, shield upright with the eye-seal out. The masks dim one by one. Visor slit wide-gold. Hammer head-down on stone. (S2E05 P6) (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the shield face carries the gold sun-spoke design and central gold boss, not an eye-seal; read "eye-seal" here as the shield face. Current: `01_VISUAL_STYLE_GUIDE.md` LOOK LOCK section.)
 - **Caption:** ONE PART. ONE MAKER. HAMMER STILL GROUNDED. (S2E05 P6)
 - **Bubble (Ra-Thor, canon catch line, 09):** "That one is live." (S2E05 P6)
 - **SFX:** the fixed "That one is live." stinger, an open major-chord bloom topped by the short 528 Hz chime; the button is the stinger only, no Snap cue (S2E05 Music cues, Panel 6; 06 §1; S2 sheet §5 item 1).

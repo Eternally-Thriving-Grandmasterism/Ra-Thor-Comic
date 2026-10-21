@@ -74,11 +74,11 @@ The **comic stays bound** by rule 3. Every comic panel, bubble and caption keeps
 
 All CARRIED from the visual canon. These apply to every screen frame:
 
-- **Helm.** `01_VISUAL_STYLE_GUIDE.md` L9 reads "Winged-halo closed helm. No other helm."
+- **Helm.** `01_VISUAL_STYLE_GUIDE.md` L9 reads "Winged-halo closed helm. No other helm." (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the helm is the black closed great-helm with large gold wings rising behind the head and an all-gold halo with no eye in the halo, not the old winged-halo helm. Current: `01_VISUAL_STYLE_GUIDE.md` LOOK LOCK section.)
 - **Visor.** `01_VISUAL_STYLE_GUIDE.md` L10 reads "Narrow for no, wide gold for yes. Never emerald."
 - **Shield.** `01_VISUAL_STYLE_GUIDE.md` L11 reads "Gold kite shield with the emerald eye-seal in circuit inlay. A diamond gem is a reject."
 - **Chest.** `01_VISUAL_STYLE_GUIDE.md` L12 reads "No chest seal on panels." On screen, read this as no chest seal in any frame. (PROPOSED reading)
-- **Emerald.** `01_VISUAL_STYLE_GUIDE.md` L13 reads "emerald appears only on the shoulder hawk seal and the shield eye-seal".
+- **Emerald.** `01_VISUAL_STYLE_GUIDE.md` L13 reads "emerald appears only on the shoulder hawk seal and the shield eye-seal". (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the shield face carries the gold sun-spoke design and central gold boss, not an eye-seal; read "eye-seal" here as the shield face; the hawk seal is now the emerald Eye of Horus outlined in gold on each pauldron; read "hawk seal lights" as the pauldron Eyes light. Current: `01_VISUAL_STYLE_GUIDE.md` LOOK LOCK section.)
 - **Hammer.** `04_VISUAL_CANON.md` L25 reads "hammer head-down on stone, small crack and sparks at contact" and "Never raised, never swung, in any reference."
 - **Cape and siege.** `04_VISUAL_CANON.md` L26 reads "Siege mode is obsidian plate only." S1E01 has no siege (`episodes/S1E01_THE_RIBBON_CLAUSE.md` L63, "there is no siege").
 - **Plate.** `04_VISUAL_CANON.md` L20 reads "Gold circuit-etched plate over black."

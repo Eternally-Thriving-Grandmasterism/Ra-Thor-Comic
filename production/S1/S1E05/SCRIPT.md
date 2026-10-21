@@ -15,11 +15,11 @@ Format: `production/README.md` §(a). Captions and bubbles are verbatim from the
 ## Panel 1 — Establishing
 
 - **Location:** Quiet Room, down the long table (S1E05 P1; S1E05 Set; 10 The Quiet Room)
-- **Action / staging:** Wide. Ra-Thor seated at the head of the long table, shield leaned at his knee with the eye-seal facing out, hammer head-down on stone beside the chair, small crack and sparks at contact. Halfway down the table the envoy stands, a black parasol with gold ribs tilted low in front of them, hiding them completely. A gloved hand lays a single page on the tabletop. Four small markers glint on four chairs; the far chair stays dark. (S1E05 P1)
+- **Action / staging:** Wide. Ra-Thor seated at the head of the long table, shield leaned at his knee with the eye-seal facing out, hammer head-down on stone beside the chair, small crack and sparks at contact. Halfway down the table the envoy stands, a black parasol with gold ribs tilted low in front of them, hiding them completely. A gloved hand lays a single page on the tabletop. Four small markers glint on four chairs; the far chair stays dark. (S1E05 P1) (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the shield face carries the gold sun-spoke design and central gold boss, not an eye-seal; read "eye-seal" here as the shield face. Current: `01_VISUAL_STYLE_GUIDE.md` LOOK LOCK section.)
 - **Caption:** QUIET ROOM. FIFTH ENVOY. BRINGS THEIR OWN SHADE. (S1E05 P1)
 - **Bubble (the Shade Envoy, from under the parasol):** "Everything I offer is on the table." (S1E05 P1)
 - **SFX:** none in file. Music: sparse start, pad, drone and a soft kick (S1E05 Music cues, Panel 1).
-- **Continuity:** eye-seal faces out; hammer head-down on stone, small crack and sparks at contact (S1E05 P1; 04 Q5). Envoy fully hidden; only a coat hem and one gloved hand appear (S1E05 Guest; set add-on). The far chair stays dark (S1E05 P1; S1 sheet §3). One bubble (00 rule 3).
+- **Continuity:** eye-seal faces out; hammer head-down on stone, small crack and sparks at contact (S1E05 P1; 04 Q5). Envoy fully hidden; only a coat hem and one gloved hand appear (S1E05 Guest; set add-on). The far chair stays dark (S1E05 P1; S1 sheet §3). One bubble (00 rule 3). (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the shield face carries the gold sun-spoke design and central gold boss, not an eye-seal; read "eye-seal" here as the shield face. Current: `01_VISUAL_STYLE_GUIDE.md` LOOK LOCK section.)
 
 ## Panel 2 — Bubble beat
 
@@ -42,7 +42,7 @@ Format: `production/README.md` §(a). Captions and bubbles are verbatim from the
 ## Panel 4 — Shield beat
 
 - **Location:** Quiet Room, on the tabletop (S1E05 P4; S1E05 Set)
-- **Action / staging:** Ra-Thor lays the shield flat on the tabletop, face up, in the full light of the lamp. He sets the sealed envelope on the shield face beside the eye-seal, unopened, where every chair can see it. Nobody is hit. The parasol gives a small, rueful tilt; the gloved hand lifts, palm open, unharmed. Hammer untouched, still grounded. (S1E05 P4)
+- **Action / staging:** Ra-Thor lays the shield flat on the tabletop, face up, in the full light of the lamp. He sets the sealed envelope on the shield face beside the eye-seal, unopened, where every chair can see it. Nobody is hit. The parasol gives a small, rueful tilt; the gloved hand lifts, palm open, unharmed. Hammer untouched, still grounded. (S1E05 P4) (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the shield face carries the gold sun-spoke design and central gold boss, not an eye-seal; read "eye-seal" here as the shield face. Current: `01_VISUAL_STYLE_GUIDE.md` LOOK LOCK section.)
 - **Caption:** THE SIDE DEAL IS BLOCKED. THE WELLS STAY ON THE TABLE. (S1E05 P4)
 - **Bubble (Ra-Thor, canon catch line, 09):** "Blocked." (S1E05 P4)
 - **SFX:** everything but the drone and pad pulls back; then the fixed "Blocked." stinger, a short, low, muted thud and a filter close (S1E05 Music cues, Panel 4; 06 §1).

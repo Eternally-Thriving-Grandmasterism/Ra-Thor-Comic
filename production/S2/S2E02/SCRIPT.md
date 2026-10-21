@@ -35,7 +35,7 @@ Guests (invented, no house, no faction, no glyph, no real name, no celebrity fac
 - **Caption:** QUIET ROOM. PAGE TWO. TILE ONE: A PARADE. TILE FOUR: SAME PARADE, SIDE VIEW. TILE SIX: SOMEONE QUIET. (S2E02 P2)
 - **Bubble (the Herald, on tile one):** "Make way! A hundred carts!" (S2E02 P2)
 - **SFX:** none in file. Music: the dossier pulse enters (tick, pad, heartbeat kick); the wrong-tile tone sounds once for tile one; the tick widens across the stereo field from tile one to tile four to tile six (S2E02 Music cues, Panel 2).
-- **Continuity:** the tracing sheet has no readable words; one lane is left out as a blank strip (S2E02 P2; S2E02 P2 prompt). Detection device: the side view on tile four (S2 sheet §6). The Herald's face hidden behind the trumpet bell; the Tinker's in shadow (S2E02 Guests; set add-on). Shield upright beside the chair with the eye-seal clearly visible; hammer head-down on stone, small crack and sparks at contact (S2E02 P2 prompt; 04 Q5).
+- **Continuity:** the tracing sheet has no readable words; one lane is left out as a blank strip (S2E02 P2; S2E02 P2 prompt). Detection device: the side view on tile four (S2 sheet §6). The Herald's face hidden behind the trumpet bell; the Tinker's in shadow (S2E02 Guests; set add-on). Shield upright beside the chair with the eye-seal clearly visible; hammer head-down on stone, small crack and sparks at contact (S2E02 P2 prompt; 04 Q5). (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the shield face carries the gold sun-spoke design and central gold boss, not an eye-seal; read "eye-seal" here as the shield face. Current: `01_VISUAL_STYLE_GUIDE.md` LOOK LOCK section.)
 
 ## Panel 3 — Council in session
 
@@ -49,7 +49,7 @@ Guests (invented, no house, no faction, no glyph, no real name, no celebrity fac
 ## Panel 4 — The block, at the TOLC
 
 - **Location:** Threshold, at the gold lattice arch, on the line of the LIVE lane (S2E02 P4; S2E02 Set; 10 The Threshold)
-- **Action / staging:** Ra-Thor stands at the Threshold. He sets the shield upright on the line of the LIVE lane, eye-seal facing the oncoming parade. The cart stops against the shield's rim, and the tall painted flats tip gently backward and lie down flat on the cart bed. What is left is one small cart and one Herald, unharmed, trumpet still raised in front of the face, banner drooping. Hammer head-down on stone, untouched. (S2E02 P4)
+- **Action / staging:** Ra-Thor stands at the Threshold. He sets the shield upright on the line of the LIVE lane, eye-seal facing the oncoming parade. The cart stops against the shield's rim, and the tall painted flats tip gently backward and lie down flat on the cart bed. What is left is one small cart and one Herald, unharmed, trumpet still raised in front of the face, banner drooping. Hammer head-down on stone, untouched. (S2E02 P4) (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the shield face carries the gold sun-spoke design and central gold boss, not an eye-seal; read "eye-seal" here as the shield face. Current: `01_VISUAL_STYLE_GUIDE.md` LOOK LOCK section.)
 - **Caption:** THRESHOLD. THE BLUFF IS BLOCKED. ONE REAL CART REMAINS. (S2E02 P4)
 - **Bubble (Ra-Thor, canon catch line, 09):** "Blocked." (S2E02 P4)
 - **SFX:** the fixed "Blocked." stinger, a short, low, muted thud and a filter close, timed to the painted flats lying down (S2E02 Music cues, Panel 4; 06 §1).
@@ -67,7 +67,7 @@ Guests (invented, no house, no faction, no glyph, no real name, no celebrity fac
 ## Panel 6 — Quiet closer
 
 - **Location:** Threshold, at the arch and the LIVE lane (S2E02 P6; S2E02 Set)
-- **Action / staging:** The Tinker steps out of the shadow and walks the small brass pin down the LIVE lane. The lattice lets it through, and the Tinker sets the pin into the gap; the arch reads whole again. The one real cart waits its turn behind them, banner down. Ra-Thor stands planted at the arch, the notebook under his arm, shield upright with the eye-seal out. The masks dim one by one. Visor slit wide-gold. Hammer head-down on stone. (S2E02 P6)
+- **Action / staging:** The Tinker steps out of the shadow and walks the small brass pin down the LIVE lane. The lattice lets it through, and the Tinker sets the pin into the gap; the arch reads whole again. The one real cart waits its turn behind them, banner down. Ra-Thor stands planted at the arch, the notebook under his arm, shield upright with the eye-seal out. The masks dim one by one. Visor slit wide-gold. Hammer head-down on stone. (S2E02 P6) (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the shield face carries the gold sun-spoke design and central gold boss, not an eye-seal; read "eye-seal" here as the shield face. Current: `01_VISUAL_STYLE_GUIDE.md` LOOK LOCK section.)
 - **Caption:** EVERY LANE READ. ONE GAP CLOSED. HAMMER STILL GROUNDED. (S2E02 P6)
 - **Bubble (Ra-Thor, canon catch line, 09):** "That one is live." (S2E02 P6)
 - **SFX:** the fixed "That one is live." stinger, an open major-chord bloom topped by the short 528 Hz chime; the button is the stinger only, no Snap cue (S2E02 Music cues, Panel 6; 06 §1; S2 sheet §5 item 1).

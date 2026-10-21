@@ -130,7 +130,7 @@ The whole package. Story pages hold only E01's five locked beats, paced across e
 | Page 2 (left) | E01 P1 continued: the lanes, then the first bubble | `"Left is noise. Right is live."` |
 | Page 3 (right) | E01 P2 lead-in, silent; ends on a page turn | none |
 | Page 4 (left) | E01 P2, the block (keeper frame) | `"Blocked."` |
-| Page 5 (right) | E01 P3, the pass (eye-seal rerun panel) | `"That one is live."` |
+| Page 5 (right) | E01 P3, the pass (eye-seal rerun panel) | `"That one is live."` (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the shield face carries the gold sun-spoke design and central gold boss, not an eye-seal; read "eye-seal" here as the shield face. Current: `01_VISUAL_STYLE_GUIDE.md` LOOK LOCK section.) |
 | Page 6 (left) | E01 P4, the Recycler wink | `"Recycle it."` |
 | Page 7 (right) | E01 P5 lead-in, silent; ends on a page turn | none |
 | Page 8 (left) | E01 P5 closer splash | `"Next."`, then `HAMMER STILL GROUNDED.` |
@@ -421,7 +421,7 @@ The raised hammer with lightning, after the video's first second, is no longer a
 |---|---|---|
 | 2 | Green visor glyph | `04` Q3; ruling 7 (two glowing eyes; white-hot gold, C13) |
 | 2 | Chest seal (emerald kite emblem with an eye) | C10 (plain gold sun disc, never an eye); `04` Q3 (still a reject under the LOOK LOCK, §13.6) |
-| 1 | Pharaoh-style striped headdress helm | `04` Q4; ruling 5 (great-helm with the winged halo ring) |
+| 1 | Pharaoh-style striped headdress helm | `04` Q4; ruling 5 (great-helm with the winged halo ring) (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the halo is all gold with no eye in the halo, and large gold wings rise from behind the head. Current look: `01_VISUAL_STYLE_GUIDE.md` (LOOK LOCK section) and `production/ISSUE_01/bible/CHARACTER_BIBLE.md` (LOOK LOCK section).) |
 
 Also in the post and already Rejects under canon, listed so a render that copies them is caught:
 
@@ -550,7 +550,7 @@ Fidelity: the shield emblem (Vegvísir, knotwork, runes) must read on the shield
 Prompt: [style] + [stem, silent] + [set] + low strip panel at stone level, chart confetti settling on the dark stone at the foot of the shield, the hammer head-down beside it in a readable plant, small crack and sparks at contact, the answering lightning gone quiet, paper only, no one harmed. + [band] + [guards]
 Source: E01 P2 (chart confetti) and E01 P4 (the confetti is still there to be recycled).
 
-### Page 5 — The pass (the eye-seal rerun). Three panels: one wide tier, one large panel, one small insert.
+### Page 5 — The pass (the eye-seal rerun). Three panels: one wide tier, one large panel, one small insert. (retired emblem name, LOOK LOCK 2026-10-18 1:58 AM ET: the shield face carries the gold sun-spoke design and central gold boss, not an eye-seal; read "eye-seal" here as the shield face; the page title stays as an ID. Current: `01_VISUAL_STYLE_GUIDE.md` LOOK LOCK section.)
 
 **5.1 · PACING (lead-in to E01 P3).** The device in the right lane.
 Prompt: [style] + [stem, silent] + [set] + medium-wide shot of the right lane under the arch, camera low, a small honest device with one warm light sheltered in the lane and unharmed, the LIVE stamp readable on the stone beside it, Ra-Thor at frame edge still planted, the storm eased, hammer head-down. + [band] + [guards]
@@ -619,7 +619,7 @@ Letter every line exactly as written in `episodes/E01_TOLC.md`: case and punctua
 |---|---|---|---|
 | 1.1 | Caption | THRESHOLD. NIGHT. SORT IN PROGRESS. | Bottom-left of the splash, inside the safe area |
 | 2.3 | Bubble | "Left is noise. Right is live." | Above the helm; tail to the visor slit |
-| 4.1 | Bubble | "Blocked." | Upper corner away from the impact; tail to the visor slit; clear of the eye-seal and the confetti |
+| 4.1 | Bubble | "Blocked." | Upper corner away from the impact; tail to the visor slit; clear of the eye-seal and the confetti (LOOK LOCK note 2026-10-18: "eye-seal" here names a layout keep-clear zone at the shield-face centre, now the gold sun-spoke boss; it is not the retired emblem.) |
 | 5.2 | Bubble | "That one is live." | Above the device and the helm; tail to the visor slit; clear of the shield face |
 | 6.1 | Tiny bubble (Ra-Thor) | "Recycle it." | Small, near the hopper; tail to Ra-Thor's visor slit in the background; he stays facing the lanes, not the hopper (council ruling, 2026-10-14) |
 | 8.1 | Bubble | "Next." | Beside the visor; tail to the visor slit |
@@ -746,7 +746,7 @@ None of these is filled here.
 - **D10. The `⚡️` in metadata** where a field strips it. Store copy, export and render checks: `STORE_LISTING_AND_EXPORT.md`, `LETTERING_SPEC.md`, `RENDER_CHECKLIST.md` (PROPOSED).
 - **D11. The seed prompts** (§2): restore them to E01 as owner text, or leave them in history.
 - **D12. CLEAN card text.** E01 gives none; the card prints its label only.
-- **D13. The E01 status line.** Once 5.2 passes, the status line still says "Rerun the pass with the eye-seal before print". It is canon text; updating it needs a card.
+- **D13. The E01 status line.** Once 5.2 passes, the status line still says "Rerun the pass with the eye-seal before print". It is canon text; updating it needs a card. (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the shield face carries the gold sun-spoke design and central gold boss, not an eye-seal; read "eye-seal" here as the shield face. Current: `01_VISUAL_STYLE_GUIDE.md` LOOK LOCK section.)
 - **D14. Cover style.** The owner rulings name the panel style, and ruling 6 says to draw Ra-Thor "from scratch in comic book style". `04` Q13 allows a painted cover, so §5.1 stays painted with `[guards]`. Whether the cover moves to the inked look is Sherif's call. The council finish ruling sets a finish for the painted cover (velvet matte grain, no airbrush gradients), and v17 is painted, so this package reads the cover as staying painted. Confirm. SUPERSEDED 2026-10-16 (Sherif, 11:32 PM ET): all comic production, panels and covers, inked. Sherif, 2026-10-16 11:32 PM ET: "make the whole style comic for the coin and issue, etc., altogether thoughtfully!" The merged V18 painted cover is history, not canon. The [style] line still governs panel prompts. The masthead and ISSUE #1 coin are inked comic lettering (flat gold, bold black keyline, cel bevel, halftone shadow, emerald-tablet green coin accent, rose-gold bolt as the RA⚡THOR hyphen, ™ pending). The velvet matte grain finish still applies to the inked cover.
 
 - **D15. Hammer head etching. CLOSED (OWNER RULING 8:45 PM, §0).** Long engraved haft; big square block head with a gold Eye of Horus on its face. Refined by the OWNER RULING of 9:04 PM (polished gold, stepped head, thin gold haft, base spike), then replaced by the 9:20 PM ruling (cross-shaped stepped head, digital gold eye on the centre boss, engraved gold haft, crystal spike). §6 panel 7.2 follows the block-head lock: gold rectangular block-head war hammer, one lightning bolt set into each of the two broad side faces only; striking ends plain, massive block-head hammer that stands on its head; long sturdy haft to lean on, straight handle, cone-shaped pommel, no eye (triangle top retired 2026-10-16, Sherif; superseded 2026-10-16 4:08 AM: no Eye of Horus on the hammer). (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the hammer head is dark stone-metal with gold bolts; the pommel is hidden under the fist in the ref, so the cone pommel is unconfirmed. Current: §13 (LOOK LOCK sync).)

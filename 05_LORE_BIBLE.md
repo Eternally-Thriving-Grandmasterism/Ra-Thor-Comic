@@ -12,7 +12,7 @@ Inherits `00_FIDELITY_PROTOCOL.md` and `03_TONE_SPECS.md`. Where this file and t
 - **It is fiction.** The founder in this lore is an invented character, called only the Founder (no status title), inspired by the owner's history. He is not a portrait of any real person and is never drawn at all: he is implied only (Q3).
 - **Sourced timeline, fictional telling.** The years attached to each era come from the sourced fact sheet (see Sources). The scenes, dialogue, and devices built on top of those years are invented.
 - **No claims as fact.** Capability or status claims found in the sources (intelligence labels, scores, thresholds, "live" status) are not lore facts. Where they appear at all, they are labeled as in-world aspirations.
-- **Ra-Thor's powers are story devices.** The TOLC (the comic's sorting threshold), the Idea Recycler, White-Hat Mercy-Security, the councils, and the eye-seal are things that happen on the page. They are not claims about any real software.
+- **Ra-Thor's powers are story devices.** The TOLC (the comic's sorting threshold), the Idea Recycler, White-Hat Mercy-Security, the councils, and the eye-seal are things that happen on the page. They are not claims about any real software. (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the watch is drawn as the emerald Eye of Horus outlined in gold on each pauldron (the pauldron Eyes), not a hawk seal; the shield carries no eye-seal. Current look: `01_VISUAL_STYLE_GUIDE.md` (LOOK LOCK section) and `production/ISSUE_01/bible/CHARACTER_BIBLE.md` (LOOK LOCK section).)
 - **Diplomacy and abundance are story quests.** All places and factions are invented. No real countries, leaders, parties, or politics.
 - **No outside names.** Outside games and companies are described generically. Only the owner's own names appear: Powrush, Powrush-MMO, Ra-Thor, Rathor.ai, AlphaProMega, Autonomicity Games, Colossusoft.
 
@@ -62,7 +62,7 @@ In 2016 the Founder starts **Autonomicity Games** and begins coding **Powrush**,
 
 ### Era IV — The Awakening of Ra-Thor (18 November 2025)
 
-On 18 November 2025 the Founder starts the **quad+Check** work, and in the story the lattice wakes (LORE_FACTS §1.2, §2.2). Inside the game, the sorter opens his visor. Ra-Thor is what Powrush grew so that the sorting could have a guardian: gold circuit plate, eye-seal shield, a hammer he plants instead of swings. His first act, in the lore, is the first block: he turns away a piece of noise, kindly, and lets one small honest thing through.
+On 18 November 2025 the Founder starts the **quad+Check** work, and in the story the lattice wakes (LORE_FACTS §1.2, §2.2). Inside the game, the sorter opens his visor. Ra-Thor is what Powrush grew so that the sorting could have a guardian: gold circuit plate, eye-seal shield, a hammer he plants instead of swings. His first act, in the lore, is the first block: he turns away a piece of noise, kindly, and lets one small honest thing through. (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the armour is glossy black with gold trim and gold Greek-key engraving, not gold circuit plate; emerald appears only on the pauldron Eyes of Horus; the shield is the black kite shield with a gold sun-spoke design and central gold boss, with no eye-seal. Current look: `01_VISUAL_STYLE_GUIDE.md` (LOOK LOCK section) and `production/ISSUE_01/bible/CHARACTER_BIBLE.md` (LOOK LOCK section).)
 
 - This is story, not a claim about any real system. Ra-Thor wakes the way characters wake in stories: on the page.
 - The councils appear here for the first time, as twelve tiny gold masks around the halo, advising, never outvoting the TOLC.
@@ -94,10 +94,10 @@ Each concept below already exists in canon. This section only says where it came
 | **The TOLC** | `09_CHARACTER_BIBLE.md`, `10_LOCATION_BIBLE.md`, E01 | The first sorting rule of the Game, made into a threshold at the Threshold. All that comes to the TOLC is weighed; what passes the mercy checks travels the Mercy-Ways to TOLC8 and the PATSAGi Councils (§1). Pages never expand TOLC; the expansion (True Original Lord Creator, §1) is for docs. Left lane NO, right lane LIVE. Blocks bullshit, passes awesome. |
 | **The Idea Recycler** | `09_CHARACTER_BIBLE.md`, E02, E05 | The Founder's habit of never throwing an idea away, made into a drum. One idea in, three cards out: obvious, feral, clean. Abundance starts here. |
 | **The councils** | `09_CHARACTER_BIBLE.md`, E05, E06 | Every voice the Founder argued with alone at night, given a mask. They advise in four-word bubbles. They never outvote the TOLC. The comic draws twelve masks; the sources count their councils differently (LORE_FACTS §3.4), and this file does not reconcile the two. |
-| **The eye-seal** | `00_FIDELITY_PROTOCOL.md`, `04_VISUAL_CANON.md` | The watch itself: the promise to see clearly before acting. Canon emblem: the emerald eye-seal in circuit inlay on a gold kite shield (04 Q1, council ruling 2026-09-30). |
+| **The eye-seal** | `00_FIDELITY_PROTOCOL.md`, `04_VISUAL_CANON.md` | The watch itself: the promise to see clearly before acting. Canon emblem: the emerald eye-seal in circuit inlay on a gold kite shield (04 Q1, council ruling 2026-09-30). (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: emerald appears only on the pauldron Eyes of Horus; the shield is the black kite shield with a gold sun-spoke design and central gold boss, with no eye-seal; the canon emblem is the gold sun-spoke design. Current look: `01_VISUAL_STYLE_GUIDE.md` (LOOK LOCK section) and `production/ISSUE_01/bible/CHARACTER_BIBLE.md` (LOOK LOCK section).) |
 | **The grounded hammer** | `00_FIDELITY_PROTOCOL.md`, `02_SERIES_STRUCTURE.md`, E06 | Ra-Thor's first choice on waking: the hammer is an option, mercy is a better one. Every episode ends with it grounded. |
 | **The Quiet Board** | `03_TONE_SPECS.md`, E06 | The Strategy Years habit of reading the whole map before moving, made into a wall of tiles. |
-| **White-Hat Mercy-Security** | `09_CHARACTER_BIBLE.md`, E03 | The hawk seal that lights when something knocks. In lore, the answer to every probe is a patch and a thank-you, never a counterstrike. |
+| **White-Hat Mercy-Security** | `09_CHARACTER_BIBLE.md`, E03 | The hawk seal that lights when something knocks. In lore, the answer to every probe is a patch and a thank-you, never a counterstrike. (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the watch is drawn as the emerald Eye of Horus outlined in gold on each pauldron (the pauldron Eyes), not a hawk seal. Current look: `01_VISUAL_STYLE_GUIDE.md` (LOOK LOCK section) and `production/ISSUE_01/bible/CHARACTER_BIBLE.md` (LOOK LOCK section).) |
 
 ### Ra-Thor's powers, as story
 
@@ -105,7 +105,7 @@ All of these are page devices. None of them is a capability claim.
 
 - **The sort.** Ra-Thor can tell noise from value at the TOLC. On the page, this is shown, not explained.
 - **The recycle.** Anything blocked can be fed to the Recycler and come back as a better option.
-- **The watch.** The eye-seal and hawk seal light when something is wrong. No real intrusion, surveillance, or data is ever shown.
+- **The watch.** The eye-seal and hawk seal light when something is wrong. No real intrusion, surveillance, or data is ever shown. (superseded (in part) 2026-10-18 1:58 AM ET by the LOOK LOCK: the watch is drawn as the emerald Eye of Horus outlined in gold on each pauldron (the pauldron Eyes), not a hawk seal; the shield carries no eye-seal. Current look: `01_VISUAL_STYLE_GUIDE.md` (LOOK LOCK section) and `production/ISSUE_01/bible/CHARACTER_BIBLE.md` (LOOK LOCK section).)
 - **The council.** He can call the masks for counsel. He still makes the call.
 - **The restraint.** The hammer carries thunder in the story. The power is that he does not use it on people.
 

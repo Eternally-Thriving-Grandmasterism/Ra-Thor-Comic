@@ -20,11 +20,19 @@ governs: it must sit within a few words before the match in the same clause.
 A line that puts emerald on any figure part other than the pauldron Eyes fails
 the same way. The kite shield is canon again, so "kite shield" no longer fails.
 
-Scan scope: the stale check covers only the files in SCAN and STALE_SCAN.
-Other docs (the S1-S3 episodes, production/S*/*/ART_PROMPTS.md,
+Scan scope: the stale check covers the files in SCAN and STALE_SCAN.
+Untagged-term guard (AMEND-3): any eye-seal or hawk-seal mention in a scanned
+file fails unless it is tagged, directly negated, or a keep-clear-zone phrase.
+
+Tests: run `python3 production/ISSUE_01/test_costume_lock.py` from the repo
+root (plain python3, no third-party deps). It copies the repo's .md files to
+a temp dir, injects each must-fail / must-pass line, and runs the text checks
+(the type-margin check needs numpy and cv2 and is skipped there).
+STALE_SCAN includes the episode files, production/S*/*/ART_PROMPTS.md,
 screen/*/STORYBOARD_PROMPTS.md, docs/TRAILER_S1E01.md,
-research/naming_rd_brief.md and the season arc-lock files) are not checked
-until the follow-up card CANON-SYNC-LOOK-LOCK-2 lands; do not render from them.
+research/naming_rd_brief.md and the season files. (The deferral to
+CANON-SYNC-LOOK-LOCK-2 is resolved: that card tagged those files and added
+LOOK LOCK prompts to the prompt files, 2026-10-18.)
 
 Type margin: every type pixel whose alpha is greater than ALPHA_THRESHOLD
 must sit at least 75 px (0.25 in) inside the trim at 300 dpi. The trim line
@@ -32,7 +40,6 @@ is 0.125 in, which is 37.5 px, not the 37 px bleed constant used by the
 sheet builders.
 """
 import os, sys, re
-import numpy as np
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
 SCAN = [
@@ -56,7 +63,36 @@ STALE_SCAN = [
     'production/ISSUE_01/CREDITS_AND_INDICIA.md',
     'production/ISSUE_01/PROPOSED_SPEAKER_RULINGS.md',
     'production/ISSUE_01/bible/kdp/README.md',
+    # CANON-SYNC-LOOK-LOCK-2 (2026-10-18): the deferred docs.
+    'docs/TRAILER_S1E01.md',
+    'research/naming_rd_brief.md',
+    # CANON-SYNC-LOOK-LOCK-2 AMEND-2.
+    '03_TONE_SPECS.md',
+    '05_LORE_BIBLE.md',
+    'docs/LORE_BRIDGE_POWRUSH_RATHOR.md',
+    # CANON-SYNC-LOOK-LOCK-2 AMEND-3.
+    'screen/SCREEN_BIBLE_ADDENDUM.md',
+    'production/README.md',
+    'bots/GROKBOT_COMIC_SEAT.md',
+    'OWNERSHIP-NOTE-2026-10.md',
+    'docs/LIGHT_OCEAN_FORGED_BY_TOLC_SERIES_SEED.md',
 ]
+STALE_GLOBS = (
+    'episodes/*.md',
+    'production/S*/*/ART_PROMPTS.md',
+    'screen/*/STORYBOARD_PROMPTS.md',
+    'seasons/*.md',
+    # AMEND-3.
+    'production/S*/*/SCRIPT.md',
+    'production/S*/*/MUSIC_CUES.md',
+    'screen/S1E0[12]/*.md',
+)
+import glob as _glob
+for _g in STALE_GLOBS:
+    for _f in sorted(_glob.glob(os.path.join(ROOT, _g))):
+        _rel = os.path.relpath(_f, ROOT)
+        if _rel not in SCAN and _rel not in STALE_SCAN:
+            STALE_SCAN.append(_rel)
 # A counted type pixel has alpha strictly greater than this fraction of 255.
 ALPHA_THRESHOLD = 0.03
 DPI = 300
@@ -140,6 +176,21 @@ STALE_CURRENT = (
     ('helm-side-wings', re.compile(
         r'wings are fixed to the sides|compact (?:up-swept )?(?:gold )?(?:helm )?wings|'
         r'wings? no wider than the shoulders', re.I)),
+    # CANON-SYNC-LOOK-LOCK-2 AMEND-2: pre-lock costume terms, scoped to
+    # Ra-Thor's costume. Keep-clear uses ("eye-seal zone", "clear of the
+    # eye-seal", "eye-seal rerun") and scenery ("circuit-plate workshop",
+    # "lab", "walls") do not match.
+    ('eye-seal', re.compile(
+        r'(?P<term>(?:emerald |gold )?eye-seal) (?:kite )?shield|'
+        r'shield with (?:the |an |its )?(?P<term2>(?:emerald )?eye-seal)|'
+        r'(?P<term3>eye-seal) (?:in circuit inlay )?on (?:the|a|its) (?:gold )?(?:kite )?shield|'
+        r'emerald (?:only )?(?:on|for) the (?P<term4>eye-seal)|(?P<term5>eye-seal) only|'
+        r'reserved for the (?P<term6>eye-seal)|[Cc]anon emblem[^.;|]{0,40}(?P<term7>eye-seal)', re.I)),
+    ('hawk-seal', re.compile(r'(?P<term>hawk[- ](?:shaped )?(?:pauldron |shoulder )?seal)', re.I)),
+    ('circuit-plate-armour', re.compile(
+        r'(?P<term>circuit[- ]plate) armou?r|Ra-Thor[^.;]{0,40}(?P<term2>circuit[- ]?plate)(?! workshop| lab| walls?)|'
+        r'(?P<term3>circuit[- ]plate) is Ra-Thor|(?P<term4>gold circuit plate) \(winged', re.I)),
+    ('winged-halo', re.compile(r'(?P<term>\bwinged[- ]halo)', re.I)),
     ('polished-gold-hammer', re.compile(
         r'all metal polished antique gold|polished antique[- ]gold (?:thunder )?hammer|'
         r'hammer[^.;]{0,20}\bpolished antique gold', re.I)),
@@ -161,17 +212,28 @@ def term_start(m):
     """Where the retired term itself starts. For patterns that lead with a
     context word (e.g. 'buckle ... rose gold'), the negation must govern the
     retired term, so 'round gold, no rose-gold buckle' passes."""
-    if 'term' in m.re.groupindex and m.group('term') is not None:
-        return m.start('term')
+    for g in m.re.groupindex:
+        if g.startswith('term') and m.group(g) is not None:
+            return m.start(g)
     return m.start()
+
+# A negation does not reach past a verb or an "and" to the retired term:
+# in "the buckle not silver is rose gold" the "not" governs "silver" only.
+NEG_BLOCK = re.compile(
+    r'\b(?:is|are|be|becomes?|reads?|stays?|has|have|carries|shows?|bears?|'
+    r'holds?|wears?|and)\b', re.I)
 
 def negated(line, start):
     """True if a negation directly governs the phrase starting at `start`."""
     before = line[max(0, start - 80):start]
     parts = CLAUSE_BREAK.split(before)
     clause = parts[-1] if parts else ''
-    words = clause.split()[-NEG_WINDOW:]
-    return bool(NEG_WORD.search(' '.join(words)))
+    window = ' '.join(clause.split()[-NEG_WINDOW:])
+    negs = list(NEG_WORD.finditer(window))
+    if not negs:
+        return False
+    between = window[negs[-1].end():]
+    return not NEG_BLOCK.search(between)
 
 # Emerald on a figure part other than the pauldron Eyes. Cover type (the coin)
 # and the R1 reference record are not costume.
@@ -332,7 +394,10 @@ def eye_failures(path):
     for n, line in enumerate(open(path, encoding='utf-8'), 1):
         if HAMMER_POS.search(line) and not HAMMER_NEG.search(line):
             fails.append((n, 'hammer', line.strip()[:220]))
-        if SHIELD_POS.search(line) and not SHIELD_NEG.search(line):
+        # AMEND-2: a directly negated hit ('no eye-seal shield') is a guard,
+        # not a stale shield eye.
+        if (any(not negated(line, m.start()) for m in SHIELD_POS.finditer(line))
+                and not SHIELD_NEG.search(line)):
             fails.append((n, 'shield', line.strip()[:220]))
         if EMERALD_SEAL_POS.search(line) and not EMERALD_SEAL_NEG.search(line):
             fails.append((n, 'emerald-seal', line.strip()[:220]))
@@ -341,6 +406,13 @@ def eye_failures(path):
         if BLOCK_BAN.search(line) and not BLOCK_BAN_NEG.search(line):
             fails.append((n, 'block-ban', line.strip()[:220]))
     return fails
+
+# AMEND-3 untagged-term guard: in a scanned file every eye-seal or hawk-seal
+# mention must be tagged (LINE_TAG), directly negated (a guard such as 'no
+# eye-seal'), or a recognised layout keep-clear-zone phrase.
+SEAL_TERM = re.compile(r'eye[- ]seal|hawk[- ](?:shaped )?(?:pauldron |shoulder )?seal', re.I)
+KEEP_CLEAR = re.compile(
+    r'keep-clear|clear of the eye[- ]seal|eye[- ]seal (?:keep-clear )?zone|layout (?:keep-clear )?zone', re.I)
 
 def stale_failures(path):
     fails = []
@@ -353,6 +425,9 @@ def stale_failures(path):
             continue
         if in_record or HISTORY_ROW.match(line) or LINE_TAG.search(line):
             continue
+        if not KEEP_CLEAR.search(line) and any(
+                not negated(line, m.start()) for m in SEAL_TERM.finditer(line)):
+            fails.append((n, 'untagged-seal', line.strip()[:220]))
         for kind, pat in STALE_CURRENT:
             for m in pat.finditer(line):
                 if negated(line, term_start(m)):
@@ -410,6 +485,7 @@ def prompt_meta_failures(path):
     return fails
 
 def type_margin():
+    import numpy as np
     import cv2
     T = cv2.imread(TYPE_LAYER, cv2.IMREAD_UNCHANGED)
     if T is None or T.shape[2] < 4:
@@ -422,7 +498,7 @@ def type_margin():
     margin = ymin - TRIM_PX
     return ymin, margin, margin / DPI
 
-def main():
+def main(type_check=True):
     bad = 0
     for rel in SCAN:
         path = os.path.join(ROOT, rel)
@@ -550,6 +626,9 @@ def main():
         if support_prompt not in open(os.path.join(ROOT, rel), encoding='utf-8').read():
             bad += 1
             print('SUPPORT PROMPT missing %s' % rel)
+    if not type_check:
+        # test_costume_lock.py runs the text checks only (no numpy/cv2).
+        return bad
     ymin, margin, inches = type_margin()
     print('TYPE alpha > %.2f ymin %d trim_px %.1f margin_px %.1f (%.4f in)' % (
         ALPHA_THRESHOLD, ymin, TRIM_PX, margin, inches))
