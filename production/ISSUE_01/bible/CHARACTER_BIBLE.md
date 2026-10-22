@@ -354,8 +354,8 @@ Scale and environment, under 3D LOGIC: `12_SCALE_ENVIRONMENT_BIBLE.md`. Ra-Thor 
 
 ### The shield, as painted
 
-- **Outline.** An elongated kite shield: a straight top edge with clipped upper corners, long sides that taper to a single point at the base. Seen slightly turned in the ref.
-- **Proportions.** Measured on the crop, the shield is about 975 px wide and about 2490 px tall, a height-to-width ratio of about 2.5 : 1. The ref is not a true front view, so take 2.5 : 1 as the working ratio for the orthographic line.
+- **Outline.** An elongated kite shield: a straight top edge with clipped upper corners, long sides that taper to a single point at the base. Seen slightly turned in the ref. (superseded (in part) by owner ruling, Sherif, 2026-10-21 8:03 PM ET: the locked shape is a TRUE kite with a broad rounded top, widest in the upper third, and the locked size is 160 × 64 cm; see "Size, shape and carry" below.)
+- **Proportions.** Measured on the crop, the shield is about 975 px wide and about 2490 px tall, a height-to-width ratio of about 2.5 : 1. The ref is not a true front view, so take 2.5 : 1 as the working ratio for the orthographic line. (superseded (in part) by owner ruling, Sherif, 2026-10-21 8:03 PM ET: the locked shape is a TRUE kite with a broad rounded top, widest in the upper third, and the locked size is 160 × 64 cm; see "Size, shape and carry" below.)
 - **Field.** Black, with a fine textured, cracked leather-or-metal grain.
 - **Rim.** A thick bronze-gold rim with round rivets spaced along it, plus a thin inner gold line set in from the rim.
 - **Boss.** A central domed, polished gold boss in a wider flat gold collar ringed with small round rivets.
@@ -369,7 +369,7 @@ Scale and environment, under 3D LOGIC: `12_SCALE_ENVIRONMENT_BIBLE.md`. Ra-Thor 
   7. W (left): a square bracket tip (an E-shaped three-prong end opening outward) with no crossbars.
   8. NW: a square U-hook fork tip and two crossbars.
 - **Knotwork.** Gold Celtic knotwork arches over the top of the N stave, following the top edge and the shoulders. A second interlaced band closes in a V toward the point below the S stave.
-- **Rune border.** A narrow column of small gold rune-like marks runs down the left side between the rim and the inner line. These marks are decorative only and never spell words (earlier ruling). (superseded by owner ruling, Sherif, 2026-10-21 7:32 PM ET: the left border spells MERCY in Elder Futhark, ᛗᛖᚱᚲᛁ, read top to bottom: M ᛗ mannaz, E ᛖ ehwaz, R ᚱ raido, K ᚲ kaunan for C, I ᛁ isaz for Y. It is English spelled in runes, not Old Norse. Artist note: five runes, evenly spaced, gold, left border only.) The ref also shows faint marks on the right border, so see open flag 5.
+- **Rune border.** A narrow column of small gold rune-like marks runs down the left side between the rim and the inner line. These marks are decorative only and never spell words (earlier ruling). (superseded by owner ruling, Sherif, 2026-10-21 7:32 PM ET: the left border spells MERCY in Elder Futhark, ᛗᛖᚱᚲᛁ, read top to bottom: M ᛗ mannaz, E ᛖ ehwaz, R ᚱ raido, K ᚲ kaunan for C, I ᛁ isaz for Y. It is English spelled in runes, not Old Norse. Artist note: five runes, evenly spaced, gold, left border only.) The ref also shows faint marks on the right border, so see open flag 5. (Owner rule, Sherif, 2026-10-21 8:03 PM ET: image generators cannot spell runes reliably. A test render gave M R R K F instead of ᛗᛖᚱᚲᛁ. Place the five runes by hand, or model them exactly from the glyph table below, and check them after every render. A render with wrong runes fails review.)
 - **Palette.** Warm gold and bronze on black. A warm firelit glint on the boss.
 - **No eye on the shield.**
 
@@ -379,9 +379,9 @@ No eye (no Eye of Horus, no eye-seal). No emerald. No sun-spokes. No blue or nav
 
 ### Prompt lines (generated from the ref crop)
 
-- SHIELD PRINT prompt line: Shield prop, inked comic art, bold outlines, flat colour on parchment: an elongated black kite shield (height about 2.5 times the width, straight top with clipped corners, sides tapering to a point), a riveted bronze-gold rim, on the face the gold Vegvísir: eight gold staves radiating from a domed gold boss in a riveted gold collar, each stave ending in its own mark (tridents, forks, crossbars, square hooks), gold Celtic knotwork arching over the top and closing in a V toward the point, five gold Elder Futhark runes ᛗᛖᚱᚲᛁ (MERCY) evenly spaced down the left border only, read top to bottom; warm gold on black; no eye, no emerald, no sun-spokes, no blue.
-- SHIELD ANIMATED prompt line: Shield prop, painted realistic render ready for 3D, warm key light: an elongated kite shield with a black textured leather-or-metal field (height about 2.5 times the width, straight top with clipped corners, sides tapering to a point), a riveted bronze-gold rim, raised gold Vegvísir with eight staves around a polished domed gold boss in a riveted gold collar, each stave ending in its own mark (tridents, forks, crossbars, square hooks), raised gold Celtic knotwork at top and bottom, five gold Elder Futhark runes ᛗᛖᚱᚲᛁ (MERCY) evenly spaced down the left border only, read top to bottom; warm gold and bronze on black; no eye, no emerald, no sun-spokes, no blue.
-- SHIELD ORTHOGRAPHIC prompt line: Shield prop, front-view orthographic reference for 3D modelling, flat even light, no perspective, centred on neutral grey: elongated black kite shield, height 2.5 times the width, riveted bronze-gold rim, gold Vegvísir with eight staves at 45 degree spacing around a domed gold boss in a riveted gold collar, gold Celtic knotwork at top and bottom, five gold Elder Futhark runes ᛗᛖᚱᚲᛁ (MERCY) evenly spaced down the left border only, read top to bottom; no eye, no emerald, no sun-spokes, no blue.
+- SHIELD PRINT prompt line: Shield prop, inked comic art, bold outlines, flat colour on parchment: a black true kite shield 160 cm tall and 64 cm wide (1:2.5) with a broad rounded top, widest in the upper third, tapering to a single pointed foot, not a pointed oval or lens shape, gently curved across the width, a riveted bronze-gold rim, on the face the gold Vegvísir: eight gold staves radiating from a domed gold boss in a riveted gold collar, each stave ending in its own mark (tridents, forks, crossbars, square hooks), gold Celtic knotwork arching over the top and closing in a V toward the point, five gold Elder Futhark runes ᛗᛖᚱᚲᛁ (MERCY) evenly spaced down the left border only, read top to bottom (runes placed by hand or modelled exactly from the bible glyph table, checked after every render); warm gold on black; no eye, no emerald, no sun-spokes, no blue.
+- SHIELD ANIMATED prompt line: Shield prop, painted realistic render ready for 3D, warm key light: a true kite shield 160 cm tall and 64 cm wide (1:2.5) with a broad rounded top, widest in the upper third, tapering to a single pointed foot, not a pointed oval or lens shape, gently curved across the width, black textured leather-or-metal field, a riveted bronze-gold rim, raised gold Vegvísir with eight staves around a polished domed gold boss in a riveted gold collar, each stave ending in its own mark (tridents, forks, crossbars, square hooks), raised gold Celtic knotwork at top and bottom, five gold Elder Futhark runes ᛗᛖᚱᚲᛁ (MERCY) evenly spaced down the left border only, read top to bottom (runes placed by hand or modelled exactly from the bible glyph table, checked after every render); warm gold and bronze on black; no eye, no emerald, no sun-spokes, no blue.
+- SHIELD ORTHOGRAPHIC prompt line: Shield prop, front-view orthographic reference for 3D modelling, flat even light, no perspective, centred on neutral grey: black true kite shield, 160 cm tall by 64 cm wide (1:2.5), broad rounded top, widest at 20 percent of the height from the top, tapering to a single pointed foot, not a pointed oval, 8 cm curve across the width, shown flat-on with a scale bar, riveted bronze-gold rim, gold Vegvísir with eight staves at 45 degree spacing around a domed gold boss in a riveted gold collar, gold Celtic knotwork at top and bottom, five gold Elder Futhark runes ᛗᛖᚱᚲᛁ (MERCY) evenly spaced down the left border only, read top to bottom (runes placed by hand or modelled exactly from the bible glyph table, checked after every render); no eye, no emerald, no sun-spokes, no blue.
 
 ### Open flag
 
@@ -419,3 +419,61 @@ This is the in-story meaning of each element, for writers and artists. It is sto
 1. Decided (Sherif, 2026-10-21 7:32 PM ET): the left border spells MERCY, ᛗᛖᚱᚲᛁ (see the rune border above).
 2. History (resolved 7:32 PM ET; MERCY chosen): the options were to keep it decorative or to spell one real inscription in Elder Futhark, English-first, transliterated letter by letter. That would amend the standing ruling. Proposal: **MERCY**, written ᛗ ᛖ ᚱ ᚲ ᛁ (M = mannaz ᛗ, E = ehwaz ᛖ, R = raido ᚱ, C written as K = kaunan ᚲ, Y written as I = isaz ᛁ). This is an English word in runic letters, not an Old Norse word. Alternative: **FIND THE WAY**, ᚠᛁᚾᛞ ᚦᛖ ᚹᚨᛁ (F ᚠ, I ᛁ, N ᚾ, D ᛞ / TH = thurisaz ᚦ, E ᛖ / W = wunjo ᚹ, A ᚨ, Y as I ᛁ).
 3. Whether the eight vows above become canon, or are renamed.
+
+### MERCY glyph table (owner rule, Sherif, 2026-10-21 8:03 PM ET)
+
+Image generators cannot spell runes reliably: a test render gave M R R K F instead of ᛗᛖᚱᚲᛁ. Place the five MERCY runes by hand (inks, paint-over or decal), or model them exactly from this table, and check them against it after every render. A render with wrong, missing, extra or reordered runes fails review. Runes run top to bottom down the left border, upright (not rotated), evenly spaced, gold, all the same height.
+
+| # | Rune | Name | Letter | Strokes (as drawn upright) |
+|---|---|---|---|---|
+| 1 | ᛗ | mannaz | M | Two full-height vertical staves side by side. From the top of each stave a diagonal runs down to the opposite stave and ends at about half height, so the two diagonals cross in an X between the staves' upper halves. |
+| 2 | ᛖ | ehwaz | E | Two full-height vertical staves side by side. From the top of each stave a diagonal runs inward and down, and the two meet at one point at about one-third height from the top, forming a V between the stave tops. No crossing. |
+| 3 | ᚱ | raido | R | One full-height vertical stave on the left. From its top a stroke runs right and down to a point at about mid-height, then back to the stave, closing a pointed bowl (a triangle) on the upper right. From the bowl's lower point a straight leg runs diagonally down and right to the baseline. |
+| 4 | ᚲ | kaunan (for C) | K | A small angle open to the right, like "<". Two short straight strokes meet at a point on the left, set in the upper half of the rune height, about half as tall as the others. No vertical stave. |
+| 5 | ᛁ | isaz (for Y) | I | A single full-height vertical stroke. Nothing else. |
+
+Review check: read the column top to bottom and confirm ᛗ ᛖ ᚱ ᚲ ᛁ in that order. Common failures: ᛗ drawn as M; ᛖ drawn as a second ᛗ or as M; ᚱ duplicated; ᚲ drawn as K; ᛁ replaced by ᚠ (F).
+
+### Size, shape and carry (owner ruling, Sherif, 2026-10-21 8:03 PM ET)
+
+Ra-Thor is 7 ft 0 in (213 cm) armoured, 8.5 heads, so one head is about 25 cm. Historical kite shields ran roughly chin to shin on the bearer, about 90–120 cm tall for an average man, at about 1 : 2.5 width to height. Scaled to him, the locked size is:
+
+| Measure | cm | ft / in | heads |
+|---|---|---|---|
+| Height (top crown to foot point) | 160 cm | 5 ft 3 in | 6.4 heads |
+| Width (at the widest point) | 64 cm | 2 ft 1 in | 2.6 heads |
+| Width : height | 1 : 2.5 | | |
+| Thickness, field (wood core with leather facing) | 1.5 cm | 0.6 in | |
+| Thickness, rim | 2.5 cm | 1 in | |
+| Boss projection | 8 cm | 3 in | 0.3 heads |
+| Curve across the width (depth of the arc, measured flat-on) | 8 cm | 3 in | |
+| Estimated weight (estimate, not a measurement) | 11–14 kg | 24–31 lb | |
+
+- **Coverage.** Held on the arm in guard, the top sits at his chin (about 188 cm) and the foot at about mid-shin (about 28 cm).
+- **Planted point-down.** The top edge stands at about 160 cm, which is upper-chest height on him. That is below his shoulder line (about 175 cm, 7 heads). See the flag below.
+- **Grip.** Enarmes (two leather straps for the forearm, plus a hand grip) on the back, set centre-left. A long guige strap lets it hang from the shoulder or sling across the back.
+- **Carry.** Slung on the back by the guige when travelling. On the left forearm in guard. Planted point-down beside him at rest, like the hammer.
+
+**Shape: a TRUE kite.** This is NOT a pointed oval and NOT a lens shape (that render error happened).
+
+Proportion landmarks, with H = 160 cm (height) and W = 64 cm (widest width), measured down from the top crown:
+
+| Point | Down from top | Width at that point |
+|---|---|---|
+| 0 % H, crown | 0 cm | broad rounded top. The top is one continuous convex arc meeting the sides at 12 % H. It never comes to a point. |
+| 12 % H | 19 cm | 60 cm (where the top arc meets the sides) |
+| 20 % H, widest | 32 cm | 64 cm (widest point, in the upper third) |
+| 33 % H | 53 cm | 61 cm |
+| 40 % H, boss centre | 64 cm | 57 cm |
+| 50 % H | 80 cm | 50 cm |
+| 67 % H | 107 cm | 36 cm |
+| 83 % H | 133 cm | 19 cm |
+| 100 % H, foot | 160 cm | a single sharp point (included angle about 40°) |
+
+The sides run from the widest point to the foot in long, slightly convex curves, never straight and never concave. The outline is mirror-symmetric about the vertical centreline.
+
+**Shape symbolism.** The rounded top is shelter held over others. The pointed foot plants into the ground to hold the line (the Ground vow). The taper is the path narrowing toward one truth.
+
+**3D / Blender scale line.** Model at real scale in metres: height 1.60 m, width 0.64 m, field thickness 0.015 m, rim 0.025 m, boss projection 0.08 m, 0.08 m curve across the width. Origin at the foot point. Use the landmark table for the outline, and place it beside the 2.13 m Ra-Thor rig for scale checks. MERCY runes are separate modelled gold inlays, placed from the glyph table, never generated by texture AI.
+
+**Flag (owner).** The brief asked for the top at about shoulder height when planted. At 160 cm the top reaches upper chest (shoulder is about 175 cm). Keep 160 cm, or raise it to about 175 cm (1:2.5 gives 70 cm wide), which goes beyond the 150–160 cm range?
