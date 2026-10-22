@@ -237,6 +237,8 @@ DUAL_REFS = [
     'production/ISSUE_01/bible/refs/rathor_hero_shield_lock_2026-10-21.jpg',
     'production/ISSUE_01/bible/refs/rathor_shield_lock_v2_2026-10-21.jpg',
 ]
+EDITIONS_OPEN = "**OPEN, Sherif's call, nothing done by bots:** pricing; ISBNs (each edition may need its own); KDP or printer setup; listing or publishing."
+
 DUAL_REQUIRED = [
     ('production/ISSUE_01/bible/CHARACTER_BIBLE.md', (
         '## DUAL LOOK LOCK 2026-10-21', 'rathor_look_lock_print_2026-10-21.jpg',
@@ -787,6 +789,18 @@ def main(type_check=True):
             if ph not in text:
                 bad += 1
                 print('DUAL REQUIRE %s missing %s' % (rel, ph))
+    # Wild AMEND on #115: the print editions OPEN line must stay, undecided.
+    ed_rel = '01_VISUAL_STYLE_GUIDE.md'
+    ed_path = os.path.join(ROOT, ed_rel)
+    ed_text = open(ed_path, encoding='utf-8').read() if os.path.isfile(ed_path) else ''
+    ed_lines = [l for l in ed_text.split('\n') if EDITIONS_OPEN in l]
+    if not ed_lines:
+        bad += 1
+        print('EDITIONS OPEN %s missing %s' % (ed_rel, EDITIONS_OPEN))
+    for l in ed_lines:
+        if re.search(r'\bdecided\b', l, re.I):
+            bad += 1
+            print('EDITIONS OPEN %s marked decided: %s' % (ed_rel, l[:80]))
     for rel in DUAL_REFS:
         if not os.path.isfile(os.path.join(ROOT, rel)):
             bad += 1

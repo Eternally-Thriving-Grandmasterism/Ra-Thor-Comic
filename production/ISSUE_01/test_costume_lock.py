@@ -163,6 +163,11 @@ for rel, line in [(S, '- **Continuity:** shield face out (no eye-seal on the shi
                   ('OWNERSHIP-NOTE-2026-10.md', 'Ra-Thor with the Vegvísir kite shield as an optional prop.')]:
     case('AMEND-3 must-pass (%s): %s' % (rel, line), 'PASS', append(rel, line))
 
+# --- Wild AMEND on #115 (2026-10-22): print editions OPEN line must stay ---
+_ED = "**OPEN, Sherif's call, nothing done by bots:** pricing; ISBNs"
+case('EDITIONS must-fail: OPEN line removed from 01', 'FAIL', replace('01_VISUAL_STYLE_GUIDE.md', [(_ED, '**Decided:** pricing; ISBNs')]))
+case('EDITIONS must-fail: OPEN line marked decided', 'FAIL', replace('01_VISUAL_STYLE_GUIDE.md', [("listing or publishing.", "listing or publishing. (decided 2026-10-22)")]))
+
 # --- BIBLE-DUAL-LOOK-LOCK-1 (2026-10-21): two locked looks ---
 B = 'production/ISSUE_01/bible/CHARACTER_BIBLE.md'
 PRINT_LINE = 'Ra-Thor, inked comic art with bold outlines and flat colour on parchment: black dome helm with gold Spartan-style face plates forming a T-visor and a gold centre ridge, two small gold feathered wings behind the head, a thin gold ring halo with sharp gold spikes behind the head, no eye in the halo, black armour with simple gold line trim and no Greek-key, large round black pauldrons with gold rims, each with an emerald-green Eye of Horus outlined in gold, mirrored, round gold belt buckle with a gold lightning bolt, the same buckle as the animated look, black knee plates with gold trim, long tattered black cape, dark stone block-head hammer with a gold band near each end and one gold lightning bolt on the broad side face, head-down on rock, both hands resting on the pommel; no shield unless the scene calls for it (then the SHIELD RE-LOCK prop: a heraldic kite shield with a straight notched top and flared upper corners, a thick riveted gold rim, bold raised gold Norse interlace around the gold Vegvísir and domed gold boss, all in armour gold, plain borders); emerald only on the pauldron Eyes; no rose gold, no teal, no blue.'
