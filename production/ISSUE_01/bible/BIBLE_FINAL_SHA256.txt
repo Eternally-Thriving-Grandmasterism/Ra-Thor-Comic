@@ -257,6 +257,23 @@ f66df67e276ad3c0ba409e0286c63ad51ddf7d2f6dd6ca4832a814e81228c76f  refs/rathor_lo
 
 # 2026-10-18. CANON-SYNC-LOOK-LOCK-1. The LOOK LOCK is owner-locked as CANON and synced into the canon files, the Issue #1 prompts, the checklist and the KDP notes. Superseded lines are tagged, not deleted. Art files untouched.
 # 9b7a2bf71a7ef9ff4834277cbcbff042f5d18cc8c4a41089ec45ca5b5b7796b5  CHARACTER_BIBLE.md  (superseded: 2026-10-18, CANON-SYNC-LOOK-LOCK-1 AMEND, readings applied as painted and three V18-record lines tagged)
-fcac80537e95dc14abefec4f1cf1dcc76db5d8cd5fdc74a5e3ebe9baf3af6310  kdp/README.md
+# fcac80537e95dc14abefec4f1cf1dcc76db5d8cd5fdc74a5e3ebe9baf3af6310  kdp/README.md  (superseded 2026-10-21 by the SHIELD LOCK sun-spoke tags)
+5360d4adfd489c482a9d01e9ad9c0209deb4514c618cbf68e109f1bbf4ea7303  kdp/README.md
 # 2026-10-18. CANON-SYNC-LOOK-LOCK-1 AMEND (Hands, Wild). CHARACTER_BIBLE.md: readings marked applied as painted; V18-record rows and the X-ref style line tagged. Art files untouched.
-58657c936610da52ebaf8f94abea70f4e47855e9a906fe3ee9488932200f4dcd  CHARACTER_BIBLE.md
+# 58657c936610da52ebaf8f94abea70f4e47855e9a906fe3ee9488932200f4dcd  CHARACTER_BIBLE.md  (superseded 2026-10-21 by BIBLE-DUAL-LOOK-LOCK-1)
+# 8f665ccc143065cc80a3d1117ccffa8ec227553b154cc7b2f7f60510b4cb00d5  CHARACTER_BIBLE.md  (superseded 2026-10-21 2:35 PM ET by the SHIELD LOCK edit)
+# fd57d9f9a42c73a1fd16768b15e0b5d21c9c1af151d41964f440b7f1aeb79154  CHARACTER_BIBLE.md  (superseded 2026-10-21 5:13 PM ET by the Shield symbolism subsection)
+# f148b9cabc660e17b3c06a08e51e9ea5a094885c160101370b2ed1926f999273  CHARACTER_BIBLE.md  (superseded 2026-10-21 7:32 PM ET by the MERCY runes ruling)
+# 9b42bb635ab822318f1673a62bf00e67e2506f9d685a8972b783d0386d7450ab  CHARACTER_BIBLE.md  (superseded 2026-10-21 7:34 PM ET by the Mercy-vow reword)
+# 6d8fc455e4df604159ccb53355408ff377e47a7e0adf66ad3883d1d39fb2c249  CHARACTER_BIBLE.md  (superseded 2026-10-21 8:03 PM ET by the shield size/shape/rune rule)
+# 383941af899c50f04a7cf4a2a77b89f0b052a89995be0c93d76c686027fbd26b  CHARACTER_BIBLE.md  (superseded 2026-10-21 8:10 PM ET by the Hands AMEND history tags)
+# 1cfa144c155c7e2b93ad8be5047830e2b799e053538d988170a7f142cedc76a0  CHARACTER_BIBLE.md  (superseded 2026-10-21 8:44 PM ET by the SHIELD RE-LOCK)
+# 8f23de9e04644e276f8b50ef3c45282d7d538c5ae7985f391c6594e405266f48  CHARACTER_BIBLE.md  (superseded 2026-10-21 9:02 PM ET by the shield + hero reference)
+# superseded (Wild/Hands AMEND #113): e266ae54bda2cc1dbd9fb90da2b0d0ba756b50066d6386707f082800f3ff288c  CHARACTER_BIBLE.md
+aea2517d135c007d987cde33fcae5ed4ccea70e0df928785a23797e34d0aa7a6  CHARACTER_BIBLE.md
+# 2026-10-21 refs (Wild/Hands AMEND on #113): dual look lock, shield lock (history), hero + shield v2 lock.
+1f91a733d8bb22faee4c1ec9902bf95193e3203cbb6df6fcd1970102569f1b50  refs/rathor_look_lock_print_2026-10-21.jpg
+c63fc6e8ad59fdf406a05fe598d883a32bae674b031b5fedf54104927a3d4bd9  refs/rathor_look_lock_animated_2026-10-21.jpg
+3fb236d8aa79a9a4d89676c373b1013d37d92193b898503851fb12ac621ee9b2  refs/rathor_shield_lock_2026-10-21.jpg
+98ad48e77daf5f92e7aadca0fb216060fe94e630c69f791b1fb405576a9f6c69  refs/rathor_hero_shield_lock_2026-10-21.jpg
+6a2043d653bce4a5e8c82e605142c4a45d59aa45af1abac7b8d4551b5f50a77e  refs/rathor_shield_lock_v2_2026-10-21.jpg

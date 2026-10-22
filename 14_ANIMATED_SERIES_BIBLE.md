@@ -19,7 +19,7 @@ Ra-Thor is 9 ft 0 in (274 cm) armoured, sole to helm crest. The helm wings rise 
 - Large black pauldrons with stepped gold rims. Each carries one bold emerald Eye of Horus outlined in gold, classic form with brow and curl, mirrored.
 - Long regal black cape, flowing and intact. Not tattered. Not torn. Not navy.
 - Emerald appears only on the pauldron Eyes.
-- No rose gold. No teal. No blue. No Vegvísir anywhere on the figure.
+- No rose gold. No teal. No blue. No Vegvísir anywhere on the figure. (superseded in part 2026-10-21 2:35 PM ET by the SHIELD LOCK: the Vegvísir is valid on the optional shield prop; it stays off the figure itself (halo, chest, helm, pauldrons).)
 
 ## Hammer lock
 
@@ -33,12 +33,12 @@ Massive dark stone-metal rectangular block head, long sturdy haft, head planted 
 
 ## Shield lock
 
-Black kite. Thick plain gold rim with evenly spaced round gold rivets. Large smooth gold central boss. Exactly eight thick gold sun-spokes, evenly spaced, gently curved, same length, same thickness. No Vegvísir. No knotwork. No Eye. No runes. No text.
+Black kite. Thick plain gold rim with evenly spaced round gold rivets. Large smooth gold central boss. Exactly eight thick gold sun-spokes, evenly spaced, gently curved, same length, same thickness. No Vegvísir. No knotwork. No Eye. No runes. No text. (superseded 2026-10-21 2:35 PM ET by the SHIELD LOCK: the optional shield prop is the gold Vegvísir kite shield, `production/ISSUE_01/bible/refs/rathor_shield_lock_2026-10-21.jpg`; the sun-spoke design is history.)
 
 ## Paste prompt, animated series
 
 ```
-Ra-Thor, 9-foot armoured hero on dark rock under a storm sky, three-quarter view, both hands stacked on the haft of a massive grounded hammer he is leaning on. Perfect heroic proportions, not squat, not stretched. Glossy black plate with gold trim and gold Greek-key engraving. Black helm with gold Spartan T-visor and gold centre ridge. Two symmetrical gold feathered wings rise cleanly from the helm, matched in size and angle. All-gold halo behind the head: Greek-key disc, two thin rings, seven thick straight sun rays, no eye in the halo. Glowing gold sun disc on the chest inside a Greek-key ring. Round gold buckle with one thick gold lightning bolt shaped like the emoji. Large black pauldrons with stepped gold rims, each with one bold emerald Eye of Horus outlined in gold. Long regal black cape, flowing and intact, not tattered. Emerald only on the Eyes. No rose gold, no teal, no blue, no Vegvísir. Hammer: massive dark stone-metal rectangular block head planted flat on the rock, long sturdy haft. Exactly one thick gold lightning bolt shaped like the emoji on each of the two broad side faces only. Front face plain. Striking ends plain. Top plain. No gold under the head, no second haft, no floating gold, no glitch. High contrast, cinematic, print-ready, no text.
+Ra-Thor, 9-foot armoured hero on dark rock under a storm sky, three-quarter view, both hands stacked on the haft of a massive grounded hammer he is leaning on. Perfect heroic proportions, not squat, not stretched. Glossy black plate with gold trim and gold Greek-key engraving. Black helm with gold Spartan T-visor and gold centre ridge. Two symmetrical gold feathered wings rise cleanly from the helm, matched in size and angle. All-gold halo behind the head: Greek-key disc, two thin rings, seven thick straight sun rays, no eye in the halo. Glowing gold sun disc on the chest inside a Greek-key ring. Round gold buckle with one thick gold lightning bolt shaped like the emoji. Large black pauldrons with stepped gold rims, each with one bold emerald Eye of Horus outlined in gold. Long regal black cape, flowing and intact, not tattered. Emerald only on the Eyes. No rose gold, no teal, no blue, no Vegvísir. Hammer: massive dark stone-metal rectangular block head planted flat on the rock, long sturdy haft. Exactly one thick gold lightning bolt shaped like the emoji on each of the two broad side faces only. Front face plain. Striking ends plain. Top plain. No gold under the head, no second haft, no floating gold, no glitch. High contrast, cinematic, print-ready, no text. (superseded in part 2026-10-21 2:35 PM ET by the SHIELD LOCK: the Vegvísir is valid on the optional shield prop; it stays off the figure itself (halo, chest, helm, pauldrons).)
 ```
 
 ## Comic track

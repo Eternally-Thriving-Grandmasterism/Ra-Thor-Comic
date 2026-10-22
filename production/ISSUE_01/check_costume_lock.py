@@ -11,7 +11,7 @@ carry the locked look: the black kite shield with a gold sun-spoke design and
 a central gold boss, the all-gold halo with no eye in the halo, the round gold
 buckle, the gold Greek-key engraving, and emerald only on the pauldron Eyes.
 The Vegvísir shield (and its elongated form), the Eye of Horus in the halo,
-the eight halo spokes, the rose-gold buckle, the stacked-hands rest, the
+the eight halo spokes, the rose-gold buckle, the
 bronze-gold cape lining and the helm-side wings are history. A scanned line
 that still states one of them as current fails, unless the same line marks it
 superseded, history, retired, amended, moot, resolved or a reject. A negation
@@ -19,6 +19,15 @@ word (no, not, never, without, was, ...) exempts only the phrase it directly
 governs: it must sit within a few words before the match in the same clause.
 A line that puts emerald on any figure part other than the pauldron Eyes fails
 the same way. The kite shield is canon again, so "kite shield" no longer fails.
+
+DUAL LOOK LOCK (Sherif 2026-10-21 2:30 PM ET): two locked looks, PRINT
+(comic pages, covers, KDP) and ANIMATED (screen/, trailer, 3D, Blender). The
+check requires both refs, the DUAL LOOK LOCK section in the Issue #1 Bible
+and both prompt stems in 01. The stacked-hands rest is valid again; the
+shield is an optional prop (Sherif 2:31 PM ET). SHIELD LOCK (Sherif 2:35 PM
+ET): the prop is the gold Vegvísir kite shield (refs/rathor_shield_lock_2026-10-21.jpg).
+The Vegvísir is valid on the shield and fails on the halo, chest or figure;
+sun-spoke, emerald and eye-seal shields fail.
 
 Scan scope: the stale check covers the files in SCAN and STALE_SCAN.
 Untagged-term guard (AMEND-3): any eye-seal or hawk-seal mention in a scanned
@@ -76,6 +85,8 @@ STALE_SCAN = [
     'bots/GROKBOT_COMIC_SEAT.md',
     'OWNERSHIP-NOTE-2026-10.md',
     'docs/LIGHT_OCEAN_FORGED_BY_TOLC_SERIES_SEED.md',
+    # Hands AMEND on #113.
+    '14_ANIMATED_SERIES_BIBLE.md',
 ]
 STALE_GLOBS = (
     'episodes/*.md',
@@ -138,7 +149,6 @@ LOOK_FILES = [
 LOOK_REQUIRED = (
     ('LOOK LOCK', re.compile(r'LOOK LOCK')),
     ('black kite shield', re.compile(r'black kite shield', re.I)),
-    ('gold sun-spoke design', re.compile(r'gold sun-spoke design', re.I)),
     ('central gold boss', re.compile(r'central gold boss', re.I)),
     ('no eye in the halo', re.compile(r'no eye in the halo', re.I)),
     ('round gold buckle', re.compile(r'round gold (?:belt )?buckle', re.I)),
@@ -159,7 +169,17 @@ LOOK_REQUIRED = (
 # Headings of superseded, history, reject or conflict sections, and dated
 # history-table rows, are skipped.
 STALE_CURRENT = (
-    ('vegvisir', re.compile(r'Vegv[ií]sir', re.I)),
+    # SHIELD LOCK (Sherif 2026-10-21 2:35 PM ET): the Vegvísir is valid ON THE
+    # SHIELD PROP again. It still fails on the halo, chest, helm, pauldrons,
+    # buckle, belt, cape or hammer.
+    ('vegvisir-off-shield', re.compile(
+        r'\b(?:halo|chest|helm|pauldrons?|buckle|belt|cape|hammer|breastplate)\b(?:(?!shield)[^.;,()|]){0,30}(?P<term>Vegv[ií]sir)|'
+        r'(?P<term2>Vegv[ií]sir)(?:(?!shield)[^.;,()|]){0,25}\b(?:halo|chest|helm|pauldrons?|buckle|belt|cape|hammer|breastplate)\b', re.I)),
+    # The sun-spoke shield design is history (SHIELD LOCK 2:35 PM ET).
+    ('sun-spoke', re.compile(r'(?P<term>sun[- ]spoke)', re.I)),
+    ('emerald-shield', re.compile(
+        r'(?P<term>emerald)(?: green)? (?:kite |gold |black )?shield|'
+        r'shield\b(?:(?!pauldron)[^.;,()|]){0,25}(?P<term2>emerald)(?! only| appears only)', re.I)),
     ('halo-eye', re.compile(
         r'Eye of Horus (?:halo|sigil|disc)|Eye of Horus in the halo|halo(?:\'s)? Eye of Horus|'
         r'Eye of Horus sigil|halo sigil', re.I)),
@@ -171,8 +191,10 @@ STALE_CURRENT = (
     ('rose-gold-bolt', re.compile(
         r'rose[- ]gold (?:lightning[- ]?)?bolt|rose gold only for the bolt|'
         r'buckle-centre bolt|bolt[^.;]{0,25}\bis (?P<term>rose gold)', re.I)),
-    ('stacked-hands', re.compile(r'stacked hands|both stacked hands|hands stacked|relaxed and stacked', re.I)),
-    ('bronze-gold-lining', re.compile(r'bronze-gold', re.I)),
+    # BIBLE-DUAL-LOOK-LOCK-1 (2026-10-21): both hands stacked on the pommel is
+    # the rest in both locked looks again, so 'stacked-hands' is no longer stale.
+    # Narrowed 2026-10-21: the SHIELD LOCK rim is bronze-gold; only the cape lining is stale.
+    ('bronze-gold-lining', re.compile(r'bronze-gold (?:cape )?lining|(?:cape|lining)[^.;]{0,30}(?P<term>bronze-gold)', re.I)),
     ('helm-side-wings', re.compile(
         r'wings are fixed to the sides|compact (?:up-swept )?(?:gold )?(?:helm )?wings|'
         r'wings? no wider than the shoulders', re.I)),
@@ -207,6 +229,40 @@ CLAUSE_BREAK = re.compile(r'[,;:.()\[\]!?]|\bbut\b|\byet\b', re.I)
 TYPE_CONTEXT = re.compile(r'title|hyphen|lettering|cover[- ]mark|\bmark\b|RA⚡THOR|type', re.I)
 HISTORY_ROW = re.compile(r'^\s*\|\s*(?:Oct |Sep |~|PR |#|R\d)')
 RECORD_HEAD = re.compile(r'supersed|history|reject|conflict', re.I)
+
+DUAL_REFS = [
+    'production/ISSUE_01/bible/refs/rathor_look_lock_print_2026-10-21.jpg',
+    'production/ISSUE_01/bible/refs/rathor_look_lock_animated_2026-10-21.jpg',
+    'production/ISSUE_01/bible/refs/rathor_shield_lock_2026-10-21.jpg',
+    'production/ISSUE_01/bible/refs/rathor_hero_shield_lock_2026-10-21.jpg',
+    'production/ISSUE_01/bible/refs/rathor_shield_lock_v2_2026-10-21.jpg',
+]
+DUAL_REQUIRED = [
+    ('production/ISSUE_01/bible/CHARACTER_BIBLE.md', (
+        '## DUAL LOOK LOCK 2026-10-21', 'rathor_look_lock_print_2026-10-21.jpg',
+        'rathor_look_lock_animated_2026-10-21.jpg', 'PRINT LOOK prompt line:',
+        'ANIMATED LOOK prompt line:', 'OPTIONAL prop', '**Buckle bolt.**',
+        '## SHIELD LOCK 2026-10-21', 'rathor_shield_lock_2026-10-21.jpg',
+        'SHIELD PRINT prompt line:', 'SHIELD ANIMATED prompt line:',
+        'SHIELD ORTHOGRAPHIC prompt line:', '8. **NW, square hook: Watch.** Keep the watch',
+        # SHIELD RE-LOCK (Sherif 2026-10-21 8:20-8:44 PM ET).
+        '## SHIELD RE-LOCK 2026-10-21', '**Reference images (locked, Sherif 2026-10-21 9:02 PM ET).**', 'The pommel cap is hidden under his hand',
+        '| Height (top edge to point) | 165 cm | 5 ft 5 in | 6.6 heads |',
+        '| Width (at the widest point) | 78 cm | 2 ft 7 in | 3.1 heads |',
+        'Not a pointed oval, and not round-topped.', '20 % H, widest',
+        '**3D / Blender scale line (re-lock).**', 'NOT chain links', 'one unbroken thread',
+        'No bronze or brass tone.', 'No runes or letters anywhere on the shield.',
+        'Bots write prompts only and never hand-paint',
+        'SHIELD RE-LOCK PRINT prompt line:', 'SHIELD RE-LOCK ANIMATED prompt line:',
+        'SHIELD RE-LOCK ORTHOGRAPHIC prompt line:', 'HERO prompt line (with shield):', 'Avoid: a round knob or ball pommel',
+        'stay **proposed**')),
+    ('01_VISUAL_STYLE_GUIDE.md', (
+        '## DUAL LOOK LOCK (2026-10-21)', '**Prompt stem, PRINT look',
+        '**Prompt stem, ANIMATED look', 'Shield prompts (SHIELD RE-LOCK', '165 × 78 cm', 'not a pointed oval and not round-topped', '> **Hero (with shield):**')),
+    ('04_VISUAL_CANON.md', ('## DUAL LOOK LOCK (2026-10-21)',)),
+    ('09_CHARACTER_BIBLE.md', ('**DUAL LOOK LOCK',)),
+    ('production/ISSUE_01/HANDOFF.md', ('DUAL LOOK LOCK',)),
+]
 
 def term_start(m):
     """Where the retired term itself starts. For patterns that lead with a
@@ -414,6 +470,51 @@ SEAL_TERM = re.compile(r'eye[- ]seal|hawk[- ](?:shaped )?(?:pauldron |shoulder )
 KEEP_CLEAR = re.compile(
     r'keep-clear|clear of the eye[- ]seal|eye[- ]seal (?:keep-clear )?zone|layout (?:keep-clear )?zone', re.I)
 
+# Hands AMEND on #113 (2026-10-21): lines that call the sun-spoke shield
+# current, or reject the Vegvísir on the shield, must carry a real
+# supersession tag. 'reject' alone is not enough here, because a reject
+# list that rejects the now-locked Vegvísir shield is itself stale.
+SUPERSEDE_TAG = re.compile(r'supersed|history|historical|retired|resolved|moot', re.I)
+SUN_SPOKE = re.compile(r'sun[- ]spoke', re.I)
+OFF_SHIELD = r'(?:\s+(?:in|on)\s+(?:the\s+)?(?:halo|chest|helm|pauldrons?|buckle|belt|cape|hammer|breastplate))'
+VEG_REJECT = re.compile(
+    r'\bno\s+Vegv[ií]sir(?!' + OFF_SHIELD + r')|\bnever\s+(?:a\s+|the\s+)?Vegv[ií]sir(?!' + OFF_SHIELD + r')|'
+    r'\bwithout\s+(?:a\s+|the\s+)?Vegv[ií]sir(?!' + OFF_SHIELD + r')|'
+    r'Vegv[ií]sir(?:(?!halo|chest|helm|pauldron)[^.;|]){0,90}\b(?:is|are)\s+(?:a\s+)?(?:reject|history)', re.I)
+
+# SHIELD RE-LOCK (Sherif 2026-10-21 8:20-8:44 PM ET): the MERCY runes are
+# removed (no runes anywhere on the shield) and all shield gold is armour gold.
+RUNE_BAND = re.compile(
+    r'ᛗᛖᚱᚲᛁ|MERCY runes|\b(?:rune|runic)s?\b[^.;|]{0,30}\b(?:border|band|column|inscription)\b|'
+    r'\b(?:border|band|column)\b[^.;|]{0,30}\b(?P<term>runes?|rune-like|Elder Futhark)\b', re.I)
+BRONZE_SHIELD = re.compile(
+    r'(?:bronze|brass)(?:-gold)?\s+(?:rim|rivets?|boss|staves|interlace|knotwork)|'
+    r'shield\b[^.;|]{0,40}\b(?P<term>bronze|brass)\b(?![- ]gold (?:cape )?lining)', re.I)
+
+def shield_history_failures(path):
+    fails = []
+    in_record = False
+    in_reject = False
+    for n, line in enumerate(open(path, encoding='utf-8'), 1):
+        if line.startswith('#'):
+            in_reject = bool(re.search(r'reject', line, re.I))
+            in_record = bool(RECORD_HEAD.search(line)) and not in_reject
+            continue
+        if in_record or HISTORY_ROW.match(line) or SUPERSEDE_TAG.search(line):
+            continue
+        if in_reject and re.search(r'Vegv[ií]sir', line) and not re.search(r'Vegv[ií]sir' + OFF_SHIELD, line):
+            fails.append((n, 'vegvisir-rejected', line.strip()[:220]))
+            continue
+        if any(not negated(line, m.start()) for m in SUN_SPOKE.finditer(line)):
+            fails.append((n, 'sun-spoke-current', line.strip()[:220]))
+        elif any(not negated(line, term_start(m)) for m in RUNE_BAND.finditer(line)):
+            fails.append((n, 'rune-band', line.strip()[:220]))
+        elif any(not negated(line, term_start(m)) for m in BRONZE_SHIELD.finditer(line)):
+            fails.append((n, 'bronze-shield-gold', line.strip()[:220]))
+        elif VEG_REJECT.search(line):
+            fails.append((n, 'vegvisir-rejected', line.strip()[:220]))
+    return fails
+
 def stale_failures(path):
     fails = []
     in_record = False
@@ -508,6 +609,9 @@ def main(type_check=True):
         for n, kind, text in stale_failures(path):
             bad += 1
             print('STALE %s %s:%d %s' % (kind, rel, n, text))
+        for n, kind, text in shield_history_failures(path):
+            bad += 1
+            print('SHIELD %s %s:%d %s' % (kind, rel, n, text))
         if rel in LOOK_FILES:
             for name in hammer_lock_missing(path, LOOK_REQUIRED):
                 bad += 1
@@ -538,6 +642,9 @@ def main(type_check=True):
         for n, kind, text in stale_failures(os.path.join(ROOT, rel)):
             bad += 1
             print('STALE %s %s:%d %s' % (kind, rel, n, text))
+        for n, kind, text in shield_history_failures(os.path.join(ROOT, rel)):
+            bad += 1
+            print('SHIELD %s %s:%d %s' % (kind, rel, n, text))
     for rel in HAMMER_LOCK_FILES:
         if rel in SCAN:
             continue
@@ -626,6 +733,32 @@ def main(type_check=True):
         if support_prompt not in open(os.path.join(ROOT, rel), encoding='utf-8').read():
             bad += 1
             print('SUPPORT PROMPT missing %s' % rel)
+    for rel, phrases in DUAL_REQUIRED:
+        path = os.path.join(ROOT, rel)
+        text = open(path, encoding='utf-8').read() if os.path.isfile(path) else ''
+        for ph in phrases:
+            if ph not in text:
+                bad += 1
+                print('DUAL REQUIRE %s missing %s' % (rel, ph))
+    for rel in DUAL_REFS:
+        if not os.path.isfile(os.path.join(ROOT, rel)):
+            bad += 1
+            print('DUAL REF missing %s' % rel)
+    # Wild/Hands AMEND on #113: every refs/*2026-10-21* image must be pinned.
+    bible_dir = os.path.join(ROOT, 'production/ISSUE_01/bible')
+    pin_file = os.path.join(bible_dir, 'BIBLE_FINAL_SHA256.txt')
+    pinned = set()
+    if os.path.isfile(pin_file):
+        for pl in open(pin_file, encoding='utf-8'):
+            pl = pl.strip()
+            if pl and not pl.startswith('#') and '  ' in pl:
+                pinned.add(pl.split('  ', 1)[1].lstrip('*'))
+    for f in sorted(_glob.glob(os.path.join(bible_dir, 'refs', '*2026-10-21*'))):
+        if os.path.splitext(f)[1].lower() in ('.jpg', '.jpeg', '.png', '.webp'):
+            rel = os.path.relpath(f, bible_dir)
+            if rel not in pinned:
+                bad += 1
+                print('REF PIN missing %s in BIBLE_FINAL_SHA256.txt' % rel)
     if not type_check:
         # test_costume_lock.py runs the text checks only (no numpy/cv2).
         return bad
