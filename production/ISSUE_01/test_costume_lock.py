@@ -101,13 +101,11 @@ for line in ['- Proportions: compact helm wings no wider than the shoulders; nev
              '- Buckle: round gold, a rose-gold bolt.',
              '- Shield: black with an emerald boss.']:
     case('04 must-fail: ' + line, 'FAIL', append(V, line))
-for line in ['- Guard: no Vegvísir, no knotwork border and no Eye of Horus on the shield; no rose-gold bolt; never a bronze-gold lining.',
-             '- Buckle: round gold, no rose-gold buckle.',
+for line in ['- Buckle: round gold, no rose-gold buckle.',
              '- Buckle: a round gold buckle with a gold bolt, no rose-gold buckle.',
              '- Bolt: the buckle bolt is not rose gold.',
              '- Shield: black, never emerald.',
              '- Halo: the halo has no Eye of Horus sigil.',
-             '- Shield: never a Vegvísir shield.',
              '- Look: no eye in the halo, black kite shield, no rose gold.']:
     case('04 must-pass: ' + line, 'PASS', append(V, line))
 case("drop 'black kite shield' from 01", 'FAIL', replace('01_VISUAL_STYLE_GUIDE.md', [('black kite shield', 'black shield')]))
@@ -226,6 +224,9 @@ case('SHIELD-HIST must-pass: no Vegvísir on the halo', 'PASS', append(V, '- Hal
 case('SHIELD-HIST must-pass: tagged sun-spoke line', 'PASS', append(V, '- Shield: the gold sun-spoke design. (superseded 2026-10-21 by the SHIELD LOCK.)'))
 case('SHIELD-HIST must-pass: Rejects section, Vegvísir on the chest', 'PASS', append(P, '### 13.9 Rejects (test)\n- A Vegvísir on the chest.'))
 case('VOW must-fail: vow 8 gate wording', 'FAIL', replace(B, [('Keep the watch; the vigil', 'Keep the gate; the vigil')]))
+# Were 10-18 must-pass guards; under the SHIELD LOCK they reject the locked shield, so they now fail.
+case('SHIELD-HIST must-fail (was must-pass): no Vegvísir ... on the shield guard', 'FAIL', append(V, '- Guard: no Vegvísir, no knotwork border and no Eye of Horus on the shield; no rose-gold bolt; never a bronze-gold lining.'))
+case('SHIELD-HIST must-fail (was must-pass): never a Vegvísir shield', 'FAIL', append(V, '- Shield: never a Vegvísir shield.'))
 
 def main():
     base = make_tree()
