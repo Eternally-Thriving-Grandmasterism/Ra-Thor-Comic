@@ -48,3 +48,7 @@ Same figure. Same counts. Inked comic linework, bold outlines, flat high-contras
 ## Reject and redraw
 
 If the still drifts on Ra-Thor, redraw it. Do not relabel him as a generation. Fleet units may drift inside their family. He may not.
+
+## Animated hero reference (Sherif, 2026-10-22 1:59 AM ET)
+
+Guide-only animated hero reference: `production/ISSUE_01/bible/refs/rathor_hero_realistic_comic_2026-10-22.jpg` (Sherif assigned it to the ANIMATED look, 2026-10-22 1:59 AM ET: "Animated look"). Guide-only alternates: `refs/rathor_hero_realistic_comic_alt1_2026-10-22.jpg` and `refs/rathor_hero_realistic_comic_alt2_2026-10-22.jpg` (no pin swap). The CHARACTER_BIBLE text wins on the known gaps (pommel and grip, shield off the ground, peaked shield top, Celtic-leaning knotwork). See the realistic comic hero ref note in `production/ISSUE_01/bible/CHARACTER_BIBLE.md`.
