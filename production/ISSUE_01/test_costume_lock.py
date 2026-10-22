@@ -33,6 +33,9 @@ def make_tree():
                 shutil.copy2(src, dst)
     m = load(ROOT)
     extra = [CHECKER] + list(m.PAULDRON_REFS) + list(getattr(m, 'DUAL_REFS', []))
+    extra += ['production/ISSUE_01/bible/BIBLE_FINAL_SHA256.txt']
+    import glob as _g
+    extra += [os.path.relpath(f, ROOT) for f in _g.glob(os.path.join(ROOT, 'production/ISSUE_01/bible/refs/*2026-10-21*'))]
     for rel in extra:
         src = os.path.join(ROOT, rel)
         if os.path.isfile(src):
@@ -236,6 +239,22 @@ case('VOW must-fail: vow 8 gate wording', 'FAIL', replace(B, [('Keep the watch; 
 # Were 10-18 must-pass guards; under the SHIELD LOCK they reject the locked shield, so they now fail.
 case('SHIELD-HIST must-fail (was must-pass): no Vegvísir ... on the shield guard', 'FAIL', append(V, '- Guard: no Vegvísir, no knotwork border and no Eye of Horus on the shield; no rose-gold bolt; never a bronze-gold lining.'))
 case('SHIELD-HIST must-fail (was must-pass): never a Vegvísir shield', 'FAIL', append(V, '- Shield: never a Vegvísir shield.'))
+# --- Wild/Hands AMEND on #113: every refs/*2026-10-21* image must be pinned ---
+def _add_unpinned(root):
+    d = os.path.join(root, 'production/ISSUE_01/bible/refs')
+    os.makedirs(d, exist_ok=True)
+    open(os.path.join(d, 'rathor_test_unpinned_2026-10-21.jpg'), 'wb').write(b'not pinned')
+def _unpin(name):
+    def f(root):
+        p = os.path.join(root, 'production/ISSUE_01/bible/BIBLE_FINAL_SHA256.txt')
+        L = [l for l in open(p, encoding='utf-8').read().split('\n') if not l.endswith('  refs/' + name)]
+        open(p, 'w', encoding='utf-8').write('\n'.join(L))
+    return f
+case('PIN must-fail: an unpinned refs/*2026-10-21* image', 'FAIL', _add_unpinned)
+for _n in ('rathor_look_lock_print_2026-10-21.jpg', 'rathor_look_lock_animated_2026-10-21.jpg',
+           'rathor_shield_lock_2026-10-21.jpg', 'rathor_hero_shield_lock_2026-10-21.jpg',
+           'rathor_shield_lock_v2_2026-10-21.jpg'):
+    case('PIN must-fail: %s unpinned' % _n, 'FAIL', _unpin(_n))
 
 def main():
     base = make_tree()

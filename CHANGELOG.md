@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-21 — Wild/Hands AMEND on PR #113 (@3cbec32b, comment 6330210225)
+- Pinned all five 2026-10-21 refs in `production/ISSUE_01/bible/BIBLE_FINAL_SHA256.txt` (rathor_look_lock_print, rathor_look_lock_animated, rathor_shield_lock, rathor_hero_shield_lock, rathor_shield_lock_v2); 118 → 123 entries.
+- `check_costume_lock.py`: new REF PIN check; any `bible/refs/*2026-10-21*` image not listed in BIBLE_FINAL_SHA256.txt fails. `test_costume_lock.py`: 6 must-fail cases (an unpinned dummy ref, and each of the five refs unpinned); 131/131 pass.
+- Restored 35 prompt/spec lines rewritten in place during this PR (print/animated stems and shield prompts in 01, CHARACTER_BIBLE PRINT/ANIMATED LOOK prompt lines, shield prompts, rune border, negative list, owner choices, vow 8, reference-image TODO, 04 Q1, 05 pointer): old wording back with a `(superseded 2026-10-21 … )` tag, the current wording follows directly. Only lines added in this PR shift; pre-PR line numbers are unchanged.
+- Fixed the "Sherif, Sherif" typo in the SHIELD RE-LOCK owner-rulings line.
+
 ## 2026-10-18
 
 - SHIELD + HERO REFERENCE (Sherif, 2026-10-21 9:02 PM ET). A Grok Imagine render is locked as the reference for the shield and the hero pose, as the animated (painted) look reference. `refs/rathor_hero_shield_lock_2026-10-21.jpg` is the render, unmodified. `refs/rathor_shield_lock_v2_2026-10-21.jpg` is a plain shield-only crop (x 655–1135, y 475–1410), with no paint-over. The earlier `refs/rathor_shield_lock_2026-10-21.jpg` is tagged superseded and kept. The Bible TODO is replaced with these refs. Known gaps recorded: the pommel cap is hidden under his hand (the text spec governs), and his hand grips the haft rather than resting on it. Also read from the render: the shield point sits just above the rock, and the hammer has a flared gold collar at the head. The checker requires both new refs and the gap note.

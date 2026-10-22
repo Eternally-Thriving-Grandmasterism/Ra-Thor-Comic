@@ -116,6 +116,7 @@ This section sits at the end of the file so that existing line citations into 04
 
 This section sits at the end of the file so that existing line citations into 04 do not move. Sherif, 2026-10-21 2:30 PM ET: two locked looks supersede the 2026-10-18 LOOK LOCK above (kept as history). The PRINT look (`production/ISSUE_01/bible/refs/rathor_look_lock_print_2026-10-21.jpg`) governs comic pages, covers and KDP. The ANIMATED look (`production/ISSUE_01/bible/refs/rathor_look_lock_animated_2026-10-21.jpg`) governs `screen/`, the trailer, 3D model sheets and Blender. Full description, open flags and the shield ruling: the DUAL LOOK LOCK section of `production/ISSUE_01/bible/CHARACTER_BIBLE.md`.
 
+- **Q1, shield.** Optional prop in both looks (Sherif, 2026-10-21 2:31 PM ET): the black kite shield with the gold sun-spoke design, only when a scene calls for it. Neither ref shows it. (superseded 2026-10-21 2:35 PM ET by the SHIELD LOCK; kept in place for history, the current wording follows.)
 - **Q1, shield.** Optional prop in both looks (Sherif, 2026-10-21 2:31 PM ET): the SHIELD LOCK Vegvísir kite shield (Sherif 2:35 PM ET), only when a scene calls for it. Neither ref shows it.
 - **Q2, chest.** PRINT: gold line trim, no sun disc. ANIMATED: a glowing gold sun disc in a gold Greek-key ring.
 - **Q4, helm.** Both: black dome helm, gold Spartan T-visor plates, gold centre ridge, gold wings behind the head, all-gold halo with no eye in the halo. PRINT: thin spiked ring halo, small wings. ANIMATED: Greek-key disc with long rays, large wings.

@@ -744,6 +744,21 @@ def main(type_check=True):
         if not os.path.isfile(os.path.join(ROOT, rel)):
             bad += 1
             print('DUAL REF missing %s' % rel)
+    # Wild/Hands AMEND on #113: every refs/*2026-10-21* image must be pinned.
+    bible_dir = os.path.join(ROOT, 'production/ISSUE_01/bible')
+    pin_file = os.path.join(bible_dir, 'BIBLE_FINAL_SHA256.txt')
+    pinned = set()
+    if os.path.isfile(pin_file):
+        for pl in open(pin_file, encoding='utf-8'):
+            pl = pl.strip()
+            if pl and not pl.startswith('#') and '  ' in pl:
+                pinned.add(pl.split('  ', 1)[1].lstrip('*'))
+    for f in sorted(_glob.glob(os.path.join(bible_dir, 'refs', '*2026-10-21*'))):
+        if os.path.splitext(f)[1].lower() in ('.jpg', '.jpeg', '.png', '.webp'):
+            rel = os.path.relpath(f, bible_dir)
+            if rel not in pinned:
+                bad += 1
+                print('REF PIN missing %s in BIBLE_FINAL_SHA256.txt' % rel)
     if not type_check:
         # test_costume_lock.py runs the text checks only (no numpy/cv2).
         return bad
