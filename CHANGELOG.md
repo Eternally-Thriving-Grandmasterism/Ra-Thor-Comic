@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-22 — BIBLE-BUCKLE-UNIFY-VOWS-CANON-1 (Sherif, 2026-10-22 1:06 AM ET)
+- Buckle unify: the belt buckle has a lightning bolt in BOTH the print and animated looks. The "print buckle has no bolt" lines are tagged superseded, with tags appended so line numbers stay the same (CHARACTER_BIBLE print spec, open flag 1, the PRINT LOOK prompt line; the 01 PRINT stem; HANDOFF). A new end-of-file section in CHARACTER_BIBLE has a per-medium buckle table and the new PRINT LOOK prompt line; 01 gets a new PRINT stem section. The locked print ref shows no bolt; it stays unedited, and future print renders add the bolt.
+- Shield symbolism CANON: the eight vows (Truth, Mercy, Dawn, Shelter, Ground, Return, Rest, Watch, with "Keep the watch") and the re-lock shape and ornament meanings are now CANON. The proposed headings and lines are tagged; the 05 pointer is tagged.
+- `check_costume_lock.py`: a new BUCKLE no-bolt-buckle guard (a current no-bolt, bolt-less or sun-disc-rosette buckle fails). The required phrases now cover the new sections; the old `stay **proposed**` requirement is replaced by the canon phrases.
+- `test_costume_lock.py`: 148 cases (was 131). The buckle must-fail and must-pass cases are new; "print buckle with no bolt" flips to must-fail; the vows-proposed test is retargeted; and the optional follow-up from #113 is done: MERCY-rune must-fail cases in 09, 01, 14 and the bible, plus a tagged-history must-pass.
+
 ## 2026-10-21 — Wild/Hands AMEND on PR #113 (@3cbec32b, comment 6330210225)
 - Pinned all five 2026-10-21 refs in `production/ISSUE_01/bible/BIBLE_FINAL_SHA256.txt` (rathor_look_lock_print, rathor_look_lock_animated, rathor_shield_lock, rathor_hero_shield_lock, rathor_shield_lock_v2); 118 → 123 entries.
 - `check_costume_lock.py`: new REF PIN check; any `bible/refs/*2026-10-21*` image not listed in BIBLE_FINAL_SHA256.txt fails. `test_costume_lock.py`: 6 must-fail cases (an unpinned dummy ref, and each of the five refs unpinned); 131/131 pass.

@@ -255,10 +255,14 @@ DUAL_REQUIRED = [
         'Bots write prompts only and never hand-paint',
         'SHIELD RE-LOCK PRINT prompt line:', 'SHIELD RE-LOCK ANIMATED prompt line:',
         'SHIELD RE-LOCK ORTHOGRAPHIC prompt line:', 'HERO prompt line (with shield):', 'Avoid: a round knob or ball pommel',
-        'stay **proposed**')),
+        # BUCKLE UNIFY + VOWS CANON (Sherif 2026-10-22 1:06 AM ET).
+        '## BUCKLE UNIFY + SHIELD SYMBOLISM CANON 2026-10-22', 'PRINT LOOK prompt line (buckle unify):',
+        '| Belt buckle | Round gold with a gold lightning bolt on a dark field', 'every future print render adds the bolt',
+        'The eight vows are CANON', '8 Watch ("Keep the watch;', 'were under the same proposed tag and are CANON too')),
     ('01_VISUAL_STYLE_GUIDE.md', (
         '## DUAL LOOK LOCK (2026-10-21)', '**Prompt stem, PRINT look',
-        '**Prompt stem, ANIMATED look', 'Shield prompts (SHIELD RE-LOCK', '165 × 78 cm', 'not a pointed oval and not round-topped', '> **Hero (with shield):**')),
+        '**Prompt stem, ANIMATED look', 'Shield prompts (SHIELD RE-LOCK', '165 × 78 cm', 'not a pointed oval and not round-topped', '> **Hero (with shield):**',
+        '## BUCKLE UNIFY (2026-10-22)', '**Prompt stem, PRINT look (buckle unify', 'round gold belt buckle with a gold lightning bolt')),
     ('04_VISUAL_CANON.md', ('## DUAL LOOK LOCK (2026-10-21)',)),
     ('09_CHARACTER_BIBLE.md', ('**DUAL LOOK LOCK',)),
     ('production/ISSUE_01/HANDOFF.md', ('DUAL LOOK LOCK',)),
@@ -515,6 +519,26 @@ def shield_history_failures(path):
             fails.append((n, 'vegvisir-rejected', line.strip()[:220]))
     return fails
 
+# BUCKLE UNIFY (Sherif 2026-10-22 1:06 AM ET): the buckle has a lightning bolt in
+# BOTH looks. A current (untagged) line that gives the buckle no bolt fails.
+NO_BOLT_BUCKLE = re.compile(
+    r'buckle\b[^.;|]{0,40}\b(?:with no|without(?: a)?|no)\s+(?:gold\s+|lightning\s+)*bolt|'
+    r'\bno[- ]bolt\s+(?:belt\s+)?buckle|bolt-?less\s+(?:belt\s+)?buckle|'
+    r'buckle\b[^.|]{0,40}\brosette\b[^|]{0,15}\bNo bolt|sun-disc rosette', re.I)
+
+def buckle_failures(path):
+    fails = []
+    in_record = False
+    for n, line in enumerate(open(path, encoding='utf-8'), 1):
+        if line.startswith('#'):
+            in_record = bool(RECORD_HEAD.search(line)) or bool(re.search(r'reject', line, re.I))
+            continue
+        if in_record or HISTORY_ROW.match(line) or SUPERSEDE_TAG.search(line):
+            continue
+        if NO_BOLT_BUCKLE.search(line):
+            fails.append((n, 'no-bolt-buckle', line.strip()[:220]))
+    return fails
+
 def stale_failures(path):
     fails = []
     in_record = False
@@ -612,6 +636,9 @@ def main(type_check=True):
         for n, kind, text in shield_history_failures(path):
             bad += 1
             print('SHIELD %s %s:%d %s' % (kind, rel, n, text))
+        for n, kind, text in buckle_failures(path):
+            bad += 1
+            print('BUCKLE %s %s:%d %s' % (kind, rel, n, text))
         if rel in LOOK_FILES:
             for name in hammer_lock_missing(path, LOOK_REQUIRED):
                 bad += 1
@@ -645,6 +672,9 @@ def main(type_check=True):
         for n, kind, text in shield_history_failures(os.path.join(ROOT, rel)):
             bad += 1
             print('SHIELD %s %s:%d %s' % (kind, rel, n, text))
+        for n, kind, text in buckle_failures(os.path.join(ROOT, rel)):
+            bad += 1
+            print('BUCKLE %s %s:%d %s' % (kind, rel, n, text))
     for rel in HAMMER_LOCK_FILES:
         if rel in SCAN:
             continue

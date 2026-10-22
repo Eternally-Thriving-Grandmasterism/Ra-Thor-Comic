@@ -90,7 +90,7 @@ case("SHIELD LOCK must-pass: 'no blue and a Vegvísir shield'", 'PASS', append(V
 # §13.3 (L832) is history since the SHIELD LOCK tagged it; Wild's repro now targets the current PRINT stem in 01.
 case('Wild repro on the current PRINT stem in 01 (old halo eye + rose-gold buckle)', 'FAIL', replace('01_VISUAL_STYLE_GUIDE.md', [
     ('a thin gold ring halo with sharp gold spikes behind the head, no eye in the halo', 'a radiant Eye of Horus halo'),
-    ('round gold sun-disc belt buckle with no bolt', 'rose-gold lightning-bolt buckle')]))
+    ('round gold belt buckle with a gold lightning bolt, the same buckle as the animated look', 'rose-gold lightning-bolt buckle')]))
 case("§13.4 'Prompt: rose-gold bolt buckle on a thick belt, not silver.'", 'FAIL', replace(P, [
     ('**8.1** Prompt:', 'Prompt: rose-gold bolt buckle on a thick belt, not silver.\n\n**8.1** Prompt:')]))
 case('09: Vegvísir shield / rose-gold buckle / emerald halo', 'FAIL', append('09_CHARACTER_BIBLE.md',
@@ -164,13 +164,14 @@ for rel, line in [(S, '- **Continuity:** shield face out (no eye-seal on the shi
 
 # --- BIBLE-DUAL-LOOK-LOCK-1 (2026-10-21): two locked looks ---
 B = 'production/ISSUE_01/bible/CHARACTER_BIBLE.md'
-PRINT_LINE = 'Ra-Thor, inked comic art with bold outlines and flat colour on parchment: black dome helm with gold Spartan-style face plates forming a T-visor and a gold centre ridge, two small gold feathered wings behind the head, a thin gold ring halo with sharp gold spikes behind the head, no eye in the halo, black armour with simple gold line trim and no Greek-key, large round black pauldrons with gold rims, each with an emerald-green Eye of Horus outlined in gold, mirrored, round gold sun-disc belt buckle with no bolt, black knee plates with gold trim, long tattered black cape, dark stone block-head hammer with a gold band near each end and one gold lightning bolt on the broad side face, head-down on rock, both hands resting on the pommel; no shield unless the scene calls for it (then the SHIELD RE-LOCK prop: a heraldic kite shield with a straight notched top and flared upper corners, a thick riveted gold rim, bold raised gold Norse interlace around the gold Vegvísir and domed gold boss, all in armour gold, plain borders); emerald only on the pauldron Eyes; no rose gold, no teal, no blue.'
+PRINT_LINE = 'Ra-Thor, inked comic art with bold outlines and flat colour on parchment: black dome helm with gold Spartan-style face plates forming a T-visor and a gold centre ridge, two small gold feathered wings behind the head, a thin gold ring halo with sharp gold spikes behind the head, no eye in the halo, black armour with simple gold line trim and no Greek-key, large round black pauldrons with gold rims, each with an emerald-green Eye of Horus outlined in gold, mirrored, round gold belt buckle with a gold lightning bolt, the same buckle as the animated look, black knee plates with gold trim, long tattered black cape, dark stone block-head hammer with a gold band near each end and one gold lightning bolt on the broad side face, head-down on rock, both hands resting on the pommel; no shield unless the scene calls for it (then the SHIELD RE-LOCK prop: a heraldic kite shield with a straight notched top and flared upper corners, a thick riveted gold rim, bold raised gold Norse interlace around the gold Vegvísir and domed gold boss, all in armour gold, plain borders); emerald only on the pauldron Eyes; no rose gold, no teal, no blue.'
 ANIM_LINE = 'Ra-Thor, painted realistic render ready for 3D, storm sky: glossy black armour with gold trim and gold Greek-key engraving, black dome helm with gold Spartan-style face plates forming a T-visor and a gold centre ridge, two large gold feathered wings rising behind the head, an all-gold halo: a gold Greek-key disc with long straight gold sun rays, no eye in the halo, a glowing gold sun disc in a gold Greek-key ring on the chest, round gold belt buckle with a gold lightning bolt, black knee plates with gold trim, large round black pauldrons with stepped gold rims, each with an emerald-green Eye of Horus outlined in gold, mirrored, long intact black cape with a gold Greek-key border, dark stone block-head hammer with one gold lightning bolt on each visible face, head-down on rock, both hands stacked on the pommel; no shield unless the scene calls for it (then the SHIELD RE-LOCK prop: a heraldic kite shield with a straight notched top and flared upper corners, a thick riveted gold rim, bold raised gold Norse interlace around the gold Vegvísir and domed gold boss, all in armour gold, plain borders); emerald only on the pauldron Eyes; no rose gold, no teal, no blue.'
 # Was must-fail under the 2026-10-18 lock; both dual looks rest both hands on the pommel.
 case('DUAL must-pass: - Rest: both hands stacked on the pommel, never swung.', 'PASS', append(V, '- Rest: both hands stacked on the pommel, never swung.'))
 case('DUAL must-pass: PRINT prompt line in 04', 'PASS', append(V, '- Prompt: ' + PRINT_LINE))
 case('DUAL must-pass: ANIMATED prompt line in a screen file', 'PASS', append('screen/S1E01/SHOT_LIST.md', 'Prompt: ' + ANIM_LINE))
-case('DUAL must-pass: print buckle with no bolt', 'PASS', append(V, '- Buckle (print): a round gold sun-disc buckle with no bolt.'))
+# Was must-pass; BUCKLE UNIFY (Sherif 2026-10-22 1:06 AM ET) gives the print buckle a bolt.
+case('BUCKLE must-fail (was must-pass): print buckle with no bolt', 'FAIL', append(V, '- Buckle (print): a round gold sun-disc buckle with no bolt.'))
 case('DUAL must-pass: no shield in the base silhouette', 'PASS', append(V, '- Shield: none in the base silhouette; optional prop only.'))
 case('DUAL must-pass: tattered print cape / intact animated cape', 'PASS', append(V, '- Cape: tattered in print; intact with a gold Greek-key border in animation.'))
 case('SHIELD LOCK must-pass: Vegvísir shield prop', 'PASS', append(V, '- Shield (prop): the Vegvísir shield.'))
@@ -224,7 +225,8 @@ case('RE-LOCK must-fail: Bible loses the prompts-only art rule', 'FAIL', replace
 case('REF must-fail: Bible loses the 9:02 PM ET reference images', 'FAIL', replace(B, [('**Reference images (locked, Sherif 2026-10-21 9:02 PM ET).**', '**Reference image: TODO.**')]))
 case('REF must-fail: Bible loses the hidden-pommel gap', 'FAIL', replace(B, [('The pommel cap is hidden under his hand', 'The pommel is shown')]))
 case('REF must-fail: hero ref file missing', 'FAIL', lambda root: os.remove(os.path.join(root, 'production/ISSUE_01/bible/refs/rathor_hero_shield_lock_2026-10-21.jpg')))
-case('RE-LOCK must-fail: vows no longer marked proposed', 'FAIL', replace(B, [('stay **proposed**', 'are canon')]))
+# Was 'vows no longer marked proposed'; the vows are CANON since 2026-10-22 1:06 AM ET.
+case('VOWS CANON must-fail: vows marked proposed again', 'FAIL', replace(B, [('The eight vows are CANON', 'The eight vows stay proposed')]))
 case('RE-LOCK must-fail: Bible hero prompt loses the Avoid line', 'FAIL', replace(B, [('Avoid: a round knob or ball pommel', 'Avoid: nothing')]))
 case('RE-LOCK must-fail: 01 loses the hero prompt', 'FAIL', replace('01_VISUAL_STYLE_GUIDE.md', [('> **Hero (with shield):**', '> **Hero:**')]))
 # --- Hands AMEND on #113: stale sun-spoke / Vegvísir-reject lines ---
@@ -255,6 +257,28 @@ for _n in ('rathor_look_lock_print_2026-10-21.jpg', 'rathor_look_lock_animated_2
            'rathor_shield_lock_2026-10-21.jpg', 'rathor_hero_shield_lock_2026-10-21.jpg',
            'rathor_shield_lock_v2_2026-10-21.jpg'):
     case('PIN must-fail: %s unpinned' % _n, 'FAIL', _unpin(_n))
+# --- BUCKLE UNIFY + VOWS CANON (Sherif 2026-10-22 1:06 AM ET) ---
+for line in ['- Buckle (print): a round gold buckle, no bolt.',
+             '- Buckle (print): a round gold sun-disc rosette.',
+             '- Print look: a bolt-less buckle on the belt.',
+             '- Buckle (print): round gold buckle without a lightning bolt.']:
+    case('BUCKLE must-fail: %s' % line, 'FAIL', append(V, line))
+for line in ['- Buckle (print): round gold with a gold lightning bolt, as in the animated look.',
+             '- Buckle: the print buckle had no bolt. (superseded 2026-10-22 1:06 AM ET by the BUCKLE UNIFY.)']:
+    case('BUCKLE must-pass: %s' % line, 'PASS', append(V, line))
+case('BUCKLE must-fail: current 01 PRINT stem loses its bolt', 'FAIL', replace('01_VISUAL_STYLE_GUIDE.md', [('round gold belt buckle with a gold lightning bolt', 'round gold sun-disc belt buckle with no bolt')]))
+case('BUCKLE must-fail: Bible loses the buckle-unify section', 'FAIL', replace(B, [('## BUCKLE UNIFY + SHIELD SYMBOLISM CANON 2026-10-22', '## Removed')]))
+case('BUCKLE must-fail: Bible loses the per-medium buckle row', 'FAIL', replace(B, [('| Belt buckle | Round gold with a gold lightning bolt on a dark field', '| Belt buckle | Round gold')]))
+case('BUCKLE must-fail: Bible loses the print-ref note', 'FAIL', replace(B, [('every future print render adds the bolt', 'the ref governs')]))
+case('VOWS CANON must-fail: shape and ornament symbolism not canon', 'FAIL', replace(B, [('were under the same proposed tag and are CANON too', 'stay proposed')]))
+case('VOWS CANON must-fail: vow 8 loses Keep the watch in the canon list', 'FAIL', replace(B, [('8 Watch ("Keep the watch;', '8 Watch ("Keep the gate;')]))
+# #113 optional follow-up: more must-fail MERCY-rune cases (a rune band fails anywhere it is current).
+for rel, line in [('09_CHARACTER_BIBLE.md', '- Shield: a band of Elder Futhark runes spelling MERCY.'),
+                  ('01_VISUAL_STYLE_GUIDE.md', '- Shield: MERCY runes down the left border.'),
+                  ('14_ANIMATED_SERIES_BIBLE.md', '- Shield: a runic inscription band around the rim.'),
+                  (B, '- Shield: the left column reads ᛗᛖᚱᚲᛁ.')]:
+    case('MERCY-RUNE must-fail (%s): %s' % (rel, line), 'FAIL', append(rel, line))
+case('MERCY-RUNE must-pass: tagged history line', 'PASS', append(V, '- Shield: MERCY runes on the left border. (superseded 2026-10-21 8:44 PM ET by the SHIELD RE-LOCK.)'))
 
 def main():
     base = make_tree()
