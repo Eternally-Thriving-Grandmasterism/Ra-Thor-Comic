@@ -120,3 +120,22 @@ Sherif, 2026-10-22 1:06 AM ET: the belt buckle has a lightning bolt in BOTH look
 **Prompt stem, PRINT look (buckle unify; comic pages, covers, KDP):**
 
 > Comic panel, bold ink, flat colour. Ra-Thor, inked comic art with bold outlines and flat colour on parchment: black dome helm with gold Spartan-style face plates forming a T-visor and a gold centre ridge, two small gold feathered wings behind the head, a thin gold ring halo with sharp gold spikes behind the head, no eye in the halo, black armour with simple gold line trim and no Greek-key, large round black pauldrons with gold rims, each with an emerald-green Eye of Horus outlined in gold, mirrored, round gold belt buckle with a gold lightning bolt, the same buckle as the animated look, black knee plates with gold trim, long tattered black cape, dark stone block-head hammer with a gold band near each end and one gold lightning bolt on the broad side face, head-down on rock, both hands resting on the pommel; no shield unless the scene calls for it (then the SHIELD RE-LOCK prop: a heraldic kite shield with a straight notched top and flared upper corners, a thick riveted gold rim, bold raised gold Norse interlace around the gold Vegvísir and domed gold boss, all in armour gold, plain borders); emerald only on the pauldron Eyes; no rose gold, no teal, no blue.
+
+## DUAL LOOK LOCK addendum: PRINT vs ANIMATED medium rules 2026-10-22 (Sherif, 2026-10-22 1:59 AM ET)
+
+Appended to the DUAL LOOK LOCK (2026-10-21) section above; see the matching addendum in `production/ISSUE_01/bible/CHARACTER_BIBLE.md` (placed at the end of the file so existing line citations do not move). Sherif, 2026-10-22 1:59 AM ET, verbatim: "Both have the same iconic Ra-Thor design, but the print comic books require non-bleed panels and more white less black for example and so on." (relayer: said by Sherif directly to Grokbot - Living Thunder in its DM chat; recorded by Grokbot - Living Thunder.)
+
+- (a) The print and animated looks share one iconic Ra-Thor design. Their differences are about medium and production, not a different character.
+- (b) Print rules: panels stay inside the trim and safe area, with no full-bleed art unless a page is explicitly marked bleed. Page tone is lighter, with more white or paper and less solid black, keeping the black armour readable through ink line and gold rather than heavy black fills. (amended 2026-10-22 2:00 AM ET by Sherif's follow-up: the lighter page tone is now the fallback; kept in place, the current page-tone rule follows.)
+- (b2) Page tone, amended (Sherif, 2026-10-22 2:00 AM ET, verbatim: "May also do full black no white like some comic books do for a dark theme like experience, which I prefer, but isn't always available due to more ink or something."). Full-black dark-theme pages (black page backgrounds and gutters, light lettering and gold) are Sherif's PREFERRED print option, used when the print format allows heavy ink coverage. The lighter 'more white, less black' page tone is the fallback when it doesn't. Which one an issue uses is decided per print run and format; that is Sherif's call, and the bot does not choose. Non-bleed panels (inside the trim and safe area) still apply in both. (relayer: said by Sherif directly to Grokbot - Living Thunder in its DM chat; recorded by Grokbot - Living Thunder.)
+- (c) The animated look keeps its painted realistic rendering.
+
+
+### Print editions plan (Sherif, 2026-10-22 2:01 AM ET)
+
+Sherif, 2026-10-22 2:01 AM ET, verbatim: "Let's make both variations for sale." (relayer: said by Sherif directly to Grokbot - Living Thunder in its DM chat; recorded by Grokbot - Living Thunder.)
+
+- Each print issue is planned in two sellable editions: a **Dark Edition** (full-black pages) and a **Standard Edition** (lighter pages). Same art and same story in both; non-bleed panels (inside the trim and safe area) in both.
+- The comic books are sold by AlphaProMega Media Inc. (citation: Sherif's sales split of 2026-10-21, under which AlphaProMega Media Inc. sells only the Ra-Thor comic books and the animated web series for now, and Autonomicity Games Inc. sells everything else.)
+- **OPEN, Sherif's call, nothing done by bots:** pricing; ISBNs (each edition may need its own); KDP or printer setup; listing or publishing.
+- Production note: prepare final art so both page tones can be output, for example with the page background and gutters kept on a separate layer.

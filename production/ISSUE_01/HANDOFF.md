@@ -92,3 +92,8 @@ Inked v3 build: `covers/inked/v3/build_v3.py` with `lib/`. Paths are repo-relati
 - Promo: refresh to the LOOK LOCK owed (not blocking interior art).
 - ~~Do not render from the unsynced files~~ Resolved 2026-10-18 by CANON-SYNC-LOOK-LOCK-2. In the S1–S3 prompt files, render only from the "LOOK LOCK prompts" section at the end of each file; the tagged lines above it are history.
 - Consistency: no turnaround sheet or height lineup yet.
+
+
+## Print editions plan (Sherif, 2026-10-22 2:01 AM ET)
+
+Sherif: "Let's make both variations for sale." Each print issue is planned as a Dark Edition (full-black pages) and a Standard Edition (lighter pages), sold by AlphaProMega Media Inc. Pricing, ISBNs, KDP or printer setup and listing are OPEN, Sherif's call, nothing done by bots. See "Print editions plan" in `01_VISUAL_STYLE_GUIDE.md`. (relayer: said by Sherif directly to Grokbot - Living Thunder in its DM chat; recorded by Grokbot - Living Thunder.) (citation: Sherif's sales split of 2026-10-21, under which AlphaProMega Media Inc. sells only the Ra-Thor comic books and the animated web series for now, and Autonomicity Games Inc. sells everything else.)
