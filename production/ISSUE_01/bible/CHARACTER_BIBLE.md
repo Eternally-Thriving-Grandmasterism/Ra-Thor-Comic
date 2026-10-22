@@ -348,7 +348,7 @@ Scale and environment, under 3D LOGIC: `12_SCALE_ENVIRONMENT_BIBLE.md`. Ra-Thor 
 
 | Item | Value |
 |---|---|
-| Ref | `refs/rathor_shield_lock_2026-10-21.jpg`: 1150 × 2630 px JPEG (quality 95), SHA-256 `3fb236d8aa79a9a4d89676c373b1013d37d92193b898503851fb12ac621ee9b2`. |
+| Ref | `refs/rathor_shield_lock_2026-10-21.jpg`: 1150 × 2630 px JPEG (quality 95), SHA-256 `3fb236d8aa79a9a4d89676c373b1013d37d92193b898503851fb12ac621ee9b2`. (superseded 2026-10-21 9:02 PM ET as the shield reference by `refs/rathor_shield_lock_v2_2026-10-21.jpg` and `refs/rathor_hero_shield_lock_2026-10-21.jpg`; file kept as history.) |
 | Source | Sherif's phone screenshot, 1440 × 3120 px JPEG, SHA-256 `46d23d3ef47b4b5ff7f25e0639483d732fb2b1d20ab67140d37f884c44f131e2` (attachment `01M5FVYCDZ6D04MVNH5W8YCSWF.jpg`). |
 | Crop box | x 150–1300, y 110–2740 (left, top, right, bottom in source pixels), with no resizing or retouching. This removes the status bar (top), the close X (top left), the Download / Share bar and the navigation bar (bottom). The shield's lower point sits at the bottom edge of the crop. |
 
@@ -489,7 +489,14 @@ The sides run from the widest point to the foot in long, slightly convex curves,
 
 This section wins over the SHIELD LOCK sections above wherever they differ. The Vegvísir, the domed boss, the black field and the optional-prop rule stay.
 
-**Reference image: TODO.** The new reference image is pending from Sherif. No image is added yet. Until it lands, this text is the spec.
+**Reference images (locked, Sherif 2026-10-21 9:02 PM ET).** Sherif picked a Grok Imagine render as the locked reference for the shield and the hero pose. It is the ANIMATED (painted) look reference.
+- `refs/rathor_hero_shield_lock_2026-10-21.jpg`: the full render, copied unmodified. 1152 × 1728 px JPEG, SHA-256 `98ad48e77daf5f92e7aadca0fb216060fe94e630c69f791b1fb405576a9f6c69`.
+- `refs/rathor_shield_lock_v2_2026-10-21.jpg`: a plain shield-only crop of that render, with no paint-over, resize or retouch. Crop box x 655–1135, y 475–1410 (480 × 935 px), SHA-256 `6a2043d653bce4a5e8c82e605142c4a45d59aa45af1abac7b8d4551b5f50a77e`.
+- `refs/rathor_shield_lock_2026-10-21.jpg` (the 2:35 PM ET screenshot crop) is superseded as the shield reference. The file is kept as history.
+- **Known gaps (the text spec governs where the render is silent or differs):**
+  1. The pommel cap is hidden under his hand, so the text spec's flat, wide, softly domed gold cap governs.
+  2. His right hand grips the top of the haft instead of resting flat on the pommel. The hero prompt's "gauntlet rests flat" stays the target.
+  3. As read: the shield is held at his left side with its point just above the rock, not resting on it. The hammer also shows a flared gold collar where the haft meets the head; this is not the pommel. The Vegvísir staves sit small inside the braided ring. Recorded only, not decided.
 
 ### Shape (locked)
 

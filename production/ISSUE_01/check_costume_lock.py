@@ -234,6 +234,8 @@ DUAL_REFS = [
     'production/ISSUE_01/bible/refs/rathor_look_lock_print_2026-10-21.jpg',
     'production/ISSUE_01/bible/refs/rathor_look_lock_animated_2026-10-21.jpg',
     'production/ISSUE_01/bible/refs/rathor_shield_lock_2026-10-21.jpg',
+    'production/ISSUE_01/bible/refs/rathor_hero_shield_lock_2026-10-21.jpg',
+    'production/ISSUE_01/bible/refs/rathor_shield_lock_v2_2026-10-21.jpg',
 ]
 DUAL_REQUIRED = [
     ('production/ISSUE_01/bible/CHARACTER_BIBLE.md', (
@@ -244,7 +246,7 @@ DUAL_REQUIRED = [
         'SHIELD PRINT prompt line:', 'SHIELD ANIMATED prompt line:',
         'SHIELD ORTHOGRAPHIC prompt line:', '8. **NW, square hook: Watch.** Keep the watch',
         # SHIELD RE-LOCK (Sherif 2026-10-21 8:20-8:44 PM ET).
-        '## SHIELD RE-LOCK 2026-10-21', '**Reference image: TODO.**',
+        '## SHIELD RE-LOCK 2026-10-21', '**Reference images (locked, Sherif 2026-10-21 9:02 PM ET).**', 'The pommel cap is hidden under his hand',
         '| Height (top edge to point) | 165 cm | 5 ft 5 in | 6.6 heads |',
         '| Width (at the widest point) | 78 cm | 2 ft 7 in | 3.1 heads |',
         'Not a pointed oval, and not round-topped.', '20 % H, widest',
