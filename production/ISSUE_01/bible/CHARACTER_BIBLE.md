@@ -339,8 +339,8 @@ Scale and environment, under 3D LOGIC: `12_SCALE_ENVIRONMENT_BIBLE.md`. Ra-Thor 
 
 ### Prompt lines
 
-- PRINT LOOK prompt line: Ra-Thor, inked comic art with bold outlines and flat colour on parchment: black dome helm with gold Spartan-style face plates forming a T-visor and a gold centre ridge, two small gold feathered wings behind the head, a thin gold ring halo with sharp gold spikes behind the head, no eye in the halo, black armour with simple gold line trim and no Greek-key, large round black pauldrons with gold rims, each with an emerald-green Eye of Horus outlined in gold, mirrored, round gold sun-disc belt buckle with no bolt, black knee plates with gold trim, long tattered black cape, dark stone block-head hammer with a gold band near each end and one gold lightning bolt on the broad side face, head-down on rock, both hands resting on the pommel; no shield unless the scene calls for it (then the SHIELD LOCK prop: an elongated black kite shield with a riveted bronze-gold rim, the gold Vegvísir with eight staves around a domed gold boss, gold Celtic knotwork at top and bottom, a decorative rune column on the left); emerald only on the pauldron Eyes; no rose gold, no teal, no blue.
-- ANIMATED LOOK prompt line: Ra-Thor, painted realistic render ready for 3D, storm sky: glossy black armour with gold trim and gold Greek-key engraving, black dome helm with gold Spartan-style face plates forming a T-visor and a gold centre ridge, two large gold feathered wings rising behind the head, an all-gold halo: a gold Greek-key disc with long straight gold sun rays, no eye in the halo, a glowing gold sun disc in a gold Greek-key ring on the chest, round gold belt buckle with a gold lightning bolt, black knee plates with gold trim, large round black pauldrons with stepped gold rims, each with an emerald-green Eye of Horus outlined in gold, mirrored, long intact black cape with a gold Greek-key border, dark stone block-head hammer with one gold lightning bolt on each visible face, head-down on rock, both hands stacked on the pommel; no shield unless the scene calls for it (then the SHIELD LOCK prop: an elongated black kite shield with a riveted bronze-gold rim, the gold Vegvísir with eight staves around a domed gold boss, gold Celtic knotwork at top and bottom, a decorative rune column on the left); emerald only on the pauldron Eyes; no rose gold, no teal, no blue.
+- PRINT LOOK prompt line: Ra-Thor, inked comic art with bold outlines and flat colour on parchment: black dome helm with gold Spartan-style face plates forming a T-visor and a gold centre ridge, two small gold feathered wings behind the head, a thin gold ring halo with sharp gold spikes behind the head, no eye in the halo, black armour with simple gold line trim and no Greek-key, large round black pauldrons with gold rims, each with an emerald-green Eye of Horus outlined in gold, mirrored, round gold sun-disc belt buckle with no bolt, black knee plates with gold trim, long tattered black cape, dark stone block-head hammer with a gold band near each end and one gold lightning bolt on the broad side face, head-down on rock, both hands resting on the pommel; no shield unless the scene calls for it (then the SHIELD RE-LOCK prop: a heraldic kite shield with a straight notched top and flared upper corners, a thick riveted gold rim, bold raised gold Norse interlace around the gold Vegvísir and domed gold boss, all in armour gold, plain borders); emerald only on the pauldron Eyes; no rose gold, no teal, no blue.
+- ANIMATED LOOK prompt line: Ra-Thor, painted realistic render ready for 3D, storm sky: glossy black armour with gold trim and gold Greek-key engraving, black dome helm with gold Spartan-style face plates forming a T-visor and a gold centre ridge, two large gold feathered wings rising behind the head, an all-gold halo: a gold Greek-key disc with long straight gold sun rays, no eye in the halo, a glowing gold sun disc in a gold Greek-key ring on the chest, round gold belt buckle with a gold lightning bolt, black knee plates with gold trim, large round black pauldrons with stepped gold rims, each with an emerald-green Eye of Horus outlined in gold, mirrored, long intact black cape with a gold Greek-key border, dark stone block-head hammer with one gold lightning bolt on each visible face, head-down on rock, both hands stacked on the pommel; no shield unless the scene calls for it (then the SHIELD RE-LOCK prop: a heraldic kite shield with a straight notched top and flared upper corners, a thick riveted gold rim, bold raised gold Norse interlace around the gold Vegvísir and domed gold boss, all in armour gold, plain borders); emerald only on the pauldron Eyes; no rose gold, no teal, no blue.
 
 ## SHIELD LOCK 2026-10-21 (Sherif, 2:35 PM ET): the optional shield prop
 
@@ -354,10 +354,10 @@ Scale and environment, under 3D LOGIC: `12_SCALE_ENVIRONMENT_BIBLE.md`. Ra-Thor 
 
 ### The shield, as painted
 
-- **Outline.** An elongated kite shield: a straight top edge with clipped upper corners, long sides that taper to a single point at the base. Seen slightly turned in the ref. (superseded (in part) by owner ruling, Sherif, 2026-10-21 8:03 PM ET: the locked shape is a TRUE kite with a broad rounded top, widest in the upper third, and the locked size is 160 × 64 cm; see "Size, shape and carry" below.)
-- **Proportions.** Measured on the crop, the shield is about 975 px wide and about 2490 px tall, a height-to-width ratio of about 2.5 : 1. The ref is not a true front view, so take 2.5 : 1 as the working ratio for the orthographic line. (superseded (in part) by owner ruling, Sherif, 2026-10-21 8:03 PM ET: the locked shape is a TRUE kite with a broad rounded top, widest in the upper third, and the locked size is 160 × 64 cm; see "Size, shape and carry" below.)
+- **Outline.** An elongated kite shield: a straight top edge with clipped upper corners, long sides that taper to a single point at the base. Seen slightly turned in the ref. (superseded (in part) by owner ruling, Sherif, 2026-10-21 8:03 PM ET: the locked shape is a TRUE kite with a broad rounded top, widest in the upper third, and the locked size is 160 × 64 cm; see "Size, shape and carry" below.) (superseded 2026-10-21 8:44 PM ET by the SHIELD RE-LOCK (Sherif, 2026-10-21 8:20–8:44 PM ET): heraldic kite shape, 165 × 78 cm, bold Norse interlace, no runes, armour-gold only; see "SHIELD RE-LOCK" at the end of this file.)
+- **Proportions.** Measured on the crop, the shield is about 975 px wide and about 2490 px tall, a height-to-width ratio of about 2.5 : 1. The ref is not a true front view, so take 2.5 : 1 as the working ratio for the orthographic line. (superseded (in part) by owner ruling, Sherif, 2026-10-21 8:03 PM ET: the locked shape is a TRUE kite with a broad rounded top, widest in the upper third, and the locked size is 160 × 64 cm; see "Size, shape and carry" below.) (superseded 2026-10-21 8:44 PM ET by the SHIELD RE-LOCK (Sherif, 2026-10-21 8:20–8:44 PM ET): heraldic kite shape, 165 × 78 cm, bold Norse interlace, no runes, armour-gold only; see "SHIELD RE-LOCK" at the end of this file.)
 - **Field.** Black, with a fine textured, cracked leather-or-metal grain.
-- **Rim.** A thick bronze-gold rim with round rivets spaced along it, plus a thin inner gold line set in from the rim.
+- **Rim.** A thick bronze-gold rim with round rivets spaced along it, plus a thin inner gold line set in from the rim. (superseded 2026-10-21 8:44 PM ET by the SHIELD RE-LOCK (Sherif, 2026-10-21 8:20–8:44 PM ET): heraldic kite shape, 165 × 78 cm, bold Norse interlace, no runes, armour-gold only; see "SHIELD RE-LOCK" at the end of this file.)
 - **Boss.** A central domed, polished gold boss in a wider flat gold collar ringed with small round rivets.
 - **Vegvísir.** Eight gold staves radiate from the collar at even 45° spacing. They are raised and solid gold, with straight shafts. Each stave ends in its own mark, as read from the ref at crop resolution. A council may fix exact sub-mark counts without changing the art.
   1. N (up): a trident tip (centre prong straight, outer prongs turned up from a crossbar), with two short crossbars below it on the shaft.
@@ -368,24 +368,24 @@ Scale and environment, under 3D LOGIC: `12_SCALE_ENVIRONMENT_BIBLE.md`. Ra-Thor 
   6. SW: crossbars and an angled V-fork tip.
   7. W (left): a square bracket tip (an E-shaped three-prong end opening outward) with no crossbars.
   8. NW: a square U-hook fork tip and two crossbars.
-- **Knotwork.** Gold Celtic knotwork arches over the top of the N stave, following the top edge and the shoulders. A second interlaced band closes in a V toward the point below the S stave.
-- **Rune border.** A narrow column of small gold rune-like marks runs down the left side between the rim and the inner line. These marks are decorative only and never spell words (earlier ruling). (superseded by owner ruling, Sherif, 2026-10-21 7:32 PM ET: the left border spells MERCY in Elder Futhark, ᛗᛖᚱᚲᛁ, read top to bottom: M ᛗ mannaz, E ᛖ ehwaz, R ᚱ raido, K ᚲ kaunan for C, I ᛁ isaz for Y. It is English spelled in runes, not Old Norse. Artist note: five runes, evenly spaced, gold, left border only.) The ref also shows faint marks on the right border, so see open flag 5. (Owner rule, Sherif, 2026-10-21 8:03 PM ET: image generators cannot spell runes reliably. A test render gave M R R K F instead of ᛗᛖᚱᚲᛁ. Place the five runes by hand, or model them exactly from the glyph table below, and check them after every render. A render with wrong runes fails review.)
+- **Knotwork.** Gold Celtic knotwork arches over the top of the N stave, following the top edge and the shoulders. A second interlaced band closes in a V toward the point below the S stave. (superseded 2026-10-21 8:44 PM ET by the SHIELD RE-LOCK (Sherif, 2026-10-21 8:20–8:44 PM ET): heraldic kite shape, 165 × 78 cm, bold Norse interlace, no runes, armour-gold only; see "SHIELD RE-LOCK" at the end of this file.)
+- **Rune border.** A narrow column of small gold rune-like marks runs down the left side between the rim and the inner line. These marks are decorative only and never spell words (earlier ruling). (superseded by owner ruling, Sherif, 2026-10-21 7:32 PM ET: the left border spells MERCY in Elder Futhark, ᛗᛖᚱᚲᛁ, read top to bottom: M ᛗ mannaz, E ᛖ ehwaz, R ᚱ raido, K ᚲ kaunan for C, I ᛁ isaz for Y. It is English spelled in runes, not Old Norse. Artist note: five runes, evenly spaced, gold, left border only.) The ref also shows faint marks on the right border, so see open flag 5. (Owner rule, Sherif, 2026-10-21 8:03 PM ET: image generators cannot spell runes reliably. A test render gave M R R K F instead of ᛗᛖᚱᚲᛁ. Place the five runes by hand, or model them exactly from the glyph table below, and check them after every render. A render with wrong runes fails review.) (superseded 2026-10-21 8:44 PM ET by the SHIELD RE-LOCK (Sherif, 2026-10-21 8:20–8:44 PM ET): heraldic kite shape, 165 × 78 cm, bold Norse interlace, no runes, armour-gold only; see "SHIELD RE-LOCK" at the end of this file.)
 - **Palette.** Warm gold and bronze on black. A warm firelit glint on the boss.
 - **No eye on the shield.**
 
 ### Negative list
 
-No eye (no Eye of Horus, no eye-seal). No emerald. No sun-spokes. No blue or navy. No readable words in the rune marks other than the five MERCY runes ᛗᛖᚱᚲᛁ on the left border (owner ruling, 7:32 PM ET).
+No eye (no Eye of Horus, no eye-seal). No emerald. No sun-spokes. No blue or navy. No readable words in the rune marks other than the five MERCY runes ᛗᛖᚱᚲᛁ on the left border (owner ruling, 7:32 PM ET). (superseded 2026-10-21 8:44 PM ET by the SHIELD RE-LOCK (Sherif, 2026-10-21 8:20–8:44 PM ET): heraldic kite shape, 165 × 78 cm, bold Norse interlace, no runes, armour-gold only; see "SHIELD RE-LOCK" at the end of this file.)
 
-### Prompt lines (generated from the ref crop)
+### Prompt lines (generated from the ref crop) (superseded 2026-10-21 8:44 PM ET by the SHIELD RE-LOCK (Sherif, 2026-10-21 8:20–8:44 PM ET): heraldic kite shape, 165 × 78 cm, bold Norse interlace, no runes, armour-gold only; see "SHIELD RE-LOCK" at the end of this file.)
 
-- SHIELD PRINT prompt line: Shield prop, inked comic art, bold outlines, flat colour on parchment: a black true kite shield 160 cm tall and 64 cm wide (1:2.5) with a broad rounded top, widest in the upper third, tapering to a single pointed foot, not a pointed oval or lens shape, gently curved across the width, a riveted bronze-gold rim, on the face the gold Vegvísir: eight gold staves radiating from a domed gold boss in a riveted gold collar, each stave ending in its own mark (tridents, forks, crossbars, square hooks), gold Celtic knotwork arching over the top and closing in a V toward the point, five gold Elder Futhark runes ᛗᛖᚱᚲᛁ (MERCY) evenly spaced down the left border only, read top to bottom (runes placed by hand or modelled exactly from the bible glyph table, checked after every render); warm gold on black; no eye, no emerald, no sun-spokes, no blue.
-- SHIELD ANIMATED prompt line: Shield prop, painted realistic render ready for 3D, warm key light: a true kite shield 160 cm tall and 64 cm wide (1:2.5) with a broad rounded top, widest in the upper third, tapering to a single pointed foot, not a pointed oval or lens shape, gently curved across the width, black textured leather-or-metal field, a riveted bronze-gold rim, raised gold Vegvísir with eight staves around a polished domed gold boss in a riveted gold collar, each stave ending in its own mark (tridents, forks, crossbars, square hooks), raised gold Celtic knotwork at top and bottom, five gold Elder Futhark runes ᛗᛖᚱᚲᛁ (MERCY) evenly spaced down the left border only, read top to bottom (runes placed by hand or modelled exactly from the bible glyph table, checked after every render); warm gold and bronze on black; no eye, no emerald, no sun-spokes, no blue.
-- SHIELD ORTHOGRAPHIC prompt line: Shield prop, front-view orthographic reference for 3D modelling, flat even light, no perspective, centred on neutral grey: black true kite shield, 160 cm tall by 64 cm wide (1:2.5), broad rounded top, widest at 20 percent of the height from the top, tapering to a single pointed foot, not a pointed oval, 8 cm curve across the width, shown flat-on with a scale bar, riveted bronze-gold rim, gold Vegvísir with eight staves at 45 degree spacing around a domed gold boss in a riveted gold collar, gold Celtic knotwork at top and bottom, five gold Elder Futhark runes ᛗᛖᚱᚲᛁ (MERCY) evenly spaced down the left border only, read top to bottom (runes placed by hand or modelled exactly from the bible glyph table, checked after every render); no eye, no emerald, no sun-spokes, no blue.
+- SHIELD PRINT prompt line: Shield prop, inked comic art, bold outlines, flat colour on parchment: a black true kite shield 160 cm tall and 64 cm wide (1:2.5) with a broad rounded top, widest in the upper third, tapering to a single pointed foot, not a pointed oval or lens shape, gently curved across the width, a riveted bronze-gold rim, on the face the gold Vegvísir: eight gold staves radiating from a domed gold boss in a riveted gold collar, each stave ending in its own mark (tridents, forks, crossbars, square hooks), gold Celtic knotwork arching over the top and closing in a V toward the point, five gold Elder Futhark runes ᛗᛖᚱᚲᛁ (MERCY) evenly spaced down the left border only, read top to bottom (runes placed by hand or modelled exactly from the bible glyph table, checked after every render); warm gold on black; no eye, no emerald, no sun-spokes, no blue. (superseded 2026-10-21 8:44 PM ET by the SHIELD RE-LOCK (Sherif, 2026-10-21 8:20–8:44 PM ET): heraldic kite shape, 165 × 78 cm, bold Norse interlace, no runes, armour-gold only; see "SHIELD RE-LOCK" at the end of this file.)
+- SHIELD ANIMATED prompt line: Shield prop, painted realistic render ready for 3D, warm key light: a true kite shield 160 cm tall and 64 cm wide (1:2.5) with a broad rounded top, widest in the upper third, tapering to a single pointed foot, not a pointed oval or lens shape, gently curved across the width, black textured leather-or-metal field, a riveted bronze-gold rim, raised gold Vegvísir with eight staves around a polished domed gold boss in a riveted gold collar, each stave ending in its own mark (tridents, forks, crossbars, square hooks), raised gold Celtic knotwork at top and bottom, five gold Elder Futhark runes ᛗᛖᚱᚲᛁ (MERCY) evenly spaced down the left border only, read top to bottom (runes placed by hand or modelled exactly from the bible glyph table, checked after every render); warm gold and bronze on black; no eye, no emerald, no sun-spokes, no blue. (superseded 2026-10-21 8:44 PM ET by the SHIELD RE-LOCK (Sherif, 2026-10-21 8:20–8:44 PM ET): heraldic kite shape, 165 × 78 cm, bold Norse interlace, no runes, armour-gold only; see "SHIELD RE-LOCK" at the end of this file.)
+- SHIELD ORTHOGRAPHIC prompt line: Shield prop, front-view orthographic reference for 3D modelling, flat even light, no perspective, centred on neutral grey: black true kite shield, 160 cm tall by 64 cm wide (1:2.5), broad rounded top, widest at 20 percent of the height from the top, tapering to a single pointed foot, not a pointed oval, 8 cm curve across the width, shown flat-on with a scale bar, riveted bronze-gold rim, gold Vegvísir with eight staves at 45 degree spacing around a domed gold boss in a riveted gold collar, gold Celtic knotwork at top and bottom, five gold Elder Futhark runes ᛗᛖᚱᚲᛁ (MERCY) evenly spaced down the left border only, read top to bottom (runes placed by hand or modelled exactly from the bible glyph table, checked after every render); no eye, no emerald, no sun-spokes, no blue. (superseded 2026-10-21 8:44 PM ET by the SHIELD RE-LOCK (Sherif, 2026-10-21 8:20–8:44 PM ET): heraldic kite shape, 165 × 78 cm, bold Norse interlace, no runes, armour-gold only; see "SHIELD RE-LOCK" at the end of this file.)
 
 ### Open flag
 
-5. **Right-border marks.** The ruling describes the rune column on the left only. The ref shows faint marks along the right border too. Keep it left only, or draw both sides as painted?
+5. **Right-border marks.** The ruling describes the rune column on the left only. The ref shows faint marks along the right border too. Keep it left only, or draw both sides as painted? (resolved and moot 2026-10-21 8:44 PM ET: the SHIELD RE-LOCK removes the runes; both borders are plain.)
 
 ### Shield symbolism (PROPOSED CANON, pending owner; Sherif 2026-10-21: "Make sure the symbolism is meaningful thoughtfully on the shield.")
 
@@ -395,11 +395,11 @@ This is the in-story meaning of each element, for writers and artists. It is sto
 - The Vegvísir ("way-shower") is an Icelandic magical stave known from 19th-century manuscripts, most often cited from the Huld manuscript (collected around 1860). There it is described as a sign that keeps its bearer from losing the way in storms or bad weather. It is not attested as an ancient Viking-age symbol, and the story should never call it one.
 - Kite shields are a medieval European shape, associated with the 11th and 12th centuries. Viking-age shields were mostly round. The pairing here is a design choice, not a historical claim.
 - The knotwork is Celtic-style interlace, an Insular art tradition. Here it is decorative.
-- The rune border spells MERCY in Elder Futhark letters, ᛗᛖᚱᚲᛁ (owner ruling, Sherif, 2026-10-21 7:32 PM ET). This is an English word spelled in runes, not an Old Norse word: K stands in for C and I stands in for Y. It amends the earlier decorative-only ruling for this border.
+- The rune border spells MERCY in Elder Futhark letters, ᛗᛖᚱᚲᛁ (owner ruling, Sherif, 2026-10-21 7:32 PM ET). This is an English word spelled in runes, not an Old Norse word: K stands in for C and I stands in for Y. It amends the earlier decorative-only ruling for this border. (superseded 2026-10-21 8:44 PM ET by the SHIELD RE-LOCK: the MERCY runes are removed; no runes anywhere on the shield.)
 
 **In-story meaning, element by element.**
 - **Black kite shape.** The long point reaches the ground so he can plant the shield the way he plants the hammer: a guard that stands still instead of striking. Black is the night he keeps watch through.
-- **Riveted bronze-gold rim.** The promise that holds everything together. Each rivet is a kept word; the rim is the edge he does not cross. Artist note: keep the rivets evenly spaced and unbroken, since a gap reads as a broken promise.
+- **Riveted bronze-gold rim.** The promise that holds everything together. Each rivet is a kept word; the rim is the edge he does not cross. Artist note: keep the rivets evenly spaced and unbroken, since a gap reads as a broken promise. (superseded 2026-10-21 8:44 PM ET by the SHIELD RE-LOCK (Sherif, 2026-10-21 8:20–8:44 PM ET): heraldic kite shape, 165 × 78 cm, bold Norse interlace, no runes, armour-gold only; see "SHIELD RE-LOCK" at the end of this file.)
 - **Domed gold boss (riveted collar).** The still centre: Ra-Thor himself, or the calm before any choice. Every stave starts here, so every way out begins with being still first. Artist note: the boss carries the brightest highlight on the shield.
 - **The eight staves of the Vegvísir.** Wayfinding, in the storm, for whoever is lost. The story reads them clockwise from the top as eight vows. One vow per direction, matching the end-marks as painted:
   1. **N, trident tip: Truth.** See clearly before acting.
@@ -411,16 +411,16 @@ This is the in-story meaning of each element, for writers and artists. It is sto
   7. **W, open bracket: Rest.** End things gently; let the tired stop.
   8. **NW, square hook: Watch.** Keep the watch; the vigil does not sleep.
   Writers can light one stave in a scene when its vow is the one being kept. That stays a panel choice, never a power the shield uses on its own. Artist note: draw eight staves, evenly spaced at 45°, each with its own end-mark. Never mirror two of them into the same mark.
-- **Knotwork, top and bottom.** One unbroken thread with no start and no end: the bond between the councils, the guests and the people he guards. The top band is the bonds above him; the band closing toward the point is the ground and those who stand on it.
-- **Left-side rune border: MERCY** (owner ruling, Sherif, 2026-10-21 7:32 PM ET). The shield carries the Mercy vow in writing. MERCY runs down the left border in Elder Futhark, ᛗᛖᚱᚲᛁ, read top to bottom (M, E, R, K for C, I for Y). It is English spelled in runes, not Old Norse. The other vows are shown by the staves; this one is also written. Artist note: five runes, evenly spaced, gold, left border only (the right border stays open, see open flag 5). No other letters or words.
+- **Knotwork, top and bottom.** One unbroken thread with no start and no end: the bond between the councils, the guests and the people he guards. The top band is the bonds above him; the band closing toward the point is the ground and those who stand on it. (superseded 2026-10-21 8:44 PM ET by the SHIELD RE-LOCK (Sherif, 2026-10-21 8:20–8:44 PM ET): heraldic kite shape, 165 × 78 cm, bold Norse interlace, no runes, armour-gold only; see "SHIELD RE-LOCK" at the end of this file.)
+- **Left-side rune border: MERCY** (owner ruling, Sherif, 2026-10-21 7:32 PM ET). The shield carries the Mercy vow in writing. MERCY runs down the left border in Elder Futhark, ᛗᛖᚱᚲᛁ, read top to bottom (M, E, R, K for C, I for Y). It is English spelled in runes, not Old Norse. The other vows are shown by the staves; this one is also written. Artist note: five runes, evenly spaced, gold, left border only (the right border stays open, see open flag 5). No other letters or words. (superseded 2026-10-21 8:44 PM ET by the SHIELD RE-LOCK (Sherif, 2026-10-21 8:20–8:44 PM ET): heraldic kite shape, 165 × 78 cm, bold Norse interlace, no runes, armour-gold only; see "SHIELD RE-LOCK" at the end of this file.)
 - **Why there is no eye.** The watch is already worn on his shoulders: the emerald Eye of Horus on each pauldron. The shield does not watch; it guides and shelters. Keeping the eye off the shield keeps the two roles apart: the shoulders see, the shield shows the way. No eye, no emerald, no sun-spokes, no blue (negative list above).
 
 **Owner choices.**
-1. Decided (Sherif, 2026-10-21 7:32 PM ET): the left border spells MERCY, ᛗᛖᚱᚲᛁ (see the rune border above).
-2. History (resolved 7:32 PM ET; MERCY chosen): the options were to keep it decorative or to spell one real inscription in Elder Futhark, English-first, transliterated letter by letter. That would amend the standing ruling. Proposal: **MERCY**, written ᛗ ᛖ ᚱ ᚲ ᛁ (M = mannaz ᛗ, E = ehwaz ᛖ, R = raido ᚱ, C written as K = kaunan ᚲ, Y written as I = isaz ᛁ). This is an English word in runic letters, not an Old Norse word. Alternative: **FIND THE WAY**, ᚠᛁᚾᛞ ᚦᛖ ᚹᚨᛁ (F ᚠ, I ᛁ, N ᚾ, D ᛞ / TH = thurisaz ᚦ, E ᛖ / W = wunjo ᚹ, A ᚨ, Y as I ᛁ).
+1. Decided (Sherif, 2026-10-21 7:32 PM ET): the left border spells MERCY, ᛗᛖᚱᚲᛁ (see the rune border above). (superseded 2026-10-21 8:44 PM ET by the SHIELD RE-LOCK (Sherif, 2026-10-21 8:20–8:44 PM ET): heraldic kite shape, 165 × 78 cm, bold Norse interlace, no runes, armour-gold only; see "SHIELD RE-LOCK" at the end of this file.)
+2. History (resolved 7:32 PM ET; MERCY chosen): the options were to keep it decorative or to spell one real inscription in Elder Futhark, English-first, transliterated letter by letter. That would amend the standing ruling. Proposal: **MERCY**, written ᛗ ᛖ ᚱ ᚲ ᛁ (M = mannaz ᛗ, E = ehwaz ᛖ, R = raido ᚱ, C written as K = kaunan ᚲ, Y written as I = isaz ᛁ). This is an English word in runic letters, not an Old Norse word. Alternative: **FIND THE WAY**, ᚠᛁᚾᛞ ᚦᛖ ᚹᚨᛁ (F ᚠ, I ᛁ, N ᚾ, D ᛞ / TH = thurisaz ᚦ, E ᛖ / W = wunjo ᚹ, A ᚨ, Y as I ᛁ). (superseded 2026-10-21 8:44 PM ET by the SHIELD RE-LOCK (Sherif, 2026-10-21 8:20–8:44 PM ET): heraldic kite shape, 165 × 78 cm, bold Norse interlace, no runes, armour-gold only; see "SHIELD RE-LOCK" at the end of this file.)
 3. Whether the eight vows above become canon, or are renamed.
 
-### MERCY glyph table (owner rule, Sherif, 2026-10-21 8:03 PM ET)
+### MERCY glyph table (owner rule, Sherif, 2026-10-21 8:03 PM ET) (superseded 2026-10-21 8:44 PM ET by the SHIELD RE-LOCK (Sherif, 2026-10-21 8:20–8:44 PM ET): heraldic kite shape, 165 × 78 cm, bold Norse interlace, no runes, armour-gold only; see "SHIELD RE-LOCK" at the end of this file.)
 
 Image generators cannot spell runes reliably: a test render gave M R R K F instead of ᛗᛖᚱᚲᛁ. Place the five MERCY runes by hand (inks, paint-over or decal), or model them exactly from this table, and check them against it after every render. A render with wrong, missing, extra or reordered runes fails review. Runes run top to bottom down the left border, upright (not rotated), evenly spaced, gold, all the same height.
 
@@ -434,7 +434,7 @@ Image generators cannot spell runes reliably: a test render gave M R R K F inste
 
 Review check: read the column top to bottom and confirm ᛗ ᛖ ᚱ ᚲ ᛁ in that order. Common failures: ᛗ drawn as M; ᛖ drawn as a second ᛗ or as M; ᚱ duplicated; ᚲ drawn as K; ᛁ replaced by ᚠ (F).
 
-### Size, shape and carry (owner ruling, Sherif, 2026-10-21 8:03 PM ET)
+### Size, shape and carry (owner ruling, Sherif, 2026-10-21 8:03 PM ET) (superseded 2026-10-21 8:44 PM ET by the SHIELD RE-LOCK (Sherif, 2026-10-21 8:20–8:44 PM ET): heraldic kite shape, 165 × 78 cm, bold Norse interlace, no runes, armour-gold only; see "SHIELD RE-LOCK" at the end of this file.)
 
 Ra-Thor is 7 ft 0 in (213 cm) armoured, 8.5 heads, so one head is about 25 cm. Historical kite shields ran roughly chin to shin on the bearer, about 90–120 cm tall for an average man, at about 1 : 2.5 width to height. Scaled to him, the locked size is:
 
@@ -454,7 +454,7 @@ Ra-Thor is 7 ft 0 in (213 cm) armoured, 8.5 heads, so one head is about 25 cm. H
 - **Grip.** Enarmes (two leather straps for the forearm, plus a hand grip) on the back, set centre-left. A long guige strap lets it hang from the shoulder or sling across the back.
 - **Carry.** Slung on the back by the guige when travelling. On the left forearm in guard. Planted point-down beside him at rest, like the hammer.
 
-**Shape: a TRUE kite.** This is NOT a pointed oval and NOT a lens shape (that render error happened).
+**Shape: a TRUE kite.** This is NOT a pointed oval and NOT a lens shape (that render error happened). (superseded 2026-10-21 8:44 PM ET by the SHIELD RE-LOCK (Sherif, 2026-10-21 8:20–8:44 PM ET): heraldic kite shape, 165 × 78 cm, bold Norse interlace, no runes, armour-gold only; see "SHIELD RE-LOCK" at the end of this file.)
 
 Proportion landmarks, with H = 160 cm (height) and W = 64 cm (widest width), measured down from the top crown:
 
@@ -472,8 +472,106 @@ Proportion landmarks, with H = 160 cm (height) and W = 64 cm (widest width), mea
 
 The sides run from the widest point to the foot in long, slightly convex curves, never straight and never concave. The outline is mirror-symmetric about the vertical centreline.
 
-**Shape symbolism.** The rounded top is shelter held over others. The pointed foot plants into the ground to hold the line (the Ground vow). The taper is the path narrowing toward one truth.
+**Shape symbolism.** The rounded top is shelter held over others. The pointed foot plants into the ground to hold the line (the Ground vow). The taper is the path narrowing toward one truth. (superseded 2026-10-21 8:44 PM ET by the SHIELD RE-LOCK (Sherif, 2026-10-21 8:20–8:44 PM ET): heraldic kite shape, 165 × 78 cm, bold Norse interlace, no runes, armour-gold only; see "SHIELD RE-LOCK" at the end of this file.)
 
-**3D / Blender scale line.** Model at real scale in metres: height 1.60 m, width 0.64 m, field thickness 0.015 m, rim 0.025 m, boss projection 0.08 m, 0.08 m curve across the width. Origin at the foot point. Use the landmark table for the outline, and place it beside the 2.13 m Ra-Thor rig for scale checks. MERCY runes are separate modelled gold inlays, placed from the glyph table, never generated by texture AI.
+**3D / Blender scale line.** Model at real scale in metres: height 1.60 m, width 0.64 m, field thickness 0.015 m, rim 0.025 m, boss projection 0.08 m, 0.08 m curve across the width. Origin at the foot point. Use the landmark table for the outline, and place it beside the 2.13 m Ra-Thor rig for scale checks. MERCY runes are separate modelled gold inlays, placed from the glyph table, never generated by texture AI. (superseded 2026-10-21 8:44 PM ET by the SHIELD RE-LOCK (Sherif, 2026-10-21 8:20–8:44 PM ET): heraldic kite shape, 165 × 78 cm, bold Norse interlace, no runes, armour-gold only; see "SHIELD RE-LOCK" at the end of this file.)
 
-**Flag (owner).** The brief asked for the top at about shoulder height when planted. At 160 cm the top reaches upper chest (shoulder is about 175 cm). Keep 160 cm, or raise it to about 175 cm (1:2.5 gives 70 cm wide), which goes beyond the 150–160 cm range?
+**Flag (owner).** The brief asked for the top at about shoulder height when planted. At 160 cm the top reaches upper chest (shoulder is about 175 cm). Keep 160 cm, or raise it to about 175 cm (1:2.5 gives 70 cm wide), which goes beyond the 150–160 cm range? (superseded 2026-10-21 8:44 PM ET by the SHIELD RE-LOCK (Sherif, 2026-10-21 8:20–8:44 PM ET): heraldic kite shape, 165 × 78 cm, bold Norse interlace, no runes, armour-gold only; see "SHIELD RE-LOCK" at the end of this file.)
+
+## SHIELD RE-LOCK 2026-10-21 (Sherif, 2026-10-21 8:20–8:44 PM ET): heraldic kite, bold Norse interlace, no runes
+
+**Owner rulings.** Sherif, Sherif, 2026-10-21 8:20–8:44 PM ET:
+1. The rounded-top kite is rejected ("looks like a snow shoe"). The shape is now a heraldic kite.
+2. The ornament is bold, broad-ribbon Norse interlace.
+3. The MERCY runes are REMOVED because they are hard to reproduce. The left border is plain, and there are no runes anywhere on the shield. The 7:32 PM ET MERCY ruling, the glyph table and the rune checks are superseded and kept above as history.
+4. All shield gold is armour gold.
+5. Art is made in Grok Imagine. Bots write prompts only and never hand-paint art. The hero prompt keeps the shield (no runes): right hand on the hammer pommel, shield held at his left side with its point on the rock, facing the viewer (correction, 8:45 PM ET).
+
+This section wins over the SHIELD LOCK sections above wherever they differ. The Vegvísir, the domed boss, the black field and the optional-prop rule stay.
+
+**Reference image: TODO.** The new reference image is pending from Sherif. No image is added yet. Until it lands, this text is the spec.
+
+### Shape (locked)
+
+A heraldic kite shield. Not a pointed oval, and not round-topped.
+- **Top.** A straight top edge with a shallow central notch, about 3 cm deep and 12 cm wide.
+- **Upper corners.** Flared, sweeping slightly outward like shoulders.
+- **Widest point.** At about one-fifth of the height.
+- **Sides.** Nearly straight and parallel down to about halfway.
+- **Lower half.** Convex curves that meet in one sharp point.
+- **Ratio.** About 2.1 times taller than wide. Mirror-symmetric about the vertical centreline.
+
+### Size (locked)
+
+Ra-Thor is 7 ft 0 in (213 cm) armoured and 8.5 heads tall, so one head is about 25 cm.
+
+| Measure | cm | ft / in | heads |
+|---|---|---|---|
+| Height (top edge to point) | 165 cm | 5 ft 5 in | 6.6 heads |
+| Width (at the widest point) | 78 cm | 2 ft 7 in | 3.1 heads |
+| Height : width | about 2.1 : 1 | | |
+| Thickness, field | 1.5 cm | 0.6 in | |
+| Thickness, rim | 2.5 cm | 1 in | |
+| Boss projection | 8 cm | 3 in | 0.3 heads |
+| Curve across the width (depth of the arc) | 9 cm | 3.5 in | |
+| Estimated weight (estimate, not a measurement) | 15–19 kg | 33–42 lb | |
+
+Width landmarks, with H = 165 cm and W = 78 cm, measured down from the top edge:
+
+| Point | Down from top | Width |
+|---|---|---|
+| 0 % H, top edge | 0 cm | 74 cm across the flared corners; straight edge with a central notch 3 cm deep and 12 cm wide |
+| 5 % H | 8 cm | 76 cm |
+| 20 % H, widest | 33 cm | 78 cm |
+| 35 % H | 58 cm | 77 cm |
+| 50 % H, end of the parallel sides | 83 cm | 75 cm |
+| 65 % H | 107 cm | 64 cm |
+| 80 % H | 132 cm | 43 cm |
+| 92 % H | 152 cm | 20 cm |
+| 100 % H, point | 165 cm | one sharp point |
+
+- **Coverage.** Held on the arm in guard, the top is at his chin (about 188 cm) and the point is at about low shin (about 23 cm).
+- **Planted point-down.** The top edge stands at about 165 cm, which is upper chest, just under his shoulder line (about 175 cm).
+- **Grip and carry.** Unchanged: centre-left enarmes plus a guige strap. Carried on the back, on the left forearm, or planted point-down at rest.
+- **3D / Blender scale line (re-lock).** Model at real scale in metres: height 1.65 m, width 0.78 m, field 0.015 m, rim 0.025 m, boss projection 0.08 m, a 0.09 m curve across the width. Origin at the point. Use the landmark table above for the outline, and check it beside the 2.13 m Ra-Thor rig.
+
+### Ornament (locked)
+
+- **Interlace.** Thick, bold, broad-ribbon Norse interlace in raised gold, with a clear over-under weave.
+- **Vegvísir ring.** A ring of thick braided knotwork around the Vegvísir. NOT chain links.
+- **Upper and lower panels.** Mirrored knot panels above and below, joined as one unbroken thread.
+- **Field.** Gloss-black negative space between the ribbons. No thin filigree, no scribbles.
+- **Vegvísir and boss.** Unchanged: eight bold gold staves at 45° spacing, each with its own end-mark, around a domed polished gold boss in a riveted collar.
+- **Left border.** Plain. No runes or letters anywhere on the shield.
+
+### Gold (locked)
+
+All shield gold, including the rim, rivets, boss, staves and interlace, is the identical bright warm polished gold of Ra-Thor's armour trim, helm wings and halo. No bronze or brass tone. The rim is a thick riveted gold rim; the earlier bronze-tone rim is history.
+
+### Art workflow (locked)
+
+Art is made in Grok Imagine. Bots write prompts only and never hand-paint, paint over or composite art.
+
+### Negative list (re-lock)
+
+No eye (no Eye of Horus). No emerald. No sun-spokes. No runes or letters. No blue or navy. No bronze or brass tone. No chain links. No thin filigree. Not round-topped. Not a pointed oval.
+
+### Shield symbolism (re-lock; PROPOSED CANON pending Sherif)
+
+The eight vows (Truth, Mercy, Dawn, Shelter, Ground, Return, Rest, Watch) stay as written above and stay **proposed**. The rune item is dropped. The other meanings carry over, adjusted to the new shape and ornament:
+- **Straight top with a shallow notch.** The level line he holds. The notch is the gap left open for the one who erred: mercy built into the edge.
+- **Flared shoulders.** The shield carries others on its shoulders before itself.
+- **Parallel sides.** Steadiness: the guard does not waver.
+- **Point.** Plants into the ground to hold the line (the Ground vow). The taper is the path narrowing toward one truth.
+- **Thick riveted gold rim.** The promise that holds; each rivet is a kept word. It is the same gold as his armour, because the promise and the guardian are one.
+- **Braided ring around the Vegvísir.** The vows bound together, so none is kept alone. It is braided, not chained: chosen bonds, not shackles.
+- **Mirrored knot panels joined as one unbroken thread.** Loyalty. Above and below, one thread with no break, binding the councils above and the people below to the same oath.
+- **Black negative space.** The night he keeps watch through. Room left, not crowded.
+- **No eye.** Unchanged: the pauldrons see, and the shield shows the way.
+
+### Prompt lines (re-lock; prompts only, for Grok Imagine)
+
+- SHIELD RE-LOCK PRINT prompt line: Shield prop, inked comic art, bold clean outlines, flat colour on parchment: a heraldic kite shield about 165 cm tall and 78 cm wide (about 2.1 times taller than wide): a straight top edge with a shallow central notch, flared upper corners that sweep slightly outward like shoulders, widest at about one-fifth of the height, nearly straight parallel sides down to about halfway, then convex curves to one sharp point; not a pointed oval, not round-topped; gently curved across the width; a gloss-black field framed by a thick riveted rim; on the face, the Vegvísir in raised gold: eight bold staves at even 45-degree spacing, each with its own end-mark, around a domed polished gold boss in a riveted collar; a ring of thick braided Norse knotwork around the Vegvísir, not chain links; mirrored panels of thick broad-ribbon Norse interlace above and below with clear over-under weave, joined as one unbroken thread; generous black negative space; no thin filigree, no scribbles, no runes or letters anywhere; all gold is the identical bright warm polished gold of Ra-Thor's armour trim, helm wings and halo, with no bronze or brass tone; no eye, no emerald, no sun-spokes, no runes, no blue.
+- SHIELD RE-LOCK ANIMATED prompt line: Shield prop, painted realistic render ready for 3D, warm key light, storm-lit rim light: a heraldic kite shield about 165 cm tall and 78 cm wide (about 2.1 times taller than wide): a straight top edge with a shallow central notch, flared upper corners that sweep slightly outward like shoulders, widest at about one-fifth of the height, nearly straight parallel sides down to about halfway, then convex curves to one sharp point; not a pointed oval, not round-topped; gently curved across the width; a gloss-black field framed by a thick riveted rim; on the face, the Vegvísir in raised gold: eight bold staves at even 45-degree spacing, each with its own end-mark, around a domed polished gold boss in a riveted collar; a ring of thick braided Norse knotwork around the Vegvísir, not chain links; mirrored panels of thick broad-ribbon Norse interlace above and below with clear over-under weave, joined as one unbroken thread; generous black negative space; no thin filigree, no scribbles, no runes or letters anywhere, the interlace raised in relief; all gold is the identical bright warm polished gold of Ra-Thor's armour trim, helm wings and halo, with no bronze or brass tone; no eye, no emerald, no sun-spokes, no runes, no blue.
+- SHIELD RE-LOCK ORTHOGRAPHIC prompt line: Shield prop, front-view orthographic reference for 3D modelling, flat even light, no perspective, centred on neutral grey, with a scale bar: a heraldic kite shield 165 cm tall by 78 cm wide, straight top edge with a shallow central notch, flared upper corners, widest at 20 percent of the height, nearly straight parallel sides to 50 percent, convex curves to one sharp point, not a pointed oval, not round-topped; a gloss-black field framed by a thick riveted rim; on the face, the Vegvísir in raised gold: eight bold staves at even 45-degree spacing, each with its own end-mark, around a domed polished gold boss in a riveted collar; a ring of thick braided Norse knotwork around the Vegvísir, not chain links; mirrored panels of thick broad-ribbon Norse interlace above and below with clear over-under weave, joined as one unbroken thread; generous black negative space; no thin filigree, no scribbles, no runes or letters anywhere; all gold is the identical bright warm polished gold of Ra-Thor's armour trim, helm wings and halo, with no bronze or brass tone; no eye, no emerald, no sun-spokes, no runes, no blue.
+- HERO prompt line (with shield): Ra-Thor, 7 ft 0 in armoured hero standing on dark rock, full figure, slight low angle, commanding legendary presence: the hammer is planted head-down on the rock at his right side, its long rectangular black stone block head with bevelled edges and one gold lightning bolt on each broad face, no spikes; a long wrist-thick dark iron and leather haft with three gold bands (at the head, at the middle, and just below the grip), reaching from the rock to between his waist and lower chest; the pommel is a flat, wide, softly domed polished gold cap, and his right gauntlet rests flat on it; his left arm holds the shield at his side, standing point-down on the rock, its face toward the viewer; the shield is the SHIELD RE-LOCK design (heraldic kite, straight notched top, flared corners, bold raised gold Norse interlace around the gold Vegvísir, no runes, armour gold); [PRINT or ANIMATED look stem from `01_VISUAL_STYLE_GUIDE.md`]; emerald only on the pauldron Eyes; no rose gold, no teal, no blue. Avoid: a round knob or ball pommel, a pommel on a flared dish, a spiked pommel, a short haft, spikes on the hammer head, a shield held off the ground.

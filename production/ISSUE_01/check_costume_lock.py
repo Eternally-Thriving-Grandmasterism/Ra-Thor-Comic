@@ -242,10 +242,21 @@ DUAL_REQUIRED = [
         'ANIMATED LOOK prompt line:', 'OPTIONAL prop', '**Buckle bolt.**',
         '## SHIELD LOCK 2026-10-21', 'rathor_shield_lock_2026-10-21.jpg',
         'SHIELD PRINT prompt line:', 'SHIELD ANIMATED prompt line:',
-        'SHIELD ORTHOGRAPHIC prompt line:', 'Left-side rune border: MERCY', 'five runes, evenly spaced, gold, left border only', 'ᛗᛖᚱᚲᛁ (MERCY)', '### MERCY glyph table', '8. **NW, square hook: Watch.** Keep the watch', 'A render with wrong, missing, extra or reordered runes fails review', '| Height (top crown to foot point) | 160 cm | 5 ft 3 in | 6.4 heads |', '| Width (at the widest point) | 64 cm | 2 ft 1 in | 2.6 heads |', 'NOT a pointed oval', '20 % H, widest', '**3D / Blender scale line.**', 'No eye (no Eye of Horus, no eye-seal). No emerald. No sun-spokes. No blue')),
+        'SHIELD ORTHOGRAPHIC prompt line:', '8. **NW, square hook: Watch.** Keep the watch',
+        # SHIELD RE-LOCK (Sherif 2026-10-21 8:20-8:44 PM ET).
+        '## SHIELD RE-LOCK 2026-10-21', '**Reference image: TODO.**',
+        '| Height (top edge to point) | 165 cm | 5 ft 5 in | 6.6 heads |',
+        '| Width (at the widest point) | 78 cm | 2 ft 7 in | 3.1 heads |',
+        'Not a pointed oval, and not round-topped.', '20 % H, widest',
+        '**3D / Blender scale line (re-lock).**', 'NOT chain links', 'one unbroken thread',
+        'No bronze or brass tone.', 'No runes or letters anywhere on the shield.',
+        'Bots write prompts only and never hand-paint',
+        'SHIELD RE-LOCK PRINT prompt line:', 'SHIELD RE-LOCK ANIMATED prompt line:',
+        'SHIELD RE-LOCK ORTHOGRAPHIC prompt line:', 'HERO prompt line (with shield):', 'Avoid: a round knob or ball pommel',
+        'stay **proposed**')),
     ('01_VISUAL_STYLE_GUIDE.md', (
         '## DUAL LOOK LOCK (2026-10-21)', '**Prompt stem, PRINT look',
-        '**Prompt stem, ANIMATED look', 'Shield prop prompts (SHIELD LOCK', 'ᛗᛖᚱᚲᛁ (MERCY)', '160 cm × 64 cm', 'not a pointed oval', 'checked after every render')),
+        '**Prompt stem, ANIMATED look', 'Shield prompts (SHIELD RE-LOCK', '165 × 78 cm', 'not a pointed oval and not round-topped', '> **Hero (with shield):**')),
     ('04_VISUAL_CANON.md', ('## DUAL LOOK LOCK (2026-10-21)',)),
     ('09_CHARACTER_BIBLE.md', ('**DUAL LOOK LOCK',)),
     ('production/ISSUE_01/HANDOFF.md', ('DUAL LOOK LOCK',)),
@@ -469,6 +480,15 @@ VEG_REJECT = re.compile(
     r'\bwithout\s+(?:a\s+|the\s+)?Vegv[ií]sir(?!' + OFF_SHIELD + r')|'
     r'Vegv[ií]sir(?:(?!halo|chest|helm|pauldron)[^.;|]){0,90}\b(?:is|are)\s+(?:a\s+)?(?:reject|history)', re.I)
 
+# SHIELD RE-LOCK (Sherif 2026-10-21 8:20-8:44 PM ET): the MERCY runes are
+# removed (no runes anywhere on the shield) and all shield gold is armour gold.
+RUNE_BAND = re.compile(
+    r'ᛗᛖᚱᚲᛁ|MERCY runes|\b(?:rune|runic)s?\b[^.;|]{0,30}\b(?:border|band|column|inscription)\b|'
+    r'\b(?:border|band|column)\b[^.;|]{0,30}\b(?P<term>runes?|rune-like|Elder Futhark)\b', re.I)
+BRONZE_SHIELD = re.compile(
+    r'(?:bronze|brass)(?:-gold)?\s+(?:rim|rivets?|boss|staves|interlace|knotwork)|'
+    r'shield\b[^.;|]{0,40}\b(?P<term>bronze|brass)\b(?![- ]gold (?:cape )?lining)', re.I)
+
 def shield_history_failures(path):
     fails = []
     in_record = False
@@ -485,6 +505,10 @@ def shield_history_failures(path):
             continue
         if any(not negated(line, m.start()) for m in SUN_SPOKE.finditer(line)):
             fails.append((n, 'sun-spoke-current', line.strip()[:220]))
+        elif any(not negated(line, term_start(m)) for m in RUNE_BAND.finditer(line)):
+            fails.append((n, 'rune-band', line.strip()[:220]))
+        elif any(not negated(line, term_start(m)) for m in BRONZE_SHIELD.finditer(line)):
+            fails.append((n, 'bronze-shield-gold', line.strip()[:220]))
         elif VEG_REJECT.search(line):
             fails.append((n, 'vegvisir-rejected', line.strip()[:220]))
     return fails
