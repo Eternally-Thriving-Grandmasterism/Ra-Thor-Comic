@@ -270,10 +270,13 @@ f66df67e276ad3c0ba409e0286c63ad51ddf7d2f6dd6ca4832a814e81228c76f  refs/rathor_lo
 # 1cfa144c155c7e2b93ad8be5047830e2b799e053538d988170a7f142cedc76a0  CHARACTER_BIBLE.md  (superseded 2026-10-21 8:44 PM ET by the SHIELD RE-LOCK)
 # 8f23de9e04644e276f8b50ef3c45282d7d538c5ae7985f391c6594e405266f48  CHARACTER_BIBLE.md  (superseded 2026-10-21 9:02 PM ET by the shield + hero reference)
 # superseded (Wild/Hands AMEND #113): e266ae54bda2cc1dbd9fb90da2b0d0ba756b50066d6386707f082800f3ff288c  CHARACTER_BIBLE.md
-aea2517d135c007d987cde33fcae5ed4ccea70e0df928785a23797e34d0aa7a6  CHARACTER_BIBLE.md
+# superseded (BUCKLE-UNIFY-VOWS-CANON-1): aea2517d135c007d987cde33fcae5ed4ccea70e0df928785a23797e34d0aa7a6  CHARACTER_BIBLE.md
+# superseded (HERO-REALISTIC-COMIC-REF-1, 2026-10-22 1:17 AM ET): 4ff73ae06b6cc92a40861348b3468dc85b1da40a3cdb0f69b49b15058d8a93a9  CHARACTER_BIBLE.md
+ada3d8fed7d198f0adcde6e8fc020f2eb2730bf9474757e38e0ef0f0884d12b5  CHARACTER_BIBLE.md
 # 2026-10-21 refs (Wild/Hands AMEND on #113): dual look lock, shield lock (history), hero + shield v2 lock.
 1f91a733d8bb22faee4c1ec9902bf95193e3203cbb6df6fcd1970102569f1b50  refs/rathor_look_lock_print_2026-10-21.jpg
 c63fc6e8ad59fdf406a05fe598d883a32bae674b031b5fedf54104927a3d4bd9  refs/rathor_look_lock_animated_2026-10-21.jpg
 3fb236d8aa79a9a4d89676c373b1013d37d92193b898503851fb12ac621ee9b2  refs/rathor_shield_lock_2026-10-21.jpg
 98ad48e77daf5f92e7aadca0fb216060fe94e630c69f791b1fb405576a9f6c69  refs/rathor_hero_shield_lock_2026-10-21.jpg
 6a2043d653bce4a5e8c82e605142c4a45d59aa45af1abac7b8d4551b5f50a77e  refs/rathor_shield_lock_v2_2026-10-21.jpg
+4807d736dc53f148efb6207e12de1a8c63bfe5e3bbdfe25c9d2663771c2557b6  refs/rathor_hero_realistic_comic_2026-10-22.jpg
