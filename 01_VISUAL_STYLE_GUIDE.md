@@ -115,7 +115,7 @@ This section sits at the end of the file so that existing line citations into 01
 
 ## BUCKLE UNIFY (2026-10-22)
 
-Sherif, 2026-10-22 1:06 AM ET: the belt buckle has a lightning bolt in BOTH looks, for uniformity. The PRINT stem above is tagged superseded and kept in place; this is the current PRINT stem. The locked print ref shows no bolt, so future print renders add it. The eight shield vows and the shield shape and ornament symbolism are now CANON (see `production/ISSUE_01/bible/CHARACTER_BIBLE.md`).
+Sherif, 2026-10-22 1:06 AM ET: the belt buckle has a lightning bolt in BOTH looks, for uniformity. The PRINT stem above is tagged superseded and kept in place; this is the current PRINT stem. The locked print ref shows no bolt, so future print renders add it. The eight shield vows and the shield shape and ornament symbolism are now CANON (see `production/ISSUE_01/bible/CHARACTER_BIBLE.md`). (Sherif, 2026-10-22 1:06 AM ET, his reply to the question of locking the eight shield vows as canon: "Bolts on both for uniformity and yes to shield.") (Wild Rathor.ai reports that Sherif confirmed to it directly on 2026-10-22 at 1:26 AM ET: 'Yes, the eight vows are canon.')
 
 **Prompt stem, PRINT look (buckle unify; comic pages, covers, KDP):**
 

@@ -36,6 +36,7 @@ def make_tree():
     extra += ['production/ISSUE_01/bible/BIBLE_FINAL_SHA256.txt']
     import glob as _g
     extra += [os.path.relpath(f, ROOT) for f in _g.glob(os.path.join(ROOT, 'production/ISSUE_01/bible/refs/*2026-10-21*'))]
+    extra += [os.path.relpath(f, ROOT) for f in _g.glob(os.path.join(ROOT, 'production/ISSUE_01/bible/refs/*2026-10-22*'))]
     for rel in extra:
         src = os.path.join(ROOT, rel)
         if os.path.isfile(src):
@@ -266,6 +267,12 @@ for line in ['- Buckle (print): a round gold buckle, no bolt.',
 for line in ['- Buckle (print): round gold with a gold lightning bolt, as in the animated look.',
              '- Buckle: the print buckle had no bolt. (superseded 2026-10-22 1:06 AM ET by the BUCKLE UNIFY.)']:
     case('BUCKLE must-pass: %s' % line, 'PASS', append(V, line))
+case('PIN must-fail: rathor_hero_realistic_comic_2026-10-22.jpg unpinned', 'FAIL', _unpin('rathor_hero_realistic_comic_2026-10-22.jpg'))
+# Wild AMEND (2026-10-22): the rosette guard uses the shared negation handling.
+case("BUCKLE must-pass: 'buckle with a gold lightning bolt; not a sun-disc rosette'", 'PASS', append(V, '- Buckle: buckle with a gold lightning bolt; not a sun-disc rosette.'))
+# Hands nit: a current buckle description that does not name the bolt fails.
+case('BUCKLE must-fail: current buckle line names no bolt', 'FAIL', append(V, '- Buckle (print): a round gold buckle on a thick belt.'))
+case('BUCKLE must-pass: buckle line naming no bolt but tagged', 'PASS', append(V, '- Buckle (print): a round gold buckle on a thick belt. (superseded 2026-10-22 1:06 AM ET by the BUCKLE UNIFY.)'))
 case('BUCKLE must-fail: current 01 PRINT stem loses its bolt', 'FAIL', replace('01_VISUAL_STYLE_GUIDE.md', [('round gold belt buckle with a gold lightning bolt', 'round gold sun-disc belt buckle with no bolt')]))
 case('BUCKLE must-fail: Bible loses the buckle-unify section', 'FAIL', replace(B, [('## BUCKLE UNIFY + SHIELD SYMBOLISM CANON 2026-10-22', '## Removed')]))
 case('BUCKLE must-fail: Bible loses the per-medium buckle row', 'FAIL', replace(B, [('| Belt buckle | Round gold with a gold lightning bolt on a dark field', '| Belt buckle | Round gold')]))

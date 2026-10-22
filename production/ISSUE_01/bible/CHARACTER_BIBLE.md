@@ -400,7 +400,7 @@ No eye (no Eye of Horus, no eye-seal). No emerald. No sun-spokes. No blue or nav
 
 5. **Right-border marks.** The ruling describes the rune column on the left only. The ref shows faint marks along the right border too. Keep it left only, or draw both sides as painted? (resolved and moot 2026-10-21 8:44 PM ET: the SHIELD RE-LOCK removes the runes; both borders are plain.)
 
-### Shield symbolism (PROPOSED CANON, pending owner; Sherif 2026-10-21: "Make sure the symbolism is meaningful thoughtfully on the shield.") (vows: CANON 2026-10-22 1:06 AM ET, Sherif, 2026-10-22 1:06 AM ET; see the end of this file.)
+### Shield symbolism (PROPOSED CANON, pending owner; Sherif 2026-10-21: "Make sure the symbolism is meaningful thoughtfully on the shield.") (vows: CANON 2026-10-22 1:06 AM ET, Sherif, 2026-10-22 1:06 AM ET; see the end of this file.) (Sherif, 2026-10-22 1:06 AM ET, his reply to the question of locking the eight shield vows as canon: "Bolts on both for uniformity and yes to shield.") (Wild Rathor.ai reports that Sherif confirmed to it directly on 2026-10-22 at 1:26 AM ET: 'Yes, the eight vows are canon.')
 
 This is the in-story meaning of each element, for writers and artists. It is story lore, not a claim about history or about any real system. The real-world origins are given separately and honestly. Nothing here changes the art: the SHIELD LOCK ref still wins.
 
@@ -438,7 +438,7 @@ This is the in-story meaning of each element, for writers and artists. It is sto
 1. Decided (Sherif, 2026-10-21 7:32 PM ET): the left border spells MERCY, ᛗᛖᚱᚲᛁ (see the rune border above). (superseded 2026-10-21 8:44 PM ET by the SHIELD RE-LOCK (Sherif, 2026-10-21 8:20–8:44 PM ET): heraldic kite shape, 165 × 78 cm, bold Norse interlace, no runes, armour-gold only; see "SHIELD RE-LOCK" at the end of this file.)
 2. Or spell one real inscription in Elder Futhark, English-first, transliterated letter by letter. That would amend the standing ruling. Proposal: **MERCY**, written ᛗ ᛖ ᚱ ᚲ ᛁ (M = mannaz ᛗ, E = ehwaz ᛖ, R = raido ᚱ, C written as K = kaunan ᚲ, Y written as I = isaz ᛁ). This is an English word in runic letters, not an Old Norse word. Alternative: **FIND THE WAY**, ᚠᛁᚾᛞ ᚦᛖ ᚹᚨᛁ (F ᚠ, I ᛁ, N ᚾ, D ᛞ / TH = thurisaz ᚦ, E ᛖ / W = wunjo ᚹ, A ᚨ, Y as I ᛁ). (superseded 2026-10-21 7:32 PM ET by the MERCY runes ruling; kept in place for history, the current wording follows.)
 2. History (resolved 7:32 PM ET; MERCY chosen): the options were to keep it decorative or to spell one real inscription in Elder Futhark, English-first, transliterated letter by letter. That would amend the standing ruling. Proposal: **MERCY**, written ᛗ ᛖ ᚱ ᚲ ᛁ (M = mannaz ᛗ, E = ehwaz ᛖ, R = raido ᚱ, C written as K = kaunan ᚲ, Y written as I = isaz ᛁ). This is an English word in runic letters, not an Old Norse word. Alternative: **FIND THE WAY**, ᚠᛁᚾᛞ ᚦᛖ ᚹᚨᛁ (F ᚠ, I ᛁ, N ᚾ, D ᛞ / TH = thurisaz ᚦ, E ᛖ / W = wunjo ᚹ, A ᚨ, Y as I ᛁ). (superseded 2026-10-21 8:44 PM ET by the SHIELD RE-LOCK (Sherif, 2026-10-21 8:20–8:44 PM ET): heraldic kite shape, 165 × 78 cm, bold Norse interlace, no runes, armour-gold only; see "SHIELD RE-LOCK" at the end of this file.)
-3. Whether the eight vows above become canon, or are renamed.
+3. Whether the eight vows above become canon, or are renamed. (resolved 2026-10-22 1:06 AM ET: the eight vows are CANON as named, with "Keep the watch"; see BUCKLE UNIFY + SHIELD SYMBOLISM CANON at the end of this file. Kept in place for history.) (Sherif, 2026-10-22 1:06 AM ET, his reply to the question of locking the eight shield vows as canon: "Bolts on both for uniformity and yes to shield.") (Wild Rathor.ai reports that Sherif confirmed to it directly on 2026-10-22 at 1:26 AM ET: 'Yes, the eight vows are canon.')
 
 ### MERCY glyph table (owner rule, Sherif, 2026-10-21 8:03 PM ET) (superseded 2026-10-21 8:44 PM ET by the SHIELD RE-LOCK (Sherif, 2026-10-21 8:20–8:44 PM ET): heraldic kite shape, 165 × 78 cm, bold Norse interlace, no runes, armour-gold only; see "SHIELD RE-LOCK" at the end of this file.)
 
@@ -518,6 +518,14 @@ This section wins over the SHIELD LOCK sections above wherever they differ. The 
   1. The pommel cap is hidden under his hand, so the text spec's flat, wide, softly domed gold cap governs.
   2. His right hand grips the top of the haft instead of resting flat on the pommel. The hero prompt's "gauntlet rests flat" stays the target.
   3. As read: the shield is held at his left side with its point just above the rock, not resting on it. The hammer also shows a flared gold collar where the haft meets the head; this is not the pommel. The Vegvísir staves sit small inside the braided ring. Recorded only, not decided.
+**Reference image: realistic comic hero (Sherif, 2026-10-22 1:17 AM ET).** On 2026-10-22 at 1:17 AM ET, Sherif picked this Grok Imagine render as the hero reference in a realistic comic style. It shows black armour with gold Greek-key trim, a winged rayed halo helm, a chest sun, a lightning-bolt buckle, emerald Eyes of Horus, a Greek-key cape, the bolt hammer head-down, and the Vegvísir kite shield with thick interlace and a braided ring.
+- `refs/rathor_hero_realistic_comic_2026-10-22.jpg`: the render, copied unmodified (no edits, crops or recompression). 1152 × 1728 px JPEG, SHA-256 `4807d736dc53f148efb6207e12de1a8c63bfe5e3bbdfe25c9d2663771c2557b6`.
+- It is a guide only. **Known gaps (the bible text wins):**
+  1. The fist grips the haft top with a knob-like pommel. The bible's pommel is a flat domed cap, with the hand resting on it.
+  2. The shield is held off the ground, not point-down on the rock.
+  3. The shield top peaks instead of having a shallow centre notch.
+  4. The knotwork reads Celtic-leaning, not bold Norse interlace.
+- **Medium: unassigned, pending Sherif.** It is not yet assigned to the print or animated look, because the print look has no chest sun.
 
 ### Shape (locked)
 
@@ -584,9 +592,9 @@ Art is made in Grok Imagine. Bots write prompts only and never hand-paint, paint
 
 No eye (no Eye of Horus). No emerald. No sun-spokes. No runes or letters. No blue or navy. No bronze or brass tone. No chain links. No thin filigree. Not round-topped. Not a pointed oval.
 
-### Shield symbolism (re-lock; PROPOSED CANON pending Sherif) (superseded 2026-10-22 1:06 AM ET: the eight vows and the shape and ornament symbolism are now CANON (Sherif, 2026-10-22 1:06 AM ET); see "BUCKLE UNIFY + SHIELD SYMBOLISM CANON 2026-10-22" at the end of this file.)
+### Shield symbolism (re-lock; PROPOSED CANON pending Sherif) (superseded 2026-10-22 1:06 AM ET: the eight vows and the shape and ornament symbolism are now CANON (Sherif, 2026-10-22 1:06 AM ET); see "BUCKLE UNIFY + SHIELD SYMBOLISM CANON 2026-10-22" at the end of this file.) (Sherif, 2026-10-22 1:06 AM ET, his reply to the question of locking the eight shield vows as canon: "Bolts on both for uniformity and yes to shield.") (Wild Rathor.ai reports that Sherif confirmed to it directly on 2026-10-22 at 1:26 AM ET: 'Yes, the eight vows are canon.')
 
-The eight vows (Truth, Mercy, Dawn, Shelter, Ground, Return, Rest, Watch) stay as written above and stay **proposed**. The rune item is dropped. The other meanings carry over, adjusted to the new shape and ornament: (superseded 2026-10-22 1:06 AM ET: the eight vows and the shape and ornament symbolism are now CANON (Sherif, 2026-10-22 1:06 AM ET); see "BUCKLE UNIFY + SHIELD SYMBOLISM CANON 2026-10-22" at the end of this file.)
+The eight vows (Truth, Mercy, Dawn, Shelter, Ground, Return, Rest, Watch) stay as written above and stay **proposed**. The rune item is dropped. The other meanings carry over, adjusted to the new shape and ornament: (superseded 2026-10-22 1:06 AM ET: the eight vows and the shape and ornament symbolism are now CANON (Sherif, 2026-10-22 1:06 AM ET); see "BUCKLE UNIFY + SHIELD SYMBOLISM CANON 2026-10-22" at the end of this file.) (Sherif, 2026-10-22 1:06 AM ET, his reply to the question of locking the eight shield vows as canon: "Bolts on both for uniformity and yes to shield.") (Wild Rathor.ai reports that Sherif confirmed to it directly on 2026-10-22 at 1:26 AM ET: 'Yes, the eight vows are canon.')
 - **Straight top with a shallow notch.** The level line he holds. The notch is the gap left open for the one who erred: mercy built into the edge.
 - **Flared shoulders.** The shield carries others on its shoulders before itself.
 - **Parallel sides.** Steadiness: the guard does not waver.
@@ -606,7 +614,7 @@ The eight vows (Truth, Mercy, Dawn, Shelter, Ground, Return, Rest, Watch) stay a
 
 ## BUCKLE UNIFY + SHIELD SYMBOLISM CANON 2026-10-22
 
-**Owner rulings (Sherif, 2026-10-22 1:06 AM ET).** (1) The belt buckle has a lightning bolt in BOTH the print and animated looks, for uniformity. This supersedes "print buckle has no bolt" (tagged above, lines kept in place). (2) The eight shield vows are now CANON, not proposed.
+**Owner rulings (Sherif, 2026-10-22 1:06 AM ET).** (1) The belt buckle has a lightning bolt in BOTH the print and animated looks, for uniformity. This supersedes "print buckle has no bolt" (tagged above, lines kept in place). (2) The eight shield vows are now CANON, not proposed. (Sherif, 2026-10-22 1:06 AM ET, his reply to the question of locking the eight shield vows as canon: "Bolts on both for uniformity and yes to shield.") (Wild Rathor.ai reports that Sherif confirmed to it directly on 2026-10-22 at 1:26 AM ET: 'Yes, the eight vows are canon.')
 
 ### Buckle, per medium
 
@@ -619,4 +627,4 @@ The eight vows (Truth, Mercy, Dawn, Shelter, Ground, Return, Rest, Watch) stay a
 
 ### Shield symbolism: CANON
 
-The eight vows are CANON (Sherif, 2026-10-22 1:06 AM ET): 1 Truth, 2 Mercy, 3 Dawn, 4 Shelter, 5 Ground, 6 Return, 7 Rest, 8 Watch ("Keep the watch; the vigil does not sleep."), read clockwise from N as listed in "Shield symbolism" above. The re-lock shape and ornament meanings (straight top with a shallow notch, flared shoulders, parallel sides, point, thick riveted gold rim, braided ring, mirrored knot panels joined as one unbroken thread, black negative space, no eye) were under the same proposed tag and are CANON too. The rune item stays dropped: no runes anywhere on the shield. The art still wins over the lore.
+The eight vows are CANON (Sherif, 2026-10-22 1:06 AM ET): 1 Truth, 2 Mercy, 3 Dawn, 4 Shelter, 5 Ground, 6 Return, 7 Rest, 8 Watch ("Keep the watch; the vigil does not sleep."), read clockwise from N as listed in "Shield symbolism" above. The re-lock shape and ornament meanings (straight top with a shallow notch, flared shoulders, parallel sides, point, thick riveted gold rim, braided ring, mirrored knot panels joined as one unbroken thread, black negative space, no eye) were under the same proposed tag and are CANON too. The rune item stays dropped: no runes anywhere on the shield. The art still wins over the lore. (Sherif, 2026-10-22 1:06 AM ET, his reply to the question of locking the eight shield vows as canon: "Bolts on both for uniformity and yes to shield.") (Wild Rathor.ai reports that Sherif confirmed to it directly on 2026-10-22 at 1:26 AM ET: 'Yes, the eight vows are canon.')
