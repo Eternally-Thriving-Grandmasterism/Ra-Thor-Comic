@@ -217,6 +217,15 @@ case('SHAPE must-fail: 01 loses not a pointed oval', 'FAIL', replace('01_VISUAL_
 case('RUNES must-fail: Bible loses the glyph table', 'FAIL', replace(B, [('### MERCY glyph table', '### Runes')]))
 case('RUNES must-fail: 01 loses the check-after-every-render rule', 'FAIL', replace('01_VISUAL_STYLE_GUIDE.md', [('checked after every render', 'checked')]))
 case('3D must-fail: Bible loses the Blender scale line', 'FAIL', replace(B, [('**3D / Blender scale line.**', '**3D.**')]))
+# --- Hands AMEND on #113: stale sun-spoke / Vegvísir-reject lines ---
+case('SHIELD-HIST must-fail: sun-spoke shield stated as current (with a reject clause)', 'FAIL', append(V, "- 4.1: the shield's gold sun-spoke design must read. A knotwork border is a reject."))
+case('SHIELD-HIST must-fail: Vegvísir on the shield is a reject', 'FAIL', append(V, '- A Vegvísir on the shield is a reject.'))
+case('SHIELD-HIST must-fail: no Vegvísir anywhere', 'FAIL', append('14_ANIMATED_SERIES_BIBLE.md', '- No Vegvísir anywhere on the figure.'))
+case('SHIELD-HIST must-fail: Vegvísir in a Rejects section', 'FAIL', append(P, '### 13.9 Rejects (test)\n- A Vegvísir or knotwork border on the shield.'))
+case('SHIELD-HIST must-pass: no Vegvísir on the halo', 'PASS', append(V, '- Halo: no Vegvísir on the halo; a Vegvísir in the halo is a reject.'))
+case('SHIELD-HIST must-pass: tagged sun-spoke line', 'PASS', append(V, '- Shield: the gold sun-spoke design. (superseded 2026-10-21 by the SHIELD LOCK.)'))
+case('SHIELD-HIST must-pass: Rejects section, Vegvísir on the chest', 'PASS', append(P, '### 13.9 Rejects (test)\n- A Vegvísir on the chest.'))
+case('VOW must-fail: vow 8 gate wording', 'FAIL', replace(B, [('Keep the watch; the vigil', 'Keep the gate; the vigil')]))
 
 def main():
     base = make_tree()

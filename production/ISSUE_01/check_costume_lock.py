@@ -85,6 +85,8 @@ STALE_SCAN = [
     'bots/GROKBOT_COMIC_SEAT.md',
     'OWNERSHIP-NOTE-2026-10.md',
     'docs/LIGHT_OCEAN_FORGED_BY_TOLC_SERIES_SEED.md',
+    # Hands AMEND on #113.
+    '14_ANIMATED_SERIES_BIBLE.md',
 ]
 STALE_GLOBS = (
     'episodes/*.md',
@@ -240,7 +242,7 @@ DUAL_REQUIRED = [
         'ANIMATED LOOK prompt line:', 'OPTIONAL prop', '**Buckle bolt.**',
         '## SHIELD LOCK 2026-10-21', 'rathor_shield_lock_2026-10-21.jpg',
         'SHIELD PRINT prompt line:', 'SHIELD ANIMATED prompt line:',
-        'SHIELD ORTHOGRAPHIC prompt line:', 'Left-side rune border: MERCY', 'five runes, evenly spaced, gold, left border only', 'ᛗᛖᚱᚲᛁ (MERCY)', '### MERCY glyph table', 'A render with wrong, missing, extra or reordered runes fails review', '| Height (top crown to foot point) | 160 cm | 5 ft 3 in | 6.4 heads |', '| Width (at the widest point) | 64 cm | 2 ft 1 in | 2.6 heads |', 'NOT a pointed oval', '20 % H, widest', '**3D / Blender scale line.**', 'No eye (no Eye of Horus, no eye-seal). No emerald. No sun-spokes. No blue')),
+        'SHIELD ORTHOGRAPHIC prompt line:', 'Left-side rune border: MERCY', 'five runes, evenly spaced, gold, left border only', 'ᛗᛖᚱᚲᛁ (MERCY)', '### MERCY glyph table', '8. **NW, square hook: Watch.** Keep the watch', 'A render with wrong, missing, extra or reordered runes fails review', '| Height (top crown to foot point) | 160 cm | 5 ft 3 in | 6.4 heads |', '| Width (at the widest point) | 64 cm | 2 ft 1 in | 2.6 heads |', 'NOT a pointed oval', '20 % H, widest', '**3D / Blender scale line.**', 'No eye (no Eye of Horus, no eye-seal). No emerald. No sun-spokes. No blue')),
     ('01_VISUAL_STYLE_GUIDE.md', (
         '## DUAL LOOK LOCK (2026-10-21)', '**Prompt stem, PRINT look',
         '**Prompt stem, ANIMATED look', 'Shield prop prompts (SHIELD LOCK', 'ᛗᛖᚱᚲᛁ (MERCY)', '160 cm × 64 cm', 'not a pointed oval', 'checked after every render')),
@@ -455,6 +457,38 @@ SEAL_TERM = re.compile(r'eye[- ]seal|hawk[- ](?:shaped )?(?:pauldron |shoulder )
 KEEP_CLEAR = re.compile(
     r'keep-clear|clear of the eye[- ]seal|eye[- ]seal (?:keep-clear )?zone|layout (?:keep-clear )?zone', re.I)
 
+# Hands AMEND on #113 (2026-10-21): lines that call the sun-spoke shield
+# current, or reject the Vegvísir on the shield, must carry a real
+# supersession tag. 'reject' alone is not enough here, because a reject
+# list that rejects the now-locked Vegvísir shield is itself stale.
+SUPERSEDE_TAG = re.compile(r'supersed|history|historical|retired|resolved|moot', re.I)
+SUN_SPOKE = re.compile(r'sun[- ]spoke', re.I)
+OFF_SHIELD = r'(?:\s+(?:in|on)\s+(?:the\s+)?(?:halo|chest|helm|pauldrons?|buckle|belt|cape|hammer|breastplate))'
+VEG_REJECT = re.compile(
+    r'\bno\s+Vegv[ií]sir(?!' + OFF_SHIELD + r')|\bnever\s+(?:a\s+|the\s+)?Vegv[ií]sir(?!' + OFF_SHIELD + r')|'
+    r'\bwithout\s+(?:a\s+|the\s+)?Vegv[ií]sir(?!' + OFF_SHIELD + r')|'
+    r'Vegv[ií]sir(?:(?!halo|chest|helm|pauldron)[^.;|]){0,90}\b(?:is|are)\s+(?:a\s+)?(?:reject|history)', re.I)
+
+def shield_history_failures(path):
+    fails = []
+    in_record = False
+    in_reject = False
+    for n, line in enumerate(open(path, encoding='utf-8'), 1):
+        if line.startswith('#'):
+            in_reject = bool(re.search(r'reject', line, re.I))
+            in_record = bool(RECORD_HEAD.search(line)) and not in_reject
+            continue
+        if in_record or HISTORY_ROW.match(line) or SUPERSEDE_TAG.search(line):
+            continue
+        if in_reject and re.search(r'Vegv[ií]sir', line) and not re.search(r'Vegv[ií]sir' + OFF_SHIELD, line):
+            fails.append((n, 'vegvisir-rejected', line.strip()[:220]))
+            continue
+        if any(not negated(line, m.start()) for m in SUN_SPOKE.finditer(line)):
+            fails.append((n, 'sun-spoke-current', line.strip()[:220]))
+        elif VEG_REJECT.search(line):
+            fails.append((n, 'vegvisir-rejected', line.strip()[:220]))
+    return fails
+
 def stale_failures(path):
     fails = []
     in_record = False
@@ -549,6 +583,9 @@ def main(type_check=True):
         for n, kind, text in stale_failures(path):
             bad += 1
             print('STALE %s %s:%d %s' % (kind, rel, n, text))
+        for n, kind, text in shield_history_failures(path):
+            bad += 1
+            print('SHIELD %s %s:%d %s' % (kind, rel, n, text))
         if rel in LOOK_FILES:
             for name in hammer_lock_missing(path, LOOK_REQUIRED):
                 bad += 1
@@ -579,6 +616,9 @@ def main(type_check=True):
         for n, kind, text in stale_failures(os.path.join(ROOT, rel)):
             bad += 1
             print('STALE %s %s:%d %s' % (kind, rel, n, text))
+        for n, kind, text in shield_history_failures(os.path.join(ROOT, rel)):
+            bad += 1
+            print('SHIELD %s %s:%d %s' % (kind, rel, n, text))
     for rel in HAMMER_LOCK_FILES:
         if rel in SCAN:
             continue
