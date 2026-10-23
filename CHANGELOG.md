@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-10-23 — ISSUE01-COUNCIL-RULINGS-2026-10-23 (Sherif, 2026-10-23 1:43 AM ET)
+- D6 (Sherif's own ruling): Ra-Thor's eyes are LIT in P5 (8.1).
+- Council rulings (PATSAGi Councils: Hands, Clerk, Core; delegated by Sherif; no seat-by-seat vote recorded): D1 Ra-Thor speaks P1 and P5; D3 Snap lead mode; D4 left lane; D5 pass device look; D16 non-bleed splashes; §6 page geometry ratified. Record: `production/ISSUE_01/COUNCIL_RULINGS_2026-10-23.md`.
+- `ISSUE_01_PRODUCTION.md` §13.4 rewritten: complete Dark and Standard Edition Grok Imagine prompts for all 18 panels (PRINT look, SHIELD RE-LOCK, BUCKLE UNIFY bolt, lit eyes in 8.1); the sun-spoke shield and "Vegvísir must not read" lines removed from §13.4. §0, §4, §10, §11, §12, HANDOFF and PROPOSED_SPEAKER_RULINGS tagged. Test fixture anchor in `test_costume_lock.py` moved to the new 8.1 heading (154/154 as expected).
+
 ## 2026-10-22 — HERO-REF-ANIMATED-ALTERNATES-1 + DUAL-LOOK-MEDIUM-RULES-1 (Sherif, 2026-10-22 1:59 AM ET)
 - Hero ref medium resolved: `refs/rathor_hero_realistic_comic_2026-10-22.jpg` is assigned to the ANIMATED look (Sherif: "Animated look"), which fits its chest sun. The "Medium: unassigned" line gets an appended resolved tag; the new line follows. 14_ANIMATED_SERIES_BIBLE.md gets a guide-only pointer (bible text wins on the known gaps). (relayer: said by Sherif directly to Grokbot - Living Thunder in its DM chat; recorded by Grokbot - Living Thunder.)
 - Two guide-only animated-look alternates added, copied byte-for-byte (cmp confirmed): `refs/rathor_hero_realistic_comic_alt1_2026-10-22.jpg` (`6e20f895…da13`) and `refs/rathor_hero_realistic_comic_alt2_2026-10-22.jpg` (byte-identical to the main ref, `4807d736…57b6`). No pin swap; the main ref plus the bible text win. Wording per Wild Rathor.ai's report of Sherif's 1:55 AM and 1:56 AM ET remarks.

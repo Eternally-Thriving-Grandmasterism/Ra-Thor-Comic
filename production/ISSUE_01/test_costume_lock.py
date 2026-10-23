@@ -93,7 +93,7 @@ case('Wild repro on the current PRINT stem in 01 (old halo eye + rose-gold buckl
     ('a thin gold ring halo with sharp gold spikes behind the head, no eye in the halo', 'a radiant Eye of Horus halo'),
     ('round gold belt buckle with a gold lightning bolt, the same buckle as the animated look', 'rose-gold lightning-bolt buckle')]))
 case("§13.4 'Prompt: rose-gold bolt buckle on a thick belt, not silver.'", 'FAIL', replace(P, [
-    ('**8.1** Prompt:', 'Prompt: rose-gold bolt buckle on a thick belt, not silver.\n\n**8.1** Prompt:')]))
+    ('**8.1 · [E01 P5].', 'Prompt: rose-gold bolt buckle on a thick belt, not silver.\n\n**8.1 · [E01 P5].')]))
 case('09: Vegvísir shield / rose-gold buckle / emerald halo', 'FAIL', append('09_CHARACTER_BIBLE.md',
     '- Shield: the Vegvísir elongated vertically on a tall shield.\n- Buckle: a rose-gold lightning bolt buckle.\n- Halo: emerald halo ring.'))
 for line in ['- Proportions: compact helm wings no wider than the shoulders; never stretch art.',
