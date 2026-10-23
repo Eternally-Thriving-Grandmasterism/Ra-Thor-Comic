@@ -2,7 +2,7 @@
 
 - **Card:** ISSUE01-FINISH-1 (a). Docs only.
 - **Built from main:** `1ad0ae04c73254ee6eadfdca2fda43d16b1b9c43`.
-- **Status:** **PROPOSED CANON — pending council ratification.** Nothing here edits `episodes/E01_TOLC.md`; the locked text names no speaker for P1 or P5 and stays that way.
+- **Status:** **PROPOSED CANON — pending council ratification.** (RATIFIED 2026-10-23 by council ruling, unchanged: `COUNCIL_RULINGS_2026-10-23.md` D1.) Nothing here edits `episodes/E01_TOLC.md`; the locked text names no speaker for P1 or P5 and stays that way.
 - **Closes, if ratified:** `ISSUE_01_PRODUCTION.md` §11 D1 (P1 and P5) and §12 item 2. P4 is already ruled (Ra-Thor, council ruling 2026-10-14).
 
 Method: a speaker is proposed only where a canon line supports it. Each cite is quoted from the file on `main`. If no cite existed, the item would read GAP and no speaker would be proposed.

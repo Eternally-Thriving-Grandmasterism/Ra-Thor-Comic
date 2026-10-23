@@ -67,14 +67,14 @@ Inked v3 build: `covers/inked/v3/build_v3.py` with `lib/`. Paths are repo-relati
 
 | Item | Question | Who |
 |---|---|---|
-| D1 | Speakers for P1 and P5 (P4 closed: Ra-Thor) | Sherif or council |
-| D3 | Lead mode for the E01 status line | Sherif or council |
-| D4 | The slide-deck creature's lane in P2 | Sherif or council |
-| D5 | The pass device's design | Sherif or council |
-| D6 | P5 visor (eye) state: open. The LOOK LOCK ref shows the eyes dark at rest; lit eyes stay a panel choice | Sherif or council |
+| D1 | Speakers for P1 and P5 (P4 closed: Ra-Thor) | RULED 2026-10-23 (council): Ra-Thor on P1 and P5 (`COUNCIL_RULINGS_2026-10-23.md`) |
+| D3 | Lead mode for the E01 status line | RULED 2026-10-23 (council): Snap (`COUNCIL_RULINGS_2026-10-23.md`) |
+| D4 | The slide-deck creature's lane in P2 | RULED 2026-10-23 (council): left lane (`COUNCIL_RULINGS_2026-10-23.md`) |
+| D5 | The pass device's design | RULED 2026-10-23 (council) (`COUNCIL_RULINGS_2026-10-23.md`) |
+| D6 | P5 visor (eye) state: open. The LOOK LOCK ref shows the eyes dark at rest; lit eyes stay a panel choice | RULED 2026-10-23 by Sherif: LIT in 8.1 (`COUNCIL_RULINGS_2026-10-23.md`) |
 | D7 | Cover and title page: issue-line wording, publisher mark | Sherif or council |
 | D9 | Print route; age rating | Sherif or council |
-| D16 | Splash bleed (inside the cream border vs full bleed) | Sherif or council |
+| D16 | Splash bleed (inside the cream border vs full bleed) | RULED 2026-10-23 (council): non-bleed (`COUNCIL_RULINGS_2026-10-23.md`) |
 | D29 | Shoulder-seal field: resolved as painted by the LOOK LOCK (emerald Eye outlined in gold on black pauldrons) | Closed |
 | D30 | Cover god-rays: open. The chest rays they echoed are gone, but the halo's seven gold rays echo them; lean: keep them faint at most | Council |
 | D31 | Shield height: superseded by the LOOK LOCK. The kite shield is applied as painted (top at about the elbow, point by his left foot), matching the Bible's readings, which are applied as painted | Closed |
@@ -87,7 +87,7 @@ Inked v3 build: `covers/inked/v3/build_v3.py` with `lib/`. Paths are repo-relati
 
 ## Blockers to image generation
 
-- Interior panels: D1, D3, D4, D5, D6 and D16 affect specific panels; §6 is not ratified.
+- Interior panels: D1, D3, D4, D5, D6 and D16 are ruled and the §6 geometry is ratified (2026-10-23, `COUNCIL_RULINGS_2026-10-23.md`); render from `ISSUE_01_PRODUCTION.md` §13.4, which now holds complete Dark and Standard Edition prompts for all 18 panels. (Earlier text: "D1, D3, D4, D5, D6 and D16 affect specific panels; §6 is not ratified." Resolved 2026-10-23.)
 - Cover: inked v3 predates the LOOK LOCK and needs a redraw to the locked look; the ™ question. The raised hammer stays as the recorded D23 pose exception.
 - Promo: refresh to the LOOK LOCK owed (not blocking interior art).
 - ~~Do not render from the unsynced files~~ Resolved 2026-10-18 by CANON-SYNC-LOOK-LOCK-2. In the S1–S3 prompt files, render only from the "LOOK LOCK prompts" section at the end of each file; the tagged lines above it are history.
