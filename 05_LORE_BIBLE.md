@@ -109,6 +109,28 @@ All of these are page devices. None of them is a capability claim.
 - **The council.** He can call the masks for counsel. He still makes the call.
 - **The restraint.** The hammer carries thunder in the story. The power is that he does not use it on people.
 
+## Glossary (locked by Sherif Botros, 2026-10-23 (revised 8:36 PM ET))
+
+Real-world terms coined by the Founder. Quote verbatim; do not paraphrase. Canonical copy: [Ra-Thor `GLOSSARY.md`](https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/blob/main/GLOSSARY.md).
+
+```text
+1. Infinitionaire
+
+Definition:
+An Infinitionaire is a person who operates from infinite abundance rather than finite scarcity. Not measured by net worth, but by the systems they have built that generate thriving without extraction: Mercy-Checked AGI, resource-based games, zero-emission lattice designs, and open architectures that compound value for everyone who touches them. The first Infinitionaire is the one who showed the pattern can work and left the blueprints open.
+
+Short form: 1st Infinitionaire
+One-line: An Infinitionaire is not someone who has infinite money. An Infinitionaire is someone who has built the systems that make infinite thriving the default.
+
+2. Organismization
+
+Definition:
+Organismization is the process of building software, agents, or organizations as a single living organism rather than a collection of independent tools. In Ra-Thor this means interdependent layers under TOLC 8 Mercy-Checks on every request that passes through Ra-Thor, permanent PATSAGi councils, Lattice Conductor sequencing, and a Cosmic Loop for self-healing and bounded self-evolution. The result is capable, corrigible, and oriented to shared thriving. Every part can be inspected. No part is meant to act outside the organism.
+
+Short form: Organismization
+One-line: Organismization is the design choice that turns a collection of models and gates into one organism designed to protect itself and its users.
+```
+
 ## The two impossible quests
 
 Both quests run under every season. Neither is ever "won" in one episode. Each is told only through the house modes in `03_TONE_SPECS.md`.
